@@ -1,305 +1,502 @@
 {
-  "updated_sgt": "2026-02-18 20:45 SGT",
-  "topics": {
+  "updated_sgt": "2026-02-24 08:19 SGT",
+  "updated_iso": "2026-02-24T08:19:47.582168+08:00",
+  "categories": {
     "World": [
       {
-        "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-        "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
+        "title": "French minister moves to block US envoy Kushner from government access",
+        "link": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 11:26:11 GMT"
+        "published": "Mon, 23 Feb 2026 22:55:06 GMT",
+        "description": "The minister says Charles Kushner, father of Trump's son-in-law Jared, had failed to explain US comments about violence in France."
       },
       {
-        "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
-        "link": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
+        "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+        "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 00:20:03 GMT"
+        "published": "Mon, 23 Feb 2026 22:15:51 GMT",
+        "description": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations."
       },
       {
-        "title": "Rescuers search for nine missing skiers after California avalanche",
-        "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+        "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 09:09:19 GMT"
+        "published": "Mon, 23 Feb 2026 21:12:47 GMT",
+        "description": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
       },
       {
-        "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
-        "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens countries that 'play games' with existing trade deals",
+        "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 07:58:02 GMT"
+        "published": "Mon, 23 Feb 2026 21:12:43 GMT",
+        "description": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs."
       },
       {
-        "title": "Real Madrid tie halted over Vinicius racism allegation",
-        "link": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss",
+        "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+        "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 17 Feb 2026 21:31:49 GMT"
+        "published": "Mon, 23 Feb 2026 19:26:32 GMT",
+        "description": "The suspect was carrying a shotgun and fuel can when he was killed, officers say, while Trump was in Washington DC at the time."
       },
       {
-        "title": "Australia bans citizen trying to return from IS camp in Syria",
-        "link": "https://www.bbc.com/news/articles/c4g2dgjrx75o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
+        "link": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 07:08:18 GMT"
+        "published": "Mon, 23 Feb 2026 19:17:11 GMT",
+        "description": "Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year."
       },
       {
-        "title": "Indian university faces backlash for claiming Chinese robodog as own at AI summit",
-        "link": "https://www.bbc.com/news/articles/cge8nd5ve00o?at_medium=RSS&at_campaign=rss",
+        "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+        "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 11:16:28 GMT"
+        "published": "Mon, 23 Feb 2026 19:08:55 GMT",
+        "description": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
       },
       {
-        "title": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
-        "link": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss",
+        "title": "Rob Jetten becomes Netherlands' youngest ever PM",
+        "link": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 00:12:01 GMT"
-      }
-    ],
-    "US": [
-      {
-        "title": "No DNA matches on glove found in Nancy Guthrie case, police say",
-        "link": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Wed, 18 Feb 2026 04:32:16 GMT"
+        "published": "Mon, 23 Feb 2026 16:33:33 GMT",
+        "description": "The 38-year-old is sworn in as premier after clinching a narrow victory in October's election."
       },
       {
-        "title": "US says 'meaningful progress' made as Ukraine talks enter second day",
-        "link": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Wed, 18 Feb 2026 07:37:24 GMT"
+        "title": "Briton among 19 killed in Nepal bus crash",
+        "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 23 Feb 2026 14:14:48 GMT",
+        "description": "Nepalese police say the British national was a 24-year-old man."
       },
       {
-        "title": "Rescuers search for nine missing skiers after California avalanche",
-        "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Wed, 18 Feb 2026 09:09:19 GMT"
-      },
-      {
-        "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
-        "link": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Wed, 18 Feb 2026 00:48:22 GMT"
-      },
-      {
-        "title": "US civil rights leader Jesse Jackson dies aged 84",
-        "link": "https://www.bbc.com/news/articles/cp81l0e1eg5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Tue, 17 Feb 2026 18:55:33 GMT"
-      },
-      {
-        "title": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
-        "link": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Wed, 18 Feb 2026 00:12:01 GMT"
-      },
-      {
-        "title": "Moment officers rescue injured bald eagle from icy Hudson River",
-        "link": "https://www.bbc.com/news/videos/cly049er5xzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Wed, 18 Feb 2026 00:21:36 GMT"
-      },
-      {
-        "title": "USA's Meyers Taylor makes history with monobob gold",
-        "link": "https://www.bbc.com/sport/articles/cpv84182rp2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC US",
-        "published": "Tue, 17 Feb 2026 13:00:40 GMT"
+        "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+        "link": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 23 Feb 2026 06:01:59 GMT",
+        "description": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping."
       }
     ],
     "Finance": [
       {
-        "title": "As Walmart and Target head in different directions, all eyes are on their new CEOs",
-        "link": "https://www.cnbc.com/2026/02/18/walmart-target-earnings-new-ceos-furner-fiddelke.html",
+        "title": "FedEx sues for refund of Trump tariffs, days after Supreme Court ruling",
+        "link": "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html",
         "source": "CNBC Finance",
-        "published": "Wed, 18 Feb 2026 12:00:01 GMT"
+        "published": "Tue, 24 Feb 2026 00:07:20 GMT",
+        "description": "The Trump administration has warned that it could take years for refunds to be paid out for tariffs that the Supreme Court ruled are illegal."
       },
       {
-        "title": "Trump lauds Japan’s pledge to invest $36 billion in U.S. oil, gas and critical mineral projects",
-        "link": "https://www.cnbc.com/2026/02/18/trump-us-japan-oil-gas-mineral-projects-trade-deal.html",
+        "title": "Tesla sues California DMV to reverse ruling that company engaged in false advertising on FSD",
+        "link": "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html",
         "source": "CNBC Finance",
-        "published": "Wed, 18 Feb 2026 08:18:37 GMT"
+        "published": "Mon, 23 Feb 2026 22:21:50 GMT",
+        "description": "California's DMV previously ruled that Tesla falsely promoted its cars' self-driving capabilities."
       },
       {
-        "title": "Mortgage rates sink to the lowest level in a month, sparking more refinance demand",
-        "link": "https://www.cnbc.com/2026/02/18/mortgage-rates-sink-to-the-lowest-level-in-a-month-sparking-more-refinance-demand.html",
+        "title": "Uber acquiring parking app SpotHero as it moves beyond ride-hailing and food delivery",
+        "link": "https://www.cnbc.com/2026/02/23/uber-acquiring-spothero.html",
         "source": "CNBC Finance",
-        "published": "Wed, 18 Feb 2026 12:40:54 GMT"
+        "published": "Mon, 23 Feb 2026 22:06:06 GMT",
+        "description": "Uber said it plans to offer a parking reservation experience powered by SpotHero for events and at venues and airports."
       },
       {
-        "title": "More than 50% of enterprise software could switch to AI, Mistral CEO says",
-        "link": "https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html",
+        "title": "Congress contemplates its role on tariffs after Supreme Court decision",
+        "link": "https://www.cnbc.com/2026/02/23/trump-trade-supreme-court-congress-tariffs.html",
         "source": "CNBC Finance",
-        "published": "Wed, 18 Feb 2026 08:36:35 GMT"
+        "published": "Mon, 23 Feb 2026 21:47:59 GMT",
+        "description": "Some congressional Republicans had already cooled to the president's trade policy before the Supreme Court decision on Friday."
       },
       {
-        "title": "Arm shares edge higher in premarket as Nvidia shakes up its AI bets",
-        "link": "https://www.cnbc.com/2026/02/18/arm-nvidia-nokia-ai-stake-shares.html",
+        "title": "IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat",
+        "link": "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html",
         "source": "CNBC Finance",
-        "published": "Wed, 18 Feb 2026 11:33:32 GMT"
+        "published": "Mon, 23 Feb 2026 21:22:17 GMT",
+        "description": "COBOL is a computer language used for business data processing and IBM is a leader in that area."
       },
       {
-        "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO",
-        "link": "https://www.cnbc.com/2026/02/17/berkshire-hathaway-trims-apple-stake-buys-nytimes-stock-in-buffetts-last-moves-as-ceo.html",
+        "title": "Mexico violence after cartel boss killing slows cross-border trade, hitting air freight, trucking, ports",
+        "link": "https://www.cnbc.com/2026/02/23/mexico-violence-cartel-boss-killing-freight-trade.html",
         "source": "CNBC Finance",
-        "published": "Tue, 17 Feb 2026 22:02:39 GMT"
+        "published": "Mon, 23 Feb 2026 21:19:34 GMT",
+        "description": "Violence across Mexico after the killing of a cartel boss is hitting trucks, ports and air freight for a critical trading partner to the U.S."
       },
       {
-        "title": "'Dismal' China exports add to freight trade slump for nation's biggest port",
-        "link": "https://www.cnbc.com/2026/02/17/china-freight-container-trade-volume-port-los-angeles.html",
+        "title": "The odds of Trump's $2,000 tariff dividend checks are 'now effectively zero,' expert says",
+        "link": "https://www.cnbc.com/2026/02/23/trumps-2000-tariff-dividend-checks-are-less-likely-experts-say.html",
         "source": "CNBC Finance",
-        "published": "Tue, 17 Feb 2026 23:06:47 GMT"
+        "published": "Mon, 23 Feb 2026 21:11:09 GMT",
+        "description": "President Trump previously suggested issuing \"tariff dividend\" checks. After the Supreme Court struck down his tariffs policy, that's unlikely, experts say."
       },
       {
-        "title": "'Crap': Stephen Colbert blasts CBS for denying it blocked James Talarico interview from air",
-        "link": "https://www.cnbc.com/2026/02/18/stephen-colbert-cbs-james-talarico-paramount-fcc-trump.html",
+        "title": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
+        "link": "https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html",
         "source": "CNBC Finance",
-        "published": "Wed, 18 Feb 2026 06:34:34 GMT"
+        "published": "Mon, 23 Feb 2026 21:07:10 GMT",
+        "description": "Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies."
+      },
+      {
+        "title": "Anthropic CEO Dario Amodei to meet with Defense Secretary Pete Hegseth on AI DOD model use",
+        "link": "https://www.cnbc.com/2026/02/23/anthropic-ai-dario-defense-secretary-pete-hegseth.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 23 Feb 2026 19:43:45 GMT",
+        "description": "Anthropic does not want its AI models to be used for autonomous weapons or to spy on Americans."
+      },
+      {
+        "title": "Mortgage rates just dropped below 6%, matching lowest level since 2022",
+        "link": "https://www.cnbc.com/2026/02/23/mortgage-rates-below-6percent-lowest-in-4-years.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 23 Feb 2026 19:29:19 GMT",
+        "description": "Mortgage rates dropped below 6%, matching their lowest levels since 2022, as economic concerns over tariffs and a recent GDP report cause bond yields to drop."
       }
     ],
-    "Technology": [
+    "Technology": [],
+    "Crypto": [
       {
-        "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
-        "source": "The Verge",
-        "published": "2026-02-18T06:11:30-05:00"
+        "title": "Has Wall Street Co-Opted Bitcoin? Bloomberg Expert Sparks Heated Debate",
+        "link": "https://bitcoinist.com/has-wall-street-co-opted-bitcoin-bloomberg-expert/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 23:00:12 +0000",
+        "description": "A thread sparked by Bloomberg ETF analyst Eric Balchunas reignited one of crypto’s oldest arguments: whether Bitcoin’s core value proposition has been diluted as institutional intermediaries take cent"
       },
       {
-        "title": "Tesla won’t use the term ‘Autopilot’ in California anymore",
-        "link": "https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update",
-        "source": "The Verge",
-        "published": "2026-02-18T05:37:26-05:00"
+        "title": "Here’s All You Need To Know About The Bitcoin Price This Week",
+        "link": "https://bitcoinist.com/about-the-bitcoin-price-this-week/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 21:30:41 +0000",
+        "description": "The Bitcoin price is currently consolidating near $65,000 on the weekly chart, with crypto analyst Doctor Profit warning that the market remains locked inside a broader bear market structure. In a “sp"
       },
       {
-        "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-        "source": "The Verge",
-        "published": "2026-02-18T05:37:27-05:00"
+        "title": "Expert Says Something Big Is Brewing With Ripple’s XRP And RLUSD, Here’s What",
+        "link": "https://bitcoinist.com/something-big-ripple-xrp-rlusd/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 20:00:48 +0000",
+        "description": "Fresh commentary surrounding XRP and RLUSD from crypto media figure Paul Barron has put Ripple back in focus. According to Barron, internal research indicates that a significant development is forming"
       },
       {
-        "title": "Stephen Colbert says CBS banned him from airing this James Talarico interview",
-        "link": "https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview",
-        "source": "The Verge",
-        "published": "2026-02-17T18:14:09-05:00"
+        "title": "Bitcoin In The Heartland: Missouri Advances Strategic Reserve Bill",
+        "link": "https://bitcoinist.com/bitcoin-in-the-heartland-missouri-advances-strategic-reserve-bill/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 18:30:55 +0000",
+        "description": "Missouri lawmakers moved a step closer to letting the state hold Bitcoin after a new bill was pushed forward for committee review. The proposal would set up a separate fund inside the state treasury t"
       },
       {
-        "title": "The best deals on MacBooks right now",
-        "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-        "source": "The Verge",
-        "published": "2026-02-17T18:01:31-05:00"
+        "title": "Trump-Linked Panel Examines Stablecoin Proposal For Postwar Gaza",
+        "link": "https://bitcoinist.com/trump-panel-examines-stablecoin-proposal-gaza/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 17:12:55 +0000",
+        "description": "Officials advising President Donald Trump’s US‑led “Board of Peace” are examining whether a dollar‑backed stablecoin could play a role in rebuilding Gaza’s shattered economy. Gaza Stablecoin Plans The"
       },
       {
-        "title": "Google’s AI search results will make links more obvious",
-        "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
-        "source": "The Verge",
-        "published": "2026-02-17T17:59:56-05:00"
+        "title": "3 Ripple And XRP Developments Investors Should Be Aware Of",
+        "link": "https://bitcoinist.com/3-ripple-and-xrp-developments/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 17:00:35 +0000",
+        "description": "XRP hasn’t just been moving on price charts lately; it has been popping up in major conversations across banking, real-world assets, and even US politics. New updates have surfaced in the past few day"
       },
       {
-        "title": "Sony’s WH-1000XM6 are nearly $100 off for just a few more hours",
-        "link": "https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale",
-        "source": "The Verge",
-        "published": "2026-02-17T17:32:39-05:00"
+        "title": "Bitcoin’s Short-Term Holder Whales Sitting On Increasing Unrealized Losses – What’s Going On?",
+        "link": "https://bitcoinist.com/bitcoins-unrealized-losses-grows/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 15:30:29 +0000",
+        "description": "Bitcoin is still hampered by the ongoing volatility across the cryptocurrency market, keeping its price below the $70,000 level for the past few days. With BTC’s price steadily trending downwards, wha"
       },
       {
-        "title": "Piggyback’s fantastic Metroid Prime art book is nearly 20 percent off",
-        "link": "https://www.theverge.com/gadgets/821108/metroid-prime-1-3-a-visual-retrospective-art-book-deal-sale",
-        "source": "The Verge",
-        "published": "2026-02-17T15:20:00-05:00"
+        "title": "Bitdeer Says Bitcoin Liquidation “Not A Concern” For Broader Market",
+        "link": "https://bitcoinist.com/bitdeer-bitcoin-liquidation-concern-broader-market/",
+        "source": "Bitcoinist",
+        "published": "Mon, 23 Feb 2026 15:00:16 +0000",
+        "description": "Bitcoin miner Bitdeer has defended its decision to liquidate its Bitcoin holdings, saying it shouldn&#8217;t be a concern for the broader market. Bitdeer&#8217;s Bitcoin Holdings Have Hit Zero On Satu"
       }
     ],
-    "War & Military": [
+    "Markets": [
       {
-        "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-        "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 11:26:11 GMT"
+        "title": "Tariff ruling sparks ‘refund chaos’ that small businesses and families can’t afford",
+        "link": "https://www.marketwatch.com/story/tariff-ruling-sparks-refund-chaos-that-small-businesses-and-families-cant-afford-e01a5e89?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 23:42:00 GMT",
+        "description": "Employers and workers need a stable, predictable U.S. trade policy."
       },
       {
-        "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
-        "link": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 00:20:03 GMT"
+        "title": "Big Tech’s ‘Lag 7’ is putting the S&P 500 — and your index fund — at risk",
+        "link": "https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 23:18:00 GMT",
+        "description": "A breakdown of the “Magnificent Seven” and AI hyperscalers raises concern for the stock market and the economy"
       },
       {
-        "title": "Rescuers search for nine missing skiers after California avalanche",
-        "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 09:09:19 GMT"
+        "title": "Uber’s latest effort to become a super app is all about parking",
+        "link": "https://www.marketwatch.com/story/ubers-latest-effort-to-become-a-super-app-is-all-about-parking-7d05bfba?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 23:03:00 GMT",
+        "description": "Uber on Monday said it had agreed to buy the parking-reservations app SpotHero, a move that will allow people to book parking reservations on the Uber app."
       },
       {
-        "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
-        "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 07:58:02 GMT"
+        "title": "Jobs and CPI reports are not being politically manipulated, government’s statistics chief says",
+        "link": "https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 22:52:00 GMT",
+        "description": "The temporary chief of the U.S. agency that produces critical economic reports on jobs, unemployment and inflation says the data is not being manipulated or influenced by politicians."
       },
       {
-        "title": "Real Madrid tie halted over Vinicius racism allegation",
-        "link": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 17 Feb 2026 21:31:49 GMT"
+        "title": "Did a blog post just cause software stocks to lose more than $200 billion in market cap?",
+        "link": "https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 22:47:00 GMT",
+        "description": "For investors to wade back into the software sector, they “want and need to see the stocks stop trading down on new AI headlines,” one analyst says."
       },
       {
-        "title": "Australia bans citizen trying to return from IS camp in Syria",
-        "link": "https://www.bbc.com/news/articles/c4g2dgjrx75o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 07:08:18 GMT"
+        "title": "IBM’s stock heads for worst month in 34 years — and Anthropic is partly to blame",
+        "link": "https://www.marketwatch.com/story/ibms-stock-heads-for-worst-month-in-34-years-and-anthropic-is-partly-to-blame-cfef2c5f?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 22:31:00 GMT",
+        "description": "IBM’s stock ended Monday down 13% as Anthropic’s Claude Code threatens to dismantle a critical part of its business."
       },
       {
-        "title": "Indian university faces backlash for claiming Chinese robodog as own at AI summit",
-        "link": "https://www.bbc.com/news/articles/cge8nd5ve00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 11:16:28 GMT"
+        "title": "Snowstorm hits airline stocks as flight cancellations near 5,000",
+        "link": "https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 22:21:00 GMT",
+        "description": "Airline stocks are taking a hit as a major Northeast snowstorm is leading to thousands of flight cancellations."
       },
       {
-        "title": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
-        "link": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 18 Feb 2026 00:12:01 GMT"
+        "title": "Novo Nordisk’s stock closes at 4-year low after its next-gen weight-loss drug lost to Lilly’s in Phase 3 trial",
+        "link": "https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 21:59:00 GMT",
+        "description": "Novo Nordisk shares were under pressure on Monday as the struggling Danish pharmaceutical said a head-to-head study found a drug in development didn’t cut as much weight as an Eli Lilly product."
+      },
+      {
+        "title": "Here’s what airlines, hotels and Airbnb actually owe travelers stranded in Mexico",
+        "link": "https://www.marketwatch.com/story/heres-what-airlines-hotels-and-airbnb-actually-owe-travelers-stranded-in-mexico-51655025?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 21:55:00 GMT",
+        "description": "U.S. airlines canceled flights to and from the Mexican cities of Puerto Vallarta and Guadalajara on Monday amid cartel-related violence over the weekend, leaving tourists stranded."
+      },
+      {
+        "title": "Why Nvidia’s earnings report isn’t the market force it once was",
+        "link": "https://www.marketwatch.com/story/why-nvidias-earnings-report-isnt-the-market-force-it-once-was-f1315d54?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 23 Feb 2026 21:54:00 GMT",
+        "description": "Investors have moved on to other AI plays, an analyst says. That presents an opportunity to get Nvidia’s stock at a discount."
       }
     ],
     "Singapore": [
       {
-        "title": "Benfica back player accused of using racial slur at Real's Vinicius Jr",
-        "link": "https://www.channelnewsasia.com/sport/benfica-back-player-accused-using-racial-slur-reals-vinicius-jr-5937906",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 20:36:38 +0800"
+        "title": "Tim Hortons Singapore is now officially halal-certified",
+        "link": "https://www.channelnewsasia.com/dining/tim-hortons-singapore-halal-certified-muis-5946781",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 08:02:04 +0800",
+        "description": "The brand opened its first outlet in Singapore at VivoCity in November 2023."
       },
       {
-        "title": "Ukraine officials will boycott Paralympics over Russia's participation, sports minister says",
-        "link": "https://www.channelnewsasia.com/sport/ukraine-officials-will-boycott-paralympics-over-russias-participation-sports-minister-says-5937901",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 20:28:58 +0800"
+        "title": "US took initiative in January yen 'rate checks,' Nikkei reports",
+        "link": "https://www.channelnewsasia.com/business/us-took-initiative-in-january-yen-rate-checks-nikkei-reports-5948286",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 07:58:10 +0800",
+        "description": ""
       },
       {
-        "title": "Palo Alto shares fall as deal costs pile up amid AI security push",
-        "link": "https://www.channelnewsasia.com/business/palo-alto-shares-fall-deal-costs-pile-up-amid-ai-security-push-5937886",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 20:19:33 +0800"
+        "title": "Trump denies top US officer warned of Iran strike risks",
+        "link": "https://www.channelnewsasia.com/world/donald-trump-us-iran-war-strikes-risks-dan-caine-5948251",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 07:40:00 +0800",
+        "description": "Chairman of the Joint Chiefs of Staff&nbsp;Dan Caine had warned of various risks associated with strikes against Iran, including a long-term entanglement."
       },
       {
-        "title": "Japan's JERA says domestic offshore wind project on schedule despite rising costs",
-        "link": "https://www.channelnewsasia.com/business/japans-jera-says-domestic-offshore-wind-project-schedule-despite-rising-costs-5937801",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 19:45:57 +0800"
+        "title": "North Korea leader's sister promoted at party congress",
+        "link": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sister-promoted-party-congress-5948231",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 07:25:00 +0800",
+        "description": "Kim Yo Jong,&nbsp;previously a deputy department director, was named as a full department director by the ruling Workers' Party Central Committee on Monday (Feb 23)."
       },
       {
-        "title": "Bobsleigh-Germans hoping to finish on a high with rediscovered domination",
-        "link": "https://www.channelnewsasia.com/sport/bobsleigh-germans-hoping-finish-high-rediscovered-domination-5937791",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 19:43:53 +0800"
+        "title": "He’s cooked for Bollywood stars and Paris Hilton – and now brings royal Indian cuisine to Singapore",
+        "link": "https://www.channelnewsasia.com/dining/chef-jolly-surjan-singh-shikar-gupshup-5939706",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 07:17:58 +0800",
+        "description": "Indian TV personality&nbsp;Surjan “Jolly” Singh, the chef behind Shikar at The Maxwell Reserve, has cooked for global megastars including Amitabh Bachchan, Kareena Kapoor and Hrithik Roshan, but for h"
       },
       {
-        "title": "Crosscountry-Norway win men's team sprint to deliver Klaebo fifth Games gold",
-        "link": "https://www.channelnewsasia.com/sport/crosscountry-norway-win-mens-team-sprint-deliver-klaebo-fifth-games-gold-5937781",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 19:41:12 +0800"
+        "title": "LA28 CEO voices strong support for embattled chair Wasserman",
+        "link": "https://www.channelnewsasia.com/sport/la28-ceo-voices-strong-support-embattled-chair-wasserman-5948241",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 07:14:33 +0800",
+        "description": ""
       },
       {
-        "title": "Fireworks shop explosion kills 12 in China",
-        "link": "https://www.channelnewsasia.com/east-asia/fireworks-shop-explosion-kills-12-china-5937756",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 19:31:00 +0800"
+        "title": "Trump-backed crypto stablecoin dips following 'attack,' quickly recovers",
+        "link": "https://www.channelnewsasia.com/business/trump-backed-crypto-stablecoin-dips-following-attack-quickly-recovers-5948236",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 07:14:18 +0800",
+        "description": ""
       },
       {
-        "title": "Crosscountry-Who let the dog out? Husky gatecrashes team sprint",
-        "link": "https://www.channelnewsasia.com/sport/crosscountry-who-let-dog-out-husky-gatecrashes-team-sprint-5937766",
-        "source": "CNA",
-        "published": "Wed, 18 Feb 2026 19:26:57 +0800"
+        "title": "Wall Street regulator allows intraday trading of tokenized WisdomTree money market fund",
+        "link": "https://www.channelnewsasia.com/business/wall-street-regulator-allows-intraday-trading-tokenized-wisdomtree-money-market-fund-5948181",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 06:34:06 +0800",
+        "description": ""
+      },
+      {
+        "title": "Substitute Sesko seals win for Man Utd at Everton",
+        "link": "https://www.channelnewsasia.com/sport/substitute-sesko-seals-win-man-utd-everton-5948171",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 06:30:45 +0800",
+        "description": ""
+      },
+      {
+        "title": "Tainan travel guide: What to do on a weekend in one of Taiwan’s oldest cities",
+        "link": "https://www.channelnewsasia.com/experiences/things-do-tainan-taiwan-weekend-itinerary-5933931",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 06:21:00 +0800",
+        "description": "Planning a Tainan weekend trip? Follow this first-timer’s route through Blueprint Park, Hayashi Department Store, StableNICE BLDG, Tainan Art Museum and a heritage stay that captures the city’s slower"
       }
-    ]
-  }
+    ],
+    "US Politics": [
+      {
+        "title": "Lord Mandelson arrested on suspicion of misconduct in public office",
+        "link": "https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 24 Feb 2026 00:13:29 GMT",
+        "description": "The Metropolitan Police says a 72-year-old man has been taken to a London police station for interview following the arrest in Camden."
+      },
+      {
+        "title": "Tories vow to lower interest on some student loans",
+        "link": "https://www.bbc.com/news/articles/c15xwvn707xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 22 Feb 2026 11:44:17 GMT",
+        "description": "Kemi Badenoch says graduates feel 'stitched up' as she promises to cut Plan 2 loan interest charges."
+      },
+      {
+        "title": "'It is a catastrophe' - the man battling to stem rising youth unemployment",
+        "link": "https://www.bbc.com/news/articles/cy7jxv7p2mxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 22 Feb 2026 03:37:08 GMT",
+        "description": "Alan Milburn returns to his hometown of Newcastle as he undertakes a review into the growing numbers of young people out of work."
+      },
+      {
+        "title": "UK should send non-combat troops to Ukraine now, former PM Johnson tells BBC",
+        "link": "https://www.bbc.com/news/articles/cp32n6vxqplo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 22 Feb 2026 03:07:19 GMT",
+        "description": "Troops should be deployed to peaceful parts of the country in non-fighting roles, he said."
+      },
+      {
+        "title": "Reform vows to overhaul pension schemes for new local government workers",
+        "link": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 23 Feb 2026 22:14:36 GMT",
+        "description": "Reform plans to end more generous defined benefit pension schemes for new local government workers if it wins office"
+      },
+      {
+        "title": "Lord Mandelson arrest - how did we get here?",
+        "link": "https://www.bbc.com/news/articles/cjd9yelvx7jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 23 Feb 2026 20:26:58 GMT",
+        "description": "It comes after the ex-Labour minister was accused of passing sensitive government information to Jeffrey Epstein."
+      },
+      {
+        "title": "UK says 'nothing is off the table' in response to US tariffs",
+        "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 23 Feb 2026 18:34:22 GMT",
+        "description": "Downing Street says discussions are ongoing following US President Donald Trump's announcement of a 15% global tariffs."
+      },
+      {
+        "title": "PM orders ethics investigation into minister over Labour Together claims",
+        "link": "https://www.bbc.com/news/articles/c8xy5jepevno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 23 Feb 2026 17:03:57 GMT",
+        "description": "Josh Simons ran the think tank when it commissioned a report which investigated the background of a journalist."
+      },
+      {
+        "title": "Australia backs removing Andrew from royal line of succession",
+        "link": "https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 23 Feb 2026 17:02:46 GMT",
+        "description": "Andrew Mountbatten-Windsor remains eighth in line to the throne despite being stripped of his titles."
+      },
+      {
+        "title": "Reform promises agency to ensure illegal migrant removals",
+        "link": "https://www.bbc.com/news/articles/cx2jg2g341jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 23 Feb 2026 16:58:45 GMT",
+        "description": "The party's new home affairs spokesman Zia Yusuf says it would be a \"burning\" priority for a Reform UK government."
+      }
+    ],
+    "Science": []
+  },
+  "charts": {
+    "world_indices": "world-indices.html",
+    "crypto": "crypto-charts.html"
+  },
+  "top10": [
+    {
+      "title": "French minister moves to block US envoy Kushner from government access",
+      "link": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 22:55:06 GMT",
+      "description": "The minister says Charles Kushner, father of Trump's son-in-law Jared, had failed to explain US comments about violence in France."
+    },
+    {
+      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+      "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 22:15:51 GMT",
+      "description": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations."
+    },
+    {
+      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+      "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 21:12:47 GMT",
+      "description": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
+    },
+    {
+      "title": "Trump threatens countries that 'play games' with existing trade deals",
+      "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 21:12:43 GMT",
+      "description": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs."
+    },
+    {
+      "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+      "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 19:26:32 GMT",
+      "description": "The suspect was carrying a shotgun and fuel can when he was killed, officers say, while Trump was in Washington DC at the time."
+    },
+    {
+      "title": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
+      "link": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 19:17:11 GMT",
+      "description": "Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year."
+    },
+    {
+      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+      "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 19:08:55 GMT",
+      "description": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
+    },
+    {
+      "title": "Rob Jetten becomes Netherlands' youngest ever PM",
+      "link": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 16:33:33 GMT",
+      "description": "The 38-year-old is sworn in as premier after clinching a narrow victory in October's election."
+    },
+    {
+      "title": "Briton among 19 killed in Nepal bus crash",
+      "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 14:14:48 GMT",
+      "description": "Nepalese police say the British national was a 24-year-old man."
+    },
+    {
+      "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+      "link": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 23 Feb 2026 06:01:59 GMT",
+      "description": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping."
+    }
+  ]
 }
