@@ -1,8 +1,15 @@
 {
-  "updated_sgt": "2026-02-24 20:05 SGT",
-  "updated_iso": "2026-02-24T20:05:18.242492+08:00",
+  "updated_sgt": "2026-02-24 21:17 SGT",
+  "updated_iso": "2026-02-24T21:17:39.545413+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Guthrie suspect believed to have visited home before she went missing",
+        "link": "https://www.bbc.com/news/articles/cdr2kej4j8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Feb 2026 12:34:08 GMT",
+        "description": "A masked man in doorbell camera footage is thought to have visited Guthrie's home before the night she disappeared."
+      },
       {
         "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
         "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
@@ -65,16 +72,58 @@
         "source": "BBC World",
         "published": "Mon, 23 Feb 2026 21:12:47 GMT",
         "description": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
-      },
-      {
-        "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
-        "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Feb 2026 19:08:55 GMT",
-        "description": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
       }
     ],
     "Finance": [
+      {
+        "title": "Stripe valued at $159 billion after tender offer for employees, shareholders",
+        "link": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 13:14:49 GMT",
+        "description": "Fintech startup Stripe continues to show strong growth, with a valuation now at $159 billion and total volume nearing $2 trillion last year."
+      },
+      {
+        "title": "Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough'",
+        "link": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 13:00:59 GMT",
+        "description": "The Chicago Fed president said Tuesday that cuts aren't appropriate until there's more evidence that inflation is on its way down."
+      },
+      {
+        "title": "Nvidia earnings report collides with Wall Street skepticism over AI spending",
+        "link": "https://www.cnbc.com/2026/02/24/nvidia-earnings-collide-with-wall-street-skepticism-over-ai-spending.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 13:00:02 GMT",
+        "description": "Nvidia is the only megacap tech stock to notch gains this year as investors have turned cautious on the hefty amounts of spending on AI infrastructure."
+      },
+      {
+        "title": "Home Depot tops earnings estimates for the first time in a year as demand for projects remains muted",
+        "link": "https://www.cnbc.com/2026/02/24/home-depot-hd-q4-2025-earnings-.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 12:57:50 GMT",
+        "description": "Home Depot beat fourth-quarter earnings expectations after missing estimates the prior three quarters."
+      },
+      {
+        "title": "Senators tell CFTC to make clear ban on prediction market contracts involving deaths",
+        "link": "https://www.cnbc.com/2026/02/24/senators-polymarket-prediction-markets-cftc-death-war-terror.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 12:45:01 GMT",
+        "description": "A letter to Commodity Futures Trading Commission Chairman Michael Selig cites three Polymarket contracts related to a NASA launch, Venezuela and Ukraine."
+      },
+      {
+        "title": "Trump to deliver State of the Union address as voters sour on his economy",
+        "link": "https://www.cnbc.com/2026/02/24/sotu-trump-to-deliver-address-as-voters-sour-on-his-economy.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 12:30:01 GMT",
+        "description": "Dem Gov. Abigail Spanberger of Virginia will deliver the official rebuttal for Democrats after romping to victory in 2025 on an affordability-focused agenda."
+      },
+      {
+        "title": "Democrats counter Trump's proposal to limit institutional housing investors",
+        "link": "https://www.cnbc.com/2026/02/24/warren-trump-housing-investment-ban-affordability.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 12:15:36 GMT",
+        "description": "A new bill from Sen. Elizabeth Warren targets investors who own 50-plus single-family homes, and breaks with a White House proposal."
+      },
       {
         "title": "Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs",
         "link": "https://www.cnbc.com/2026/02/24/meta-to-use-6gw-of-amd-gpus-days-after-expanded-nvidia-ai-chip-deal.html",
@@ -83,53 +132,11 @@
         "description": "AMD has secured Meta as a customer for its Helios rack-scale system, as Nvidia's Blackwell faces heightened competition."
       },
       {
-        "title": "Home Depot beats Wall Street’s expectations, even as sales decline",
-        "link": "https://www.cnbc.com/2026/02/24/home-depot-hd-q4-2025-earnings-.html",
+        "title": "The ACA health coverage subsidy lapse hit 22 million people. Here are some of their stories",
+        "link": "https://www.cnbc.com/2026/02/24/aca-enhanced-subsidy-expiration-effects.html",
         "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 11:56:20 GMT",
-        "description": "Home Depot beat fourth-quarter earnings expectations after missing estimates the prior three quarters."
-      },
-      {
-        "title": "Intel partners with AI chip startup SambaNova after acquisition talks reportedly failed",
-        "link": "https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 11:00:02 GMT",
-        "description": "Intel CEO Lip-Bu Tan first invested in SambaNova in 2017. Now the chipmaker he runs is putting more capital behind the startup."
-      },
-      {
-        "title": "U.S. has breached trade deal and Europe is ready to retaliate, top trade lawmaker tells CNBC",
-        "link": "https://www.cnbc.com/2026/02/24/us-eu-trade-deal-eu-parliament-suspends-trade-deal-trump-tariffs-eu-retaliation-aci.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 10:24:26 GMT",
-        "description": "The U.S. has breached the terms of its trade deal with the European Union \"several times,\" top EU trade lawmaker Bernd Lange told CNBC."
-      },
-      {
-        "title": "Panama cancels China-linked port deal, hands canal terminals to Maersk, MSC",
-        "link": "https://www.cnbc.com/2026/02/24/panama-officially-voids-annuls-ck-hutchison-contracts-interim-control-maersk-msc-canal-dispute.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 09:34:26 GMT",
-        "description": "The simmering dispute has become a geopolitical flashpoint between Washington and Beijing, with Panama caught in the crossfire."
-      },
-      {
-        "title": "Democrats counter Trump's proposal to limit institutional housing investors",
-        "link": "https://www.cnbc.com/2026/02/24/warren-trump-housing-investment-ban-affordability.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 09:30:02 GMT",
-        "description": "A new bill from Sen. Elizabeth Warren targets investors who own 50-plus single-family homes, and breaks with a White House proposal."
-      },
-      {
-        "title": "Making it rain: Why more and more countries are turning to cloud seeding",
-        "link": "https://www.cnbc.com/2026/02/24/cloud-seeding-climate-water-demand-rain-snow.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 06:10:37 GMT",
-        "description": "Cloud seeding programs are now taking place in more than 50 countries across the globe, according to the World Meteorological Organization."
-      },
-      {
-        "title": "As Wall Street punishes software stocks over AI concerns, Canva gets more acquisitive",
-        "link": "https://www.cnbc.com/2026/02/23/canva-acquires-cavalry-for-motion-graphics-and-mangoai-for-video-ads.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 03:01:01 GMT",
-        "description": "Cavalry offers motion graphics tools for designers, while MangoAI could help Canva provide tools for making new video ads."
+        "published": "Tue, 24 Feb 2026 12:00:01 GMT",
+        "description": "The lapse of enhanced subsidies for Affordable Care Act marketplace insurance has forced families to make difficult financial choices."
       },
       {
         "title": "Jamie Dimon says 'watch out’ as lofty asset prices add to economic risks: ‘My anxiety is high’",
@@ -137,17 +144,24 @@
         "source": "CNBC Finance",
         "published": "Tue, 24 Feb 2026 02:25:45 GMT",
         "description": "JPMorgan Chase CEO Jamie Dimon is anxious as high asset levels collide with increased competition among lenders and jitters over loans to the software industry."
-      },
-      {
-        "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy",
-        "link": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 00:03:54 GMT",
-        "description": "President Trump's new tariffs could further strain global trade relations, pushing businesses to operate more cautiously and hurting the U.S. economy."
       }
     ],
     "Technology": [],
     "Crypto": [
+      {
+        "title": "Could A Stablecoin Fund Gaza Relief? Trump’s Board Of Peace Is Considering It",
+        "link": "https://bitcoinist.com/could-a-stablecoin-fund-gaza-relief-trumps-board-of-peace-is-considering-it/",
+        "source": "Bitcoinist",
+        "published": "Tue, 24 Feb 2026 13:00:23 +0000",
+        "description": "US President Donald Trump&#8217;s advisory group is looking at a plan to issue a US dollar-backed stablecoin to help people in Gaza who face severe cash shortages and broken banking services. Related "
+      },
+      {
+        "title": "$40B Crypto Crash: Jane Street Sued Over Terra Insider Trading",
+        "link": "https://bitcoinist.com/40b-crypto-crash-jane-street-terra-insider-trading/",
+        "source": "Bitcoinist",
+        "published": "Tue, 24 Feb 2026 11:30:44 +0000",
+        "description": "Crypto firm Terraform Labs’ wind-down administrator has sued Jane Street in Manhattan federal court, alleging the trading firm used material non-public information from Terraform insiders to trade aro"
+      },
       {
         "title": "Strategy Makes 100th Bitcoin Purchase, Total Holdings Reach 717,722 BTC",
         "link": "https://bitcoinist.com/strategy-100th-bitcoin-total-holdings-717722-btc/",
@@ -189,29 +203,71 @@
         "source": "Bitcoinist",
         "published": "Tue, 24 Feb 2026 04:00:51 +0000",
         "description": "The crypto market has started the week under pressure as macroeconomic uncertainty and trade tensions unsettled investors, briefly pushing Bitcoin below $65,000 and driving a surge in online panic sig"
-      },
-      {
-        "title": "Solana Beggar Scores $442K From AI Agent Error – Details",
-        "link": "https://bitcoinist.com/solana-beggar-scores-442k-from-ai-agent-error-details/",
-        "source": "Bitcoinist",
-        "published": "Tue, 24 Feb 2026 03:00:32 +0000",
-        "description": "A man asking for just a few coins ended up hitting the jackpot. What started as a simple request for four Solana tokens turned into a massive payout when an experimental crypto agent transferred hundr"
-      },
-      {
-        "title": "Crypto Enters Extreme Fear Zone as Global Trade Tensions and Policy Shifts Weigh on Prices",
-        "link": "https://bitcoinist.com/crypto-enter-extreme-fear-zone-global-trade-tension/",
-        "source": "Bitcoinist",
-        "published": "Tue, 24 Feb 2026 02:00:49 +0000",
-        "description": "The market tumbled sharply on Monday, with BTC briefly slipping below $65,000, as traders reacted to a mix of U.S. trade policy shifts, geopolitical risks, and looming economic data. The sudden losses"
       }
     ],
     "Markets": [
       {
+        "title": "FedEx starts the fight for tariff refunds by suing the Trump administration",
+        "link": "https://www.marketwatch.com/story/fedex-starts-the-fight-for-tariff-refunds-by-suing-the-trump-administration-6e3026f5?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 13:15:00 GMT",
+        "description": "FedEx filed a lawsuit against the Trump administration for refunds on tariffs paid."
+      },
+      {
+        "title": "AMD’s stock rockets as Meta deal serves as major validation point for investors",
+        "link": "https://www.marketwatch.com/story/amds-stock-rockets-as-meta-deal-serves-as-major-validation-point-for-investors-fa247785?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 13:07:00 GMT",
+        "description": "Meta, looking to diversify beyond Nvidia, makes a big bet on AMD chips and has a chance to invest in the company."
+      },
+      {
+        "title": "Stop muzzling the 1%: The wealthy have a right to free speech — and democracy needs billionaires",
+        "link": "https://www.marketwatch.com/story/stop-muzzling-the-1-the-wealthy-have-a-right-to-free-speech-and-democracy-needs-billionaires-96f3269b?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 13:05:00 GMT",
+        "description": "Bashing the rich won’t fix inequality — it simply gives power to elites who already control the agenda."
+      },
+      {
+        "title": "‘I need to get my financial ducks in a row’: I’m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?",
+        "link": "https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 13:00:00 GMT",
+        "description": "“I have $650,000 in investments, $250,000 in life insurance and about $150,000 equity in my home.”"
+      },
+      {
         "title": "What could save the markets from AI Armageddon? Populist backlash — and it’s already started.",
         "link": "https://www.marketwatch.com/story/what-could-save-the-markets-from-ai-armageddon-populist-backlash-and-its-already-started-9b2aa52d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 12:01:00 GMT",
+        "published": "Tue, 24 Feb 2026 12:59:00 GMT",
         "description": "Jefferies strategists are talking about a revolution, against AI that is, to help boost stock markets."
+      },
+      {
+        "title": "9 of the stock market’s 10 most-watched valuation indicators are now in ‘sell’ territory",
+        "link": "https://www.marketwatch.com/story/9-of-the-stock-markets-10-most-watched-valuation-indicators-are-now-in-sell-territory-ebdb9d99?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 12:55:00 GMT",
+        "description": "Indicators are at extremes — stretched valuations are bearish for stocks."
+      },
+      {
+        "title": "Novo Nordisk and Eli Lilly shares both fall after Ozempic price-cut plan",
+        "link": "https://www.marketwatch.com/story/novo-nordisk-and-eli-lilly-shares-both-fall-after-ozempic-price-cut-plan-5472626b?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 12:51:00 GMT",
+        "description": "Shares of Novo Nordisk and rival Eli Lilly fell on Tuesday after a report said price cuts are coming for popular weight-loss drugs."
+      },
+      {
+        "title": "Trump’s trade war will reach a cease-fire — but the post-midterm battle could bruise your portfolio",
+        "link": "https://www.marketwatch.com/story/trumps-trade-war-will-reach-a-cease-fire-but-the-post-midterm-battle-could-bruise-your-portfolio-d7367729?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 12:50:00 GMT",
+        "description": "Why the ‘sell America’ trade may be just that: a cyclical trade, not a structural shift."
+      },
+      {
+        "title": "Home Depot’s stock surges as surprise sales growth provides signs of a turnaround",
+        "link": "https://www.marketwatch.com/story/home-depots-stock-set-to-surge-as-sales-growth-provides-signs-of-a-turnaround-dd4fe20e?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Feb 2026 12:11:00 GMT",
+        "description": "Home Depot’s stock was set to surge after quarterly comparable sales snapped a streak of misses, and profit beat by the widest margin in years."
       },
       {
         "title": "‘I am fearful’: My ailing relative is being forced into assisted living. What can I do?",
@@ -219,70 +275,49 @@
         "source": "MarketWatch",
         "published": "Tue, 24 Feb 2026 12:00:00 GMT",
         "description": "“My relative also has no idea what they are being charged for these services.”"
-      },
-      {
-        "title": "Home Depot’s stock set to surge as sales growth provides signs of a turnaround",
-        "link": "https://www.marketwatch.com/story/home-depots-stock-set-to-surge-as-sales-growth-provides-signs-of-a-turnaround-dd4fe20e?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 11:46:00 GMT",
-        "description": "Home Depot’s stock was set to surge after quarterly comparable sales snapped a streak of misses, and profit beat by the widest margin in years."
-      },
-      {
-        "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
-        "link": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 11:00:00 GMT",
-        "description": "“I own a home worth $520,000 and do not have a mortgage on it.”"
-      },
-      {
-        "title": "Not all Treasurys are a reliable haven for investors right now, BlackRock bond chief Rick Rieder says",
-        "link": "https://www.marketwatch.com/story/not-all-treasurys-are-a-reliable-haven-for-investors-right-now-blackrock-bond-chief-rick-rieder-says-5dba3ad8?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 11:00:00 GMT",
-        "description": "Volatility in the U.S. bond market is picking up this month, with some investors questioning whether Treasurys can broadly — and reliably — provide a safe haven in times of tumult."
-      },
-      {
-        "title": "Co-author of viral post on AI impact says he was shorting those stocks",
-        "link": "https://www.marketwatch.com/story/co-author-of-viral-post-on-ai-impact-says-he-was-shorting-those-stocks-b7235f1b?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 10:57:00 GMT",
-        "description": "The co-author of a report musing about artificial intelligence disrupting a host of businesses says he was betting those companies would go down in value."
-      },
-      {
-        "title": "Tariffs have peaked after Supreme Court ruling, says Morgan Stanley expert",
-        "link": "https://www.marketwatch.com/story/tariffs-have-peaked-after-supreme-court-ruling-says-morgan-stanley-expert-87f6677b?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 10:32:00 GMT",
-        "description": "The current tariffs imposed by the White House expire in July, close enough to mid-term elections that they may not be renewed if deemed politically unpopular"
-      },
-      {
-        "title": "My grandpa retired happy at 70 with $750K, and he’s doing just fine. I know where most Americans go wrong.",
-        "link": "https://www.marketwatch.com/story/my-grandpa-retired-happy-at-70-with-750k-and-hes-doing-just-fine-i-know-where-most-americans-go-wrong-c5774943?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 10:15:00 GMT",
-        "description": "“You could even retire at 55 with $500,000 and be perfectly fine. Am I right?”"
-      },
-      {
-        "title": "Buyer snaps up a $4.8 million home next to Bill Gates’ Xanadu 2.0 estate",
-        "link": "https://www.marketwatch.com/story/buyer-snaps-up-a-4-8-million-home-next-to-bill-gates-xanadu-2-0-estate-d8b803e1?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 10:04:00 GMT",
-        "description": "Microsoft billionaire Bill Gates has found a buyer for the charming home next to his sprawling Xanadu 2.0 dwelling—just six days after listing the property for $4.8 million."
-      },
-      {
-        "title": "‘I’m shocked that people are shocked,’ says JPMorgan executive about private-credit meltdown",
-        "link": "https://www.marketwatch.com/story/jpmorgan-gets-peppered-with-ai-questions-as-it-details-software-exposure-84d757ae?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Tue, 24 Feb 2026 10:04:00 GMT",
-        "description": "The surest sign of market dislocation is when banks start quantifying their exposure to a given issue."
       }
     ],
     "Singapore": [
       {
+        "title": "Iran nears deal to buy supersonic anti-ship missiles from China",
+        "link": "https://www.channelnewsasia.com/world/iran-nears-deal-china-buy-supersonic-anti-ship-missiles-5949381",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 20:29:00 +0800",
+        "description": "The deployment of the missiles would significantly enhance Iran’s strike capabilities and pose a threat to US naval forces in the region, two weapons experts said."
+      },
+      {
+        "title": "Australian PM Albanese briefly evacuated from residence after security threat",
+        "link": "https://www.channelnewsasia.com/world/australia-pm-albanese-evacuated-security-threat-5949786",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 20:24:00 +0800",
+        "description": ""
+      },
+      {
+        "title": "Malaysia curbs non-AI data centres as power squeeze looms",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-curb-non-ai-data-centres-power-squeeze-looms-5949741",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 20:13:56 +0800",
+        "description": ""
+      },
+      {
+        "title": "AES Corp signs 20-year power supply deal with Google",
+        "link": "https://www.channelnewsasia.com/business/aes-corp-signs-20-year-power-supply-deal-google-5949771",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 20:09:44 +0800",
+        "description": ""
+      },
+      {
+        "title": "AMD clinches second mega chip supply deal, this time with Meta",
+        "link": "https://www.channelnewsasia.com/business/amd-clinches-second-mega-chip-supply-deal-time-meta-5949746",
+        "source": "CNA Singapore",
+        "published": "Tue, 24 Feb 2026 20:01:22 +0800",
+        "description": ""
+      },
+      {
         "title": "Budget 2026 debate: PAP MPs call for prudence, caution amid global uncertainties",
         "link": "https://www.channelnewsasia.com/singapore/budget-2026-debate-fiscal-surplus-global-uncertainties-pap-mps-5949516",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Feb 2026 19:59:20 +0800",
+        "published": "Tue, 24 Feb 2026 19:59:00 +0800",
         "description": "Members of Parliament from the People's Action Party also urged for more social support for vulnerable groups in society."
       },
       {
@@ -310,52 +345,31 @@
         "title": "Budget 2026 debate: Trust, inclusivity and worker support top MPs' concerns over Singapore's new AI strategy",
         "link": "https://www.channelnewsasia.com/singapore/budget-2026-ai-strategy-inclusivity-worker-support-trust-5949451",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Feb 2026 19:38:10 +0800",
+        "published": "Tue, 24 Feb 2026 19:38:00 +0800",
         "description": "MPs on both sides of the House supported the Budget's focus on artificial intelligence, but warned of potential hurdles in embarking on this new national strategy."
-      },
-      {
-        "title": "Japan to deploy missile systems on island near Taiwan by 2031",
-        "link": "https://www.channelnewsasia.com/east-asia/japan-deploy-missiles-yonaguni-taiwan-defe-5949606",
-        "source": "CNA Singapore",
-        "published": "Tue, 24 Feb 2026 19:21:00 +0800",
-        "description": "This is the first time Japan has specified the timing of its deployment of surface-to-air missiles on Yonaguni island."
-      },
-      {
-        "title": "‘Alpha-male’ influencer Nick Adams dropped as US ambassador to Malaysia, claims he has been promoted",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-nick-adams-dropped-us-ambassador-donald-trump-5949321",
-        "source": "CNA Singapore",
-        "published": "Tue, 24 Feb 2026 19:13:00 +0800",
-        "description": "Adams’ nomination by US President Donald Trump last year had sparked controversy due to reportedly misogynistic remarks the right-wing commentator has made, as well as his public support for Israel in"
-      },
-      {
-        "title": "Rights group slams treatment of viral Japanese monkey",
-        "link": "https://www.channelnewsasia.com/east-asia/punch-viral-japanese-macaque-monkey-rights-group-treatment-5949541",
-        "source": "CNA Singapore",
-        "published": "Tue, 24 Feb 2026 18:54:00 +0800",
-        "description": "Punch's predicament has sparked huge interest online, spawning a devoted fanbase with large crowds thronging Ichikawa City Zoo."
-      },
-      {
-        "title": "Investors enjoying the ride with new digital-focused leagues",
-        "link": "https://www.channelnewsasia.com/business/investors-enjoying-ride-new-digital-focused-leagues-5949546",
-        "source": "CNA Singapore",
-        "published": "Tue, 24 Feb 2026 18:52:14 +0800",
-        "description": ""
-      },
-      {
-        "title": "New US tariffs come into effect at 10%",
-        "link": "https://www.channelnewsasia.com/world/us-tariffs-trump-10-supreme-court-trade-5949506",
-        "source": "CNA Singapore",
-        "published": "Tue, 24 Feb 2026 18:52:00 +0800",
-        "description": "This was the rate first announced by President Donald Trump after the Supreme Court struck down his Liberation Day tariffs, rather than the 15 per cent he promised a day later.&nbsp;"
       }
     ],
     "US Politics": [
       {
-        "title": "Lib Dems in bid to release files on Andrew trade role",
-        "link": "https://www.bbc.com/news/articles/cqxdg01w4rno?at_medium=RSS&at_campaign=rss",
+        "title": "Phillipson defends student loan change and says average repayments will rise by £8 a month",
+        "link": "https://www.bbc.com/news/articles/cn0e2kkegg6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 24 Feb 2026 11:10:55 GMT",
-        "description": "The party wants documents on the former prince's appointment in 2001 to be published by ministers."
+        "published": "Tue, 24 Feb 2026 12:45:01 GMT",
+        "description": "Some graduates in England say \"punishing\" student loan repayments have led them to cut their hours at work."
+      },
+      {
+        "title": "Reform vows to overhaul pension schemes for new local government workers",
+        "link": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 24 Feb 2026 12:36:13 GMT",
+        "description": "Reform plans to end more generous defined benefit pension schemes for new local government workers if it wins office."
+      },
+      {
+        "title": "Labour MP Dawn Butler asks BBC for explanation over racial slur during Baftas broadcast",
+        "link": "https://www.bbc.com/news/articles/cn712kvkreeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 24 Feb 2026 10:04:13 GMT",
+        "description": "MP asks why racial slur was not removed from the Bafta Film Awards show when it was on a two-hour delay."
       },
       {
         "title": "Lord Mandelson released on bail after arrest on suspicion of misconduct in public office",
@@ -393,20 +407,6 @@
         "description": "Andrew Mountbatten-Windsor remains eighth in line to the throne despite being stripped of his titles."
       },
       {
-        "title": "Reform vows to overhaul pension schemes for new local government workers",
-        "link": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 23 Feb 2026 22:14:36 GMT",
-        "description": "Reform plans to end more generous defined benefit pension schemes for new local government workers if it wins office"
-      },
-      {
-        "title": "UK says 'nothing is off the table' in response to US tariffs",
-        "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 23 Feb 2026 18:34:22 GMT",
-        "description": "Downing Street says discussions are ongoing following US President Donald Trump's announcement of a 15% global tariffs."
-      },
-      {
         "title": "PM orders ethics investigation into minister over Labour Together claims",
         "link": "https://www.bbc.com/news/articles/c8xy5jepevno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
@@ -428,6 +428,13 @@
     "crypto": "crypto-charts.html"
   },
   "top10": [
+    {
+      "title": "Guthrie suspect believed to have visited home before she went missing",
+      "link": "https://www.bbc.com/news/articles/cdr2kej4j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Tue, 24 Feb 2026 12:34:08 GMT",
+      "description": "A masked man in doorbell camera footage is thought to have visited Guthrie's home before the night she disappeared."
+    },
     {
       "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
       "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
@@ -490,13 +497,6 @@
       "source": "BBC World",
       "published": "Mon, 23 Feb 2026 21:12:47 GMT",
       "description": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
-    },
-    {
-      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
-      "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Mon, 23 Feb 2026 19:08:55 GMT",
-      "description": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
     }
   ]
 }
