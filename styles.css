@@ -107,6 +107,28 @@ body {
   padding: 30px 0;
 }
 
+.charts-section {
+  padding: 24px;
+}
+
+.charts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 20px;
+}
+
+.chart-container {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: #000;
+}
+
+.chart-container iframe {
+  border: none;
+}
+
 @media (max-width: 900px) {
   .grid { grid-template-columns: 1fr; }
+  .charts-grid { grid-template-columns: 1fr; }
 }
