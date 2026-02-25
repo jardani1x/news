@@ -1,8 +1,22 @@
 {
-  "updated_sgt": "2026-02-25 20:04 SGT",
-  "updated_iso": "2026-02-25T20:04:59.491023+08:00",
+  "updated_sgt": "2026-02-26 00:04 SGT",
+  "updated_iso": "2026-02-26T00:04:46.965328+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Zimbabwe rejects 'lopsided' US health aid deal over data concerns",
+        "link": "https://www.bbc.com/news/articles/cwy6nd3664no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 25 Feb 2026 15:25:29 GMT",
+        "description": "Access to biological samples raised flags for Zimbabwe as the US did not want to share the benefits of its research."
+      },
+      {
+        "title": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
+        "link": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 25 Feb 2026 13:18:17 GMT",
+        "description": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
+      },
       {
         "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
         "link": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss",
@@ -53,62 +67,76 @@
         "description": "Police have said 85-year-old Chris Baghsarian was not the intended target of the alleged crime."
       },
       {
-        "title": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
-        "link": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss",
+        "title": "Threat of further violence looms after Mexican cartel rampage",
+        "link": "https://www.bbc.com/news/articles/cgml2djwwvno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 00:43:00 GMT",
-        "description": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive."
-      },
-      {
-        "title": "Louvre museum director resigns months after high-profile heist",
-        "link": "https://www.bbc.com/news/articles/ce3gj7jjl7jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 24 Feb 2026 19:23:36 GMT",
-        "description": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\"."
-      },
-      {
-        "title": "Ukraine remembers its dead as war enters a fifth year",
-        "link": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 24 Feb 2026 18:13:58 GMT",
-        "description": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
+        "published": "Wed, 25 Feb 2026 02:10:46 GMT",
+        "description": "The BBC speaks to Guadalajara residents days after cartel members sought to avenge the killing of Nemesio \"El Mencho\" Oseguera."
       }
     ],
     "Finance": [
       {
+        "title": "David Tepper sends scathing letter to Whirlpool for destroying shareholder value, pushes for changes",
+        "link": "https://www.cnbc.com/2026/02/25/david-tepper-sends-scathing-letter-to-whirlpool.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Feb 2026 15:36:45 GMT",
+        "description": "Tepper said he watched with \"a certain astonishment\" as the company issued equity in what he called a large and unnecessary dilution of shareholders."
+      },
+      {
+        "title": "Taser-maker Axon pops 20% as AI boosts demand for its software tools",
+        "link": "https://www.cnbc.com/2026/02/25/axon-enterprise-axon-q4-2025-earnings.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Feb 2026 15:35:23 GMT",
+        "description": "CEO Rick Smith noted the impact of AI and said Axon is at a \"moment unlike anything\" he has seen since starting the company."
+      },
+      {
+        "title": "David Ellison has a rocky history at the box office. Buying Warner Bros. could fix that",
+        "link": "https://www.cnbc.com/2026/02/25/paramount-wbd-david-ellison-box-office-history.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Feb 2026 15:21:55 GMT",
+        "description": "Only five of Skydance's features to date — three of them starring Tom Cruise — have generated more than $200 million domestically."
+      },
+      {
         "title": "Mortgage rates hit lowest level in nearly 4 years, but homebuyers are still stuck on the sidelines",
         "link": "https://www.cnbc.com/2026/02/25/mortgage-rates-hit-lowest-level-in-nearly-4-years.html",
         "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 12:00:01 GMT",
-        "description": "Mortgage rates dropped to the lowest level since 2022 last week, but demand from homebuyers dropped as well, as they continue to struggle with affordability."
+        "published": "Wed, 25 Feb 2026 15:14:11 GMT",
+        "description": "Mortgage rates dropped to the lowest level since 2022 last week, but demand from homebuyers declined as well, as they continue to struggle with affordability."
       },
       {
-        "title": "Restaurant reservation wars heat up as DoorDash enters the arena with Resy, OpenTable",
-        "link": "https://www.cnbc.com/2026/02/25/doordash-resy-opentable-restaurant-reservation-wars.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 12:00:01 GMT",
-        "description": "The still-simmering reservation wars of the last decade could fully reignite this year, as a shifting tech landscape pits the biggest players against each other."
-      },
-      {
-        "title": "2026 CNBC Changemakers: Women leaders who defied the odds to reach the highest levels of success",
-        "link": "https://www.cnbc.com/2026/02/25/changemakers-women-ceos-founders-success-leadership.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 11:47:55 GMT",
-        "description": "The 2026 CNBC Changemakers are women defying the odds to reach the highest levels of success in fields from AI to healthcare, retail, sports and entertainment."
-      },
-      {
-        "title": "Lowe's earnings beat as sales jump more than 10% despite sluggish housing market",
+        "title": "Lowe's CEO says the housing market is under pressure, even as the retailer's sales jump more than 10%",
         "link": "https://www.cnbc.com/2026/02/25/lowes-low-q4-2025-earnings.html",
         "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 11:41:13 GMT",
+        "published": "Wed, 25 Feb 2026 15:10:36 GMT",
         "description": "Lowe's posted more than 10% sales growth in the fourth quarter at a time when housing turnover and home improvement demand are slow."
+      },
+      {
+        "title": "5 takeaways from Trump's State of the Union address",
+        "link": "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Feb 2026 15:07:10 GMT",
+        "description": "Democrats are nipping at the heels of the incumbent Republicans for control of Congress in the 2026 midterms."
+      },
+      {
+        "title": "Anthropic faces Friday deadline in Defense AI clash with Hegseth",
+        "link": "https://www.cnbc.com/2026/02/24/anthropic-ai-hegseth-spying-defense.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Feb 2026 14:19:00 GMT",
+        "description": "Until this week, Anthropic was the only AI company cleared to deploy its models on classified networks. Elon Musk's xAI is now the second."
       },
       {
         "title": "These are the 2026 CNBC Changemakers: See the full list of women transforming business",
         "link": "https://www.cnbc.com/2026/02/25/changemakers-list-women-business-leadership.html",
         "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 11:00:09 GMT",
+        "published": "Wed, 25 Feb 2026 14:03:26 GMT",
         "description": "CNBC reveals the 2026 Changemakers list, an annual list spotlighting women whose accomplishments have left an indelible mark on the business world."
+      },
+      {
+        "title": "Nvidia’s new AI system Vera Rubin is 10 times more efficient than its predecessor — here’s a first look",
+        "link": "https://www.cnbc.com/2026/02/25/first-look-at-nvidias-ai-system-vera-rubin-and-how-it-beats-blackwell.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Feb 2026 13:00:01 GMT",
+        "description": "CNBC got an exclusive first look at Vera Rubin, Nvidia's next AI system that's due to ship in the second half of the year"
       },
       {
         "title": "Panera Bread releases first-ever value menu with 'Mix & Match' deals",
@@ -116,38 +144,38 @@
         "source": "CNBC Finance",
         "published": "Wed, 25 Feb 2026 11:00:01 GMT",
         "description": "Panera Bread is in the early stages of a turnaround, and affordability is a key part of CEO Paul Carbone's strategy for Panera."
-      },
-      {
-        "title": "5 takeaways from Trump's State of Union address",
-        "link": "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 07:30:58 GMT",
-        "description": "Democrats are nipping at the heels of the incumbent Republicans for control of Congress in the 2026 midterms."
-      },
-      {
-        "title": "Lucid widely misses earnings expectations, forecasts continued EV growth in 2026",
-        "link": "https://www.cnbc.com/2026/02/24/lucid-lcid-q4-2025-results-.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 23:43:35 GMT",
-        "description": "For 2026, Lucid announced a vehicle production target of between 25,000 and 27,000 units, which would be a roughly 40% to 51% increase compared with last year."
-      },
-      {
-        "title": "Cava reports surprise same-store sales growth, driven by menu prices",
-        "link": "https://www.cnbc.com/2026/02/24/cava-q4-2025-earnings.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 22:17:31 GMT",
-        "description": "Cava CFO Tricia Tolivar said the company has been able to create a \"bridge\" in the increasingly K-shaped economy."
-      },
-      {
-        "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase's workforce as bank plans 'huge redeployment’",
-        "link": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 21:33:36 GMT",
-        "description": "JPMorgan, the world's biggest bank by market cap, has the industry's largest annual tech budget at nearly $20 billion, and it has outlined an ambitious AI plan."
       }
     ],
     "Technology": [],
     "Crypto": [
+      {
+        "title": "Bitcoin Forms Descending Pattern That Led To 2018 Bear Market Bottom",
+        "link": "https://bitcoinist.com/bitcoin-descending-pattern/",
+        "source": "Bitcoinist",
+        "published": "Wed, 25 Feb 2026 16:00:23 +0000",
+        "description": "Bitcoin may be shaping a bottoming structure that looks like the formation seen at the end of the 2018 bear market, according to crypto analyst Osemka. After reviewing past macro lows, the analyst is "
+      },
+      {
+        "title": "Wall Street Call: TD Cowen Targets $225,000 Bitcoin By 2027",
+        "link": "https://bitcoinist.com/wall-street-td-cowen-225000-bitcoin-by-2027/",
+        "source": "Bitcoinist",
+        "published": "Wed, 25 Feb 2026 15:00:15 +0000",
+        "description": "TD Cowen is reiterating a bullish medium-term path for Bitcoin, projecting roughly $225,000 per coin by the end of fiscal 2027, while sketching an upside scenario that would take the asset to around $"
+      },
+      {
+        "title": "Why $61,359 Just Became The Most Important Bitcoin Price Point",
+        "link": "https://bitcoinist.com/61359-important-bitcoin-price/",
+        "source": "Bitcoinist",
+        "published": "Wed, 25 Feb 2026 14:00:49 +0000",
+        "description": "The Bitcoin price continues to be stuck in a drawdown trend and broke below the $64,000 support at the start of this week. This move solidified the bears being in charge, thereby signaling the possibi"
+      },
+      {
+        "title": "Former Chainlink Exec Replaces Michael Selig As SEC’s Crypto Task Force Chief Counsel",
+        "link": "https://bitcoinist.com/chainlink-exec-sec-crypto-task-force-chief-counsel/",
+        "source": "Bitcoinist",
+        "published": "Wed, 25 Feb 2026 13:00:36 +0000",
+        "description": "As the Trump administration pushes lawmakers and regulators to develop clear regulatory frameworks, a former Chainlink executive has joined the Securities and Exchange Commission’s (SEC) Crypto Task F"
+      },
       {
         "title": "XRP ETF From BlackRock Possible By Late 2026, Canary CEO Predicts",
         "link": "https://bitcoinist.com/xrp-etf-blackrock-possible-by-late-2026-canary-ceo/",
@@ -175,34 +203,6 @@
         "source": "Bitcoinist",
         "published": "Wed, 25 Feb 2026 09:00:33 +0000",
         "description": "Ark Invest has been putting real money where its mouth is. In a single day — February 12 — the firm snapped up shares across three separate companies tied to the crypto space. Related Reading: Could A"
-      },
-      {
-        "title": "Blockchain Association Calls For Modernized Crypto Tax Rules In New Release",
-        "link": "https://bitcoinist.com/blockchain-association-modernized-crypto-tax-rules/",
-        "source": "Bitcoinist",
-        "published": "Wed, 25 Feb 2026 08:00:36 +0000",
-        "description": "As congressional momentum behind the crypto market structure bill known as the CLARITY Act slows, the Blockchain Association has stepped forward with its own proposal aimed at shaping the next phase o"
-      },
-      {
-        "title": "The $10 Billion Vanishing Act: Binance Stablecoin Reserves Evaporate To 2024 Levels As Liquidity Flees Crypto",
-        "link": "https://bitcoinist.com/10-billion-vanishing-crypto-reserves-evaporate/",
-        "source": "Bitcoinist",
-        "published": "Wed, 25 Feb 2026 07:00:16 +0000",
-        "description": "The crypto market remains under pressure as Bitcoin and major altcoins continue to lose key support levels, reinforcing a cautious tone across digital assets. Momentum has weakened in recent weeks, wi"
-      },
-      {
-        "title": "BIP-110 Could Split Bitcoin In New Soft Fork Fight, Jameson Lopp Warns",
-        "link": "https://bitcoinist.com/bip-110-split-bitcoin-soft-fork-jameson-lopp/",
-        "source": "Bitcoinist",
-        "published": "Wed, 25 Feb 2026 06:00:21 +0000",
-        "description": "Jameson Lopp is escalating his criticism of BIP-110, arguing the proposal could trigger a disruptive Bitcoin chain split while failing to stop the behavior it is meant to curb. In a Feb. 23 post, Lopp"
-      },
-      {
-        "title": "Bitcoin Mining Difficulty Erases Frost-Driven Dips With A Sharp Rebound – What This Means For BTC",
-        "link": "https://bitcoinist.com/bitcoin-mining-difficulty-erases-frost-driven-dips/",
-        "source": "Bitcoinist",
-        "published": "Wed, 25 Feb 2026 05:00:16 +0000",
-        "description": "Bitcoin has remained under sustained pressure since losing the $70,000 level, entering a corrective phase that has gradually pushed price lower while defining a consolidation range just above the $63,"
       }
     ],
     "Markets": [
@@ -210,152 +210,173 @@
         "title": "My grandpa retired happily at 70 with $750K after working as a missionary. I know where most Americans go wrong.",
         "link": "https://www.marketwatch.com/story/my-grandpa-retired-happy-at-70-with-750k-and-hes-doing-just-fine-i-know-where-most-americans-go-wrong-c5774943?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 12:00:00 GMT",
+        "published": "Wed, 25 Feb 2026 16:00:00 GMT",
         "description": "“You could even retire at 55 with $500,000 and be perfectly fine. Am I right?”"
       },
       {
-        "title": "Why this investor says you can make good money off software stocks — if you trade them like telephone directories",
-        "link": "https://www.marketwatch.com/story/why-this-investor-says-you-can-make-good-money-off-software-stocks-if-you-trade-them-like-telephone-directories-e4d15635?mod=mw_rss_topstories",
+        "title": "Oracle’s selloff offers a chance to buy an ‘upper-echelon’ growth stock for cheap: analyst",
+        "link": "https://www.marketwatch.com/story/oracles-stock-selloff-offers-a-chance-to-buy-an-upper-echelon-growth-play-for-cheap-analyst-73e8e1ab?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 12:00:00 GMT",
-        "description": "Deep value investor Lee Roach is looking at beaten-down software stocks for the first time ever."
+        "published": "Wed, 25 Feb 2026 15:53:00 GMT",
+        "description": "An Oppenheimer analyst has turned bullish on Oracle’s stock after a selloff that has wiped away more than half the company’s value since its September peak."
       },
       {
-        "title": "HP blames memory-price surge as it forecasts earnings at low end of previous guidance",
-        "link": "https://www.marketwatch.com/story/hp-blames-memory-price-surge-as-it-forecasts-earnings-at-low-end-of-guidance-dd12410a?mod=mw_rss_topstories",
+        "title": "Here’s what CoreWeave needs to prove with its earnings for the stock to soar further",
+        "link": "https://www.marketwatch.com/story/heres-what-coreweave-needs-to-prove-with-its-earnings-for-the-stock-to-soar-further-029e08ff?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 11:54:00 GMT",
-        "description": "Computer maker HP blamed the surge in memory chip prices as it forecast earnings for the year to come in at the low end of previously issued guidance."
+        "published": "Wed, 25 Feb 2026 15:50:00 GMT",
+        "description": "The AI-infrastructure darling has seen its stock climb 40% this year. CoreWeave’s fourth-quarter earnings report will determine whether the momentum continues."
       },
       {
-        "title": "Lowe’s shares dip after home-improvement retailer warns of ‘ongoing uncertainty’ in category",
-        "link": "https://www.marketwatch.com/story/lowes-shares-dip-after-home-improvement-retailer-warns-of-ongoing-uncertainty-in-category-7bf47d49?mod=mw_rss_topstories",
+        "title": "Tequila sales in the U.S. are collapsing. Diageo is cutting its dividend in half.",
+        "link": "https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 11:46:00 GMT",
-        "description": ""
-      },
-      {
-        "title": "After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?",
-        "link": "https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 11:15:00 GMT",
-        "description": "“I’ve owned my own company for the last 15 years. It’s worth $8.5 million.”"
-      },
-      {
-        "title": "The milestones keep coming for the world’s hottest stock market",
-        "link": "https://www.marketwatch.com/story/the-milestones-keep-coming-for-the-worlds-hottest-stock-market-66800f58?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 10:48:00 GMT",
-        "description": "Exports are booming, the currency is improving and the government is pursuing a very ambitious program of reform to boost the stock market. And it’s working."
+        "published": "Wed, 25 Feb 2026 15:38:00 GMT",
+        "description": "Diageo said it was cutting its dividend in half as it reduced its sales outlook, citing American consumer reluctance to spend due to affordability concerns."
       },
       {
         "title": "‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?",
         "link": "https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 10:30:00 GMT",
+        "published": "Wed, 25 Feb 2026 15:30:00 GMT",
         "description": "“After the divorce was finalized, he and his partner moved out of state to a place where there would be no child-support enforcement.”"
       },
       {
-        "title": "The maker of Taser stun guns says it’s becoming an AI company as bookings surge",
-        "link": "https://www.marketwatch.com/story/the-maker-of-taser-stun-guns-says-its-becoming-an-ai-company-as-bookings-surge-6f364373?mod=mw_rss_topstories",
+        "title": "‘I am fearful’: My ailing relative is being forced into assisted living. What can I do?",
+        "link": "https://www.marketwatch.com/story/i-am-fearful-my-ailing-relative-is-being-forced-into-assisted-living-what-can-i-do-7ce8b42a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 10:19:00 GMT",
-        "description": "Axon Enterprises stock jumped on Wednesday, as the maker of Taser stun guns said its efforts at providing artificial intelligence-driven services to law enforcement clients have led to bookings."
+        "published": "Wed, 25 Feb 2026 15:16:00 GMT",
+        "description": "“My relative also has no idea what they are being charged for these services.”"
       },
       {
-        "title": "Actor James Van Der Beek bought the $4.8 million Texas ranch he rented just before his death",
-        "link": "https://www.marketwatch.com/story/actor-james-van-der-beek-bought-the-4-8-million-texas-ranch-he-rented-just-before-his-death-6e7511ef?mod=mw_rss_topstories",
+        "title": "After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?",
+        "link": "https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 10:01:00 GMT",
-        "description": "James Van Der Beek purchased the sprawling Texas ranch that he and his family lived in just one month before he died at the age of 48, following a battle with colorectal cancer."
+        "published": "Wed, 25 Feb 2026 14:45:00 GMT",
+        "description": "“I’ve owned my own company for the last 15 years. It’s worth $8.5 million.”"
       },
       {
-        "title": "American tequila sales are collapsing. Diageo is cutting its dividend in half.",
-        "link": "https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories",
+        "title": "Why this investor says you can make good money off software stocks — if you trade them like telephone directories",
+        "link": "https://www.marketwatch.com/story/why-this-investor-says-you-can-make-good-money-off-software-stocks-if-you-trade-them-like-telephone-directories-e4d15635?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 08:47:00 GMT",
-        "description": "Diageo on Wednesday said it was cutting its dividend in half as it reduced its sales outlook, citing American consumer reluctance to spend due to affordability concerns."
+        "published": "Wed, 25 Feb 2026 14:39:00 GMT",
+        "description": "Deep value investor Lee Roach is looking at beaten-down software stocks for the first time ever."
+      },
+      {
+        "title": "TJ Maxx parent’s earnings show discount clothes and home goods are still in high demand",
+        "link": "https://www.marketwatch.com/story/tj-maxx-parents-earnings-show-discount-clothes-and-home-goods-are-still-in-high-demand-90fb804d?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Wed, 25 Feb 2026 14:27:00 GMT",
+        "description": "TJ Maxx parent company TJX reported a triple beat with its fourth-quarter results on Wednesday, but shares of the off-price apparel and home-fashions retailer slipped as the outlook disappointed."
+      },
+      {
+        "title": "HSBC reports a beat and a raise as it leapfrogs Wells Fargo by market cap",
+        "link": "https://www.marketwatch.com/story/hsbc-reports-a-beat-and-a-raise-as-it-leapfrogs-wells-fargo-by-market-cap-0e9f15ee?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Wed, 25 Feb 2026 13:31:00 GMT",
+        "description": "HSBC’s guidance for 2026 is pushing analysts to raise their stock-price estimates by around 6%"
       }
     ],
     "Singapore": [
       {
-        "title": "France appoints new president at Louvre after jewellery heist",
-        "link": "https://www.channelnewsasia.com/world/louvre-new-president-christophe-leribault-5952466",
+        "title": "Yen hits two-week low after pro-stimulus board appointments",
+        "link": "https://www.channelnewsasia.com/business/yen-hits-two-week-low-after-pro-stimulus-board-appointments-5951181",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:52:19 +0800",
+        "published": "Wed, 25 Feb 2026 23:45:15 +0800",
         "description": ""
       },
       {
-        "title": "US and South Korean militaries to have joint drills in March as tensions with North Korea escalate",
-        "link": "https://www.channelnewsasia.com/asia/south-korea-us-joint-military-drills-north-korea-5951856",
+        "title": "Preferred consortium pull out of Sheffield Wednesday purchase",
+        "link": "https://www.channelnewsasia.com/sport/preferred-consortium-pull-out-sheffield-wednesday-purchase-5952906",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:46:18 +0800",
+        "published": "Wed, 25 Feb 2026 23:24:44 +0800",
         "description": ""
       },
       {
-        "title": "Chelsea and West Ham fined heavily for mass brawl at end of London derby",
-        "link": "https://www.channelnewsasia.com/sport/chelsea-and-west-ham-fined-heavily-mass-brawl-end-london-derby-5952451",
+        "title": "JP Morgan raises long-term gold price forecast to $4,500",
+        "link": "https://www.channelnewsasia.com/business/jp-morgan-raises-long-term-gold-price-forecast-4500-5952871",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:42:43 +0800",
+        "published": "Wed, 25 Feb 2026 23:06:05 +0800",
         "description": ""
       },
       {
-        "title": "Several YouTrip customers charged for declined transactions, platform working to reverse payments",
-        "link": "https://www.channelnewsasia.com/singapore/youtrip-card-payment-issues-reverse-transactions-5952376",
+        "title": "Taylor to hang up gloves after Dublin farewell fight this year",
+        "link": "https://www.channelnewsasia.com/sport/taylor-hang-up-gloves-after-dublin-farewell-fight-year-5952831",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:37:03 +0800",
-        "description": "Several customers were unable to use their YouTrip cards on Tuesday (Feb 24) but were charged for the failed transactions the next day.&nbsp;"
-      },
-      {
-        "title": "Circle's fourth-quarter revenue rises on strong stablecoin circulation",
-        "link": "https://www.channelnewsasia.com/business/circles-fourth-quarter-revenue-rises-strong-stablecoin-circulation-5952426",
-        "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:30:31 +0800",
+        "published": "Wed, 25 Feb 2026 22:48:18 +0800",
         "description": ""
       },
       {
-        "title": "Options traders price Nvidia's smallest post‑earnings swing in three years",
-        "link": "https://www.channelnewsasia.com/business/options-traders-price-nvidias-smallest-post-earnings-swing-in-three-years-5952416",
+        "title": "West Indies enter South Africa clash with nothing to prove, says coach",
+        "link": "https://www.channelnewsasia.com/sport/west-indies-enter-south-africa-clash-nothing-prove-says-coach-5952836",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:23:56 +0800",
+        "published": "Wed, 25 Feb 2026 22:46:26 +0800",
         "description": ""
       },
       {
-        "title": "MotoGP braces for high-stakes 2026 season with grid in flux",
-        "link": "https://www.channelnewsasia.com/sport/motogp-braces-high-stakes-2026-season-grid-in-flux-5952406",
+        "title": "13-year-old reported missing in Kallang River, search to resume on Thursday morning",
+        "link": "https://www.channelnewsasia.com/singapore/kallang-river-missing-boy-13-year-old-search-rescue-operation-scdf-5952786",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:20:08 +0800",
+        "published": "Wed, 25 Feb 2026 22:45:00 +0800",
+        "description": "The police were alerted to a case of suspected drowning at the Kallang River at about 4.30pm on Wednesday."
+      },
+      {
+        "title": "Horse racing-Constitution Hill will not run in Champion Hurdle, says trainer",
+        "link": "https://www.channelnewsasia.com/sport/horse-racing-constitution-hill-will-not-run-in-champion-hurdle-says-trainer-5952806",
+        "source": "CNA Singapore",
+        "published": "Wed, 25 Feb 2026 22:18:54 +0800",
         "description": ""
       },
       {
-        "title": "2030 French Alps organising committee CEO exits amid governance dispute",
-        "link": "https://www.channelnewsasia.com/sport/2030-french-alps-organising-committee-ceo-exits-amid-governance-dispute-5952386",
+        "title": "Israeli AI-cyber firm Gambit Security raises $61 million",
+        "link": "https://www.channelnewsasia.com/business/israeli-ai-cyber-firm-gambit-security-raises-61-million-5952761",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:13:21 +0800",
+        "published": "Wed, 25 Feb 2026 22:06:27 +0800",
         "description": ""
       },
       {
-        "title": "Woman suing Meta, YouTube over social media addiction takes the stand at trial",
-        "link": "https://www.channelnewsasia.com/business/woman-suing-meta-youtube-over-social-media-addiction-takes-stand-trial-5952361",
+        "title": "Iran sees 'good outlook' for talks with US as negotiating team heads to Geneva",
+        "link": "https://www.channelnewsasia.com/world/iran-sees-good-outlook-talks-us-negotiating-team-heads-geneva-5952731",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:07:14 +0800",
+        "published": "Wed, 25 Feb 2026 21:59:00 +0800",
         "description": ""
       },
       {
-        "title": "Teetering US tech trade puts anchor on market as Nvidia test looms",
-        "link": "https://www.channelnewsasia.com/business/teetering-us-tech-trade-puts-anchor-market-nvidia-test-looms-5952336",
+        "title": "Telecom Italia mulls premium pricing for high‑performance connectivity at big events",
+        "link": "https://www.channelnewsasia.com/business/telecom-italia-mulls-premium-pricing-high-performance-connectivity-big-events-5952741",
         "source": "CNA Singapore",
-        "published": "Wed, 25 Feb 2026 19:02:01 +0800",
+        "published": "Wed, 25 Feb 2026 21:49:52 +0800",
         "description": ""
       }
     ],
     "US Politics": [
       {
-        "title": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
-        "link": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&at_campaign=rss",
+        "title": "UK government denies Chagos Islands deal is paused",
+        "link": "https://www.bbc.com/news/articles/cr5lqd4g338o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 25 Feb 2026 08:55:55 GMT",
-        "description": "The peer's lawyers say there is no truth in the suggestion he was planning to leave the UK."
+        "published": "Wed, 25 Feb 2026 15:48:47 GMT",
+        "description": "It come after a minister said the UK is discussing \"concerns\" with the US, after President Trump criticised the deal."
+      },
+      {
+        "title": "Starmer promises to look at making student loans 'fairer'",
+        "link": "https://www.bbc.com/news/articles/c23z744k7kro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 25 Feb 2026 15:30:55 GMT",
+        "description": "Conservative leader Kemi Badenoch said the system had become a \"debt trap\" for graduates."
+      },
+      {
+        "title": "Labour MPs call for urgent action on 'unfair' student loans",
+        "link": "https://www.bbc.com/news/articles/c4g2kxjg1e1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 25 Feb 2026 14:58:19 GMT",
+        "description": "MPs criticise \"rip-off\" interest rates and unfair changes to repayment terms during a debate in Parliament"
+      },
+      {
+        "title": "Commons Speaker passed information to police on Mandelson ahead of arrest",
+        "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 25 Feb 2026 14:25:04 GMT",
+        "description": "It comes after lawyers for the Labour peer complained about the force's decision to arrest him on Monday."
       },
       {
         "title": "Chris Mason: MPs take a new tone on Andrew – but how big is their appetite for radical changes?",
@@ -379,32 +400,11 @@
         "description": "The former prince travelled the globe as the UK's trade representative between 2001 and 2011."
       },
       {
-        "title": "MPs demand temporary ban on crypto donations to UK parties",
-        "link": "https://www.bbc.com/news/articles/c9wny27y2ylo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 24 Feb 2026 20:27:46 GMT",
-        "description": "It comes amid concerns the anonymity of crypto could be used to get round rules on foreign donations."
-      },
-      {
-        "title": "Reform by-election activist suspended over posts",
-        "link": "https://www.bbc.com/news/articles/c89k0g7vexeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 24 Feb 2026 18:56:35 GMT",
-        "description": "Adam Mitula, who has been campaigning ahead of the Gorton and Denton by-election, made the posts on X."
-      },
-      {
         "title": "Court backlog will continue to rise even with new reforms, Lammy says",
         "link": "https://www.bbc.com/news/articles/ckg2dkkv865o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Tue, 24 Feb 2026 18:21:50 GMT",
         "description": "The justice secretary says every crown court in England and Wales will be funded to hear as many cases as possible next year."
-      },
-      {
-        "title": "Sturgeon accused Salmond of 'revenge mission' against her government",
-        "link": "https://www.bbc.com/news/articles/c8jxpvl9dm8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 24 Feb 2026 18:04:12 GMT",
-        "description": "Sturgeon made the remark during an interview when she was being investigated over claims she misled parliament."
       },
       {
         "title": "No decision on which Mandelson files to release, committee chair says",
@@ -428,6 +428,20 @@
     "crypto": "crypto-charts.html"
   },
   "top10": [
+    {
+      "title": "Zimbabwe rejects 'lopsided' US health aid deal over data concerns",
+      "link": "https://www.bbc.com/news/articles/cwy6nd3664no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Wed, 25 Feb 2026 15:25:29 GMT",
+      "description": "Access to biological samples raised flags for Zimbabwe as the US did not want to share the benefits of its research."
+    },
+    {
+      "title": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
+      "link": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Wed, 25 Feb 2026 13:18:17 GMT",
+      "description": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
+    },
     {
       "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
       "link": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss",
@@ -478,25 +492,11 @@
       "description": "Police have said 85-year-old Chris Baghsarian was not the intended target of the alleged crime."
     },
     {
-      "title": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
-      "link": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss",
+      "title": "Threat of further violence looms after Mexican cartel rampage",
+      "link": "https://www.bbc.com/news/articles/cgml2djwwvno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 00:43:00 GMT",
-      "description": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive."
-    },
-    {
-      "title": "Louvre museum director resigns months after high-profile heist",
-      "link": "https://www.bbc.com/news/articles/ce3gj7jjl7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 24 Feb 2026 19:23:36 GMT",
-      "description": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\"."
-    },
-    {
-      "title": "Ukraine remembers its dead as war enters a fifth year",
-      "link": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 24 Feb 2026 18:13:58 GMT",
-      "description": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
+      "published": "Wed, 25 Feb 2026 02:10:46 GMT",
+      "description": "The BBC speaks to Guadalajara residents days after cartel members sought to avenge the killing of Nemesio \"El Mencho\" Oseguera."
     }
   ]
 }
