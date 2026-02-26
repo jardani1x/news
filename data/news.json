@@ -1,42 +1,14 @@
 {
-  "updated_sgt": "2026-02-26 12:08 SGT",
-  "updated_iso": "2026-02-26T12:08:13.663112+08:00",
+  "updated_sgt": "2026-02-26 16:04 SGT",
+  "updated_iso": "2026-02-26T16:04:45.929339+08:00",
   "categories": {
     "World": [
       {
-        "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-        "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 22:35:14 GMT",
-        "description": "BBC international correspondent Quentin Sommerville travelled to Culiacán in northern Sinaloa state following an explosion in violence."
-      },
-      {
-        "title": "Politician brothers convicted in Brazil for ordering murder of prominent councillor",
-        "link": "https://www.bbc.com/news/articles/c4g058v3d35o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 19:35:08 GMT",
-        "description": "Marielle Franco's murder at the age of 38 in Rio de Janeiro sparked protests across Brazil."
-      },
-      {
-        "title": "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
-        "link": "https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 19:30:25 GMT",
-        "description": "The release comes on the same day as the death of the coup leader, Antonio Tejero Molina."
-      },
-      {
-        "title": "Six months ago a man accused of killing two officers fled into bushland. Will he ever be found?",
+        "title": "Trail goes cold for conspiracy theorist gunman six months on",
         "link": "https://www.bbc.com/news/articles/cm280j2jgvyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Wed, 25 Feb 2026 19:05:43 GMT",
-        "description": "Conspiracist Dezi Freeman hasn't been seen again – but people in the small town of Porepunkah want closure."
-      },
-      {
-        "title": "Pope Leo to visit four African countries in April",
-        "link": "https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 18:47:05 GMT",
-        "description": "This is the first time that a pope will visit Algeria, whose population is mostly Muslim."
+        "description": "Dezi Freeman fled into bushland after allegedly gunning down two police officers in August."
       },
       {
         "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
@@ -46,25 +18,39 @@
         "description": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
       },
       {
-        "title": "Trump keeps world waiting on his plans for Iran after State of the Union",
-        "link": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+        "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 15:16:33 GMT",
-        "description": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making."
+        "published": "Thu, 26 Feb 2026 06:01:11 GMT",
+        "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes."
       },
       {
-        "title": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
-        "link": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
+        "title": "North Korea could 'get along' with US, says Kim Jong Un",
+        "link": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 13:18:17 GMT",
-        "description": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
+        "published": "Thu, 26 Feb 2026 05:25:54 GMT",
+        "description": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay."
       },
       {
-        "title": "Four shot dead on US-registered speedboat were Cuban nationals, Cuba says",
+        "title": "Orban accuses Ukraine of disrupting oil supplies to Hungary",
+        "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 04:08:25 GMT",
+        "description": "Ukraine says a critical pipeline was closed after Russian strikes."
+      },
+      {
+        "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
+        "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 03:41:47 GMT",
+        "description": "The 78-year-old Lai, however, remains detained for a separate national security case."
+      },
+      {
+        "title": "Cuba says it shot dead four people on US-registered speedboat",
         "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Thu, 26 Feb 2026 03:15:58 GMT",
-        "description": "The passengers were armed and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government said."
+        "description": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says."
       },
       {
         "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
@@ -72,6 +58,20 @@
         "source": "BBC World",
         "published": "Thu, 26 Feb 2026 02:01:06 GMT",
         "description": "The 33-year-old will still face federal charges in the US and is due to appear in court on Thursday."
+      },
+      {
+        "title": "US and Iran to hold talks as pressure for nuclear deal builds",
+        "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 00:09:47 GMT",
+        "description": "The indirect negotiations are seen as a last-ditch effort to prevent a conflict, but the chances of a nuclear agreement are unclear."
+      },
+      {
+        "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
+        "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 00:02:48 GMT",
+        "description": "New evidence reveals what happened when 19 people were shot dead in Kathmandu last September."
       }
     ],
     "Finance": [
@@ -83,20 +83,6 @@
         "description": "Larry Summers last fall said, \"I am deeply ashamed of my actions and recognize the pain they have caused,\" after his emails with Jeffrey Epstein came to light."
       },
       {
-        "title": "Bill Gates reportedly apologizes, admits to two affairs in candid town hall",
-        "link": "https://www.cnbc.com/2026/02/25/bill-gates-epstein-files-affair.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 19:47:43 GMT",
-        "description": "Bill Gates \"took responsibility for his actions\" in a meeting with employees of the Gates Foundation, which had held fundraising discussions with Epstein."
-      },
-      {
-        "title": "5 takeaways from Trump's State of the Union address",
-        "link": "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 17:55:46 GMT",
-        "description": "Democrats are nipping at the heels of the incumbent Republicans for control of Congress in the 2026 midterms."
-      },
-      {
         "title": "These are the 2026 CNBC Changemakers: See the full list of women transforming business",
         "link": "https://www.cnbc.com/2026/02/25/changemakers-list-women-business-leadership.html",
         "source": "CNBC Finance",
@@ -104,18 +90,46 @@
         "description": "CNBC reveals the 2026 Changemakers list, an annual list spotlighting women whose accomplishments have left an indelible mark on the business world."
       },
       {
+        "title": "Nvidia’s new AI system Vera Rubin is 10 times more efficient than its predecessor — here’s a first look",
+        "link": "https://www.cnbc.com/2026/02/25/first-look-at-nvidias-ai-system-vera-rubin-and-how-it-beats-blackwell.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Feb 2026 13:00:01 GMT",
+        "description": "CNBC got an exclusive first look at Vera Rubin, Nvidia's next AI system that's due to ship in the second half of the year"
+      },
+      {
+        "title": "Register now: Applications open for the World's Top Fintech Companies 2026",
+        "link": "https://www.cnbc.com/2026/02/25/cnbc-worlds-top-fintech-companies-2026-apply-now.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Feb 2026 23:08:25 GMT",
+        "description": "CNBC and Statista chart the top fintech players from around the world, ranging from startups to Big Tech names."
+      },
+      {
         "title": "Trump insists trade deals safe after Supreme Court ruling upends tariff authority, but partners aren’t so sure",
         "link": "https://www.cnbc.com/2026/02/26/trump-state-of-the-union-supreme-court-tariffs-trade-deals-ieepa-section-301-232-122.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 03:45:38 GMT",
+        "published": "Thu, 26 Feb 2026 07:45:05 GMT",
         "description": "The Supreme Court decision to strike down Trump's tariffs has thrown fresh confusion over the raft of trade deals negotiated with global partners, stalling trade talks."
       },
       {
-        "title": "Japan's Nikkei 225 crosses 59,000 first the first time as central bank board picks fuel 'Takaichi trade'",
-        "link": "https://www.cnbc.com/2026/02/26/asia-pacific-markets-nvidia-kospi-nikkei-225-hang-seng-index.html",
+        "title": "Jeep maker Stellantis posts first annual loss in company history after EV writedowns",
+        "link": "https://www.cnbc.com/2026/02/26/stellantis-earnings-full-year-2025-autos-evs.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 02:46:59 GMT",
-        "description": "Asia-Pacific markets were poised to open higher on Thursday, tracking Wall Street gains as strong earnings from Nvidia and Oracle lifted investor sentiment."
+        "published": "Thu, 26 Feb 2026 07:41:26 GMT",
+        "description": "The results come shortly after the auto giant scaled back its EV ambitions following a major strategic shift."
+      },
+      {
+        "title": "China holiday spending sends a strong signal on consumer stimulus plans",
+        "link": "https://www.cnbc.com/2026/02/26/china-lunar-new-year-holiday-spending-signal-consumer-stimulus-outlook.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 04:26:21 GMT",
+        "description": "China's nine-day Lunar New Year holiday showed consumers were eager to travel, while remaining price-conscious."
+      },
+      {
+        "title": "Nvidia’s Jensen Huang says markets ‘got it wrong’ on AI threat to software companies",
+        "link": "https://www.cnbc.com/2026/02/26/nvidia-jensen-huang-gpu-ai-threat-software-companies-saas-earnings-chips.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 02:36:44 GMT",
+        "description": "Investors had grown weary that the massive run-up in spending on AI hardware might not be sustainable, stoking fears of a bubble building in the sector."
       },
       {
         "title": "Asia tech stocks rally as Nvidia earnings soothe AI slowdown fears",
@@ -125,49 +139,35 @@
         "description": "Asian tech stocks rallied as stronger-than-expected results from Nvidia eased concerns that momentum in artificial intelligence spending was cooling."
       },
       {
-        "title": "Nvidia's forecast points to accelerating growth, as Vera Rubin starts hitting market",
-        "link": "https://www.cnbc.com/2026/02/25/nvidia-forecast-points-to-accelerating-growth-vera-rubin-hits-market.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 01:55:33 GMT",
-        "description": "In its earnings report, Nvidia gave guidance for the first quarter that sailed past estimates, with growth projected to reach its fastest in a year."
-      },
-      {
         "title": "Salesforce shares sink on mixed guidance as company commits $50 billion for buybacks",
         "link": "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
         "source": "CNBC Finance",
         "published": "Thu, 26 Feb 2026 00:54:17 GMT",
         "description": "Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition."
-      },
-      {
-        "title": "Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75%",
-        "link": "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 00:06:54 GMT",
-        "description": "Nvidia has been the best performer on Wall Street this year among tech's megacap companies."
       }
     ],
     "Technology": [],
     "Crypto": [
       {
-        "title": "Cardano’s Price Remains Under Downside Pressure, But Here’s What Investors Are Up To",
-        "link": "https://bitcoinist.com/what-cardano-investors-are-up-to/",
+        "title": "Crypto Influencers In South Korea Face New Rules: Disclose Holdings",
+        "link": "https://bitcoinist.com/crypto-influencers-in-south-korea-face-new-rules-disclose-holdings/",
         "source": "Bitcoinist",
-        "published": "Wed, 25 Feb 2026 23:00:40 +0000",
-        "description": "With the persistent downside performance of the Cardano price over the past few weeks, its short-term outlook is turning out to be uncertain and highly volatile. However, investors’ action is telling "
+        "published": "Thu, 26 Feb 2026 07:00:03 +0000",
+        "description": "The crypto market in Seoul may get a little clearer about who’s talking and why. According to recent reports, lawmakers in South Korea are drafting rules that would force people who give investment ti"
       },
       {
-        "title": "Ripple CTO Emeritus Fires Back at XRP Ledger Centralization Claims",
-        "link": "https://bitcoinist.com/ripple-cto-emeritus-xrp-ledger-centralization/",
+        "title": "Ethereum Exchange Deposits Hit A Six-Month High: Panic Selling Or Structural Reset?",
+        "link": "https://bitcoinist.com/ethereum-exchange-deposits-hit-six-month-high/",
         "source": "Bitcoinist",
-        "published": "Wed, 25 Feb 2026 22:00:18 +0000",
-        "description": "Ripple CTO Emeritus David “JoelKatz” Schwartz pushed back against claims that the XRP Ledger (XRPL) is effectively centralized, after founder and CIO of Cyber Capital Justin Bons argued that XRPL’s Un"
+        "published": "Thu, 26 Feb 2026 06:00:16 +0000",
+        "description": "Ethereum continues to face sustained selling pressure as broader crypto market sentiment shifts toward caution and, in some segments, outright panic. Price action has struggled to regain stability in "
       },
       {
-        "title": "Why Has Ripple Spent $2.7 Billion In Acquisitions In 3 Years, And What Does It Have To Do With XRP?",
-        "link": "https://bitcoinist.com/ripple-xrp-billions-in-acquisitions/",
+        "title": "From Crypto Partners To Alleged Poisoner: A South Korean Business Gone Wrong",
+        "link": "https://bitcoinist.com/from-crypto-partners-to-alleged-poisoner-a-south-korean-business-gone-wrong/",
         "source": "Bitcoinist",
-        "published": "Wed, 25 Feb 2026 21:00:09 +0000",
-        "description": "Ripple, a crypto payments company and the largest XRP holder, has been aggressively expanding and developing its infrastructure for the past three years. Within this short timeframe, the crypto firm h"
+        "published": "Thu, 26 Feb 2026 05:00:27 +0000",
+        "description": "A man in his thirties has been charged with attempted murder after a business partner fell ill following a meeting at a café, reports say. The case stems from a dispute over failed crypto investments."
       },
       {
         "title": "Bitcoin Flips To A Premium On Coinbase As US Institutions Absorb Global Retail Panic – Details",
@@ -279,73 +279,73 @@
     ],
     "Singapore": [
       {
-        "title": "Father of Hong Kong activist sentenced to 8 months in jail under national security law",
-        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-activist-father-sentenced-8-months-jail-national-security-law-5954211",
+        "title": "Better support urged for Hong Kong’s growing elderly population as more live alone",
+        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-growing-elderly-population-living-alone-better-support-urged-5954596",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 12:03:00 +0800",
+        "published": "Thu, 26 Feb 2026 15:54:17 +0800",
+        "description": "The number of seniors living alone in the city has jumped by about 43 per cent in five years, raising concerns over loneliness and safety. &nbsp;"
+      },
+      {
+        "title": "Australia union seeks urgent talks with WiseTech over AI‑driven job cuts",
+        "link": "https://www.channelnewsasia.com/business/australia-union-seeks-urgent-talks-wisetech-over-ai-driven-job-cuts-5954701",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 15:32:34 +0800",
         "description": ""
       },
       {
-        "title": "Actor Elvin Ng has emergency eye surgery after nearly losing his vision, says ChatGPT helped him to act fast",
-        "link": "https://www.channelnewsasia.com/entertainment/actor-elvin-ng-emergency-eye-surgery-5954111",
+        "title": "Russia questions how Trump's Board of Peace will work with UN Security Council",
+        "link": "https://www.channelnewsasia.com/world/russia-questions-how-trumps-board-peace-will-work-un-security-council-5954621",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 11:57:40 +0800",
-        "description": "Speaking to 8days.sg, the Mediacorp actor says he has always been against using ChatGPT, but admits it probably saved his vision this time."
-      },
-      {
-        "title": "2PM’s Taecyeon to marry non-celebrity fiancee in April",
-        "link": "https://www.channelnewsasia.com/entertainment/2pm-taecyeon-marry-april-wedding-5954031",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 11:30:09 +0800",
-        "description": "The wedding is set to take place in Seoul on Apr 24.&nbsp;"
-      },
-      {
-        "title": "South Korea watchdog fines Coupang $1.6 million for pressuring suppliers, delaying payments",
-        "link": "https://www.channelnewsasia.com/business/south-korea-watchdog-fines-coupang-16-million-pressuring-suppliers-delaying-payments-5954171",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 11:05:08 +0800",
+        "published": "Thu, 26 Feb 2026 15:24:00 +0800",
         "description": ""
       },
       {
-        "title": "Toyota plans around US$19 billion share sale by financial institutions, sources say",
-        "link": "https://www.channelnewsasia.com/business/toyota-plans-around-us19-billion-share-sale-financial-institutions-sources-say-5954151",
+        "title": "Budget 2026 debate: No 'jobless growth' in Singapore even as AI reshapes economy, says PM Wong",
+        "link": "https://www.channelnewsasia.com/singapore/no-jobless-growth-ai-reshapes-economy-pm-wong-budget-2026-debate-5954581",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 11:03:00 +0800",
+        "published": "Thu, 26 Feb 2026 15:23:00 +0800",
+        "description": "The government will invest “more deliberately and more systematically” in Singaporeans, said the prime minister."
+      },
+      {
+        "title": "Thai runner-up party seeks criminal case against election officials",
+        "link": "https://www.channelnewsasia.com/asia/thailand-peoples-party-criminal-case-election-officials-5954676",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 15:21:59 +0800",
         "description": ""
       },
       {
-        "title": "Dior's former creative director Maria Grazia Chiuri presents debut collection for Fendi at Milan Fashion Week",
-        "link": "https://www.channelnewsasia.com/obsessions/maria-grazia-chiuri-fendi-debut-milan-fashion-week-2026-5953061",
+        "title": "‘No invasive intent’: Indonesia’s first aircraft carrier not for combat but for disaster relief, says defence ministry",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-first-aircraft-carrier-not-combat-disaster-relief-defence-ministry-5954626",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 11:01:04 +0800",
-        "description": "Maria Grazia Chiuri returned to Fendi – where she began as a handbag designer – with a debut heavy on dark tailoring and sensuous eveningwear."
+        "published": "Thu, 26 Feb 2026 15:16:00 +0800",
+        "description": "The acquisition of the Italian-made Giuseppe Garibaldi makes Indonesia the second Southeast Asian country after Thailand to operate an aircraft carrier."
       },
       {
-        "title": "Australian PM sorry after saying sexual assault survivor 'difficult'",
-        "link": "https://www.channelnewsasia.com/world/australian-pm-sorry-after-saying-sexual-assault-survivor-difficult-5954106",
+        "title": "Star Awards 2026: Emerald Hill leads nominations with 17 nods in 9 categories",
+        "link": "https://www.channelnewsasia.com/entertainment/star-awards-2026-nominations-best-actor-actress-emerald-hill-5954301",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 10:49:42 +0800",
+        "published": "Thu, 26 Feb 2026 15:01:17 +0800",
+        "description": "Additionally, there's a host of first-time nominees including James Seah, Cheryl Chou and Tyler Ten."
+      },
+      {
+        "title": "Founder of scandal-hit Nidec resigns as chairman emeritus",
+        "link": "https://www.channelnewsasia.com/business/founder-scandal-hit-nidec-resigns-chairman-emeritus-5954651",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 14:57:06 +0800",
         "description": ""
       },
       {
-        "title": "Samsung announces new Galaxy S26 and Galaxy Buds4 series",
-        "link": "https://www.channelnewsasia.com/living/samsung-galaxy-s26-buds4-price-availability-singapore-5953291",
+        "title": "New Zealand's Woodman-Wickliffe retires for second time",
+        "link": "https://www.channelnewsasia.com/sport/new-zealands-woodman-wickliffe-retires-second-time-5954646",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 10:41:00 +0800",
-        "description": "Samsung's new Galaxy S26 Ultra, S26+ and S26 phones are now available for pre-order in Singapore, with general availability from Mar 11."
-      },
-      {
-        "title": "Hawkish BOJ board member calls for focus on inflation overshoot risk",
-        "link": "https://www.channelnewsasia.com/business/hawkish-boj-board-member-calls-focus-inflation-overshoot-risk-5954076",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 10:34:50 +0800",
+        "published": "Thu, 26 Feb 2026 14:53:37 +0800",
         "description": ""
       },
       {
-        "title": "US denies visas to Cuban baseball officials ahead of international tournament",
-        "link": "https://www.channelnewsasia.com/sport/us-denies-visas-cuban-baseball-officials-ahead-international-tournament-5954071",
+        "title": "PSG have been toughened up for later stages of the Champions League - Luis Enrique",
+        "link": "https://www.channelnewsasia.com/sport/psg-have-been-toughened-up-later-stages-champions-league-luis-enrique-5954631",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 10:31:48 +0800",
+        "published": "Thu, 26 Feb 2026 14:49:34 +0800",
         "description": ""
       }
     ],
@@ -393,13 +393,6 @@
         "description": "MPs criticise \"rip-off\" interest rates and unfair changes to repayment terms during a debate in Parliament"
       },
       {
-        "title": "Fourth Tory councillor defects to Reform",
-        "link": "https://www.bbc.com/news/articles/c626q7838vzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 25 Feb 2026 12:22:46 GMT",
-        "description": "Carl Edwards says he has watched \"promise after promise broken\" by his former party."
-      },
-      {
         "title": "Chris Mason: MPs take a new tone on Andrew – but how big is their appetite for radical changes?",
         "link": "https://www.bbc.com/news/articles/cvgk3gpy34jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
@@ -419,6 +412,13 @@
         "source": "BBC Politics",
         "published": "Tue, 24 Feb 2026 18:21:50 GMT",
         "description": "The justice secretary says every crown court in England and Wales will be funded to hear as many cases as possible next year."
+      },
+      {
+        "title": "Gorton and Denton by-election polls open",
+        "link": "https://www.bbc.com/news/articles/c3v7z9dxe0qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 26 Feb 2026 07:00:05 GMT",
+        "description": "There are 11 candidates battling to become the next MP for Gorton and Denton in Greater Manchester."
       }
     ],
     "Science": []
@@ -429,39 +429,11 @@
   },
   "top10": [
     {
-      "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-      "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 22:35:14 GMT",
-      "description": "BBC international correspondent Quentin Sommerville travelled to Culiacán in northern Sinaloa state following an explosion in violence."
-    },
-    {
-      "title": "Politician brothers convicted in Brazil for ordering murder of prominent councillor",
-      "link": "https://www.bbc.com/news/articles/c4g058v3d35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 19:35:08 GMT",
-      "description": "Marielle Franco's murder at the age of 38 in Rio de Janeiro sparked protests across Brazil."
-    },
-    {
-      "title": "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
-      "link": "https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 19:30:25 GMT",
-      "description": "The release comes on the same day as the death of the coup leader, Antonio Tejero Molina."
-    },
-    {
-      "title": "Six months ago a man accused of killing two officers fled into bushland. Will he ever be found?",
+      "title": "Trail goes cold for conspiracy theorist gunman six months on",
       "link": "https://www.bbc.com/news/articles/cm280j2jgvyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Wed, 25 Feb 2026 19:05:43 GMT",
-      "description": "Conspiracist Dezi Freeman hasn't been seen again – but people in the small town of Porepunkah want closure."
-    },
-    {
-      "title": "Pope Leo to visit four African countries in April",
-      "link": "https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 18:47:05 GMT",
-      "description": "This is the first time that a pope will visit Algeria, whose population is mostly Muslim."
+      "description": "Dezi Freeman fled into bushland after allegedly gunning down two police officers in August."
     },
     {
       "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
@@ -471,25 +443,39 @@
       "description": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
     },
     {
-      "title": "Trump keeps world waiting on his plans for Iran after State of the Union",
-      "link": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+      "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 15:16:33 GMT",
-      "description": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making."
+      "published": "Thu, 26 Feb 2026 06:01:11 GMT",
+      "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes."
     },
     {
-      "title": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
-      "link": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
+      "title": "North Korea could 'get along' with US, says Kim Jong Un",
+      "link": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 13:18:17 GMT",
-      "description": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
+      "published": "Thu, 26 Feb 2026 05:25:54 GMT",
+      "description": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay."
     },
     {
-      "title": "Four shot dead on US-registered speedboat were Cuban nationals, Cuba says",
+      "title": "Orban accuses Ukraine of disrupting oil supplies to Hungary",
+      "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 04:08:25 GMT",
+      "description": "Ukraine says a critical pipeline was closed after Russian strikes."
+    },
+    {
+      "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
+      "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 03:41:47 GMT",
+      "description": "The 78-year-old Lai, however, remains detained for a separate national security case."
+    },
+    {
+      "title": "Cuba says it shot dead four people on US-registered speedboat",
       "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Thu, 26 Feb 2026 03:15:58 GMT",
-      "description": "The passengers were armed and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government said."
+      "description": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says."
     },
     {
       "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
@@ -497,6 +483,20 @@
       "source": "BBC World",
       "published": "Thu, 26 Feb 2026 02:01:06 GMT",
       "description": "The 33-year-old will still face federal charges in the US and is due to appear in court on Thursday."
+    },
+    {
+      "title": "US and Iran to hold talks as pressure for nuclear deal builds",
+      "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 00:09:47 GMT",
+      "description": "The indirect negotiations are seen as a last-ditch effort to prevent a conflict, but the chances of a nuclear agreement are unclear."
+    },
+    {
+      "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
+      "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 00:02:48 GMT",
+      "description": "New evidence reveals what happened when 19 people were shot dead in Kathmandu last September."
     }
   ]
 }
