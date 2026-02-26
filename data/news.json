@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-02-26 16:04 SGT",
-  "updated_iso": "2026-02-26T16:04:45.929339+08:00",
+  "updated_sgt": "2026-02-26 17:19 SGT",
+  "updated_iso": "2026-02-26T17:19:31.213214+08:00",
   "categories": {
     "World": [
       {
@@ -18,6 +18,13 @@
         "description": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
       },
       {
+        "title": "Cuba says it shot dead four people on US-registered speedboat",
+        "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 08:16:40 GMT",
+        "description": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says."
+      },
+      {
         "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
         "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -32,11 +39,11 @@
         "description": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay."
       },
       {
-        "title": "Orban accuses Ukraine of disrupting oil supplies to Hungary",
+        "title": "Orban steps up oil accusations against Ukraine after vetoing EU loan to Kyiv",
         "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Thu, 26 Feb 2026 04:08:25 GMT",
-        "description": "Ukraine says a critical pipeline was closed after Russian strikes."
+        "description": "Hungary's prime minister accuses Kyiv of imposing an \"oil blockade\" after Kyiv says a critical pipeline was closed after Russian strikes."
       },
       {
         "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
@@ -44,13 +51,6 @@
         "source": "BBC World",
         "published": "Thu, 26 Feb 2026 03:41:47 GMT",
         "description": "The 78-year-old Lai, however, remains detained for a separate national security case."
-      },
-      {
-        "title": "Cuba says it shot dead four people on US-registered speedboat",
-        "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 03:15:58 GMT",
-        "description": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says."
       },
       {
         "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
@@ -76,13 +76,6 @@
     ],
     "Finance": [
       {
-        "title": "Epstein files: Larry Summers to resign as Harvard professor as fallout continues",
-        "link": "https://www.cnbc.com/2026/02/25/epstein-larry-summers-harvard-professor.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 22:20:27 GMT",
-        "description": "Larry Summers last fall said, \"I am deeply ashamed of my actions and recognize the pain they have caused,\" after his emails with Jeffrey Epstein came to light."
-      },
-      {
         "title": "These are the 2026 CNBC Changemakers: See the full list of women transforming business",
         "link": "https://www.cnbc.com/2026/02/25/changemakers-list-women-business-leadership.html",
         "source": "CNBC Finance",
@@ -97,11 +90,25 @@
         "description": "CNBC got an exclusive first look at Vera Rubin, Nvidia's next AI system that's due to ship in the second half of the year"
       },
       {
-        "title": "Register now: Applications open for the World's Top Fintech Companies 2026",
-        "link": "https://www.cnbc.com/2026/02/25/cnbc-worlds-top-fintech-companies-2026-apply-now.html",
+        "title": "Hungary accuses Ukraine of 'oil blockade,' deploys soldiers to key energy facilities",
+        "link": "https://www.cnbc.com/2026/02/26/hungary-ukraine-oil-blockade-soldiers-energy-facilities-orban-elections-russia-.html",
         "source": "CNBC Finance",
-        "published": "Tue, 24 Feb 2026 23:08:25 GMT",
-        "description": "CNBC and Statista chart the top fintech players from around the world, ranging from startups to Big Tech names."
+        "published": "Thu, 26 Feb 2026 08:57:33 GMT",
+        "description": "Hungary has accused Ukraine of disrupting oil supplies it gets from Russia and has stationed troops at critical energy facilities across the country."
+      },
+      {
+        "title": "Rolls-Royce jumps 6% after aerospace giant boosts profit outlook, plans up to $12 billion share buyback",
+        "link": "https://www.cnbc.com/2026/02/26/rolls-royce-stock-sees-profits-hitting-4-billion-this-year-as-robust-growth-continues.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 08:41:48 GMT",
+        "description": "Rolls-Royce sees profits of over £4 billion this year as the engine and power systems maker banks on another year of robust growth."
+      },
+      {
+        "title": "Jeep maker Stellantis posts first annual loss in company history after EV writedowns",
+        "link": "https://www.cnbc.com/2026/02/26/stellantis-earnings-full-year-2025-autos-evs.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 08:24:15 GMT",
+        "description": "The results come shortly after the auto giant scaled back its EV ambitions following a major strategic shift."
       },
       {
         "title": "Trump insists trade deals safe after Supreme Court ruling upends tariff authority, but partners aren’t so sure",
@@ -109,13 +116,6 @@
         "source": "CNBC Finance",
         "published": "Thu, 26 Feb 2026 07:45:05 GMT",
         "description": "The Supreme Court decision to strike down Trump's tariffs has thrown fresh confusion over the raft of trade deals negotiated with global partners, stalling trade talks."
-      },
-      {
-        "title": "Jeep maker Stellantis posts first annual loss in company history after EV writedowns",
-        "link": "https://www.cnbc.com/2026/02/26/stellantis-earnings-full-year-2025-autos-evs.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 07:41:26 GMT",
-        "description": "The results come shortly after the auto giant scaled back its EV ambitions following a major strategic shift."
       },
       {
         "title": "China holiday spending sends a strong signal on consumer stimulus plans",
@@ -148,6 +148,20 @@
     ],
     "Technology": [],
     "Crypto": [
+      {
+        "title": "Binance Faces US Senate Inquiry Tied To $1.7 Billion In Sanctions-Related Transactions",
+        "link": "https://bitcoinist.com/binance-faces-us-senate-inquiry-tied-to-sanctions/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 09:00:52 +0000",
+        "description": "Cryptocurrency exchange Binance is once again facing scrutiny in the United States, this time following a formal inquiry launched by Democratic Senator Richard Blumenthal. Senate Demands Records From "
+      },
+      {
+        "title": "Netherlands To Amend Controversial 36% Tax On Unrealized Crypto, Stock Gains",
+        "link": "https://bitcoinist.com/netherlands-36-tax-on-unrealized-crypto-stock-gains/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 08:00:49 +0000",
+        "description": "Dutch financial authorities have revealed that the reform bill to tax unrealized gains on crypto, stocks, and other investments will be revised following criticism from lawmakers and local investors. "
+      },
       {
         "title": "Crypto Influencers In South Korea Face New Rules: Disclose Holdings",
         "link": "https://bitcoinist.com/crypto-influencers-in-south-korea-face-new-rules-disclose-holdings/",
@@ -189,20 +203,6 @@
         "source": "Bitcoinist",
         "published": "Thu, 26 Feb 2026 02:00:23 +0000",
         "description": "Solana (SOL) is attempting to stabilize after weeks of selling pressure, with price action now centered around a critical technical zone that could determine its next directional move. Related Reading"
-      },
-      {
-        "title": "Dogecoin And XRP Open Interest Crash To 2024 Levels, Here Are The Figures",
-        "link": "https://bitcoinist.com/dogecoin-xrp-open-interest-crash/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 01:00:41 +0000",
-        "description": "Open interest in the derivatives markets for Dogecoin and XRP has fallen back to levels last seen in 2024, according to data from Coinglass. Slower capital inflows into the broader crypto market and e"
-      },
-      {
-        "title": "Why Is the Crypto Market Surging Today? Breakout Momentum Builds Ahead of U.S. Data",
-        "link": "https://bitcoinist.com/why-crypto-market-surging-today-breakout-momentum/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 00:00:25 +0000",
-        "description": "The crypto market is showing renewed strength after several days of volatility, with prices rebounding as traders reposition ahead of key U.S. economic data. A mix of technical recovery, macroeconomic"
       }
     ],
     "Markets": [
@@ -214,18 +214,18 @@
         "description": "TJ Maxx parent company TJX reported a triple beat with its fourth-quarter results on Wednesday, but shares of the off-price apparel and home-fashions retailer slipped as the outlook disappointed."
       },
       {
-        "title": "Steve Madden won’t give profit guidance as planned due to Supreme Court tariff ruling",
-        "link": "https://www.marketwatch.com/story/steve-madden-wont-give-profit-guidance-as-planned-due-to-supreme-court-tariff-ruling-8810fb96?mod=mw_rss_topstories",
+        "title": "As nuclear talks restart in Geneva, Iran’s ‘oil on the water’ reaches record levels",
+        "link": "https://www.marketwatch.com/story/as-nuclear-talks-restart-in-geneva-irans-oil-on-the-water-reaches-record-levels-100961cc?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 22:45:00 GMT",
-        "description": "The shoe designer’s stock fell after it held off on providing a profit guidance like it said it would, citing uncertainties created by the Supreme Court’s tariff decision."
+        "published": "Thu, 26 Feb 2026 09:11:00 GMT",
+        "description": "By the fourth quarter of 2026, Goldman Sachs believes the current geopolitical tension might have eased somewhat and they forecast $60 by year-end"
       },
       {
-        "title": "Oracle’s selloff offers a chance to buy an ‘upper-echelon’ growth stock for cheap, analyst says",
-        "link": "https://www.marketwatch.com/story/oracles-stock-selloff-offers-a-chance-to-buy-an-upper-echelon-growth-play-for-cheap-analyst-73e8e1ab?mod=mw_rss_topstories",
+        "title": "Why Nvidia’s Jensen Huang thinks the market got it wrong on software companies",
+        "link": "https://www.marketwatch.com/story/why-nvidias-jensen-huang-thinks-the-market-got-it-wrong-on-software-companies-2552c757?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 25 Feb 2026 22:42:00 GMT",
-        "description": "An Oppenheimer analyst has turned bullish on Oracle’s stock after a selloff that has wiped away more than half the company’s value since its September peak."
+        "published": "Thu, 26 Feb 2026 08:59:00 GMT",
+        "description": "There’s at least one executive in the artificial intelligence space who doesn’t think AI will cannibalize software companies: Nvidia’s Jensen Huang."
       },
       {
         "title": "Nutanix’s stock soars as AMD investment creates a ‘halo effect’",
@@ -279,6 +279,34 @@
     ],
     "Singapore": [
       {
+        "title": "Deliveroo's Singapore exit may lead to higher fees, fewer discounts, analysts say",
+        "link": "https://www.channelnewsasia.com/singapore/deliveroo-grab-foodpanda-food-delivery-platforms-analysts-5954751",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 17:13:41 +0800",
+        "description": "With Grab and Foodpanda as the two major food delivery platforms remaining,&nbsp;experts say merchants and riders may eventually see higher commissions and weakened bargaining power."
+      },
+      {
+        "title": "ECB sees no wave of AI-led layoffs yet, Lagarde says",
+        "link": "https://www.channelnewsasia.com/business/ecb-sees-no-wave-ai-led-layoffs-yet-lagarde-says-5954971",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 17:08:10 +0800",
+        "description": ""
+      },
+      {
+        "title": "Budget 2026 debate: Ministries to publish clearer data on major spending initiatives, PM Wong says",
+        "link": "https://www.channelnewsasia.com/singapore/budget-2026-debate-lawrence-wong-ministries-information-5954916",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 16:52:58 +0800",
+        "description": "Prime Minister Lawrence Wong was responding to calls by Workers’ Party chief Pritam Singh, PAP MP Yip Hon Weng and NMP Haresh Singaraju on more fiscal accountability."
+      },
+      {
+        "title": "Japan births fall for 10th straight year",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-births-decline-ageing-population-takaichi-5954891",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 16:44:46 +0800",
+        "description": ""
+      },
+      {
         "title": "Better support urged for Hong Kong’s growing elderly population as more live alone",
         "link": "https://www.channelnewsasia.com/east-asia/hong-kong-growing-elderly-population-living-alone-better-support-urged-5954596",
         "source": "CNA Singapore",
@@ -310,7 +338,7 @@
         "title": "Thai runner-up party seeks criminal case against election officials",
         "link": "https://www.channelnewsasia.com/asia/thailand-peoples-party-criminal-case-election-officials-5954676",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 15:21:59 +0800",
+        "published": "Thu, 26 Feb 2026 15:21:00 +0800",
         "description": ""
       },
       {
@@ -319,34 +347,6 @@
         "source": "CNA Singapore",
         "published": "Thu, 26 Feb 2026 15:16:00 +0800",
         "description": "The acquisition of the Italian-made Giuseppe Garibaldi makes Indonesia the second Southeast Asian country after Thailand to operate an aircraft carrier."
-      },
-      {
-        "title": "Star Awards 2026: Emerald Hill leads nominations with 17 nods in 9 categories",
-        "link": "https://www.channelnewsasia.com/entertainment/star-awards-2026-nominations-best-actor-actress-emerald-hill-5954301",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 15:01:17 +0800",
-        "description": "Additionally, there's a host of first-time nominees including James Seah, Cheryl Chou and Tyler Ten."
-      },
-      {
-        "title": "Founder of scandal-hit Nidec resigns as chairman emeritus",
-        "link": "https://www.channelnewsasia.com/business/founder-scandal-hit-nidec-resigns-chairman-emeritus-5954651",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 14:57:06 +0800",
-        "description": ""
-      },
-      {
-        "title": "New Zealand's Woodman-Wickliffe retires for second time",
-        "link": "https://www.channelnewsasia.com/sport/new-zealands-woodman-wickliffe-retires-second-time-5954646",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 14:53:37 +0800",
-        "description": ""
-      },
-      {
-        "title": "PSG have been toughened up for later stages of the Champions League - Luis Enrique",
-        "link": "https://www.channelnewsasia.com/sport/psg-have-been-toughened-up-later-stages-champions-league-luis-enrique-5954631",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 14:49:34 +0800",
-        "description": ""
       }
     ],
     "US Politics": [
@@ -393,11 +393,11 @@
         "description": "MPs criticise \"rip-off\" interest rates and unfair changes to repayment terms during a debate in Parliament"
       },
       {
-        "title": "Chris Mason: MPs take a new tone on Andrew – but how big is their appetite for radical changes?",
-        "link": "https://www.bbc.com/news/articles/cvgk3gpy34jo?at_medium=RSS&at_campaign=rss",
+        "title": "Fourth Tory councillor defects to Reform",
+        "link": "https://www.bbc.com/news/articles/c626q7838vzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 25 Feb 2026 02:45:43 GMT",
-        "description": "It was quite a moment when Sir Chris Bryant called the former prince \"rude, arrogant and entitled\" in the House of Commons, the BBC's political editor writes."
+        "published": "Wed, 25 Feb 2026 12:22:46 GMT",
+        "description": "Carl Edwards says he has watched \"promise after promise broken\" by his former party."
       },
       {
         "title": "Andrew 'rude and arrogant', minister says as MPs back release of trade role files",
@@ -443,6 +443,13 @@
       "description": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
     },
     {
+      "title": "Cuba says it shot dead four people on US-registered speedboat",
+      "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 08:16:40 GMT",
+      "description": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says."
+    },
+    {
       "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
       "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -457,11 +464,11 @@
       "description": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay."
     },
     {
-      "title": "Orban accuses Ukraine of disrupting oil supplies to Hungary",
+      "title": "Orban steps up oil accusations against Ukraine after vetoing EU loan to Kyiv",
       "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Thu, 26 Feb 2026 04:08:25 GMT",
-      "description": "Ukraine says a critical pipeline was closed after Russian strikes."
+      "description": "Hungary's prime minister accuses Kyiv of imposing an \"oil blockade\" after Kyiv says a critical pipeline was closed after Russian strikes."
     },
     {
       "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
@@ -469,13 +476,6 @@
       "source": "BBC World",
       "published": "Thu, 26 Feb 2026 03:41:47 GMT",
       "description": "The 78-year-old Lai, however, remains detained for a separate national security case."
-    },
-    {
-      "title": "Cuba says it shot dead four people on US-registered speedboat",
-      "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 03:15:58 GMT",
-      "description": "The passengers were Cuban nationals living in the US and intended to \"carry out an infiltration for terrorist purposes\", the Cuban government says."
     },
     {
       "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
