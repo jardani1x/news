@@ -1,42 +1,70 @@
 {
-  "updated_sgt": "2026-02-26 20:04 SGT",
-  "updated_iso": "2026-02-26T20:04:51.351119+08:00",
+  "updated_sgt": "2026-02-27 00:04 SGT",
+  "updated_iso": "2026-02-27T00:04:42.280055+08:00",
   "categories": {
     "World": [
-      {
-        "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
-        "link": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 25 Feb 2026 17:00:49 GMT",
-        "description": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
-      },
       {
         "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
         "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 11:59:15 GMT",
+        "published": "Thu, 26 Feb 2026 15:18:11 GMT",
         "description": "The passengers were Cuban nationals living in the US, the Cuban government says."
       },
       {
-        "title": "Orban steps up oil accusations against Ukraine after vetoing EU loan to Kyiv",
-        "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
+        "title": "Four convicted over spyware scandal that shook Greece",
+        "link": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 11:52:08 GMT",
-        "description": "Hungary's prime minister accuses Ukraine of imposing an \"oil blockade\" after Kyiv says a critical pipeline was closed following Russian strikes."
+        "published": "Thu, 26 Feb 2026 15:05:53 GMT",
+        "description": "In what became known as \"Greece's Watergate\", surveillance software called Predator was used to target 87 people."
       },
       {
-        "title": "Nigeria to hold inquest into death of Chimamanda Ngozi Adichie's toddler",
-        "link": "https://www.bbc.com/news/articles/cwygr2nzdp9o?at_medium=RSS&at_campaign=rss",
+        "title": "Hillary Clinton to appear before US House panel investigating Epstein",
+        "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 11:10:08 GMT",
-        "description": "The internationally acclaimed writer has accused Nigerian hospital Euracare of negligence, which it denies."
+        "published": "Thu, 26 Feb 2026 15:04:24 GMT",
+        "description": "The former secretary of state recently dropped her longstanding refusal to appear, alongside her former president husband."
       },
       {
-        "title": "US and Iran begin talks seen as crucial to prevent conflict",
+        "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
+        "link": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 14:28:35 GMT",
+        "description": "Russia's announcement comes as Ukraine's top negotiator met US peace envoys in Geneva."
+      },
+      {
+        "title": "World Economic Forum boss quits after review of Epstein links",
+        "link": "https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 14:25:28 GMT",
+        "description": "Brende acknowledged communications with Epstein but said he was \"completely unaware\" of his past criminal activity."
+      },
+      {
+        "title": "Danish PM calls snap election with Greenland issue centre-stage",
+        "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 13:56:39 GMT",
+        "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
+      },
+      {
+        "title": "US and Iran hold talks seen as crucial to prevent conflict",
         "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 10:39:58 GMT",
+        "published": "Thu, 26 Feb 2026 13:37:08 GMT",
         "description": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
+      },
+      {
+        "title": "US justice department accused of withholding Trump-related Epstein files",
+        "link": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 12:28:02 GMT",
+        "description": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material."
+      },
+      {
+        "title": "First writing may be 40,000 years earlier than thought",
+        "link": "https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 26 Feb 2026 12:02:06 GMT",
+        "description": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects."
       },
       {
         "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
@@ -44,110 +72,124 @@
         "source": "BBC World",
         "published": "Thu, 26 Feb 2026 06:01:11 GMT",
         "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes."
-      },
-      {
-        "title": "North Korea could 'get along' with US, says Kim Jong Un",
-        "link": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 05:25:54 GMT",
-        "description": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay."
-      },
-      {
-        "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
-        "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 03:41:47 GMT",
-        "description": "The 78-year-old Lai, however, remains detained for a separate national security case."
-      },
-      {
-        "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
-        "link": "https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 02:01:06 GMT",
-        "description": "The 33-year-old will still face federal charges in the US and is due to appear in court on Thursday."
-      },
-      {
-        "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
-        "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 00:02:48 GMT",
-        "description": "New evidence reveals what happened when 19 people were shot dead in Kathmandu last September."
       }
     ],
     "Finance": [
       {
-        "title": "Wall Street priced an AI apocalypse in software, but Jim Cramer says reality is less dire",
-        "link": "https://www.cnbc.com/2026/02/25/cramer-software-companies-wont-go-extinct-but-premiums-will-shrink.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 25 Feb 2026 23:54:52 GMT",
-        "description": "The software sell-off has been overdone, CNBC's Jim Cramer said. But that doesn't mean the stocks will get back to where they once were."
-      },
-      {
-        "title": "U.S. warns Iran's reluctance to discuss weapons is a 'big, big problem' as fresh talks begin",
-        "link": "https://www.cnbc.com/2026/02/26/us-iran-nuclear-weapons-talks-rubio-geneva-ballistic-missiles.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 12:01:08 GMT",
-        "description": "U.S. Secretary of State Marco Rubio warned that Iran's reluctance to discuss its intercontinental ballistic missiles was a \"big, big problem.\""
-      },
-      {
-        "title": "Instagram to start parent alerts for teen suicide, self-harm searches as Meta trials continue",
-        "link": "https://www.cnbc.com/2026/02/26/instagram-parent-alerts-teen-suicide-meta-trial.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 12:00:01 GMT",
-        "description": "Parents will receive alerts via email, text, WhatsApp or Instagram if their teens are repeatedly searching for \"phrases promoting suicide or self-harm.\""
-      },
-      {
-        "title": "Democrat senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
-        "link": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 11:59:11 GMT",
-        "description": "Senators Elizabeth Warren, Chris Van Hollen and Ron Wyden are pressing Commerce Secretary Howard Lutnick for more information on the USA Rare Earth deal."
-      },
-      {
-        "title": "Nvidia's stock sees only marginal gains after better-than-expected results. Here's the latest",
+        "title": "Nvidia stock sinks 5% despite better-than-expected results",
         "link": "https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 11:43:05 GMT",
-        "description": "Better-than-expected results drew a muted investor response as AI bubble concerns remain"
+        "published": "Thu, 26 Feb 2026 15:54:10 GMT",
+        "description": "Better-than-expected results drew a muted investor response as AI bubble concerns remain."
+      },
+      {
+        "title": "C3 AI shares plummet as company cuts 26% of workforce, posts wider loss than expected",
+        "link": "https://www.cnbc.com/2026/02/26/c3-ai-stock-layoffs-loss.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 15:36:31 GMT",
+        "description": "Shares of enterprise artificial intelligence company C3 AI sunk after widely missing earnings and announcing layoffs under new CEO Ehikian's restructuring plan."
+      },
+      {
+        "title": "Congress takes on Nvidia, White House as it pushes for chip export limits",
+        "link": "https://www.cnbc.com/2026/02/26/congress-pushes-back-on-nvidia-white-house-with-chip-export-limits.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 15:25:37 GMT",
+        "description": "A bipartisan group of lawmakers in both chambers is working to limit advanced chip exports to China."
       },
       {
         "title": "Russia says Cuba situation is escalating after deadly incident with U.S.-tagged speedboat",
         "link": "https://www.cnbc.com/2026/02/26/cuba-crisis-russia-boat-incident-florida-trump-oil.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 11:29:17 GMT",
+        "published": "Thu, 26 Feb 2026 15:15:19 GMT",
         "description": "The incident comes at a time of heightened tensions between Washington and Havana."
       },
       {
-        "title": "Jeep maker Stellantis posts first annual loss in company history after EV writedowns",
-        "link": "https://www.cnbc.com/2026/02/26/stellantis-earnings-full-year-2025-autos-evs.html",
+        "title": "EBay laying off about 800 roles, or 6% of its workforce",
+        "link": "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 11:23:19 GMT",
-        "description": "The results come shortly after the auto giant scaled back its EV ambitions following a major strategic shift."
+        "published": "Thu, 26 Feb 2026 15:10:08 GMT",
+        "description": "The job cuts are occurring across the company, and are a result of its push to focus on \"strategic priorities,\" eBay said."
+      },
+      {
+        "title": "Democratic senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
+        "link": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 15:01:43 GMT",
+        "description": "Sens. Elizabeth Warren, Chris Van Hollen and Ron Wyden are pressing Commerce Secretary Howard Lutnick for more information on the USA Rare Earth deal."
+      },
+      {
+        "title": "The world's biggest sovereign wealth fund is using Anthropic's Claude AI model to screen investments for ethical issues",
+        "link": "https://www.cnbc.com/2026/02/26/norway-sovereign-wealth-fund-nbim-investment-ai-esg-claude.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 14:50:34 GMT",
+        "description": "Norway’s $2 trillion wealth fund is reviewing its ethical framework after decisions on U.S. and Israeli companies drew ire from the Trump administration."
+      },
+      {
+        "title": "Trump said beef, egg and chicken prices are falling. Here's what the data shows",
+        "link": "https://www.cnbc.com/2026/02/26/trump-beef-egg-chicken-food-prices.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 14:47:35 GMT",
+        "description": "President Donald Trump said that prices for certain proteins like beef, chicken and eggs have declined. Here's what the data shows about costs for these items."
+      },
+      {
+        "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
+        "link": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 26 Feb 2026 14:25:31 GMT",
+        "description": "MP Materials has chosen Northlake, Texas, for its $1.25 billion rare earth magnet factory as the U.S. rushes to secure domestic supplies of critical minerals."
       },
       {
         "title": "The 'Great Wealth Transfer': A $3 trillion opportunity for Black business owners is on the horizon",
         "link": "https://www.cnbc.com/2026/02/26/the-great-wealth-transfer-a-3-trillion-opportunity-for-black-business-owners-is-on-the-horizon.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 10:00:01 GMT",
+        "published": "Thu, 26 Feb 2026 14:23:06 GMT",
         "description": "Researchers forecast 6 million small- and medium-sized businesses, or SMBs, will be available for acquisition by 2035."
-      },
-      {
-        "title": "Salesforce shares are down 4% in premarket on mixed guidance and $50 billion buyback commitment",
-        "link": "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 09:51:59 GMT",
-        "description": "Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition."
-      },
-      {
-        "title": "Hungary accuses Ukraine of 'oil blockade,' deploys soldiers to key energy facilities",
-        "link": "https://www.cnbc.com/2026/02/26/hungary-ukraine-oil-blockade-soldiers-energy-facilities-orban-elections-russia-.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 08:57:33 GMT",
-        "description": "Hungary has accused Ukraine of disrupting oil supplies it gets from Russia and has stationed troops at critical energy facilities across the country."
       }
     ],
     "Technology": [],
     "Crypto": [
+      {
+        "title": "Ripple Makes New AI Bet As XRP Ledger Targets Agentic Payments",
+        "link": "https://bitcoinist.com/ripple-new-ai-bet-xrp-ledger/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 16:00:40 +0000",
+        "description": "Ripple has backed AI infrastructure startup t54 in a $5 million seed round, a move that ties the company more closely to the emerging market for autonomous payments and agent-driven financial activity"
+      },
+      {
+        "title": "ZachXBT Exposé: Axiom Exchange Staff Allegedly Misusing Internal Data For Trading",
+        "link": "https://bitcoinist.com/zachxbt-expose-axiom-exchange-staff-internal-data/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 15:36:02 +0000",
+        "description": "After several days of online speculation, blockchain investigator ZachXBT has published the findings of a probe he first alluded to earlier this week, detailing what he describes as insider trading an"
+      },
+      {
+        "title": "Ethereum’s Future Secured? Buterin Outlines Ambitious 4-Year Overhaul",
+        "link": "https://bitcoinist.com/ethereums-future-secured-buterin-outlines-ambitious-4-year-overhaul/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 15:00:00 +0000",
+        "description": "Ethereum is getting a makeover — a big one. Vitalik Buterin, the co-founder of the world&#8217;s second-largest blockchain network, has shared his thoughts on a newly published four-year upgrade plan "
+      },
+      {
+        "title": "Morgan Stanley Confirms Bitcoin Push: Trading, Yield, Custody",
+        "link": "https://bitcoinist.com/morgan-stanley-bitcoin-trading-yield-custody/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 14:00:05 +0000",
+        "description": "Morgan Stanley is preparing to expand its Bitcoin and crypto offering beyond simple access, with plans that span spot trading on E*TRADE, a longer-term move toward native custody and an internal excha"
+      },
+      {
+        "title": "Pundit Reveals How XRP Investors Can Avoid Making This “Expensive Mistake”",
+        "link": "https://bitcoinist.com/xrp-investors-expensive-mistake/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 13:00:02 +0000",
+        "description": "With the XRP price still struggling to reclaim $1.5, it comes as no surprise that sentiment has plunged toward the negative. Naturally, this has led to major sell-offs across the board, causing a down"
+      },
+      {
+        "title": "White House Crypto Summit In Focus Friday, Expert Predicts 3 Major Outcomes",
+        "link": "https://bitcoinist.com/white-house-crypto-summit-in-focus-friday/",
+        "source": "Bitcoinist",
+        "published": "Thu, 26 Feb 2026 12:00:56 +0000",
+        "description": "The White House is expected to host another round of talks this Friday between representatives of the crypto industry and major banking institutions, as both sides race to meet a March 1 deadline aime"
+      },
       {
         "title": "UK’s FCA Selects 4 Firms To Trial Stablecoins Ahead Of Final 2026 Rules",
         "link": "https://bitcoinist.com/uks-fca-4-trial-stablecoins-final-2026-rules/",
@@ -161,209 +203,153 @@
         "source": "Bitcoinist",
         "published": "Thu, 26 Feb 2026 10:00:54 +0000",
         "description": "Bitcoin has recently become the least correlated to the stock market since the FTX crash back in 2022, according to analytics firm Santiment. Bitcoin Has Broken Away From S&#38;P 500 In a new post on "
-      },
-      {
-        "title": "Binance Faces US Senate Inquiry Tied To $1.7 Billion In Sanctions-Related Transactions",
-        "link": "https://bitcoinist.com/binance-faces-us-senate-inquiry-tied-to-sanctions/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 09:00:52 +0000",
-        "description": "Cryptocurrency exchange Binance is once again facing scrutiny in the United States, this time following a formal inquiry launched by Democratic Senator Richard Blumenthal. Senate Demands Records From "
-      },
-      {
-        "title": "Netherlands To Amend Controversial 36% Tax On Unrealized Crypto, Stock Gains",
-        "link": "https://bitcoinist.com/netherlands-36-tax-on-unrealized-crypto-stock-gains/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 08:00:49 +0000",
-        "description": "Dutch financial authorities have revealed that the reform bill to tax unrealized gains on crypto, stocks, and other investments will be revised following criticism from lawmakers and local investors. "
-      },
-      {
-        "title": "Crypto Influencers In South Korea Face New Rules: Disclose Holdings",
-        "link": "https://bitcoinist.com/crypto-influencers-in-south-korea-face-new-rules-disclose-holdings/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 07:00:03 +0000",
-        "description": "The crypto market in Seoul may get a little clearer about who’s talking and why. According to recent reports, lawmakers in South Korea are drafting rules that would force people who give investment ti"
-      },
-      {
-        "title": "Ethereum Exchange Deposits Hit A Six-Month High: Panic Selling Or Structural Reset?",
-        "link": "https://bitcoinist.com/ethereum-exchange-deposits-hit-six-month-high/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 06:00:16 +0000",
-        "description": "Ethereum continues to face sustained selling pressure as broader crypto market sentiment shifts toward caution and, in some segments, outright panic. Price action has struggled to regain stability in "
-      },
-      {
-        "title": "From Crypto Partners To Alleged Poisoner: A South Korean Business Gone Wrong",
-        "link": "https://bitcoinist.com/from-crypto-partners-to-alleged-poisoner-a-south-korean-business-gone-wrong/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 05:00:27 +0000",
-        "description": "A man in his thirties has been charged with attempted murder after a business partner fell ill following a meeting at a café, reports say. The case stems from a dispute over failed crypto investments."
-      },
-      {
-        "title": "Bitcoin Flips To A Premium On Coinbase As US Institutions Absorb Global Retail Panic – Details",
-        "link": "https://bitcoinist.com/bitcoin-flips-premium-coinbase-institutions-absorb/",
-        "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 04:00:14 +0000",
-        "description": "Bitcoin is struggling to push decisively above the $66,000 level as persistent selling pressure continues to weigh on sentiment across the crypto market. Price action remains fragile, with bears maint"
       }
     ],
     "Markets": [
       {
-        "title": "Why strategist Tom Lee believes the AI bloodbath and crypto selloff is almost over",
-        "link": "https://www.marketwatch.com/story/why-strategist-tom-lee-believes-the-ai-bloodbath-and-crypto-selloff-is-almost-over-0ccdbb49?mod=mw_rss_topstories",
+        "title": "Salesforce’s record $50 billion stock-buyback plan is proving controversial on Wall Street",
+        "link": "https://www.marketwatch.com/story/salesforces-record-50-billion-stock-buyback-plan-is-proving-controversial-on-wall-street-f37e6cef?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 11:55:00 GMT",
-        "description": "Fundstrat’s Tom Lee says the tech and crypto selloff has gone just about as far as it’s going to go."
+        "published": "Thu, 26 Feb 2026 16:02:00 GMT",
+        "description": "Salesforce is looking to buy the dip with a $50 billion share-repurchase program as the software selloff continues to send its stock falling, but Wall Street is wondering if the money would be better "
       },
       {
-        "title": "Rolls-Royce stock has outperformed Nvidia’s in the last three years — and the gap is growing",
-        "link": "https://www.marketwatch.com/story/rolls-royce-stock-has-outperformed-nvidias-in-the-last-three-years-and-the-gap-is-growing-61464759?mod=mw_rss_topstories",
+        "title": "These twists on the S&P 500 have been standout investments in 2026",
+        "link": "https://www.marketwatch.com/story/these-twists-on-the-s-p-500-have-been-standout-investments-in-2026-636495c5?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 11:08:00 GMT",
-        "description": "Chief executive Tufan Erginbilgic raised guidance for the size of the share buyback program, free cash flow and underlying profits"
+        "published": "Thu, 26 Feb 2026 15:41:00 GMT",
+        "description": "So far in 2026, a number of index funds that follow alternative strategies to track subsets of the S&P 500 or change the index’s weighting have performed quite well."
       },
       {
-        "title": "‘I live in a state with no inheritance tax’: Is it legal to deposit $150K cash into my bank account?",
+        "title": "Why Nvidia’s stock is falling despite a historic earnings beat",
+        "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-falling-despite-a-historic-earnings-beat-11ed3ba8?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 26 Feb 2026 15:36:00 GMT",
+        "description": "Blockbuster earnings were perhaps anticipated as Nvidia’s big customers have already indicated how much they’ve hiked their spending on hardware."
+      },
+      {
+        "title": "As deal drama swirls around Warner Bros., its earnings show a declining industry",
+        "link": "https://www.marketwatch.com/story/as-deal-drama-swirls-around-warner-bros-its-earnings-show-a-declining-industry-1cbb3600?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 26 Feb 2026 15:28:00 GMT",
+        "description": "With Warner Bros. Discovery deep in negotiations to be acquired, its earnings show it is a company struggling in a fast-changing industry."
+      },
+      {
+        "title": "U.S. Treasury proposes severing a Swiss bank from the U.S. financial system over Iran and Russia links",
+        "link": "https://www.marketwatch.com/story/u-s-treasury-proposes-to-sever-a-swiss-bank-from-the-u-s-financial-system-over-iran-russia-links-13456c28?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 26 Feb 2026 15:12:00 GMT",
+        "description": "In a dramatic step, the U.S. Treasury Department on Thursday said it’s proposing to sever a Swiss bank from the U.S. financial system over its alleged illicit ties to Russia and Iran."
+      },
+      {
+        "title": "‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?",
+        "link": "https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 26 Feb 2026 15:08:00 GMT",
+        "description": "“After the divorce was finalized, he and his partner moved out of state to a place where there would be no child-support enforcement.”"
+      },
+      {
+        "title": "After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?",
+        "link": "https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 26 Feb 2026 15:08:00 GMT",
+        "description": "“I’ve owned my own company for the last 15 years. It’s worth $8.5 million.”"
+      },
+      {
+        "title": "If global investors fall out of love with U.S. equities, it could spell trouble for the dollar",
+        "link": "https://www.marketwatch.com/story/if-global-investors-fall-out-of-love-with-u-s-equities-it-could-spell-trouble-for-the-dollar-9dc78983?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 26 Feb 2026 15:00:00 GMT",
+        "description": "Valuation arguments and earnings momentum favor the rest of the world and emerging markets over the U.S."
+      },
+      {
+        "title": "Will the bank get suspicious if I deposit $150,000 cash into my account?",
         "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 10:30:00 GMT",
-        "description": "“The money is not currently in a bank account and it is not part of an estate.”"
+        "published": "Thu, 26 Feb 2026 14:53:00 GMT",
+        "description": "“I live in a state with no inheritance tax. I assume I can make this deposit legally.”"
       },
       {
-        "title": "Here’s what’s necessary to return the incredibly concentrated U.S. stock market to normal levels",
-        "link": "https://www.marketwatch.com/story/heres-whats-necessary-to-return-the-incredibly-concentrated-u-s-stock-market-to-normal-levels-ca9ecc4c?mod=mw_rss_topstories",
+        "title": "Why strategist Tom Lee believes the AI and crypto selloffs are almost over",
+        "link": "https://www.marketwatch.com/story/why-strategist-tom-lee-believes-the-ai-bloodbath-and-crypto-selloff-is-almost-over-0ccdbb49?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 10:22:00 GMT",
-        "description": "D.E. Shaw, the renowned number-crunching hedge fund manager, calculated how long it would take for concentrated U.S. stock markets to return to normal."
-      },
-      {
-        "title": "Tennis pro Tommy Paul and fiancee Paige Lorenze offer a peek inside new ‘dream home’ in Connecticut",
-        "link": "https://www.marketwatch.com/story/tennis-pro-tommy-paul-and-fiancee-paige-lorenze-offer-a-peek-inside-new-dream-home-in-connecticut-fc540110?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 10:03:00 GMT",
-        "description": "The couple immersed themselves in their nearly-married life when they listed their own properties to buy a Connecticut mansion, which they have been renovating since they closed on it."
-      },
-      {
-        "title": "How one firm hit by AI fears is answering the pressure: stock buybacks and partnerships",
-        "link": "https://www.marketwatch.com/story/how-one-firm-hit-by-ai-fears-is-answering-the-pressure-stock-buybacks-and-partnerships-994af531?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 09:49:00 GMT",
-        "description": "The London Stock Exchange Group unveiled a big stock buyback after in-line results for the year."
-      },
-      {
-        "title": "As nuclear talks restart in Geneva, Iran’s ‘oil on the water’ reaches record levels",
-        "link": "https://www.marketwatch.com/story/as-nuclear-talks-restart-in-geneva-irans-oil-on-the-water-reaches-record-levels-100961cc?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 09:11:00 GMT",
-        "description": "By the fourth quarter of 2026, Goldman Sachs believes the current geopolitical tension might have eased somewhat and they forecast $60 by year-end"
-      },
-      {
-        "title": "Why Nvidia’s Jensen Huang thinks the market got it wrong on software companies",
-        "link": "https://www.marketwatch.com/story/why-nvidias-jensen-huang-thinks-the-market-got-it-wrong-on-software-companies-2552c757?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 08:59:00 GMT",
-        "description": "There’s at least one executive in the artificial-intelligence space who doesn’t think AI will cannibalize software companies: Nvidia’s Jensen Huang."
-      },
-      {
-        "title": "Nutanix’s stock soars as AMD investment creates a ‘halo effect’",
-        "link": "https://www.marketwatch.com/story/this-stock-is-soaring-on-news-of-a-forthcoming-investment-by-amd-216f3ee1?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 03:39:00 GMT",
-        "description": "The company, which makes hyperconverged infrastructure including storage offerings, is partnering with AMD and betting that AI customers want flexible ecosystems."
-      },
-      {
-        "title": "Trade Desk’s stock slides after earnings, as growth slowdown unnerves Wall Street even further",
-        "link": "https://www.marketwatch.com/story/trade-desks-stock-slides-as-growth-slowdown-unnerves-wall-street-even-further-9d99e55e?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 02:01:00 GMT",
-        "description": "The ad-tech provider said automotive and packaged-good clients are under pressure."
+        "published": "Thu, 26 Feb 2026 14:46:00 GMT",
+        "description": "Fundstrat’s Tom Lee says the tech and crypto selloff has gone just about as far as it’s going to go."
       }
     ],
     "Singapore": [
       {
-        "title": "‘Can’t run away’: Malaysia opposition bloc PN must engage non-Malays, says new chairman",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-opposition-bloc-pn-engage-non-malays-new-chairman-ahmad-samsuri-5955166",
+        "title": "Ireland wing Lowe out of rest of Six Nations with groin injury",
+        "link": "https://www.channelnewsasia.com/sport/ireland-wing-lowe-out-rest-six-nations-groin-injury-5956046",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:53:03 +0800",
-        "description": "Perikatan Nasional’s chairman Ahmad Samsuri Mokhtar will however have an uphill battle to persuade non-Muslim voters to support the coalition, analysts tell CNA."
-      },
-      {
-        "title": "Snake-like robot unveiled for Fukushima debris removal",
-        "link": "https://www.channelnewsasia.com/east-asia/japan-fukushima-snake-robot-debris-removal-5955381",
-        "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:52:00 +0800",
+        "published": "Thu, 26 Feb 2026 23:55:27 +0800",
         "description": ""
       },
       {
-        "title": "Indonesia jails two British nationals for drug smuggling",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-jails-britons-drug-smuggling-bali-cocaine-5955396",
+        "title": "Exclusive-CNBC to unify digital and TV news operations, cut nearly a dozen jobs, sources say",
+        "link": "https://www.channelnewsasia.com/business/exclusive-cnbc-unify-digital-and-tv-news-operations-cut-nearly-dozen-jobs-sources-say-5955991",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:51:00 +0800",
+        "published": "Thu, 26 Feb 2026 23:34:37 +0800",
         "description": ""
       },
       {
-        "title": "Merz says Germany, China must overcome trade gaps 'together'",
-        "link": "https://www.channelnewsasia.com/world/merz-germany-china-trade-gaps-5955391",
+        "title": "Russian authorities weigh block on Telegram from early April, RBC reports",
+        "link": "https://www.channelnewsasia.com/business/russian-authorities-weigh-block-telegram-early-april-rbc-reports-5955966",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:50:46 +0800",
+        "published": "Thu, 26 Feb 2026 23:20:57 +0800",
         "description": ""
       },
       {
-        "title": "CEO of World Economic Forum quits after Epstein ties scrutinised",
-        "link": "https://www.channelnewsasia.com/world/world-economic-forum-ceo-step-down-jeffrey-epstein-5955376",
+        "title": "Nvidia shares fall as upbeat forecasts fail to excite investors",
+        "link": "https://www.channelnewsasia.com/business/nvidia-shares-fall-upbeat-forecasts-fail-excite-investors-5955941",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:48:04 +0800",
+        "published": "Thu, 26 Feb 2026 23:14:53 +0800",
         "description": ""
       },
       {
-        "title": "Badminton-France eyes Olympic push as long rebuild starts to pay off",
-        "link": "https://www.channelnewsasia.com/sport/badminton-france-eyes-olympic-push-long-rebuild-starts-pay-5955336",
+        "title": "New Zealand want to leave nothing to chance in battle to reach T20 World Cup semis",
+        "link": "https://www.channelnewsasia.com/sport/new-zealand-want-leave-nothing-chance-in-battle-reach-t20-world-cup-semis-5955911",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:26:14 +0800",
+        "published": "Thu, 26 Feb 2026 23:01:43 +0800",
         "description": ""
       },
       {
-        "title": "Norway's wealth fund using AI to screen for ESG risks",
-        "link": "https://www.channelnewsasia.com/business/norways-wealth-fund-using-ai-screen-esg-risks-5955306",
+        "title": "China removes five generals from national lawmaking body",
+        "link": "https://www.channelnewsasia.com/east-asia/china-removes-five-generals-military-5955826",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:15:26 +0800",
+        "published": "Thu, 26 Feb 2026 22:55:01 +0800",
+        "description": "One lieutenant general and three major generals were also removed from the list of deputies in China's top legislature."
+      },
+      {
+        "title": "Hacking group begins leaking customer data in Dutch telecom Odido hack",
+        "link": "https://www.channelnewsasia.com/business/hacking-group-begins-leaking-customer-data-in-dutch-telecom-odido-hack-5955846",
+        "source": "CNA Singapore",
+        "published": "Thu, 26 Feb 2026 22:37:51 +0800",
         "description": ""
       },
       {
-        "title": "Ronaldo buys 25% stake in Spanish second-tier club Almeria",
-        "link": "https://www.channelnewsasia.com/sport/ronaldo-buys-25-stake-in-spanish-second-tier-club-almeria-5955311",
+        "title": "Syngenta plans to file for up to $10 billion Hong Kong IPO in second quarter, sources say",
+        "link": "https://www.channelnewsasia.com/business/syngenta-plans-file-up-10-billion-hong-kong-ipo-in-second-quarter-sources-say-5955816",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:15:18 +0800",
+        "published": "Thu, 26 Feb 2026 22:23:10 +0800",
         "description": ""
       },
       {
-        "title": "Deutsche Telekom CEO criticises EU telecom rules overhaul",
-        "link": "https://www.channelnewsasia.com/business/deutsche-telekom-ceo-criticises-eu-telecom-rules-overhaul-5955261",
+        "title": "OpenAI to make London its biggest research hub outside US",
+        "link": "https://www.channelnewsasia.com/business/openai-make-london-its-biggest-research-hub-outside-us-5955766",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:12:41 +0800",
+        "published": "Thu, 26 Feb 2026 22:02:57 +0800",
         "description": ""
       },
       {
-        "title": "US stock futures waver as Nvidia's blockbuster results draw muted response",
-        "link": "https://www.channelnewsasia.com/business/us-stock-futures-waver-nvidias-blockbuster-results-draw-muted-response-5955266",
+        "title": "Exclusive-Broadcom expects to sell 1 million 3D stacked chips by 2027",
+        "link": "https://www.channelnewsasia.com/business/exclusive-broadcom-expects-sell-1-million-3d-stacked-chips-2027-5955771",
         "source": "CNA Singapore",
-        "published": "Thu, 26 Feb 2026 19:11:28 +0800",
+        "published": "Thu, 26 Feb 2026 22:02:22 +0800",
         "description": ""
       }
     ],
     "US Politics": [
-      {
-        "title": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
-        "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 25 Feb 2026 20:30:46 GMT",
-        "description": "It comes after Sir Lindsay Hoyle confirmed he gave information to the force suggesting the peer could be a flight risk."
-      },
-      {
-        "title": "UK government denies Chagos Islands deal is paused, despite minister's comment",
-        "link": "https://www.bbc.com/news/articles/cr5lqd4g338o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 25 Feb 2026 16:38:25 GMT",
-        "description": "It come after a minister said the UK is discussing \"concerns\" with the US, after President Trump criticised the deal."
-      },
       {
         "title": "Starmer promises to look at making student loans 'fairer'",
         "link": "https://www.bbc.com/news/articles/c23z744k7kro?at_medium=RSS&at_campaign=rss",
@@ -372,18 +358,39 @@
         "description": "Conservative leader Kemi Badenoch said the system had become a \"debt trap\" for graduates."
       },
       {
-        "title": "Labour MPs call for urgent action on 'unfair' student loans",
-        "link": "https://www.bbc.com/news/articles/c4g2kxjg1e1o?at_medium=RSS&at_campaign=rss",
+        "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
+        "link": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 25 Feb 2026 14:58:19 GMT",
-        "description": "MPs criticise \"rip-off\" interest rates and unfair changes to repayment terms during a debate in Parliament"
+        "published": "Thu, 26 Feb 2026 14:54:35 GMT",
+        "description": "Travellers to the Rock from the UK would have to show their passport twice under a new UK-EU treaty."
       },
       {
-        "title": "Jersey approves assisted dying law",
-        "link": "https://www.bbc.com/news/articles/c62dnwwgryeo?at_medium=RSS&at_campaign=rss",
+        "title": "Corbyn set to become Your Party parliamentary leader",
+        "link": "https://www.bbc.com/news/articles/cx2rxddwykno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 11:59:35 GMT",
-        "description": "The Jersey vote means five parliaments across the British Isles are now debating assisted dying."
+        "published": "Thu, 26 Feb 2026 14:00:49 GMT",
+        "description": "Ex-Labour leader Jeremy Corbyn's supporters won 14 of the 24 seats on Your Party's central executive committee (CEC)."
+      },
+      {
+        "title": "Royal Mail bosses to be called to Parliament over letter delivery failures",
+        "link": "https://www.bbc.com/news/articles/c9dnx445w4do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 26 Feb 2026 13:57:11 GMT",
+        "description": "It comes after hundreds of people contacted BBC Your Voice to express frustration over late deliveries."
+      },
+      {
+        "title": "Nearly a million 16-24 year-olds not working or in education",
+        "link": "https://www.bbc.com/news/articles/c62gzl2yl24o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 26 Feb 2026 13:15:55 GMT",
+        "description": "People at the start of their careers are particularly affected by the UK's weak job market."
+      },
+      {
+        "title": "UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%",
+        "link": "https://www.bbc.com/news/articles/cly07pyde00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 26 Feb 2026 12:48:35 GMT",
+        "description": "Some 100,625 people claimed asylum in the year to December and about 40% of these arrived by small boats, figures show."
       },
       {
         "title": "Met apologises to Lord Speaker after Mandelson tip-off error",
@@ -393,25 +400,18 @@
         "description": "Lord Mandelson's lawyers said police arrested the peer because of a \"baseless\" suggestion he was planning to move abroad."
       },
       {
-        "title": "Nearly a million 16-24 year-olds not working or in education",
-        "link": "https://www.bbc.com/news/articles/c62gzl2yl24o?at_medium=RSS&at_campaign=rss",
+        "title": "Jersey passes assisted dying law - but what stage has proposal reached in UK's parliaments?",
+        "link": "https://www.bbc.com/news/articles/c2lrxjp1vqeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 11:34:11 GMT",
-        "description": "People at the start of their careers are particularly affected by the UK's weak job market."
+        "published": "Thu, 26 Feb 2026 11:47:01 GMT",
+        "description": "Bills to let terminally ill people end their life are being considered at Westminster and in Scotland."
       },
       {
-        "title": "UK finalises post-Brexit border deal for Gibraltar",
-        "link": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&at_campaign=rss",
+        "title": "'I'm going to stick at it until I get a home'",
+        "link": "https://www.bbc.com/news/articles/cwy6pwyqyn5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 11:30:22 GMT",
-        "description": "Travellers to the Rock will have to show their passport twice under a new UK-EU treaty."
-      },
-      {
-        "title": "Royal Mail bosses to be called to Parliament over letter delivery failures",
-        "link": "https://www.bbc.com/news/articles/c9dnx445w4do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 09:33:55 GMT",
-        "description": "It comes after hundreds of people contacted BBC Your Voice to express frustration over late deliveries."
+        "published": "Thu, 26 Feb 2026 11:37:56 GMT",
+        "description": "There were 4,793 people sleeping on the streets on a single night last autumn."
       },
       {
         "title": "Gorton and Denton by-election polls open",
@@ -429,39 +429,67 @@
   },
   "top10": [
     {
-      "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
-      "link": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Wed, 25 Feb 2026 17:00:49 GMT",
-      "description": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
-    },
-    {
       "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
       "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 11:59:15 GMT",
+      "published": "Thu, 26 Feb 2026 15:18:11 GMT",
       "description": "The passengers were Cuban nationals living in the US, the Cuban government says."
     },
     {
-      "title": "Orban steps up oil accusations against Ukraine after vetoing EU loan to Kyiv",
-      "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
+      "title": "Four convicted over spyware scandal that shook Greece",
+      "link": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 11:52:08 GMT",
-      "description": "Hungary's prime minister accuses Ukraine of imposing an \"oil blockade\" after Kyiv says a critical pipeline was closed following Russian strikes."
+      "published": "Thu, 26 Feb 2026 15:05:53 GMT",
+      "description": "In what became known as \"Greece's Watergate\", surveillance software called Predator was used to target 87 people."
     },
     {
-      "title": "Nigeria to hold inquest into death of Chimamanda Ngozi Adichie's toddler",
-      "link": "https://www.bbc.com/news/articles/cwygr2nzdp9o?at_medium=RSS&at_campaign=rss",
+      "title": "Hillary Clinton to appear before US House panel investigating Epstein",
+      "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 11:10:08 GMT",
-      "description": "The internationally acclaimed writer has accused Nigerian hospital Euracare of negligence, which it denies."
+      "published": "Thu, 26 Feb 2026 15:04:24 GMT",
+      "description": "The former secretary of state recently dropped her longstanding refusal to appear, alongside her former president husband."
     },
     {
-      "title": "US and Iran begin talks seen as crucial to prevent conflict",
+      "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
+      "link": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 14:28:35 GMT",
+      "description": "Russia's announcement comes as Ukraine's top negotiator met US peace envoys in Geneva."
+    },
+    {
+      "title": "World Economic Forum boss quits after review of Epstein links",
+      "link": "https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 14:25:28 GMT",
+      "description": "Brende acknowledged communications with Epstein but said he was \"completely unaware\" of his past criminal activity."
+    },
+    {
+      "title": "Danish PM calls snap election with Greenland issue centre-stage",
+      "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 13:56:39 GMT",
+      "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
+    },
+    {
+      "title": "US and Iran hold talks seen as crucial to prevent conflict",
       "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 10:39:58 GMT",
+      "published": "Thu, 26 Feb 2026 13:37:08 GMT",
       "description": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
+    },
+    {
+      "title": "US justice department accused of withholding Trump-related Epstein files",
+      "link": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 12:28:02 GMT",
+      "description": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material."
+    },
+    {
+      "title": "First writing may be 40,000 years earlier than thought",
+      "link": "https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 26 Feb 2026 12:02:06 GMT",
+      "description": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects."
     },
     {
       "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
@@ -469,34 +497,6 @@
       "source": "BBC World",
       "published": "Thu, 26 Feb 2026 06:01:11 GMT",
       "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes."
-    },
-    {
-      "title": "North Korea could 'get along' with US, says Kim Jong Un",
-      "link": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 05:25:54 GMT",
-      "description": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay."
-    },
-    {
-      "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
-      "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 03:41:47 GMT",
-      "description": "The 78-year-old Lai, however, remains detained for a separate national security case."
-    },
-    {
-      "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
-      "link": "https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 02:01:06 GMT",
-      "description": "The 33-year-old will still face federal charges in the US and is due to appear in court on Thursday."
-    },
-    {
-      "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
-      "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 00:02:48 GMT",
-      "description": "New evidence reveals what happened when 19 people were shot dead in Kathmandu last September."
     }
   ]
 }
