@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-02-27 16:04 SGT",
-  "updated_iso": "2026-02-27T16:04:40.581098+08:00",
+  "updated_sgt": "2026-02-27 20:04 SGT",
+  "updated_iso": "2026-02-27T20:04:38.511419+08:00",
   "categories": {
     "World": [
       {
@@ -11,25 +11,32 @@
         "description": "Cuba has accused those on board of planning \"an infiltration with terrorist aims” and firing first."
       },
       {
-        "title": "US-Iran talks end after 'significant progress', mediator says",
-        "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 21:43:44 GMT",
-        "description": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
-      },
-      {
-        "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
-        "link": "https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 18:04:34 GMT",
-        "description": "A total of 1,000 Kenyans have reportedly been recruited to fight for Russia in its war against Ukraine."
-      },
-      {
         "title": "Danish PM calls snap election with Greenland issue centre-stage",
         "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Thu, 26 Feb 2026 13:56:39 GMT",
         "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
+      },
+      {
+        "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+        "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 11:45:02 GMT",
+        "description": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear."
+      },
+      {
+        "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+        "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 10:56:45 GMT",
+        "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
+      },
+      {
+        "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+        "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 10:34:36 GMT",
+        "description": "Sweden's defence minister says there is likely a \"strong link\" between the drone and a Russian naval vessel in the area."
       },
       {
         "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
@@ -46,25 +53,18 @@
         "description": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed."
       },
       {
-        "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
+        "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
         "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Fri, 27 Feb 2026 06:00:38 GMT",
         "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
       },
       {
-        "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+        "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
         "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Fri, 27 Feb 2026 04:32:38 GMT",
         "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle."
-      },
-      {
-        "title": "China removes nine military officials ahead of key political meeting",
-        "link": "https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 04:29:01 GMT",
-        "description": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting."
       },
       {
         "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
@@ -76,20 +76,6 @@
     ],
     "Finance": [
       {
-        "title": "Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior",
-        "link": "https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 23:59:44 GMT",
-        "description": "Netflix is ditching a deal to buy Warner Bros. Discovery's studio and streaming assets after the WBD board deemed a revised bid by Paramount to be superior."
-      },
-      {
-        "title": "Block shares soar 24% as company slashes workforce by nearly half",
-        "link": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 23:54:10 GMT",
-        "description": "Block said Thursday it's laying off more than 4,000 employees, or about half of its head count."
-      },
-      {
         "title": "Anthropic CEO Amodei says Pentagon's threats 'do not change our position' on AI",
         "link": "https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html",
         "source": "CNBC Finance",
@@ -97,11 +83,11 @@
         "description": "Anthropic said its negotiations with the DoD are still ongoing."
       },
       {
-        "title": "CNBC's Inside India newsletter: As AI shockwaves hit software firms, what’s in store for India’s IT titans?",
-        "link": "https://www.cnbc.com/2026/02/26/cnbc-inside-india-newsletter-ai-hit-software-firms-india-it.html",
+        "title": "Trump administration faces first big tariff refund court deadline on Friday",
+        "link": "https://www.cnbc.com/2026/02/26/trump-tariff-refunds-doj-court-deadline.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 23:30:40 GMT",
-        "description": "AI-led disruption is threatening India’s software giants."
+        "published": "Thu, 26 Feb 2026 22:34:35 GMT",
+        "description": "Trump's DOJ has until Friday to decide on moving a tariff refund case to the Court of International Trade, the first deadline since the Supreme Court decision."
       },
       {
         "title": "Women’s wealth is expected to boom: Where they are investing and how they can maximize returns",
@@ -111,25 +97,39 @@
         "description": "Cerulli Associates anticipates $105 trillion in wealth will be passed down to heirs through 2048, with about $54 trillion of that inheritance going to spouses."
       },
       {
-        "title": "The 'Great Wealth Transfer': A $3 trillion opportunity for Black business owners is on the horizon",
-        "link": "https://www.cnbc.com/2026/02/26/the-great-wealth-transfer-a-3-trillion-opportunity-for-black-business-owners-is-on-the-horizon.html",
+        "title": "Smartphone market poised for 'sharpest decline on record' in 2026",
+        "link": "https://www.cnbc.com/2026/02/27/smartphone-market-poised-for-sharpest-decline-on-record-in-2026-according-to-reports-memory-chip-data-center-ai-samsung-apple-google-meta.html",
         "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 14:23:06 GMT",
-        "description": "Researchers forecast 6 million small- and medium-sized businesses, or SMBs, will be available for acquisition by 2035."
+        "published": "Fri, 27 Feb 2026 11:43:50 GMT",
+        "description": "Two recent reports predict further declines in the smartphone market in 2026, as dwindling memory supplies continue to drive up prices of consumer electronics."
       },
       {
-        "title": "Asia markets trade mixed after Wall Street pullback on Nvidia slump",
-        "link": "https://www.cnbc.com/2026/02/27/asia-markets-nikkei-225-kospi-nifty-50.html",
+        "title": "Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior",
+        "link": "https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 07:49:20 GMT",
-        "description": "Asia-Pacific markets traded mixed Friday, after U.S. stocks declined overnight as Nvidia shares tumbled despite a quarterly earnings beat."
+        "published": "Fri, 27 Feb 2026 11:37:43 GMT",
+        "description": "Netflix is ditching a deal to buy Warner Bros. Discovery's studio and streaming assets after the WBD board deemed a revised bid by Paramount to be superior."
       },
       {
-        "title": "An Indian company is set to build a $2 billion AI hub with Nvidia’s GPUs and go public. Here's what we know so far",
-        "link": "https://www.cnbc.com/2026/02/27/india-yotta-nvidia-ai-gpu-demand-data-centers-investment.html",
+        "title": "Russia and Ukraine agree local truce to allow repairs at Europe’s largest nuclear power plant",
+        "link": "https://www.cnbc.com/2026/02/27/russia-ukraine-war-local-ceasefire-zaporizhzhia-nuclear-power-plant.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 05:54:53 GMT",
-        "description": "Yotta Data Services, which controls up to 70% of India’s GPU capacity, said surging demand from local AI startups and global tech firms is tightening supply."
+        "published": "Fri, 27 Feb 2026 11:34:05 GMT",
+        "description": "Russian forces have controlled the Zaporizhzhia nuclear power plant since early 2022, shortly after Moscow launched its full-scale invasion of Ukraine."
+      },
+      {
+        "title": "Block shares soar as much as 24% as company slashes workforce by nearly half",
+        "link": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 27 Feb 2026 10:05:10 GMT",
+        "description": "Block said Thursday it's laying off more than 4,000 employees, or about half of its head count."
+      },
+      {
+        "title": "See the movie, play the game: How Nintendo is pulling out all the stops to sell the Switch 2",
+        "link": "https://www.cnbc.com/2026/02/27/nintendo-mario-pokemon-switch-2-ip-franchies.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 27 Feb 2026 06:31:07 GMT",
+        "description": "Nintendo is betting on nostalgia and new gamers to drive sales of its flagship Switch 2 console and key games."
       },
       {
         "title": "U.S. and Iran wrap up 'most intense' nuclear talks with no deal — more negotiations ahead",
@@ -148,6 +148,27 @@
     ],
     "Technology": [],
     "Crypto": [
+      {
+        "title": "Is Bitcoin Done Or Is This Just The Beginning? Pundit Shares Points To Consider",
+        "link": "https://bitcoinist.com/is-bitcoin-done-or-beginning/",
+        "source": "Bitcoinist",
+        "published": "Fri, 27 Feb 2026 11:30:48 +0000",
+        "description": "The Bitcoin price crash from $126,000 to $60,000 has naturally sent most of the market into a panic, and with sentiment still in the red, the probability of the price falling lower remains high. At th"
+      },
+      {
+        "title": "Bitcoin Closer to Bottoming Phase Than Early Bear Stage, Report Says",
+        "link": "https://bitcoinist.com/bitcoin-closer-to-bottoming-phase-early-bear-stage/",
+        "source": "Bitcoinist",
+        "published": "Fri, 27 Feb 2026 10:00:05 +0000",
+        "description": "A new report from Glassnode says Bitcoin could potentially be closer to a bottoming range than the early phase of the bear market. Bitcoin Supply In Loss Trend Doesn&#8217;t Look Similar To An Early B"
+      },
+      {
+        "title": "Blockchain Association Urges Congress To Keep BRCA Intact In Crypto Market Structure Bill",
+        "link": "https://bitcoinist.com/blockchain-association-congress-crypto-brca-intact/",
+        "source": "Bitcoinist",
+        "published": "Fri, 27 Feb 2026 09:00:02 +0000",
+        "description": "With a White House deadline on the anticipated CLARITY Act set for March 1, crypto policy discussions are intensifying in Washington. On Thursday afternoon, Senate Democrats are scheduled to meet to c"
+      },
       {
         "title": "OCC Proposes Framework To Implement GENIUS Act, Targets Stablecoin Yield Workarounds",
         "link": "https://bitcoinist.com/occ-genius-act-stablecoin-yield-workarounds/",
@@ -182,36 +203,50 @@
         "source": "Bitcoinist",
         "published": "Fri, 27 Feb 2026 04:00:19 +0000",
         "description": "Bitcoin is currently testing the $69,000 level as resistance after rebounding from the $64,000 zone, attempting to recover from its recent corrective phase. While the short-term momentum appears const"
-      },
-      {
-        "title": "Bitcoin Demand Growing For First Time Since November, Data Shows",
-        "link": "https://bitcoinist.com/bitcoin-demand-growing-first-time-november-data/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 03:00:55 +0000",
-        "description": "On-chain data shows spot demand for Bitcoin is returning as the Apparent Demand metric has started to grow for the first time since late November. Bitcoin Apparent Demand Has Seen Its 30-Day Sum Turn "
-      },
-      {
-        "title": "Saylor Names Solana And Ethereum As Future Of Digital Credit",
-        "link": "https://bitcoinist.com/saylor-solana-ethereum-future-digital-credit/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 02:00:28 +0000",
-        "description": "Michael Saylor used his Strategy World 2026 keynote on Feb. 25 to argue that Bitcoin-backed “digital credit” is moving beyond Wall Street wrappers and toward programmable distribution on crypto rails,"
-      },
-      {
-        "title": "Finance Veteran Reveals Why XRP Price Will Actually Hit $100 Without Issue",
-        "link": "https://bitcoinist.com/xrp-will-hit-100-without-issue/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 01:00:44 +0000",
-        "description": "A finance veteran is pushing back against critics who have dismissed a $100 XRP price prediction, suggesting that those on the opposing side may simply be missing the bigger picture. He boldly argues "
       }
     ],
     "Markets": [
       {
-        "title": "This travel hack could save you hundreds on your summer vacation — just in time for the World Cup",
-        "link": "https://www.marketwatch.com/story/swapping-homes-could-save-you-hundreds-of-dollars-on-your-summer-vacation-especially-if-you-live-in-a-world-cup-host-city-be455ea4?mod=mw_rss_topstories",
+        "title": "Howard Marks of Oaktree makes 180-degree turn on AI after Claude tutorial. Here’s how he suggests investors approach it.",
+        "link": "https://www.marketwatch.com/story/howard-marks-makes-180-degree-turn-on-ai-after-claude-tutorial-heres-how-he-suggests-investors-approach-it-c8658e7d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 23:51:00 GMT",
-        "description": "Millions of international visitors are expected to flock to the U.S. this summer to experience the 2026 FIFA World Cup. And with hotel prices on the rise due to increased demand, tourists are seeking "
+        "published": "Fri, 27 Feb 2026 11:52:00 GMT",
+        "description": "Legendary investor is still undecided about the AI bubble but the technology is revolutionary, he thinks. He believes AI has the capacity to be a better investor than most."
+      },
+      {
+        "title": "Nine out of 10 bets this fund manager made outperformed over the past year. Here’s his next two plays.",
+        "link": "https://www.marketwatch.com/story/nine-out-of-10-bets-this-fund-manager-made-outperformed-over-the-past-year-heres-his-next-two-plays-79f4b71e?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 27 Feb 2026 11:46:00 GMT",
+        "description": "Gold miners, Japan stocks and nuclear plays boosted Man Group’s portfolio"
+      },
+      {
+        "title": "After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?",
+        "link": "https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 27 Feb 2026 11:15:00 GMT",
+        "description": "“I’ve owned my own company for the last 15 years. It’s worth $8.5 million.”"
+      },
+      {
+        "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
+        "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 27 Feb 2026 10:45:00 GMT",
+        "description": "“I live in a state with no inheritance tax. I assume I can make this deposit legally.”"
+      },
+      {
+        "title": "‘My sister and I are his only family’: My brother is paranoid and forgot he sold his house. What can I do?",
+        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 27 Feb 2026 10:15:00 GMT",
+        "description": "In an email, his lawyer said, “He’s gone over the deep end.”"
+      },
+      {
+        "title": "KISS rocker Gene Simmons lowers price of Beverly Hills home to $12.5 million after months on the market",
+        "link": "https://www.marketwatch.com/story/kiss-rocker-gene-simmons-lowers-price-of-beverly-hills-home-to-12-5-million-after-months-on-the-market-68bed304?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 27 Feb 2026 10:04:00 GMT",
+        "description": "This is the second time KISS bassist Gene Simmons has cut the price of the luxury home."
       },
       {
         "title": "My grandpa retired happily at 70 with $750K after working as a missionary. I know where most Americans go wrong.",
@@ -240,130 +275,81 @@
         "source": "MarketWatch",
         "published": "Fri, 27 Feb 2026 02:00:00 GMT",
         "description": "Retail sales are still rising, but record household savings, stepped-up gold buying and reined-in income expectations suggest the population of the world’s second largest economy is now prioritizing s"
-      },
-      {
-        "title": "Sweetgreen’s disappointing sales offer a reality check for restaurants, after Cava’s rally",
-        "link": "https://www.marketwatch.com/story/sweetgreens-disappointing-sales-offer-a-reality-check-for-restaurants-after-cavas-rally-1c2fe3d9?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 01:33:00 GMT",
-        "description": "A day after Cava’s upbeat sales forecast raised hopes for the restaurant industry, rival fast-casual chain Sweetgreen is bringing them back to earth."
-      },
-      {
-        "title": "Duolingo is making some changes to contend with the threat of AI. Its stock is sinking.",
-        "link": "https://www.marketwatch.com/story/duolingo-is-making-some-changes-to-contend-with-the-threat-of-ai-its-stock-is-sinking-32e75bc6?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 01:33:00 GMT",
-        "description": "Following a slowdown in user growth, the language-learning company is stepping up investment and changing how it thinks about its tiers of service"
-      },
-      {
-        "title": "Rocket Lab’s stock slides as yet another rocket delay overshadows ‘record year’",
-        "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-yet-another-rocket-delay-overshadows-record-year-5b9987ea?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 01:31:00 GMT",
-        "description": "The Neutron rocket was expected to have its debut last year. Now, it’s projected to launch at the end of 2026."
-      },
-      {
-        "title": "Dell’s stock soars, as record earnings signal the company is managing memory shortages well",
-        "link": "https://www.marketwatch.com/story/dells-stock-soars-as-record-earnings-signal-the-company-is-managing-memory-shortages-well-41620e00?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 01:31:00 GMT",
-        "description": "The maker of servers and PCs is also boosting its dividend by 20%."
-      },
-      {
-        "title": "CoreWeave’s stock drops as losses swell and interest expenses climb",
-        "link": "https://www.marketwatch.com/story/coreweaves-stock-drops-as-losses-swell-and-interest-expenses-climb-9a09e137?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 01:30:00 GMT",
-        "description": "While AI demand remains high, CoreWeave’s widening net loss in the fourth quarter is giving investors pause."
       }
     ],
     "Singapore": [
       {
-        "title": "Rise of C-beauty: Chinese cosmetic brands build momentum in Southeast Asia and beyond",
-        "link": "https://www.channelnewsasia.com/east-asia/china-beauty-industry-c-beauty-cosmetics-skincare-5957726",
+        "title": "Bill Clinton to give private testimony to Congress about Epstein",
+        "link": "https://www.channelnewsasia.com/world/us-bill-clinton-jeffrey-epstein-congress-private-testimony-5958506",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 15:56:37 +0800",
-        "description": "K-beauty or J-beauty products have been a staple among consumers for years – but now, a new wave of Chinese cosmetics and skincare is gaining attention overseas."
-      },
-      {
-        "title": "Singapore to acquire 3 Gulfstream G550 maritime surveillance aircraft",
-        "link": "https://www.channelnewsasia.com/singapore/rsaf-gulfstream-g550-maritime-surveillance-aircraft-5957511",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 15:55:39 +0800",
-        "description": "Defence Minister Chan Chun Sing also gave an update on the Navy's second multi-role combat vessel, which is on track to be launched later this year.&nbsp;"
-      },
-      {
-        "title": "China needs more proactive and coordinated policies, Politburo says",
-        "link": "https://www.channelnewsasia.com/east-asia/china-politburo-economy-policies-employment-markets-reforms-5957836",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 15:30:58 +0800",
-        "description": "Efforts to stabilise employment, enterprises and markets, as well as building a robust domestic market, were also discussed, state news agency Xinhua reported."
-      },
-      {
-        "title": "A-Level results: 94.7% score at least 3 H2 passes",
-        "link": "https://www.channelnewsasia.com/singapore/alevel-results-947-h2-passes-moe-education-5957136",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 15:30:04 +0800",
+        "published": "Fri, 27 Feb 2026 19:53:45 +0800",
         "description": ""
       },
       {
-        "title": "SAF developing indoor live-firing complex near future Sungei Bedok MRT station",
-        "link": "https://www.channelnewsasia.com/singapore/saf-new-indoor-live-firing-multi-mission-range-complex-sungei-bedok-mrt-5957226",
+        "title": "US stock futures falter on AI jitters, Nasdaq braces for steep monthly fall",
+        "link": "https://www.channelnewsasia.com/business/us-stock-futures-falter-ai-jitters-nasdaq-braces-steep-monthly-fall-5958556",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 15:28:35 +0800",
-        "description": "The second multi-mission range complex, set to be fully operational by 2031, will make it easier for soldiers to book range slots for individual training."
-      },
-      {
-        "title": "Prada unravels, layers and reveals at Milan Fashion Week",
-        "link": "https://www.channelnewsasia.com/obsessions/prada-fall-winter-2026-milan-fashion-week-layering-distressed-5957891",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 15:07:57 +0800",
-        "description": "Layering was the message at Prada – with faux fur, shimmery linings and clothes that looked purposefully eaten away."
-      },
-      {
-        "title": "Man admits repeatedly trespassing into Redhill condo to steal bicycles, selling them on Carousell",
-        "link": "https://www.channelnewsasia.com/singapore/man-trespass-condo-steal-bicycles-redhill-5957811",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 14:45:38 +0800",
-        "description": "He would enter the condo by tailgating residents or when the gate was unlocked before looking for unlocked bicycles."
-      },
-      {
-        "title": "South Korea finally agrees to share data with Google Maps",
-        "link": "https://www.channelnewsasia.com/east-asia/south-korea-finally-agrees-share-data-google-maps-5957886",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 14:44:52 +0800",
+        "published": "Fri, 27 Feb 2026 19:43:21 +0800",
         "description": ""
       },
       {
-        "title": "Not sure where to start with SingLit? Here are 50+ picks as SG Culture Pass adds Singapore titles",
-        "link": "https://www.channelnewsasia.com/living/sg-culture-pass-sing-lit-books-recommendations-5954241",
+        "title": "Liverpool post record revenue of $947 million in league-winning 2024-25 season",
+        "link": "https://www.channelnewsasia.com/sport/liverpool-post-record-revenue-947-million-in-league-winning-2024-25-season-5958561",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 14:33:00 +0800",
-        "description": "Booksellers, bookstagrammers, Singapore Writers Festival directors and local publishers share their SingLit recommendations as selected Singapore literature titles become eligible for the SG Culture P"
+        "published": "Fri, 27 Feb 2026 19:38:35 +0800",
+        "description": ""
       },
       {
-        "title": "Ailing Atmane docked point for time violation on match point in Acapulco",
-        "link": "https://www.channelnewsasia.com/sport/ailing-atmane-docked-point-time-violation-match-point-in-acapulco-5957861",
+        "title": "Real Madrid face Man City again in Champions League knockouts",
+        "link": "https://www.channelnewsasia.com/sport/real-madrid-face-man-city-again-in-champions-league-knockouts-5958531",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 14:28:53 +0800",
+        "published": "Fri, 27 Feb 2026 19:31:45 +0800",
         "description": ""
+      },
+      {
+        "title": "Liverpool's Wirtz out injured with no return date, Slot says",
+        "link": "https://www.channelnewsasia.com/sport/liverpools-wirtz-out-injured-no-return-date-slot-says-5958511",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 19:22:53 +0800",
+        "description": ""
+      },
+      {
+        "title": "Pentagon Anthropic feud has sales and AI warfare at stake as Friday deadline looms",
+        "link": "https://www.channelnewsasia.com/business/pentagon-anthropic-feud-has-sales-and-ai-warfare-stake-friday-deadline-looms-5958466",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 19:07:12 +0800",
+        "description": ""
+      },
+      {
+        "title": "AI disruption looms over markets with US jobs data on tap",
+        "link": "https://www.channelnewsasia.com/business/ai-disruption-looms-over-markets-us-jobs-data-tap-5958471",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 19:06:32 +0800",
+        "description": ""
+      },
+      {
+        "title": "Standard prefixed number for police, WhatsApp spoofing safeguards as efforts ramp up against scams",
+        "link": "https://www.channelnewsasia.com/singapore/police-whatsapp-spoofing-government-impersonation-scams-drugs-youths-5958011",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 19:04:00 +0800",
+        "description": "Government officials impersonation scams more than doubled in 2025 from the year before and saw the highest average amount lost per case."
+      },
+      {
+        "title": "China suspends some agricultural tariffs on Canada after Carney visit",
+        "link": "https://www.channelnewsasia.com/east-asia/china-suspend-agricultural-tariffs-canada-5958386",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 18:54:00 +0800",
+        "description": ""
+      },
+      {
+        "title": "Lower drink driving limit, possible review of demerit points system in Singapore road safety push",
+        "link": "https://www.channelnewsasia.com/singapore/drink-driving-limit-alcohol-demerit-points-system-review-road-safety-electric-vehicles-5958006",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 18:52:00 +0800",
+        "description": "The government is also studying the use of differentiated licence plates for electric vehicles (EVs) to help firefighters take the necessary precautions."
       }
     ],
     "US Politics": [
-      {
-        "title": "MoD launches review into whether Epstein used RAF bases",
-        "link": "https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 20:52:51 GMT",
-        "description": "Records and emails will be reviewed to determine whether the convicted sex offender used military bases when visiting the UK."
-      },
-      {
-        "title": "Mandelson referred to EU anti-fraud agency over Epstein emails",
-        "link": "https://www.bbc.com/news/articles/cj98zm22327o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 19:18:47 GMT",
-        "description": "The European Commission says it is assessing whether the peer breached its code of conduct while its trade envoy."
-      },
       {
         "title": "No 10 will have no say on which Mandelson papers are released",
         "link": "https://www.bbc.com/news/articles/cp85j06ezyro?at_medium=RSS&at_campaign=rss",
@@ -372,18 +358,39 @@
         "description": "A committee of MPs and peers says the government has confirmed it will not overrule any decision to disclose files."
       },
       {
+        "title": "Corbyn set to become Your Party parliamentary leader",
+        "link": "https://www.bbc.com/news/articles/cx2rxddwykno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 26 Feb 2026 14:00:49 GMT",
+        "description": "Ex-Labour leader Jeremy Corbyn's supporters won 14 of the 24 seats on Your Party's central executive committee (CEC)."
+      },
+      {
+        "title": "Miliband says climate impact of data centres is uncertain",
+        "link": "https://www.bbc.com/news/articles/cx2drxgz7x8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 11:56:57 GMT",
+        "description": "The admission comes after MPs said they were concerned about emissions from a boom in data centres."
+      },
+      {
+        "title": "Police say no reports of electoral offences in by-election",
+        "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 11:46:50 GMT",
+        "description": "It comes after election observers raised concerns about \"extremely high\" levels of family voting."
+      },
+      {
+        "title": "From plumber to Parliament, the Green Party's new MP",
+        "link": "https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 09:56:03 GMT",
+        "description": "Spencer marked her victory by apologising to customers for potentially having to cancel work due to her Westminster move."
+      },
+      {
         "title": "Green Party wins Gorton and Denton by-election, pushing Labour into third place",
         "link": "https://www.bbc.com/news/articles/cr453rvy6kvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 07:57:34 GMT",
+        "published": "Fri, 27 Feb 2026 09:47:19 GMT",
         "description": "Labour, which took the seat with more than 50% of the vote in 2024, came behind Reform UK."
-      },
-      {
-        "title": "'Family voting' concerns raised by election observers in Gorton and Denton",
-        "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 07:38:47 GMT",
-        "description": "The officer responsible for running the by-election said no reports of family voting were made by polling station staff."
       },
       {
         "title": "Chris Mason on 'an extraordinary by-election result'",
@@ -393,13 +400,6 @@
         "description": "Chris Mason reports from Manchester on the Gorton and Denton by-election result."
       },
       {
-        "title": "Sir John Curtice: Greens' win means future of British politics is more uncertain than ever",
-        "link": "https://www.bbc.com/news/articles/cwygpdjq9jjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 06:06:26 GMT",
-        "description": "Not only did Hannah Spencer become the first Green to win a by-election, she won it well."
-      },
-      {
         "title": "Chris Mason: Green win will prompt soul searching within Labour and questions for PM",
         "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
@@ -407,18 +407,18 @@
         "description": "The prime minister is facing questions about whether Labour's focus on Reform left them exposed among some of their regular supporters."
       },
       {
+        "title": "Christian groups 'outraged' at Reform conference held in Church House",
+        "link": "https://www.bbc.com/news/articles/ckg3ek2pjzdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 05:29:50 GMT",
+        "description": "A number of Christian groups said the party's immigration policies were opposed to Church beliefs and teachings."
+      },
+      {
         "title": "Watch: 'Working hard used to get you something', says plumber Hannah Spencer in victory speech",
         "link": "https://www.bbc.com/news/videos/clyz4ellkd7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Fri, 27 Feb 2026 05:18:55 GMT",
         "description": "In her acceptance speech, Hannah Spencer said she was “no different from every single person in this constituency”."
-      },
-      {
-        "title": "Miliband says climate impact of data centres is uncertain",
-        "link": "https://www.bbc.com/news/articles/cx2drxgz7x8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 00:03:54 GMT",
-        "description": "The admission comes after MPs said they were concerned about emissions from a boom in data centres."
       }
     ],
     "Science": []
@@ -436,25 +436,32 @@
       "description": "Cuba has accused those on board of planning \"an infiltration with terrorist aims” and firing first."
     },
     {
-      "title": "US-Iran talks end after 'significant progress', mediator says",
-      "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 21:43:44 GMT",
-      "description": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
-    },
-    {
-      "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
-      "link": "https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 18:04:34 GMT",
-      "description": "A total of 1,000 Kenyans have reportedly been recruited to fight for Russia in its war against Ukraine."
-    },
-    {
       "title": "Danish PM calls snap election with Greenland issue centre-stage",
       "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Thu, 26 Feb 2026 13:56:39 GMT",
       "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
+    },
+    {
+      "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+      "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 11:45:02 GMT",
+      "description": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear."
+    },
+    {
+      "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+      "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 10:56:45 GMT",
+      "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
+    },
+    {
+      "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+      "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 10:34:36 GMT",
+      "description": "Sweden's defence minister says there is likely a \"strong link\" between the drone and a Russian naval vessel in the area."
     },
     {
       "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
@@ -471,25 +478,18 @@
       "description": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed."
     },
     {
-      "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
+      "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
       "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Fri, 27 Feb 2026 06:00:38 GMT",
       "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
     },
     {
-      "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+      "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
       "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Fri, 27 Feb 2026 04:32:38 GMT",
       "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle."
-    },
-    {
-      "title": "China removes nine military officials ahead of key political meeting",
-      "link": "https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 04:29:01 GMT",
-      "description": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting."
     },
     {
       "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
