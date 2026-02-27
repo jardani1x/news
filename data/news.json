@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-02-27 12:04 SGT",
-  "updated_iso": "2026-02-27T12:04:45.310359+08:00",
+  "updated_sgt": "2026-02-27 16:04 SGT",
+  "updated_iso": "2026-02-27T16:04:40.581098+08:00",
   "categories": {
     "World": [
       {
@@ -18,39 +18,11 @@
         "description": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
       },
       {
-        "title": "Man, 82, crushed to death in car at Munich scrapyard",
-        "link": "https://www.bbc.com/news/articles/c4gj2ng03k8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 19:10:01 GMT",
-        "description": "Police said the car was meant to be scrapped and the man must have climbed into it without being noticed."
-      },
-      {
         "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
         "link": "https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Thu, 26 Feb 2026 18:04:34 GMT",
         "description": "A total of 1,000 Kenyans have reportedly been recruited to fight for Russia in its war against Ukraine."
-      },
-      {
-        "title": "At least 10 FBI agents who worked on Trump investigation fired",
-        "link": "https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 16:50:44 GMT",
-        "description": "The terminated FBI staffers all participated in a probe into Trump's handling of classified documents after his first term."
-      },
-      {
-        "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
-        "link": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 14:28:35 GMT",
-        "description": "Russia's announcement comes as Ukraine's top negotiator met US peace envoys in Geneva."
-      },
-      {
-        "title": "World Economic Forum boss quits after review of Epstein links",
-        "link": "https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 14:25:28 GMT",
-        "description": "Brende acknowledged communications with Epstein but said he was \"completely unaware\" of his past criminal activity."
       },
       {
         "title": "Danish PM calls snap election with Greenland issue centre-stage",
@@ -60,18 +32,46 @@
         "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
       },
       {
-        "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
-        "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+        "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
+        "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 26 Feb 2026 06:01:11 GMT",
-        "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes."
+        "published": "Fri, 27 Feb 2026 07:19:18 GMT",
+        "description": "The ex-secretary of state called for President Trump to be questioned under oath about his past association with the sex offender."
       },
       {
-        "title": "Pakistan strikes Afghan cities as cross-border attacks escalate",
-        "link": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss",
+        "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
+        "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 01:13:53 GMT",
-        "description": "The Afghan Taliban said it had responded to the Pakistani strikes, which targeted Afghan cities including Kabul and Kandahar."
+        "published": "Fri, 27 Feb 2026 06:02:12 GMT",
+        "description": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed."
+      },
+      {
+        "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
+        "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 06:00:38 GMT",
+        "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
+      },
+      {
+        "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+        "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 04:32:38 GMT",
+        "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle."
+      },
+      {
+        "title": "China removes nine military officials ahead of key political meeting",
+        "link": "https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 04:29:01 GMT",
+        "description": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting."
+      },
+      {
+        "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+        "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 00:06:40 GMT",
+        "description": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\""
       }
     ],
     "Finance": [
@@ -104,13 +104,6 @@
         "description": "AI-led disruption is threatening India’s software giants."
       },
       {
-        "title": "Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5%",
-        "link": "https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 26 Feb 2026 21:25:25 GMT",
-        "description": "\"The odds were stacked against them,\" Adam Phillips of EP Wealth Advisors told CNBC."
-      },
-      {
         "title": "Women’s wealth is expected to boom: Where they are investing and how they can maximize returns",
         "link": "https://www.cnbc.com/2026/02/26/womens-wealth-is-expected-to-boom-where-they-are-investing-and-how-they-can-maximize-returns.html",
         "source": "CNBC Finance",
@@ -125,18 +118,25 @@
         "description": "Researchers forecast 6 million small- and medium-sized businesses, or SMBs, will be available for acquisition by 2035."
       },
       {
+        "title": "Asia markets trade mixed after Wall Street pullback on Nvidia slump",
+        "link": "https://www.cnbc.com/2026/02/27/asia-markets-nikkei-225-kospi-nifty-50.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 27 Feb 2026 07:49:20 GMT",
+        "description": "Asia-Pacific markets traded mixed Friday, after U.S. stocks declined overnight as Nvidia shares tumbled despite a quarterly earnings beat."
+      },
+      {
+        "title": "An Indian company is set to build a $2 billion AI hub with Nvidia’s GPUs and go public. Here's what we know so far",
+        "link": "https://www.cnbc.com/2026/02/27/india-yotta-nvidia-ai-gpu-demand-data-centers-investment.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 27 Feb 2026 05:54:53 GMT",
+        "description": "Yotta Data Services, which controls up to 70% of India’s GPU capacity, said surging demand from local AI startups and global tech firms is tightening supply."
+      },
+      {
         "title": "U.S. and Iran wrap up 'most intense' nuclear talks with no deal — more negotiations ahead",
         "link": "https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html",
         "source": "CNBC Finance",
         "published": "Fri, 27 Feb 2026 03:24:44 GMT",
         "description": "Iran's nuclear program, enrichment of uranium and its ballistic-missle development program have been at the crux of the negotiations."
-      },
-      {
-        "title": "Asia markets open mixed after Wall Street pullback on Nvidia slump",
-        "link": "https://www.cnbc.com/2026/02/27/asia-markets-nikkei-225-kospi-nifty-50.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 01:46:40 GMT",
-        "description": "Asia-Pacific markets opened mixed on Friday, after U.S. stocks declined overnight as Nvidia shares tumbled despite a quarterly earnings beat."
       },
       {
         "title": "CoreWeave shares slip 8% as quarterly revenue guidance disappoints",
@@ -149,25 +149,32 @@
     "Technology": [],
     "Crypto": [
       {
-        "title": "Is Crypto Funding A Risk To UK Politics? Lawmaker Seeks Temporary Ban",
-        "link": "https://bitcoinist.com/is-crypto-funding-a-risk-to-uk-politics-lawmaker-seeks-temporary-ban/",
+        "title": "OCC Proposes Framework To Implement GENIUS Act, Targets Stablecoin Yield Workarounds",
+        "link": "https://bitcoinist.com/occ-genius-act-stablecoin-yield-workarounds/",
         "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 23:00:54 +0000",
-        "description": "A senior UK security official is pushing for a temporary freeze on cryptocurrency donations to political parties, warning that foreign governments could exploit the hard-to-trace nature of digital cur"
+        "published": "Fri, 27 Feb 2026 08:00:22 +0000",
+        "description": "The Office of the Comptroller of the Currency (OCC) has asked the public for feedback on its proposed framework to regulate stablecoins under the landmark crypto regulation, including proposals to add"
       },
       {
-        "title": "XRP-Paypal Rumors: What This Acquisition Would Mean For Ripple",
-        "link": "https://bitcoinist.com/what-xrp-paypal-mean-for-ripple/",
+        "title": "Sen. Lummis Rebukes Sam Bankman-Fried, Says CLARITY Act Would Mean Longer Sentence",
+        "link": "https://bitcoinist.com/sen-lummis-rebukes-sam-bankman-fried-clarity-act/",
         "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 22:00:43 +0000",
-        "description": "PayPal, the digital payments company, has seen its stock price slump by almost half its value in recent months, which has led to conversations about who could realistically step in if a deal were ever"
+        "published": "Fri, 27 Feb 2026 07:00:25 +0000",
+        "description": "Sam Bankman-Fried, the co-founder and former CEO of collapsed crypto exchange FTX, has in recent months repeatedly called for a retrial in New York, where he was sentenced to 25 years in prison follow"
       },
       {
-        "title": "Solana’s Ecosystem Dominates With A Significant Share Of Total Web3 DApp Revenue",
-        "link": "https://bitcoinist.com/solana-dominate-web3-dapp-revenue/",
+        "title": "The $90,000 Bitcoin Anchor: Decoding The Gap That Is Paralyzing BTC’s Newest Investor Cohort",
+        "link": "https://bitcoinist.com/the-90000-anchor-decoding-the-price-gap-bitcoin/",
         "source": "Bitcoinist",
-        "published": "Thu, 26 Feb 2026 21:00:50 +0000",
-        "description": "In terms of price action, Solana may be demonstrating a downside trend, but its ecosystem is signaling growing dominance in the Web3 sector. After seeing notable network performance, the blockchain no"
+        "published": "Fri, 27 Feb 2026 06:00:22 +0000",
+        "description": "Bitcoin has regained short-term momentum after a roughly 7% surge on Wednesday, providing some relief to a market that had remained under persistent selling pressure. The rebound followed renewed disc"
+      },
+      {
+        "title": "Bitcoin’s Price Is Down 50% — Yet Adoption Has Never Been Stronger",
+        "link": "https://bitcoinist.com/bitcoins-price-is-down-50-yet-adoption-has-never-been-stronger/",
+        "source": "Bitcoinist",
+        "published": "Fri, 27 Feb 2026 05:00:45 +0000",
+        "description": "The price of Bitcoin has been cut in half since hitting its all-time high. That much is hard to ignore. But according to a new report from financial services firm River, the price chart is telling onl"
       },
       {
         "title": "Bitcoin Stabilizes At $68K as Fund Flow Ratios Signal An Institutional Standstill",
@@ -196,13 +203,6 @@
         "source": "Bitcoinist",
         "published": "Fri, 27 Feb 2026 01:00:44 +0000",
         "description": "A finance veteran is pushing back against critics who have dismissed a $100 XRP price prediction, suggesting that those on the opposing side may simply be missing the bigger picture. He boldly argues "
-      },
-      {
-        "title": "Ethereum’s Brutal Price Action Contrasts With Strong Spot ETF Demand, Will This Spur A Rebound?",
-        "link": "https://bitcoinist.com/ethereums-strong-spot-etf-demand/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 00:00:50 +0000",
-        "description": "Following a brief and sudden market-wide uptick, the Ethereum price is drawing closer to the pivotal $2,100 mark again, recording a 12% rise in the past day. Despite the bounce on Wednesday, the broad"
       }
     ],
     "Markets": [
@@ -214,18 +214,25 @@
         "description": "Millions of international visitors are expected to flock to the U.S. this summer to experience the 2026 FIFA World Cup. And with hotel prices on the rise due to increased demand, tourists are seeking "
       },
       {
-        "title": "Is it OK to wear pajamas on your next flight? A viral post sparks debate.",
-        "link": "https://www.marketwatch.com/story/is-it-ok-to-wear-pajamas-on-your-next-flight-a-viral-post-sparks-debate-29bad4de?mod=mw_rss_topstories",
+        "title": "My grandpa retired happily at 70 with $750K after working as a missionary. I know where most Americans go wrong.",
+        "link": "https://www.marketwatch.com/story/my-grandpa-retired-happy-at-70-with-750k-and-hes-doing-just-fine-i-know-where-most-americans-go-wrong-c5774943?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 23:21:00 GMT",
-        "description": "Tampa International Airport issued a mock ban on sleepwear. Plenty of comments soon followed."
+        "published": "Fri, 27 Feb 2026 05:16:00 GMT",
+        "description": "“You could even retire at 55 with $500,000 and be perfectly fine. Am I right?”"
       },
       {
-        "title": "Tech earnings, silver’s rebound and a Cathie Wood ETF offer a high-stakes pivot for investors",
-        "link": "https://www.marketwatch.com/story/tech-earnings-silvers-rebound-and-a-cathie-wood-etf-offer-a-high-stakes-pivot-for-investors-e15b3e40?mod=mw_rss_topstories",
+        "title": "Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out",
+        "link": "https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 26 Feb 2026 22:55:00 GMT",
-        "description": "S&P 500 is stuck in a trading range and the market is eager for a breakout — up or down."
+        "published": "Fri, 27 Feb 2026 04:08:00 GMT",
+        "description": "The streaming giant said countering Paramount’s bid was “no longer financially attractive.”"
+      },
+      {
+        "title": "Block plans to lay off nearly half its staff in ‘deliberate and bold’ embrace of AI",
+        "link": "https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 27 Feb 2026 04:07:00 GMT",
+        "description": "Block’s stock surges 20% as Wall Street rewards massive job cuts at the parent company of Square and the Cash App."
       },
       {
         "title": "Yes, consumers in China are consuming again. It’s just not their No. 1 priority these days.",
@@ -268,95 +275,81 @@
         "source": "MarketWatch",
         "published": "Fri, 27 Feb 2026 01:30:00 GMT",
         "description": "While AI demand remains high, CoreWeave’s widening net loss in the fourth quarter is giving investors pause."
-      },
-      {
-        "title": "Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out",
-        "link": "https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 00:14:00 GMT",
-        "description": "The streaming giant said countering Paramount’s bid was “no longer financially attractive.”"
       }
     ],
     "Singapore": [
       {
-        "title": "SG Culture Pass book buys: 1,500 SingLit titles at 40 outlets islandwide",
-        "link": "https://www.channelnewsasia.com/singapore/sg-culture-pass-credits-buy-singlit-books-reading-5950176",
+        "title": "Rise of C-beauty: Chinese cosmetic brands build momentum in Southeast Asia and beyond",
+        "link": "https://www.channelnewsasia.com/east-asia/china-beauty-industry-c-beauty-cosmetics-skincare-5957726",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 12:00:13 +0800",
-        "description": "The S$100 credits from the pass are valid until the end of 2028 and they&nbsp;can be used from Mar 1 for the eligible publications."
+        "published": "Fri, 27 Feb 2026 15:56:37 +0800",
+        "description": "K-beauty or J-beauty products have been a staple among consumers for years – but now, a new wave of Chinese cosmetics and skincare is gaining attention overseas."
       },
       {
-        "title": "Jungkook of BTS speaks candidly about idol life in now-deleted livestream",
-        "link": "https://www.channelnewsasia.com/entertainment/jungkook-candid-about-idol-life-livestream-deleted-5957161",
+        "title": "Singapore to acquire 3 Gulfstream G550 maritime surveillance aircraft",
+        "link": "https://www.channelnewsasia.com/singapore/rsaf-gulfstream-g550-maritime-surveillance-aircraft-5957511",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 11:42:41 +0800",
-        "description": "Jungkook was singing and drinking with his friends in an 88-minute livestream which has since been pulled from the fan communication platform, Weverse."
+        "published": "Fri, 27 Feb 2026 15:55:39 +0800",
+        "description": "Defence Minister Chan Chun Sing also gave an update on the Navy's second multi-role combat vessel, which is on track to be launched later this year.&nbsp;"
       },
       {
-        "title": "Thai soldier loses leg in landmine blast on Cambodia: Thailand military",
-        "link": "https://www.channelnewsasia.com/asia/thai-soldier-loses-leg-in-landmine-blast-cambodia-thailand-military-5957376",
+        "title": "China needs more proactive and coordinated policies, Politburo says",
+        "link": "https://www.channelnewsasia.com/east-asia/china-politburo-economy-policies-employment-markets-reforms-5957836",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 11:42:00 +0800",
-        "description": "According to the Thai military's preliminary examination, the landmine was buried deep in clay and covered with leaves, suggesting it was not newly laid.&nbsp;"
+        "published": "Fri, 27 Feb 2026 15:30:58 +0800",
+        "description": "Efforts to stabilise employment, enterprises and markets, as well as building a robust domestic market, were also discussed, state news agency Xinhua reported."
       },
       {
-        "title": "Japan finance minister signals greater vigilance over the yen's weakness",
-        "link": "https://www.channelnewsasia.com/business/japan-finance-minister-signals-greater-vigilance-over-yens-weakness-5957401",
+        "title": "A-Level results: 94.7% score at least 3 H2 passes",
+        "link": "https://www.channelnewsasia.com/singapore/alevel-results-947-h2-passes-moe-education-5957136",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 11:39:17 +0800",
+        "published": "Fri, 27 Feb 2026 15:30:04 +0800",
         "description": ""
       },
       {
-        "title": "NTT Data to boost India headcount by 5,000 this year, exec says",
-        "link": "https://www.channelnewsasia.com/business/ntt-data-boost-india-headcount-5000-year-exec-says-5957371",
+        "title": "SAF developing indoor live-firing complex near future Sungei Bedok MRT station",
+        "link": "https://www.channelnewsasia.com/singapore/saf-new-indoor-live-firing-multi-mission-range-complex-sungei-bedok-mrt-5957226",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 11:33:49 +0800",
+        "published": "Fri, 27 Feb 2026 15:28:35 +0800",
+        "description": "The second multi-mission range complex, set to be fully operational by 2031, will make it easier for soldiers to book range slots for individual training."
+      },
+      {
+        "title": "Prada unravels, layers and reveals at Milan Fashion Week",
+        "link": "https://www.channelnewsasia.com/obsessions/prada-fall-winter-2026-milan-fashion-week-layering-distressed-5957891",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 15:07:57 +0800",
+        "description": "Layering was the message at Prada – with faux fur, shimmery linings and clothes that looked purposefully eaten away."
+      },
+      {
+        "title": "Man admits repeatedly trespassing into Redhill condo to steal bicycles, selling them on Carousell",
+        "link": "https://www.channelnewsasia.com/singapore/man-trespass-condo-steal-bicycles-redhill-5957811",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 14:45:38 +0800",
+        "description": "He would enter the condo by tailgating residents or when the gate was unlocked before looking for unlocked bicycles."
+      },
+      {
+        "title": "South Korea finally agrees to share data with Google Maps",
+        "link": "https://www.channelnewsasia.com/east-asia/south-korea-finally-agrees-share-data-google-maps-5957886",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 14:44:52 +0800",
         "description": ""
       },
       {
-        "title": "Exclusive-Nintendo plans around $1.9 billion share sale by Kyoto bank and others, sources say",
-        "link": "https://www.channelnewsasia.com/business/exclusive-nintendo-plans-around-19-billion-share-sale-kyoto-bank-and-others-sources-say-5957361",
+        "title": "Not sure where to start with SingLit? Here are 50+ picks as SG Culture Pass adds Singapore titles",
+        "link": "https://www.channelnewsasia.com/living/sg-culture-pass-sing-lit-books-recommendations-5954241",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 11:32:25 +0800",
+        "published": "Fri, 27 Feb 2026 14:33:00 +0800",
+        "description": "Booksellers, bookstagrammers, Singapore Writers Festival directors and local publishers share their SingLit recommendations as selected Singapore literature titles become eligible for the SG Culture P"
+      },
+      {
+        "title": "Ailing Atmane docked point for time violation on match point in Acapulco",
+        "link": "https://www.channelnewsasia.com/sport/ailing-atmane-docked-point-time-violation-match-point-in-acapulco-5957861",
+        "source": "CNA Singapore",
+        "published": "Fri, 27 Feb 2026 14:28:53 +0800",
         "description": ""
-      },
-      {
-        "title": "Philippines, Japan, US hold joint military drills in South China Sea",
-        "link": "https://www.channelnewsasia.com/asia/philippines-japan-us-south-china-sea-joint-military-drills-5957206",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 11:12:00 +0800",
-        "description": "The Philippines has worked with a number of countries since 2023 to assert its rights and maritime entitlements in the South China Sea.&nbsp;"
-      },
-      {
-        "title": "Japan PM Takaichi opposes changing male-only imperial succession",
-        "link": "https://www.channelnewsasia.com/world/japan-pm-takaichi-opposes-changing-male-only-imperial-succession-5957296",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 11:10:27 +0800",
-        "description": ""
-      },
-      {
-        "title": "Rotation risk almost costs Forest in Europa League",
-        "link": "https://www.channelnewsasia.com/sport/rotation-risk-almost-costs-forest-in-europa-league-5957266",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 10:59:59 +0800",
-        "description": ""
-      },
-      {
-        "title": "Frasers Property acquires rear block of The Centrepoint for S$391.9 million",
-        "link": "https://www.channelnewsasia.com/singapore/centrepoint-en-bloc-sale-frasers-property-orchard-road-tender-5957056",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 10:50:00 +0800",
-        "description": "Frasers Property also fully owns 51 Cuppage Road, a 10-storey office building linked directly to The Centrepoint."
       }
     ],
     "US Politics": [
-      {
-        "title": "Chris Mason: Gorton and Denton by-election has been a three-way tussle",
-        "link": "https://www.bbc.com/news/articles/cvg3qg20544o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 22:01:46 GMT",
-        "description": "Plenty think it could be a three-way tussle between Labour, Reform and the Greens, the BBC's political editor writes."
-      },
       {
         "title": "MoD launches review into whether Epstein used RAF bases",
         "link": "https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&at_campaign=rss",
@@ -379,39 +372,46 @@
         "description": "A committee of MPs and peers says the government has confirmed it will not overrule any decision to disclose files."
       },
       {
-        "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
-        "link": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&at_campaign=rss",
+        "title": "Green Party wins Gorton and Denton by-election, pushing Labour into third place",
+        "link": "https://www.bbc.com/news/articles/cr453rvy6kvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 17:45:33 GMT",
-        "description": "Arrivals at the Rock's airport would have to show their passport twice under a new UK-EU treaty."
+        "published": "Fri, 27 Feb 2026 07:57:34 GMT",
+        "description": "Labour, which took the seat with more than 50% of the vote in 2024, came behind Reform UK."
       },
       {
-        "title": "Tommy Robinson welcomed at US State Department",
-        "link": "https://www.bbc.com/news/articles/cqxdzn2evv5o?at_medium=RSS&at_campaign=rss",
+        "title": "'Family voting' concerns raised by election observers in Gorton and Denton",
+        "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 17:18:49 GMT",
-        "description": "The prime minister says the far-right activist \"not a representative of the UK\", after a senior US official hosted him."
+        "published": "Fri, 27 Feb 2026 07:38:47 GMT",
+        "description": "The officer responsible for running the by-election said no reports of family voting were made by polling station staff."
       },
       {
-        "title": "Nearly a million 16-24 year-olds not working or in education",
-        "link": "https://www.bbc.com/news/articles/c62gzl2yl24o?at_medium=RSS&at_campaign=rss",
+        "title": "Chris Mason on 'an extraordinary by-election result'",
+        "link": "https://www.bbc.com/news/videos/c9q514wrew0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 16:53:04 GMT",
-        "description": "People at the start of their careers are particularly affected by the UK's weak job market."
+        "published": "Fri, 27 Feb 2026 06:14:54 GMT",
+        "description": "Chris Mason reports from Manchester on the Gorton and Denton by-election result."
       },
       {
-        "title": "Corbyn set to become Your Party parliamentary leader",
-        "link": "https://www.bbc.com/news/articles/cx2rxddwykno?at_medium=RSS&at_campaign=rss",
+        "title": "Sir John Curtice: Greens' win means future of British politics is more uncertain than ever",
+        "link": "https://www.bbc.com/news/articles/cwygpdjq9jjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 14:00:49 GMT",
-        "description": "Ex-Labour leader Jeremy Corbyn's supporters won 14 of the 24 seats on Your Party's central executive committee (CEC)."
+        "published": "Fri, 27 Feb 2026 06:06:26 GMT",
+        "description": "Not only did Hannah Spencer become the first Green to win a by-election, she won it well."
       },
       {
-        "title": "Met apologises to Lord Speaker after Mandelson tip-off error",
-        "link": "https://www.bbc.com/news/articles/cgmlzdr3y7mo?at_medium=RSS&at_campaign=rss",
+        "title": "Chris Mason: Green win will prompt soul searching within Labour and questions for PM",
+        "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 11:47:45 GMT",
-        "description": "Lord Mandelson's lawyers said police arrested the peer because of a \"baseless\" suggestion he was planning to move abroad."
+        "published": "Fri, 27 Feb 2026 06:06:17 GMT",
+        "description": "The prime minister is facing questions about whether Labour's focus on Reform left them exposed among some of their regular supporters."
+      },
+      {
+        "title": "Watch: 'Working hard used to get you something', says plumber Hannah Spencer in victory speech",
+        "link": "https://www.bbc.com/news/videos/clyz4ellkd7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 05:18:55 GMT",
+        "description": "In her acceptance speech, Hannah Spencer said she was “no different from every single person in this constituency”."
       },
       {
         "title": "Miliband says climate impact of data centres is uncertain",
@@ -443,39 +443,11 @@
       "description": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
     },
     {
-      "title": "Man, 82, crushed to death in car at Munich scrapyard",
-      "link": "https://www.bbc.com/news/articles/c4gj2ng03k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 19:10:01 GMT",
-      "description": "Police said the car was meant to be scrapped and the man must have climbed into it without being noticed."
-    },
-    {
       "title": "Kenyan charged with luring young men to fight for Russia in Ukraine",
       "link": "https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Thu, 26 Feb 2026 18:04:34 GMT",
       "description": "A total of 1,000 Kenyans have reportedly been recruited to fight for Russia in its war against Ukraine."
-    },
-    {
-      "title": "At least 10 FBI agents who worked on Trump investigation fired",
-      "link": "https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 16:50:44 GMT",
-      "description": "The terminated FBI staffers all participated in a probe into Trump's handling of classified documents after his first term."
-    },
-    {
-      "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
-      "link": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 14:28:35 GMT",
-      "description": "Russia's announcement comes as Ukraine's top negotiator met US peace envoys in Geneva."
-    },
-    {
-      "title": "World Economic Forum boss quits after review of Epstein links",
-      "link": "https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 14:25:28 GMT",
-      "description": "Brende acknowledged communications with Epstein but said he was \"completely unaware\" of his past criminal activity."
     },
     {
       "title": "Danish PM calls snap election with Greenland issue centre-stage",
@@ -485,18 +457,46 @@
       "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
     },
     {
-      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
-      "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+      "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
+      "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Thu, 26 Feb 2026 06:01:11 GMT",
-      "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes."
+      "published": "Fri, 27 Feb 2026 07:19:18 GMT",
+      "description": "The ex-secretary of state called for President Trump to be questioned under oath about his past association with the sex offender."
     },
     {
-      "title": "Pakistan strikes Afghan cities as cross-border attacks escalate",
-      "link": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss",
+      "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
+      "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 01:13:53 GMT",
-      "description": "The Afghan Taliban said it had responded to the Pakistani strikes, which targeted Afghan cities including Kabul and Kandahar."
+      "published": "Fri, 27 Feb 2026 06:02:12 GMT",
+      "description": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed."
+    },
+    {
+      "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
+      "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 06:00:38 GMT",
+      "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
+    },
+    {
+      "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+      "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 04:32:38 GMT",
+      "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle."
+    },
+    {
+      "title": "China removes nine military officials ahead of key political meeting",
+      "link": "https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 04:29:01 GMT",
+      "description": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting."
+    },
+    {
+      "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+      "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 00:06:40 GMT",
+      "description": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\""
     }
   ]
 }
