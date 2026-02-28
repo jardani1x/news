@@ -132,3 +132,26 @@ body {
   .grid { grid-template-columns: 1fr; }
   .charts-grid { grid-template-columns: 1fr; }
 }
+
+/* Breaking News Styles */
+.breaking-section {
+  border: 2px solid #dc2626;
+  background: #fef2f2;
+}
+
+.breaking-section h2 {
+  color: #dc2626;
+  font-size: 1.4rem;
+}
+
+.breaking-item {
+  border-left: 4px solid #dc2626;
+  background: #fff;
+}
+
+.breaking-desc {
+  margin: 8px 0;
+  color: #374151;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}

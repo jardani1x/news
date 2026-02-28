@@ -563,11 +563,65 @@
         "published": "Fri, 27 Feb 2026 05:08:15 EST",
         "description": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-"
       }
+    ],
+    "Breaking": [
+      {
+        "title": "Trump warns Iran: \"Not thrilled\" with nuclear talks, leaves military option open",
+        "link": "https://www.bbc.com/news/articles/c309vz0z893o",
+        "source": "BBC News",
+        "published": "Sat, 28 Feb 2026 22:21:35 GMT",
+        "description": "President Trump said he was \"not happy\" with Iran's stance in the latest nuclear programme talks, but has not yet decided whether to attack. Trump told reporters he would \"love not to use\" military force but added, \"Sometimes you have to.\" Oil markets now see high odds of a U.S. strike on Iran."
+      },
+      {
+        "title": "Rubio plans Israel trip as US escalation looms",
+        "link": "https://www.aljazeera.com/news/2026/02/27/rubio-israel-trip-iran-talks",
+        "source": "Al Jazeera",
+        "published": "Fri, 27 Feb 2026 23:00:00 GMT",
+        "description": "US Secretary of State Marco Rubio is planning a trip to Israel as tensions between the US and Iran escalate. The visit comes after Trump's warnings about Iran's nuclear programme and his administration's blacklisting of Anthropic over AI disputes."
+      },
+      {
+        "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+        "link": "https://www.bbc.com/news/articles/cj32l00k47lo",
+        "source": "BBC News",
+        "published": "Wed, 25 Feb 2026 18:00:00 GMT",
+        "description": "The State Department has ordered non-essential staff to leave the US embassy in Beirut after a security review. The partial evacuation comes amid rising tensions in the Middle East linked to Iran's nuclear programme and US pressure on the regime."
+      },
+      {
+        "title": "Israeli strikes kill at least 10 in Lebanon",
+        "link": "https://www.bbc.com/news/articles/cvg8914dkl0o",
+        "source": "BBC News",
+        "published": "Tue, 24 Feb 2026 20:30:00 GMT",
+        "description": "Israeli strikes killed at least 10 people in Lebanon, officials say. The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah. The incidents raise concerns about renewed hostilities in the region."
+      },
+      {
+        "title": "Aid groups in Gaza and West Bank get temporary reprieve",
+        "link": "https://www.bbc.com/news/articles/cd6z382de8yo",
+        "source": "BBC News",
+        "published": "Fri, 27 Feb 2026 20:31:27 GMT",
+        "description": "Dozens of well-known aid groups faced shutdown under a new Israeli law, but an Israeli court has paused the ban threat - though the reprieve might be temporary. The groups provide critical humanitarian aid to Palestinians in Gaza and the West Bank."
+      },
+      {
+        "title": "Oil markets surge on Iran strike fears",
+        "link": "https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c",
+        "source": "MarketWatch",
+        "published": "Fri, 27 Feb 2026 22:38:00 GMT",
+        "description": "Oil prices jolted higher on Friday, booking their biggest daily gains in over a week, after President Trump signaled the window for diplomacy to end Tehran's nuclear program may be closing. Traders now price in higher probability of military action."
+      },
+      {
+        "title": "India and Israel pledge to boost ties in defence and technology",
+        "link": "https://www.bbc.com/news/articles/cly14vppym2o",
+        "source": "BBC News",
+        "published": "Fri, 27 Feb 2026 14:00:00 GMT",
+        "description": "Opposition parties have criticised Modi's visit to Israel and accused the government of abandoning the Palestinian cause. The visit aims to strengthen defence and technology cooperation between the two countries."
+      },
+      {
+        "title": "Pentagon designates Anthropic as supply-chain risk over AI weapons concerns",
+        "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 21:53:14 GMT",
+        "description": "The Pentagon moves to designate Anthropic as a supply-chain risk. \"We don't need it, we don't want it, and will not do business with them again,\" Trump wrote. The clash raises questions about AI use in autonomous weapons and surveillance."
+      }
     ]
-  },
-  "charts": {
-    "world_indices": "world-indices.html",
-    "crypto": "crypto-charts.html"
   },
   "top10": [
     {
