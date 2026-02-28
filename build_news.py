@@ -153,6 +153,39 @@ def clean_text(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def parse_date(date_str: str) -> datetime:
+    """Parse various RSS date formats to datetime - returns UTC timestamp for comparison"""
+    if not date_str:
+        return datetime.min
+    
+    # Try common RSS date formats
+    formats = [
+        "%a, %d %b %Y %H:%M:%S %z",  # Sat, 28 Feb 2026 03:50:05 GMT
+        "%a, %d %b %Y %H:%M:%S +0000",  # Sat, 28 Feb 2026 03:51:52 +0000
+        "%a, %d %b %Y %H:%M:%S %Z",  # Sat, 28 Feb 2026 11:37:40 +0800
+        "%Y-%m-%d %H:%M:%S %z",  # 2026-02-28 12:00:00 +0800
+    ]
+    
+    for fmt in formats:
+        try:
+            dt = datetime.strptime(date_str.strip(), fmt)
+            # Convert to UTC timestamp for comparison
+            if dt.tzinfo is not None:
+                return dt.timestamp()
+            return dt.timestamp()
+        except ValueError:
+            continue
+    
+    # Try without timezone as fallback - assume UTC
+    try:
+        dt = datetime.strptime(date_str.strip().split('+')[0].split(' GMT')[0].split(' +0000')[0], "%a, %d %b %Y %H:%M:%S")
+        return dt.timestamp()
+    except:
+        pass
+    
+    return 0  # Return 0 for invalid dates (will sort last)
+
+
 def parse_feed(feed_name: str, url: str):
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 NewsBot/1.0"})
@@ -609,22 +642,19 @@ def fetch_news():
         news_data["categories"][category] = merged[:MAX_PER_CATEGORY]
         print(f"[INFO] {category}: {len(merged)} articles")
     
-    # Flatten to get top 10 overall
+    # Flatten to get top 10 overall - first dedupe, then sort by date
     all_news = []
-    for cat_news in news_data["categories"].values():
-        all_news.extend(cat_news)
-    
-    # Dedupe and get top 10
     seen_urls = set()
-    top10 = []
-    for item in all_news:
-        if item["link"] not in seen_urls:
-            seen_urls.add(item["link"])
-            top10.append(item)
-            if len(top10) >= 10:
-                break
+    for cat_news in news_data["categories"].values():
+        for item in cat_news:
+            if item["link"] not in seen_urls:
+                seen_urls.add(item["link"])
+                all_news.append(item)
     
-    news_data["top10"] = top10
+    # Sort by actual parsed date (newest first)
+    all_news.sort(key=lambda x: parse_date(x.get("published", "")), reverse=True)
+    
+    news_data["top10"] = all_news[:10]
     
     # Save
     os.makedirs(f"{OUTPUT_DIR}/data", exist_ok=True)

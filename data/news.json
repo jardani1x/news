@@ -1,8 +1,15 @@
 {
-  "updated_sgt": "2026-02-28 12:00 SGT",
-  "updated_iso": "2026-02-28T12:00:18.174250+08:00",
+  "updated_sgt": "2026-02-28 14:29 SGT",
+  "updated_iso": "2026-02-28T14:29:49.236001+08:00",
   "categories": {
     "World": [
+      {
+        "title": "At least 15 killed after military plane carrying banknotes crashes in Bolivia",
+        "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 06:01:03 GMT",
+        "description": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
+      },
       {
         "title": "Trump orders government to stop using Anthropic in battle over AI use",
         "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
@@ -15,14 +22,7 @@
         "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Sat, 28 Feb 2026 03:43:56 GMT",
-        "description": "The former president told the committe that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
-      },
-      {
-        "title": "At least 11 killed after military plane carrying banknotes crashes in Bolivia",
-        "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 28 Feb 2026 02:21:31 GMT",
-        "description": "The cargo plane crashed while landing in the city of El Alto, reportedly hitting vehicles on a motorway."
+        "description": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
       },
       {
         "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
@@ -76,11 +76,11 @@
     ],
     "Finance": [
       {
-        "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
-        "link": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
+        "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
+        "link": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
         "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 01:40:38 GMT",
-        "description": "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,\" Trump wrote in a Truth Social post."
+        "published": "Sat, 28 Feb 2026 04:25:34 GMT",
+        "description": "OpenAI CEO Sam Altman said on X that his company has come to terms with the Defense Department for use of its models."
       },
       {
         "title": "Jack Dorsey made the loudest case yet that AI is already replacing jobs",
@@ -220,6 +220,20 @@
     ],
     "Crypto": [
       {
+        "title": "Binance Surpasses $35B In Gold Volume As Crypto-Native Traders Disrupt Traditional Commodity Desks",
+        "link": "https://bitcoinist.com/binance-surpasses-35b-in-gold-volume-crypto-native/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 05:00:04 +0000",
+        "description": "Binance expanded its product suite on January 5 with the launch of gold futures trading, offering users 24/7 access to price exposure on the precious metal. The move reflects a broader trend within di"
+      },
+      {
+        "title": "‘Making Bitcoin Bankable’: Citi Plans 2026 BTC Integration With Traditional Finance",
+        "link": "https://bitcoinist.com/citi-2026-bitcoin-integration-traditional-finance/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 04:00:50 +0000",
+        "description": "A Citibank executive has announced the firm’s plan to introduce infrastructure “to make Bitcoin (BTC) bankable” as part of a broader institutional push to integrate the flagship cryptocurrency into tr"
+      },
+      {
         "title": "The 2.4 Million Ethereum Anchor: How Binance’s Illiquid Supply Is Absorbing ETH’s February Volatility",
         "link": "https://bitcoinist.com/2-4-million-ethereum-anchor-binance-illiquid-supply/",
         "source": "Bitcoinist",
@@ -260,20 +274,6 @@
         "source": "Bitcoinist",
         "published": "Fri, 27 Feb 2026 22:00:41 +0000",
         "description": "A battle over energy cost is brewing in the crypto space, as a new report from technical analyst Bullrunners pits Bitcoin’s (BTC) energy-hungry Proof of Work (PoW) system against XRP’s comparatively l"
-      },
-      {
-        "title": "While Traders Are Sleeping, XRP Is Quietly Entering A Major Reset Phase",
-        "link": "https://bitcoinist.com/xrp-entering-a-major-reset-phase/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 21:00:13 +0000",
-        "description": "The cryptocurrency market appears to be maintaining its newfound bullish traction, but the price of XRP has fallen to the $1.4 mark after a pullback on Thursday. Amid the ongoing volatility that has r"
-      },
-      {
-        "title": "Bitcoin Vs. Altcoins: You Should See This Chart That Shows Another Alt Season Is About To Begin",
-        "link": "https://bitcoinist.com/bitcoin-vs-altcoins-season/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 20:00:51 +0000",
-        "description": "Talks of a potential altcoin season this cycle have since subsided compared to previous years, despite the recent decline in the Bitcoin (BTC) price and dominance. Notably, a crypto analyst has shared"
       }
     ],
     "Markets": [
@@ -350,6 +350,34 @@
     ],
     "Singapore": [
       {
+        "title": "Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father",
+        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-exiled-activist-anna-kwok-father-jailed-keep-fighting-5959661",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 14:24:28 +0800",
+        "description": "Kwok's 69-year-old father, Kwok Yin-sang, was sentenced to jail for eight months for attempting to withdraw roughly US$11,000 from her insurance policy.&nbsp;"
+      },
+      {
+        "title": "US backs Pakistan's 'right to defend itself' after strikes on Afghanistan",
+        "link": "https://www.channelnewsasia.com/asia/us-backs-pakistans-right-defend-itself-after-strikes-afghanistan-5960126",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 14:12:40 +0800",
+        "description": "The United States \"expressed support for Pakistan's right to defend itself against Taliban attacks\", a US official said."
+      },
+      {
+        "title": "In-form Jacks savours England's 'Brook era' in white-ball cricket",
+        "link": "https://www.channelnewsasia.com/sport/in-form-jacks-savours-englands-brook-era-in-white-ball-cricket-5960056",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 12:34:05 +0800",
+        "description": ""
+      },
+      {
+        "title": "North Korea unveils image of leader's daughter firing rifle",
+        "link": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-daugther-ju-ae-firing-rifle-successor-5959996",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 12:06:00 +0800",
+        "description": "Kim Jong Un's daughter, Ju Ae, has long been seen as the next in line to rule North Korea.&nbsp;"
+      },
+      {
         "title": "Xie Shaoguang opts out of Star Awards 2026 and will not attend the ceremony",
         "link": "https://www.channelnewsasia.com/entertainment/xie-shaoguang-skips-star-awards-2026-5959986",
         "source": "CNA Singapore",
@@ -389,34 +417,6 @@
         "link": "https://www.channelnewsasia.com/business/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-in-court-5959916",
         "source": "CNA Singapore",
         "published": "Sat, 28 Feb 2026 09:35:59 +0800",
-        "description": ""
-      },
-      {
-        "title": "First reactions to Blackpink’s Deadline are divided after long-awaited comeback",
-        "link": "https://www.channelnewsasia.com/entertainment/blackpink-deadline-first-reactions-5958261",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 09:12:06 +0800",
-        "description": "The five-track mini album is Blackpink's first group release since their 2022 album, Born Pink."
-      },
-      {
-        "title": "Do energy drinks offer benefits beyond caffeine? What you need to know",
-        "link": "https://www.channelnewsasia.com/wellness/energy-drinks-benefits-caffeine-5934906",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 07:52:42 +0800",
-        "description": "These popular beverages often have many other ingredients, like vitamins and plant extracts. Here’s what you should know about them."
-      },
-      {
-        "title": "Pickleball and padel: A guide to choosing the right gear and equipment – and playing on the right court",
-        "link": "https://www.channelnewsasia.com/wellness/pickleball-padel-equipment-courts-guide-5942666",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 07:51:00 +0800",
-        "description": "Whether you're picking up pickleball or padel, choosing the right paddle or racket can make or break your game. From gear materials to ball types and court surfaces, here's how to play comfortably, sa"
-      },
-      {
-        "title": "Judge blocks Virginia law restricting social media for children",
-        "link": "https://www.channelnewsasia.com/business/judge-blocks-virginia-law-restricting-social-media-children-5959776",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 07:03:20 +0800",
         "description": ""
       }
     ],
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 28 Feb 2026 03:50:05 GMT",
-      "description": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense."
+      "title": "Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father",
+      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-exiled-activist-anna-kwok-father-jailed-keep-fighting-5959661",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 14:24:28 +0800",
+      "description": "Kwok's 69-year-old father, Kwok Yin-sang, was sentenced to jail for eight months for attempting to withdraw roughly US$11,000 from her insurance policy.&nbsp;"
     },
     {
-      "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-      "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 28 Feb 2026 03:43:56 GMT",
-      "description": "The former president told the committe that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
+      "title": "US backs Pakistan's 'right to defend itself' after strikes on Afghanistan",
+      "link": "https://www.channelnewsasia.com/asia/us-backs-pakistans-right-defend-itself-after-strikes-afghanistan-5960126",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 14:12:40 +0800",
+      "description": "The United States \"expressed support for Pakistan's right to defend itself against Taliban attacks\", a US official said."
     },
     {
-      "title": "At least 11 killed after military plane carrying banknotes crashes in Bolivia",
-      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 28 Feb 2026 02:21:31 GMT",
-      "description": "The cargo plane crashed while landing in the city of El Alto, reportedly hitting vehicles on a motorway."
+      "title": "Binance Surpasses $35B In Gold Volume As Crypto-Native Traders Disrupt Traditional Commodity Desks",
+      "link": "https://bitcoinist.com/binance-surpasses-35b-in-gold-volume-crypto-native/",
+      "source": "Bitcoinist",
+      "published": "Sat, 28 Feb 2026 05:00:04 +0000",
+      "description": "Binance expanded its product suite on January 5 with the launch of gold futures trading, offering users 24/7 access to price exposure on the precious metal. The move reflects a broader trend within di"
     },
     {
-      "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
-      "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 28 Feb 2026 02:17:20 GMT",
-      "description": "Ex-CNN anchor Don Lemon was one of the original nine defendants arrested last month"
+      "title": "In-form Jacks savours England's 'Brook era' in white-ball cricket",
+      "link": "https://www.channelnewsasia.com/sport/in-form-jacks-savours-englands-brook-era-in-white-ball-cricket-5960056",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 12:34:05 +0800",
+      "description": ""
     },
     {
-      "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
-      "link": "https://www.bbc.com/news/articles/c1l7q871gnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 28 Feb 2026 00:03:55 GMT",
-      "description": "The two countries are repairing a strained relationship as they also seek to reduce their trade reliance on the US."
+      "title": "North Korea unveils image of leader's daughter firing rifle",
+      "link": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-daugther-ju-ae-firing-rifle-successor-5959996",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 12:06:00 +0800",
+      "description": "Kim Jong Un's daughter, Ju Ae, has long been seen as the next in line to rule North Korea.&nbsp;"
     },
     {
-      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-      "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 22:21:35 GMT",
-      "description": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack."
+      "title": "‘Making Bitcoin Bankable’: Citi Plans 2026 BTC Integration With Traditional Finance",
+      "link": "https://bitcoinist.com/citi-2026-bitcoin-integration-traditional-finance/",
+      "source": "Bitcoinist",
+      "published": "Sat, 28 Feb 2026 04:00:50 +0000",
+      "description": "A Citibank executive has announced the firm’s plan to introduce infrastructure “to make Bitcoin (BTC) bankable” as part of a broader institutional push to integrate the flagship cryptocurrency into tr"
     },
     {
-      "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
-      "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 20:31:27 GMT",
-      "description": "Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary."
+      "title": "India disrupts access to popular developer platform Supabase with blocking order",
+      "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+      "source": "TechCrunch",
+      "published": "Sat, 28 Feb 2026 03:51:52 +0000",
+      "description": "India, one of Supabase’s biggest markets, is seeing patchy access after a government block order."
     },
     {
-      "title": "Tram derails in Milan, leaving two dead and dozens injured",
-      "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 19:03:10 GMT",
-      "description": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building."
+      "title": "Xie Shaoguang opts out of Star Awards 2026 and will not attend the ceremony",
+      "link": "https://www.channelnewsasia.com/entertainment/xie-shaoguang-skips-star-awards-2026-5959986",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 11:37:40 +0800",
+      "description": "“I’m already in a semi-retired state,” he explained."
     },
     {
-      "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
-      "link": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 13:19:18 GMT",
-      "description": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October."
+      "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
+      "link": "https://www.channelnewsasia.com/business/nvidia-plans-new-chip-speed-ai-processing-wsj-reports-5959981",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 11:22:46 +0800",
+      "description": ""
     },
     {
-      "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
-      "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 12:46:26 GMT",
-      "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
+      "title": "OpenAI reaches deal to deploy AI models on US Department of War classified network",
+      "link": "https://www.channelnewsasia.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-5959976",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 11:17:55 +0800",
+      "description": ""
     }
   ]
 }
