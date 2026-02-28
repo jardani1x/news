@@ -1,8 +1,43 @@
 {
-  "updated_sgt": "2026-02-28 08:00 SGT",
-  "updated_iso": "2026-02-28T08:00:19.835187+08:00",
+  "updated_sgt": "2026-02-28 12:00 SGT",
+  "updated_iso": "2026-02-28T12:00:18.174250+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Trump orders government to stop using Anthropic in battle over AI use",
+        "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 03:50:05 GMT",
+        "description": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense."
+      },
+      {
+        "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+        "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 03:43:56 GMT",
+        "description": "The former president told the committe that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
+      },
+      {
+        "title": "At least 11 killed after military plane carrying banknotes crashes in Bolivia",
+        "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 02:21:31 GMT",
+        "description": "The cargo plane crashed while landing in the city of El Alto, reportedly hitting vehicles on a motorway."
+      },
+      {
+        "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
+        "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 02:17:20 GMT",
+        "description": "Ex-CNN anchor Don Lemon was one of the original nine defendants arrested last month"
+      },
+      {
+        "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
+        "link": "https://www.bbc.com/news/articles/c1l7q871gnro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 00:03:55 GMT",
+        "description": "The two countries are repairing a strained relationship as they also seek to reduce their trade reliance on the US."
+      },
       {
         "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
         "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
@@ -11,18 +46,11 @@
         "description": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack."
       },
       {
-        "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
-        "link": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+        "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+        "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 21:30:10 GMT",
-        "description": "Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns."
-      },
-      {
-        "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
-        "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 19:58:25 GMT",
-        "description": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\"."
+        "published": "Fri, 27 Feb 2026 20:31:27 GMT",
+        "description": "Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary."
       },
       {
         "title": "Tram derails in Milan, leaving two dead and dozens injured",
@@ -32,13 +60,6 @@
         "description": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building."
       },
       {
-        "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
-        "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 16:13:13 GMT",
-        "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
-      },
-      {
         "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
         "link": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -46,32 +67,11 @@
         "description": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October."
       },
       {
-        "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-        "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 13:08:03 GMT",
-        "description": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear."
-      },
-      {
         "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
         "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Fri, 27 Feb 2026 12:46:26 GMT",
         "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
-      },
-      {
-        "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
-        "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 06:02:12 GMT",
-        "description": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed."
-      },
-      {
-        "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-        "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 04:32:38 GMT",
-        "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle."
       }
     ],
     "Finance": [
@@ -79,7 +79,7 @@
         "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
         "link": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 23:55:22 GMT",
+        "published": "Sat, 28 Feb 2026 01:40:38 GMT",
         "description": "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,\" Trump wrote in a Truth Social post."
       },
       {
@@ -148,6 +148,13 @@
     ],
     "Technology": [
       {
+        "title": "India disrupts access to popular developer platform Supabase with blocking order",
+        "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+        "source": "TechCrunch",
+        "published": "Sat, 28 Feb 2026 03:51:52 +0000",
+        "description": "India, one of Supabase’s biggest markets, is seeing patchy access after a government block order."
+      },
+      {
         "title": "OpenAI fires employee for using confidential info on prediction markets",
         "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
         "source": "TechCrunch",
@@ -209,16 +216,37 @@
         "source": "TechCrunch",
         "published": "Fri, 27 Feb 2026 16:57:21 +0000",
         "description": "The 10th-generation starter Pokémon were revealed in the trailer: Browt (a grass bird), Pombon (a fire puppy), and Gecqua (a water gecko)."
-      },
-      {
-        "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
-        "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
-        "source": "TechCrunch",
-        "published": "Fri, 27 Feb 2026 16:23:58 +0000",
-        "description": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry."
       }
     ],
     "Crypto": [
+      {
+        "title": "The 2.4 Million Ethereum Anchor: How Binance’s Illiquid Supply Is Absorbing ETH’s February Volatility",
+        "link": "https://bitcoinist.com/2-4-million-ethereum-anchor-binance-illiquid-supply/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 03:00:00 +0000",
+        "description": "Ethereum is navigating a period of heightened volatility and uncertainty as it hovers around the critical $2,000 threshold. While recent price action suggests temporary stabilization after weeks of se"
+      },
+      {
+        "title": "XRP Builder Funding Shifts In 2026 As Ripple Backs New Model",
+        "link": "https://bitcoinist.com/xrp-builder-funding-shift-2026-ripple/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 02:00:46 +0000",
+        "description": "Ripple is reshaping how builders on the XRP Ledger get funded in 2026, arguing that the ecosystem has reached a point where support needs to flow through more than Ripple-linked programs alone. The ch"
+      },
+      {
+        "title": "Year Of The Underdog: Why Dogecoin Is On The Verge Of A Major Recovery",
+        "link": "https://bitcoinist.com/dogecoin-eye-major-recovery/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 01:00:54 +0000",
+        "description": "It has been a brutal few months for Dogecoin in terms of price action. At the time of writing, Dogecoin is trading just below $0.10, below all of its moving averages, and sitting more than 86% below i"
+      },
+      {
+        "title": "Crypto Policy Turning Point: Blockchain Devs Could Gain Legal Shield",
+        "link": "https://bitcoinist.com/crypto-policy-turning-point-blockchain-devs-could-gain-legal-shield/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 00:00:30 +0000",
+        "description": "Building software has never been against the law. But in recent years, some crypto and blockchain developers have found themselves facing federal criminal charges simply for creating tools that others"
+      },
       {
         "title": "The Most Important Variable For Bitcoin That Investors Should Know About",
         "link": "https://bitcoinist.com/most-important-variable-bitcoin/",
@@ -246,37 +274,16 @@
         "source": "Bitcoinist",
         "published": "Fri, 27 Feb 2026 20:00:51 +0000",
         "description": "Talks of a potential altcoin season this cycle have since subsided compared to previous years, despite the recent decline in the Bitcoin (BTC) price and dominance. Notably, a crypto analyst has shared"
-      },
-      {
-        "title": "New Bitcoin Post-Quantum Work Undercuts ‘No One Is Building’ Claims",
-        "link": "https://bitcoinist.com/new-bitcoin-post-quantum-work/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 19:00:40 +0000",
-        "description": "Bitcoin core developer Matt Corallo used a fresh Blockstream announcement this week to push back on a familiar line in the quantum debate: that nobody serious is working on post-quantum cryptography f"
-      },
-      {
-        "title": "Stablecoin Giant Tether Blocks $4.2 Billion In Crypto Over Crime Concerns",
-        "link": "https://bitcoinist.com/stablecoin-giant-tether-blocks-4-2-billion-crypto/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 18:43:42 +0000",
-        "description": "Tether, the company behind the world’s most widely used stablecoin, USDT, has revealed that it has frozen approximately $4.2 billion worth of its tokens tied to suspected illicit activity, with the ma"
-      },
-      {
-        "title": "Ethereum Network Takes The Crown As The Home Of On-Chain AI Agents",
-        "link": "https://bitcoinist.com/ethereum-home-of-ai-agents/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 18:00:12 +0000",
-        "description": "Ethereum network dominance is turning out to be constructive rather than speculative as the blockchain expands beyond its Decentralized Finance (DeFi) stance. After dominating as a leader in on-chain "
-      },
-      {
-        "title": "Bitcoin Mega-Holders Surge Toward 20K, Indicating Market Strength",
-        "link": "https://bitcoinist.com/bitcoin-whales-multiply-as-100-btc-wallets-approach-20k-mark-analysts/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 17:00:16 +0000",
-        "description": "Numbers don&#8217;t always tell the whole story. But sometimes they hint at something worth watching. According to crypto analytics platform Santiment, the total count of Bitcoin wallets holding at le"
       }
     ],
     "Markets": [
+      {
+        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
+        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 28 Feb 2026 00:00:00 GMT",
+        "description": "His lawyer said, “He’s gone off the deep end.”"
+      },
       {
         "title": "Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.",
         "link": "https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories",
@@ -339,16 +346,58 @@
         "source": "MarketWatch",
         "published": "Fri, 27 Feb 2026 21:45:00 GMT",
         "description": "Block’s layoffs exacerbated concerns that artificial-intelligence could decimate employee counts and hurt demand for software."
-      },
-      {
-        "title": "My wife’s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
-        "link": "https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 21:41:00 GMT",
-        "description": "“All correspondence regarding the account was sent to my wife’s email.”"
       }
     ],
     "Singapore": [
+      {
+        "title": "Xie Shaoguang opts out of Star Awards 2026 and will not attend the ceremony",
+        "link": "https://www.channelnewsasia.com/entertainment/xie-shaoguang-skips-star-awards-2026-5959986",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 11:37:40 +0800",
+        "description": "“I’m already in a semi-retired state,” he explained."
+      },
+      {
+        "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
+        "link": "https://www.channelnewsasia.com/business/nvidia-plans-new-chip-speed-ai-processing-wsj-reports-5959981",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 11:22:46 +0800",
+        "description": ""
+      },
+      {
+        "title": "OpenAI reaches deal to deploy AI models on US Department of War classified network",
+        "link": "https://www.channelnewsasia.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-5959976",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 11:17:55 +0800",
+        "description": ""
+      },
+      {
+        "title": "South Korea’s President Lee to make three-day state visit to Singapore",
+        "link": "https://www.channelnewsasia.com/singapore/south-korea-president-three-day-state-visit-tharman-shanmugaratnam-lawrence-wong-5958121",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 10:08:28 +0800",
+        "description": ""
+      },
+      {
+        "title": "Singer-songwriter Neil Sedaka dies at age 86",
+        "link": "https://www.channelnewsasia.com/entertainment/neil-sedaka-death-5959751",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 09:51:04 +0800",
+        "description": "He was behind dozens of hits in the 1960s and ’70s, including Breaking Up Is Hard to Do, Laughter in the Rain and Oh! Carol, a lament for his high school sweetheart, singer-songwriter Carole King."
+      },
+      {
+        "title": "Anthropic says it will challenge Pentagon's supply chain risk designation in court",
+        "link": "https://www.channelnewsasia.com/business/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-in-court-5959916",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 09:35:59 +0800",
+        "description": ""
+      },
+      {
+        "title": "First reactions to Blackpink’s Deadline are divided after long-awaited comeback",
+        "link": "https://www.channelnewsasia.com/entertainment/blackpink-deadline-first-reactions-5958261",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 09:12:06 +0800",
+        "description": "The five-track mini album is Blackpink's first group release since their 2022 album, Born Pink."
+      },
       {
         "title": "Do energy drinks offer benefits beyond caffeine? What you need to know",
         "link": "https://www.channelnewsasia.com/wellness/energy-drinks-benefits-caffeine-5934906",
@@ -360,7 +409,7 @@
         "title": "Pickleball and padel: A guide to choosing the right gear and equipment – and playing on the right court",
         "link": "https://www.channelnewsasia.com/wellness/pickleball-padel-equipment-courts-guide-5942666",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 07:51:53 +0800",
+        "published": "Sat, 28 Feb 2026 07:51:00 +0800",
         "description": "Whether you're picking up pickleball or padel, choosing the right paddle or racket can make or break your game. From gear materials to ball types and court surfaces, here's how to play comfortably, sa"
       },
       {
@@ -369,55 +418,6 @@
         "source": "CNA Singapore",
         "published": "Sat, 28 Feb 2026 07:03:20 +0800",
         "description": ""
-      },
-      {
-        "title": "How a pre-built home became a calm, connected family retreat",
-        "link": "https://www.channelnewsasia.com/obsessions/family-home-makeover-together-house-5949151",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 06:15:00 +0800",
-        "description": "Bought pre-built, the house had a workable layout – but it was not tailored to life with young children. The redesign keeps the family home feeling connected across levels, while carving out quiet poc"
-      },
-      {
-        "title": "Wolves avoid unwanted record with 2-0 win over local rivals Villa",
-        "link": "https://www.channelnewsasia.com/sport/wolves-avoid-unwanted-record-2-0-win-over-local-rivals-villa-5959726",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 06:07:35 +0800",
-        "description": ""
-      },
-      {
-        "title": "Inside China’s self-driving revolution: What Singapore can learn from its robotaxis, air taxis",
-        "link": "https://www.channelnewsasia.com/cna-insider/china-self-driving-autonomous-vehicles-driverless-robotaxis-safety-singapore-5958286",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 06:00:00 +0800",
-        "description": "China’s cities are testing a transport future where drivers are optional, with over 500 fully driverless vehicles in Guangzhou already. The contrast with Singapore and the potential lessons are reveal"
-      },
-      {
-        "title": "Commentary: Paddington, pints and the art of modern diplomacy",
-        "link": "https://www.channelnewsasia.com/commentary/paddington-bear-japan-ambassador-hiroshi-suzuki-uk-diplomacy-5958116",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 06:00:00 +0800",
-        "description": "Japan’s ambassador to the UK is winning hearts by travelling around with a Paddington bear plushie. This offers a lesson for diplomats the world over,&nbsp;says Gearoid Reidy for Bloomberg Opinion."
-      },
-      {
-        "title": "Canadian minister to meet with OpenAI's Altman to discuss safety measures after shooting",
-        "link": "https://www.channelnewsasia.com/business/canadian-minister-meet-openais-altman-discuss-safety-measures-after-shooting-5959701",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 05:45:59 +0800",
-        "description": ""
-      },
-      {
-        "title": "Saudi Arabia, Qatar attempting to de-escalate Afghanistan-Pakistan conflict",
-        "link": "https://www.channelnewsasia.com/world/pakistan-afghanistan-saudi-arabia-qatar-war-conflict-5959691",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 05:45:00 +0800",
-        "description": "Saudi Arabia and Qatar are working to de-escalate tensions between Pakistan and Afghanistan after Islamabad's major airstrikes sparked fears of a widening conflict."
-      },
-      {
-        "title": "Oil prices jump on Iran attack fears, Wall Street slips on AI",
-        "link": "https://www.channelnewsasia.com/world/oil-tech-stocks-trade-us-iran-wall-street-5959646",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 05:22:21 +0800",
-        "description": "Oil surged to a seven-month high on escalating US-Iran tensions, while Wall Street slipped as tech stocks tumbled."
       }
     ],
     "US Politics": [
@@ -571,6 +571,41 @@
   },
   "top10": [
     {
+      "title": "Trump orders government to stop using Anthropic in battle over AI use",
+      "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 28 Feb 2026 03:50:05 GMT",
+      "description": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense."
+    },
+    {
+      "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+      "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 28 Feb 2026 03:43:56 GMT",
+      "description": "The former president told the committe that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
+    },
+    {
+      "title": "At least 11 killed after military plane carrying banknotes crashes in Bolivia",
+      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 28 Feb 2026 02:21:31 GMT",
+      "description": "The cargo plane crashed while landing in the city of El Alto, reportedly hitting vehicles on a motorway."
+    },
+    {
+      "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
+      "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 28 Feb 2026 02:17:20 GMT",
+      "description": "Ex-CNN anchor Don Lemon was one of the original nine defendants arrested last month"
+    },
+    {
+      "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
+      "link": "https://www.bbc.com/news/articles/c1l7q871gnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 28 Feb 2026 00:03:55 GMT",
+      "description": "The two countries are repairing a strained relationship as they also seek to reduce their trade reliance on the US."
+    },
+    {
       "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
       "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -578,18 +613,11 @@
       "description": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack."
     },
     {
-      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
-      "link": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+      "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+      "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 21:30:10 GMT",
-      "description": "Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns."
-    },
-    {
-      "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
-      "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 19:58:25 GMT",
-      "description": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\"."
+      "published": "Fri, 27 Feb 2026 20:31:27 GMT",
+      "description": "Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary."
     },
     {
       "title": "Tram derails in Milan, leaving two dead and dozens injured",
@@ -599,13 +627,6 @@
       "description": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building."
     },
     {
-      "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
-      "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 16:13:13 GMT",
-      "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
-    },
-    {
       "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
       "link": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -613,32 +634,11 @@
       "description": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October."
     },
     {
-      "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-      "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 13:08:03 GMT",
-      "description": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear."
-    },
-    {
       "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
       "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Fri, 27 Feb 2026 12:46:26 GMT",
       "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
-    },
-    {
-      "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
-      "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 06:02:12 GMT",
-      "description": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed."
-    },
-    {
-      "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-      "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 04:32:38 GMT",
-      "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle."
     }
   ]
 }
