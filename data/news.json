@@ -1,28 +1,42 @@
 {
-  "updated_sgt": "2026-02-28 00:04 SGT",
-  "updated_iso": "2026-02-28T00:04:47.746223+08:00",
+  "updated_sgt": "2026-02-28 08:00 SGT",
+  "updated_iso": "2026-02-28T08:00:19.835187+08:00",
   "categories": {
     "World": [
       {
-        "title": "UK withdraws Tehran embassy staff as US-Iran tension sparks concern across region",
+        "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
         "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 16:01:04 GMT",
-        "description": "The US embassy in Israel has also told some non-emergency staff they can leave the country if they wish."
+        "published": "Fri, 27 Feb 2026 22:21:35 GMT",
+        "description": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack."
       },
       {
-        "title": "'Obnoxious' AI chatbot talked about its mother, customers say",
-        "link": "https://www.bbc.com/news/articles/cy7jeyeyd18o?at_medium=RSS&at_campaign=rss",
+        "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+        "link": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 15:47:20 GMT",
-        "description": "Australian supermarket giant Woolworths tweaks its AI-powered assistant after users said it gave them the \"ick\"."
+        "published": "Fri, 27 Feb 2026 21:30:10 GMT",
+        "description": "Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns."
       },
       {
-        "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+        "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
         "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 15:29:37 GMT",
-        "description": "Sweden's prime minister said it was a serious but not expected incident - and a \"Russian way of acting that we recognise from other places\"."
+        "published": "Fri, 27 Feb 2026 19:58:25 GMT",
+        "description": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\"."
+      },
+      {
+        "title": "Tram derails in Milan, leaving two dead and dozens injured",
+        "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 19:03:10 GMT",
+        "description": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building."
+      },
+      {
+        "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+        "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 16:13:13 GMT",
+        "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
       },
       {
         "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
@@ -46,20 +60,6 @@
         "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
       },
       {
-        "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
-        "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 10:56:45 GMT",
-        "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
-      },
-      {
-        "title": "Indian court clears former Delhi chief minister of corruption charges",
-        "link": "https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 10:47:47 GMT",
-        "description": "Arvind Kejriwal was arrested in March 2024, weeks before India's general election, and spent months in jail."
-      },
-      {
         "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
         "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -76,46 +76,60 @@
     ],
     "Finance": [
       {
-        "title": "Dell shares climb 19% on earnings beat as company navigates rising memory costs",
-        "link": "https://www.cnbc.com/2026/02/27/dell-stock-earnings-memory-shortage-ai-servers.html",
+        "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
+        "link": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 15:49:17 GMT",
-        "description": "Dell's strong fourth-quarter results show the company is navigating the memory shortage well so far."
+        "published": "Fri, 27 Feb 2026 23:55:22 GMT",
+        "description": "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,\" Trump wrote in a Truth Social post."
       },
       {
-        "title": "OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank",
-        "link": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
+        "title": "Jack Dorsey made the loudest case yet that AI is already replacing jobs",
+        "link": "https://www.cnbc.com/2026/02/27/jack-dorsey-made-the-loudest-case-yet-ai-is-already-replacing-jobs.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 15:24:28 GMT",
-        "description": "OpenAI's latest funding round is even bigger than its prior financing, which was a record amount for private tech companies."
+        "published": "Fri, 27 Feb 2026 23:38:28 GMT",
+        "description": "In cutting nearly 40% of its workforce, Block loudly professed that the days of AI taking the jobs of humans has arrived."
       },
       {
-        "title": "Trump Media in talks to spin off Truth Social from DJT into independent stock",
-        "link": "https://www.cnbc.com/2026/02/27/truth-social-spin-off-trump-media-djt.html",
+        "title": "Judge dismisses Trump officials’ bid to end student loan repayment plan used by millions of borrowers",
+        "link": "https://www.cnbc.com/2026/02/27/judge-dismisses-trump-officials-bid-to-end-save-plan.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 15:09:38 GMT",
-        "description": "Trump Media said it was considering separating Truth Social into a separate, publicly traded company."
+        "published": "Fri, 27 Feb 2026 23:21:22 GMT",
+        "description": "A federal judge on Friday dismissed the Trump administration's request to eliminate the Saving on a Valuable Education, or SAVE, student loan repayment plan."
       },
       {
-        "title": "Anthropic faces lose-lose scenario in Pentagon conflict as deadline for policy change looms",
-        "link": "https://www.cnbc.com/2026/02/27/anthropic-pentagon-ai-policy-war-spying.html",
+        "title": "White House gives Democrats new DHS funding offer as partial government shutdown drags on",
+        "link": "https://www.cnbc.com/2026/02/27/white-house-dhs-ice-government-shutdown-democrats.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 14:51:41 GMT",
-        "description": "Anthropic has just hours to decide whether it will accede to the Defense Department's demands that it be able to use the company's AI models how it sees fit."
+        "published": "Fri, 27 Feb 2026 22:46:33 GMT",
+        "description": "The Department of Homeland Security has been shut down since Feb. 14 as immigration enforcement negotiations drag on."
+      },
+      {
+        "title": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses",
+        "link": "https://www.cnbc.com/2026/02/27/amazon-open-ai-cloud-jassy-altman.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 27 Feb 2026 22:38:27 GMT",
+        "description": "The deal could ease some of Wall Street's fears about Amazon's monster $200 billion capex spending, and accelerate its development of AI tools."
+      },
+      {
+        "title": "WBD employees fear coming wave of job losses as Paramount tops Netflix's bid to acquire company",
+        "link": "https://www.cnbc.com/2026/02/27/warner-bros-employees-paramount.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 27 Feb 2026 22:02:49 GMT",
+        "description": "WBD employees fear potential job cuts, culture clashes and high debt loads as Paramount supplants Netflix as the company's acquirer."
+      },
+      {
+        "title": "Average IRS tax refund is up 10.2%, based on early filing data",
+        "link": "https://www.cnbc.com/2026/02/27/average-irs-tax-refund.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 27 Feb 2026 20:22:03 GMT",
+        "description": "The average IRS tax refund is up 10.2%, based on early filing data. Here's what filers need to know."
       },
       {
         "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
         "link": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html",
         "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 14:46:48 GMT",
-        "description": "UBS downgraded U.S. equities to benchmark in a fully invested global equity portfolio, saying factors that powered years of outperformance are starting to fade."
-      },
-      {
-        "title": "Trump angering MAHA with glyphosate order gives Democrats an opening",
-        "link": "https://www.cnbc.com/2026/02/27/trump-maha-glyphosate-order-democrats-rfk-jr.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 14:38:09 GMT",
-        "description": "Democrats once counted many of the health-conscious followers of Robert F. Kennedy Jr. among their own ranks."
+        "published": "Fri, 27 Feb 2026 16:59:22 GMT",
+        "description": "UBS downgraded U.S. equities to \"benchmark\" in a fully invested global equity portfolio, saying factors that powered years of outperformance are starting to fade."
       },
       {
         "title": "Core wholesale prices rose 0.8% in January, much more than expected",
@@ -125,244 +139,329 @@
         "description": "The core producer price index increased a seasonally adjusted 0.8%, more than the 0.6% gain in December."
       },
       {
-        "title": "Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior",
-        "link": "https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 14:22:00 GMT",
-        "description": "Netflix is ditching a deal to buy Warner Bros. Discovery's studio and streaming assets after the WBD board deemed a revised bid by Paramount to be superior."
-      },
-      {
         "title": "Trump said tariffs could someday 'substantially replace' income taxes. What policy experts say",
         "link": "https://www.cnbc.com/2026/02/27/trump-tariffs-income-taxes.html",
         "source": "CNBC Finance",
         "published": "Fri, 27 Feb 2026 13:14:41 GMT",
         "description": "During his State of the Union address, President Donald Trump said tariffs could someday \"substantially replace\" the federal income tax system."
-      },
-      {
-        "title": "Block shares soar as much as 24% as company slashes workforce by nearly half",
-        "link": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 10:05:10 GMT",
-        "description": "Block said Thursday it's laying off more than 4,000 employees, or about half of its head count."
       }
     ],
-    "Technology": [],
+    "Technology": [
+      {
+        "title": "OpenAI fires employee for using confidential info on prediction markets",
+        "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 23:00:54 +0000",
+        "description": "The company said such trades violates its internal company policies about using confidential information for personal gain."
+      },
+      {
+        "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+        "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 21:53:14 +0000",
+        "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post."
+      },
+      {
+        "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+        "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 19:42:00 +0000",
+        "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images."
+      },
+      {
+        "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+        "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 19:11:04 +0000",
+        "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar"
+      },
+      {
+        "title": "ChatGPT reaches 900M weekly active users",
+        "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 18:25:51 +0000",
+        "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding."
+      },
+      {
+        "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+        "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 17:22:02 +0000",
+        "description": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort."
+      },
+      {
+        "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
+        "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 17:17:18 +0000",
+        "description": "As Netflix continues its live sports push, the company has partnered with Apple to air the Formula 1 Canadian Grand Prix."
+      },
+      {
+        "title": "Perplexity’s new Computer is another bet that users need many AI models",
+        "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 17:00:55 +0000",
+        "description": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\""
+      },
+      {
+        "title": "Pokémon Winds and Pokémon Waves are coming to the Nintendo Switch 2 in 2027",
+        "link": "https://techcrunch.com/2026/02/27/pokemon-winds-and-pokemon-waves-are-coming-to-the-nintendo-switch-2-in-2027/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 16:57:21 +0000",
+        "description": "The 10th-generation starter Pokémon were revealed in the trailer: Browt (a grass bird), Pombon (a fire puppy), and Gecqua (a water gecko)."
+      },
+      {
+        "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+        "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+        "source": "TechCrunch",
+        "published": "Fri, 27 Feb 2026 16:23:58 +0000",
+        "description": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry."
+      }
+    ],
     "Crypto": [
       {
-        "title": "XRP’s Macro Plan Hasn’t Changed, And This Target Remains Valid",
-        "link": "https://bitcoinist.com/xrps-macro-plan-hasnt-changed/",
+        "title": "The Most Important Variable For Bitcoin That Investors Should Know About",
+        "link": "https://bitcoinist.com/most-important-variable-bitcoin/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 16:00:37 +0000",
-        "description": "Crypto analyst CasiTrades has declared that XRP’s macro plan hasn’t changed, with the targets still the same. Her comment follows the recent relief rally, which saw the altcoin record double-digit gai"
+        "published": "Fri, 27 Feb 2026 23:00:51 +0000",
+        "description": "While Bitcoin investors often prioritize price targets, support zones, and percentage moves, a recent breakdown by analyst @ArdiNSC shifts attention toward a different and often overlooked metric: tim"
       },
       {
-        "title": "Ransomware Crooks Are Busier Than Ever — But Making Less Money, Researchers Say",
-        "link": "https://bitcoinist.com/ransomware-crooks-are-busier-than-ever-but-making-less-money-researchers-say/",
+        "title": "Is XRP More Sustainable Than Bitcoin? Energy Consumption Difference Sparks Debate",
+        "link": "https://bitcoinist.com/is-xrp-sustainable-than-bitcoin/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 14:30:05 +0000",
-        "description": "The cybercrime business is booming, at least on paper. According to a new report from blockchain analytics firm Chainalysis, the number of ransomware attacks jumped 50% in 2025, with nearly 8,000 sepa"
+        "published": "Fri, 27 Feb 2026 22:00:41 +0000",
+        "description": "A battle over energy cost is brewing in the crypto space, as a new report from technical analyst Bullrunners pits Bitcoin’s (BTC) energy-hungry Proof of Work (PoW) system against XRP’s comparatively l"
       },
       {
-        "title": "Ripple Unveils Whitepaper On Institutional Digital Asset Trading",
-        "link": "https://bitcoinist.com/ripple-whitepaper-digital-asset-trading/",
+        "title": "While Traders Are Sleeping, XRP Is Quietly Entering A Major Reset Phase",
+        "link": "https://bitcoinist.com/xrp-entering-a-major-reset-phase/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 13:00:32 +0000",
-        "description": "Ripple has published a new whitepaper arguing that institutional crypto market structure still lacks the settlement, credit and risk infrastructure needed to support large-scale participation. In the "
+        "published": "Fri, 27 Feb 2026 21:00:13 +0000",
+        "description": "The cryptocurrency market appears to be maintaining its newfound bullish traction, but the price of XRP has fallen to the $1.4 mark after a pullback on Thursday. Amid the ongoing volatility that has r"
       },
       {
-        "title": "Is Bitcoin Done Or Is This Just The Beginning? Pundit Shares Points To Consider",
-        "link": "https://bitcoinist.com/is-bitcoin-done-or-beginning/",
+        "title": "Bitcoin Vs. Altcoins: You Should See This Chart That Shows Another Alt Season Is About To Begin",
+        "link": "https://bitcoinist.com/bitcoin-vs-altcoins-season/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 11:30:48 +0000",
-        "description": "The Bitcoin price crash from $126,000 to $60,000 has naturally sent most of the market into a panic, and with sentiment still in the red, the probability of the price falling lower remains high. At th"
+        "published": "Fri, 27 Feb 2026 20:00:51 +0000",
+        "description": "Talks of a potential altcoin season this cycle have since subsided compared to previous years, despite the recent decline in the Bitcoin (BTC) price and dominance. Notably, a crypto analyst has shared"
       },
       {
-        "title": "Bitcoin Closer to Bottoming Phase Than Early Bear Stage, Report Says",
-        "link": "https://bitcoinist.com/bitcoin-closer-to-bottoming-phase-early-bear-stage/",
+        "title": "New Bitcoin Post-Quantum Work Undercuts ‘No One Is Building’ Claims",
+        "link": "https://bitcoinist.com/new-bitcoin-post-quantum-work/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 10:00:05 +0000",
-        "description": "A new report from Glassnode says Bitcoin could potentially be closer to a bottoming range than the early phase of the bear market. Bitcoin Supply In Loss Trend Doesn&#8217;t Look Similar To An Early B"
+        "published": "Fri, 27 Feb 2026 19:00:40 +0000",
+        "description": "Bitcoin core developer Matt Corallo used a fresh Blockstream announcement this week to push back on a familiar line in the quantum debate: that nobody serious is working on post-quantum cryptography f"
       },
       {
-        "title": "Blockchain Association Urges Congress To Keep BRCA Intact In Crypto Market Structure Bill",
-        "link": "https://bitcoinist.com/blockchain-association-congress-crypto-brca-intact/",
+        "title": "Stablecoin Giant Tether Blocks $4.2 Billion In Crypto Over Crime Concerns",
+        "link": "https://bitcoinist.com/stablecoin-giant-tether-blocks-4-2-billion-crypto/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 09:00:02 +0000",
-        "description": "With a White House deadline on the anticipated CLARITY Act set for March 1, crypto policy discussions are intensifying in Washington. On Thursday afternoon, Senate Democrats are scheduled to meet to c"
+        "published": "Fri, 27 Feb 2026 18:43:42 +0000",
+        "description": "Tether, the company behind the world’s most widely used stablecoin, USDT, has revealed that it has frozen approximately $4.2 billion worth of its tokens tied to suspected illicit activity, with the ma"
       },
       {
-        "title": "OCC Proposes Framework To Implement GENIUS Act, Targets Stablecoin Yield Workarounds",
-        "link": "https://bitcoinist.com/occ-genius-act-stablecoin-yield-workarounds/",
+        "title": "Ethereum Network Takes The Crown As The Home Of On-Chain AI Agents",
+        "link": "https://bitcoinist.com/ethereum-home-of-ai-agents/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 08:00:22 +0000",
-        "description": "The Office of the Comptroller of the Currency (OCC) has asked the public for feedback on its proposed framework to regulate stablecoins under the landmark crypto regulation, including proposals to add"
+        "published": "Fri, 27 Feb 2026 18:00:12 +0000",
+        "description": "Ethereum network dominance is turning out to be constructive rather than speculative as the blockchain expands beyond its Decentralized Finance (DeFi) stance. After dominating as a leader in on-chain "
       },
       {
-        "title": "Sen. Lummis Rebukes Sam Bankman-Fried, Says CLARITY Act Would Mean Longer Sentence",
-        "link": "https://bitcoinist.com/sen-lummis-rebukes-sam-bankman-fried-clarity-act/",
+        "title": "Bitcoin Mega-Holders Surge Toward 20K, Indicating Market Strength",
+        "link": "https://bitcoinist.com/bitcoin-whales-multiply-as-100-btc-wallets-approach-20k-mark-analysts/",
         "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 07:00:25 +0000",
-        "description": "Sam Bankman-Fried, the co-founder and former CEO of collapsed crypto exchange FTX, has in recent months repeatedly called for a retrial in New York, where he was sentenced to 25 years in prison follow"
+        "published": "Fri, 27 Feb 2026 17:00:16 +0000",
+        "description": "Numbers don&#8217;t always tell the whole story. But sometimes they hint at something worth watching. According to crypto analytics platform Santiment, the total count of Bitcoin wallets holding at le"
       }
     ],
     "Markets": [
       {
-        "title": "Block says AI will allow it to cut more than 4,000 jobs. Some argue that’s not the whole story.",
-        "link": "https://www.marketwatch.com/story/block-says-ai-will-let-it-cut-more-than-4-000-jobs-some-argue-thats-not-the-whole-story-6f85d7b8?mod=mw_rss_topstories",
+        "title": "Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.",
+        "link": "https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 15:54:00 GMT",
-        "description": "Block’s “audacious” move ignites debate over whether the company is using AI as an excuse to walk back reckless hiring."
+        "published": "Fri, 27 Feb 2026 23:30:00 GMT",
+        "description": "Stocks were caught up Friday in a whirlwind of market-moving headlines, making for a wild final trading day in a rough month for U.S. equities."
       },
       {
-        "title": "Need a side hustle to support your retirement dreams? Here’s how to find work right now.",
-        "link": "https://www.marketwatch.com/story/need-a-side-hustle-to-support-your-retirement-dreams-heres-how-to-find-work-right-now-6438bea8?mod=mw_rss_topstories",
+        "title": "Trump blacklists Anthropic, opening the door to Elon Musk and xAI",
+        "link": "https://www.marketwatch.com/story/trump-blacklists-anthropic-opening-the-door-to-elon-musk-and-xai-03011fda?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 15:44:00 GMT",
-        "description": "7 tips for navigating this tricky job market."
+        "published": "Fri, 27 Feb 2026 23:02:00 GMT",
+        "description": "Grok will let its model be used for classified purposes, while Anthropic has refused to let its products be deployed for autonomous weapons or mass surveillance."
       },
       {
-        "title": "‘I am fearful’: My ailing relative is being forced into assisted living. What can I do?",
-        "link": "https://www.marketwatch.com/story/i-am-fearful-my-ailing-relative-is-being-forced-into-assisted-living-what-can-i-do-7ce8b42a?mod=mw_rss_topstories",
+        "title": "After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?",
+        "link": "https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 15:35:00 GMT",
-        "description": "“My relative also has no idea what they are being charged for these services.”"
+        "published": "Fri, 27 Feb 2026 23:00:00 GMT",
+        "description": "“I’ve owned my own company for the last 15 years. It’s worth $8.5 million.”"
       },
       {
-        "title": "Amazon, Nvidia and SoftBank pour $110 billion into OpenAI — raising the stakes for AI monetization",
-        "link": "https://www.marketwatch.com/story/amazon-nvidia-and-softbank-pour-110-billion-into-openai-raising-the-stakes-for-ai-monetization-f59ee73b?mod=mw_rss_topstories",
+        "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
+        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 15:32:00 GMT",
-        "description": "OpenAI’s new $730 billion valuation is more than double what it was a year ago, but the company’s financials pale in comparison with those of its public peers."
+        "published": "Fri, 27 Feb 2026 22:51:00 GMT",
+        "description": "Shows like HBO’s ‘DTF St. Louis’ and ‘Rooster,’ Paramount’s ‘The Madison’ and Netflix’s ‘Peaky Blinders’ movie jump out of the gate as Emmy season gets underway"
       },
       {
-        "title": "Jump in oil prices may reflect worry about Iran delays on nuclear deal, analyst says",
-        "link": "https://www.marketwatch.com/story/jump-in-oil-prices-may-be-reflecting-worry-about-iran-delays-on-nuclear-deal-analyst-says-3eb2b427?mod=mw_rss_topstories",
+        "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
+        "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 15:07:00 GMT",
-        "description": "Oil prices were climbing on Friday, shaking off losses from the previous session, as markets get increasingly nervous about delays in reaching a deal to end Tehran’s nuclear ambitions."
+        "published": "Fri, 27 Feb 2026 22:49:00 GMT",
+        "description": "“I live in a state with no inheritance tax. I assume I can make this deposit legally.”"
       },
       {
-        "title": "I told my boss I need an ADHD coach and his response was unhelpful. Can we fix our working relationship?",
-        "link": "https://www.marketwatch.com/story/i-told-my-boss-i-need-an-adhd-coach-and-his-response-was-unhelpful-can-we-fix-our-working-relationship-629e9f64?mod=mw_rss_topstories",
+        "title": "Trump warned ‘sometimes you have to’ use force on Friday. Oil markets now see high odds of a U.S. strike on Iran.",
+        "link": "https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 15:03:00 GMT",
-        "description": "”I feel like I’m just in shut-down and discouraged mode.”"
+        "published": "Fri, 27 Feb 2026 22:38:00 GMT",
+        "description": "Oil prices jolted higher on Friday, booking their biggest daily gains in over a week, after President Trump signaled the window for using diplomacy to end Tehran’s nuclear program may be closing."
       },
       {
-        "title": "Nine out of 10 bets this fund manager made over the past year have outperformed. These are his next two plays.",
-        "link": "https://www.marketwatch.com/story/nine-out-of-10-bets-this-fund-manager-made-outperformed-over-the-past-year-heres-his-next-two-plays-79f4b71e?mod=mw_rss_topstories",
+        "title": "United’s stock had its worst day in months on rising oil prices, market jitters",
+        "link": "https://www.marketwatch.com/story/uniteds-stock-and-other-airline-shares-get-a-reality-check-from-rising-oil-prices-market-jitters-2b6adfd0?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 14:30:00 GMT",
-        "description": "Gold miners, Japan stocks and nuclear plays boosted Man Group’s portfolio"
+        "published": "Fri, 27 Feb 2026 22:35:00 GMT",
+        "description": "United Airlines’ stock on Friday suffered its worst drop in 10 months, with other airline stocks also seeing steep declines amid rising oil futures prices and increased market jitters."
       },
       {
-        "title": "His lawyer said, ‘He’s gone off the deep end.’ My brother is paranoid and forgot he sold his house. What can I do?",
-        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+        "title": "Medicare will run out of money 12 years earlier than expected",
+        "link": "https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 14:30:00 GMT",
-        "description": "“My sister and I are his only family, the will is made and we would inherit his estate.”"
+        "published": "Fri, 27 Feb 2026 22:22:00 GMT",
+        "description": "The Congressional Budget Office warns America’s public retirement programs are deteriorating at a shocking rate."
       },
       {
-        "title": "Wholesale prices rise sharply and point to persistent inflation",
-        "link": "https://www.marketwatch.com/story/wholesale-prices-rise-sharply-and-point-to-persistent-inflation-c8a24e15?mod=mw_rss_topstories",
+        "title": "Software stocks fall as Block’s big job cuts stoke further AI fears",
+        "link": "https://www.marketwatch.com/story/software-stocks-fall-as-blocks-big-job-cuts-stoke-further-ai-fears-c66aef8e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 14:00:00 GMT",
-        "description": "The cost of wholesale goods and services rose at an accelerated pace in January for the second month in a row, suggesting persistent inflation could dog the economy at least through the early part of "
+        "published": "Fri, 27 Feb 2026 21:45:00 GMT",
+        "description": "Block’s layoffs exacerbated concerns that artificial-intelligence could decimate employee counts and hurt demand for software."
       },
       {
-        "title": "Is it OK to wear pajamas on your next flight? A viral post sparks debate.",
-        "link": "https://www.marketwatch.com/story/is-it-ok-to-wear-pajamas-on-your-next-flight-a-viral-post-sparks-debate-29bad4de?mod=mw_rss_topstories",
+        "title": "My wife’s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
+        "link": "https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 13:32:00 GMT",
-        "description": "Tampa International Airport issued a mock ban on sleepwear. Plenty of comments soon followed."
+        "published": "Fri, 27 Feb 2026 21:41:00 GMT",
+        "description": "“All correspondence regarding the account was sent to my wife’s email.”"
       }
     ],
     "Singapore": [
       {
-        "title": "Recent wins over Chelsea mean nothing, says Arteta",
-        "link": "https://www.channelnewsasia.com/sport/recent-wins-over-chelsea-mean-nothing-says-arteta-5959136",
+        "title": "Do energy drinks offer benefits beyond caffeine? What you need to know",
+        "link": "https://www.channelnewsasia.com/wellness/energy-drinks-benefits-caffeine-5934906",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 23:24:30 +0800",
+        "published": "Sat, 28 Feb 2026 07:52:42 +0800",
+        "description": "These popular beverages often have many other ingredients, like vitamins and plant extracts. Here’s what you should know about them."
+      },
+      {
+        "title": "Pickleball and padel: A guide to choosing the right gear and equipment – and playing on the right court",
+        "link": "https://www.channelnewsasia.com/wellness/pickleball-padel-equipment-courts-guide-5942666",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 07:51:53 +0800",
+        "description": "Whether you're picking up pickleball or padel, choosing the right paddle or racket can make or break your game. From gear materials to ball types and court surfaces, here's how to play comfortably, sa"
+      },
+      {
+        "title": "Judge blocks Virginia law restricting social media for children",
+        "link": "https://www.channelnewsasia.com/business/judge-blocks-virginia-law-restricting-social-media-children-5959776",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 07:03:20 +0800",
         "description": ""
       },
       {
-        "title": "Chelsea primed for another Arsenal showdown, Rosenior says",
-        "link": "https://www.channelnewsasia.com/sport/chelsea-primed-another-arsenal-showdown-rosenior-says-5959076",
+        "title": "How a pre-built home became a calm, connected family retreat",
+        "link": "https://www.channelnewsasia.com/obsessions/family-home-makeover-together-house-5949151",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 22:56:09 +0800",
+        "published": "Sat, 28 Feb 2026 06:15:00 +0800",
+        "description": "Bought pre-built, the house had a workable layout – but it was not tailored to life with young children. The redesign keeps the family home feeling connected across levels, while carving out quiet poc"
+      },
+      {
+        "title": "Wolves avoid unwanted record with 2-0 win over local rivals Villa",
+        "link": "https://www.channelnewsasia.com/sport/wolves-avoid-unwanted-record-2-0-win-over-local-rivals-villa-5959726",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 06:07:35 +0800",
         "description": ""
       },
       {
-        "title": "Sesko form a real positive for Man United, says Carrick",
-        "link": "https://www.channelnewsasia.com/sport/sesko-form-real-positive-man-united-says-carrick-5959046",
+        "title": "Inside China’s self-driving revolution: What Singapore can learn from its robotaxis, air taxis",
+        "link": "https://www.channelnewsasia.com/cna-insider/china-self-driving-autonomous-vehicles-driverless-robotaxis-safety-singapore-5958286",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 22:34:39 +0800",
+        "published": "Sat, 28 Feb 2026 06:00:00 +0800",
+        "description": "China’s cities are testing a transport future where drivers are optional, with over 500 fully driverless vehicles in Guangzhou already. The contrast with Singapore and the potential lessons are reveal"
+      },
+      {
+        "title": "Commentary: Paddington, pints and the art of modern diplomacy",
+        "link": "https://www.channelnewsasia.com/commentary/paddington-bear-japan-ambassador-hiroshi-suzuki-uk-diplomacy-5958116",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 06:00:00 +0800",
+        "description": "Japan’s ambassador to the UK is winning hearts by travelling around with a Paddington bear plushie. This offers a lesson for diplomats the world over,&nbsp;says Gearoid Reidy for Bloomberg Opinion."
+      },
+      {
+        "title": "Canadian minister to meet with OpenAI's Altman to discuss safety measures after shooting",
+        "link": "https://www.channelnewsasia.com/business/canadian-minister-meet-openais-altman-discuss-safety-measures-after-shooting-5959701",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 05:45:59 +0800",
         "description": ""
       },
       {
-        "title": "India's Vishal Mega Mart promoter sells 14% stake for $838 million",
-        "link": "https://www.channelnewsasia.com/business/indias-vishal-mega-mart-promoter-sells-14-stake-838-million-5959006",
+        "title": "Saudi Arabia, Qatar attempting to de-escalate Afghanistan-Pakistan conflict",
+        "link": "https://www.channelnewsasia.com/world/pakistan-afghanistan-saudi-arabia-qatar-war-conflict-5959691",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 22:27:25 +0800",
-        "description": ""
+        "published": "Sat, 28 Feb 2026 05:45:00 +0800",
+        "description": "Saudi Arabia and Qatar are working to de-escalate tensions between Pakistan and Afghanistan after Islamabad's major airstrikes sparked fears of a widening conflict."
       },
       {
-        "title": "Spain alerts WHO of swine flu virus believed to have been transmitted between people",
-        "link": "https://www.channelnewsasia.com/world/spain-who-swine-flu-virus-transmitted-people-5958986",
+        "title": "Oil prices jump on Iran attack fears, Wall Street slips on AI",
+        "link": "https://www.channelnewsasia.com/world/oil-tech-stocks-trade-us-iran-wall-street-5959646",
         "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 22:23:00 +0800",
-        "description": ""
-      },
-      {
-        "title": "Belgian watchdog opens probe into Google's online ad price practices",
-        "link": "https://www.channelnewsasia.com/business/belgian-watchdog-opens-probe-googles-online-ad-price-practices-5958996",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 22:21:52 +0800",
-        "description": ""
-      },
-      {
-        "title": "Man City players back with fresh minds and legs after three-day break, Guardiola says",
-        "link": "https://www.channelnewsasia.com/sport/man-city-players-back-fresh-minds-and-legs-after-three-day-break-guardiola-says-5958901",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 21:48:37 +0800",
-        "description": ""
-      },
-      {
-        "title": "Companies cutting jobs as investments shift toward AI",
-        "link": "https://www.channelnewsasia.com/business/companies-cutting-jobs-investments-shift-toward-ai-5953051",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 21:41:17 +0800",
-        "description": ""
-      },
-      {
-        "title": "OpenAI's $110 billion funding round draws investment from Amazon, Nvidia, SoftBank",
-        "link": "https://www.channelnewsasia.com/business/openais-110-billion-funding-round-draws-investment-amazon-nvidia-softbank-5958876",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 21:35:10 +0800",
-        "description": ""
-      },
-      {
-        "title": "Block shares soar as Dorsey leans on AI to trim workforce",
-        "link": "https://www.channelnewsasia.com/business/block-shares-soar-dorsey-leans-ai-trim-workforce-5958851",
-        "source": "CNA Singapore",
-        "published": "Fri, 27 Feb 2026 21:31:09 +0800",
-        "description": ""
+        "published": "Sat, 28 Feb 2026 05:22:21 +0800",
+        "description": "Oil surged to a seven-month high on escalating US-Iran tensions, while Wall Street slipped as tech stocks tumbled."
       }
     ],
     "US Politics": [
       {
-        "title": "No 10 will have no say on which Mandelson papers are released",
-        "link": "https://www.bbc.com/news/articles/cp85j06ezyro?at_medium=RSS&at_campaign=rss",
+        "title": "Mahmood to press on with immigration reforms despite by-election defeat",
+        "link": "https://www.bbc.com/news/articles/cwyx55nkxg9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 26 Feb 2026 18:24:18 GMT",
-        "description": "A committee of MPs and peers says the government has confirmed it will not overrule any decision to disclose files."
+        "published": "Fri, 27 Feb 2026 22:52:46 GMT",
+        "description": "The home secretary is to double down on plans for Danish-style restrictions on asylum seekers."
       },
       {
-        "title": "Government to give go-ahead for £1bn defence helicopter deal",
-        "link": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss",
+        "title": "Starmer vows to fight on after historic Green by-election win",
+        "link": "https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 15:55:04 GMT",
-        "description": "The chancellor has stepped in to protect jobs at the helicopter manufacturer in Somerset, the BBC understands."
+        "published": "Fri, 27 Feb 2026 19:51:18 GMT",
+        "description": "The result - in a seat Labour has held for nearly 100 years - heaps further pressure on the PM's position."
+      },
+      {
+        "title": "Reform UK reports by-election 'family voting' concerns to police",
+        "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 18:37:04 GMT",
+        "description": "It comes after election observers raised concerns about \"extremely high\" levels of family voting."
+      },
+      {
+        "title": "Private schools lose legal challenge over VAT changes",
+        "link": "https://www.bbc.com/news/articles/c5y4lj1llvjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 18:06:39 GMT",
+        "description": "A group of low-fee paying private schools have challenged the government's removal of the VAT exemption."
+      },
+      {
+        "title": "Plaid Cymru vs Reform is choice between culture or ignorance, says ap Iorwerth",
+        "link": "https://www.bbc.com/news/articles/c70n1g25w2lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 16:57:12 GMT",
+        "description": "Plaid Cymru's leader told the party's conference that a Reform Welsh government would set Wales back by decades."
+      },
+      {
+        "title": "Palestine Action arrest as Churchill statue defaced",
+        "link": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 27 Feb 2026 16:30:55 GMT",
+        "description": "The Westminster statue of the former prime minister is vandalised with slogans daubed in red paint."
       },
       {
         "title": "Henry Zeffman: Green victory shows insurgent parties are here to stay",
@@ -372,39 +471,11 @@
         "description": "The party's historic win in Gorton and Denton by-election is clearest sign yet of changing political landscape."
       },
       {
-        "title": "Starmer says he will fight on after by-election defeat to Greens",
-        "link": "https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 15:34:25 GMT",
-        "description": "The result - in a seat Labour has held for nearly 100 years - has renewed criticism of Sir Keir's leadership from Labour MPs."
-      },
-      {
-        "title": "Reform UK reports by-election 'family voting' concerns to police",
-        "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 15:05:51 GMT",
-        "description": "It comes after election observers raised concerns about \"extremely high\" levels of family voting."
-      },
-      {
-        "title": "Arrest after Churchill statue defaced with graffiti",
-        "link": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 12:29:26 GMT",
-        "description": "The statue of the former prime minster at Westminster was vandalised with slogans daubed in red paint."
-      },
-      {
         "title": "From plumber to Parliament: the Green Party's new MP",
         "link": "https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Fri, 27 Feb 2026 12:29:17 GMT",
         "description": "Spencer marked her victory by apologising to customers for potentially having to cancel work due to her Westminster move."
-      },
-      {
-        "title": "Green Party wins Gorton and Denton by-election, pushing Labour into third place",
-        "link": "https://www.bbc.com/news/articles/cr453rvy6kvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 09:47:19 GMT",
-        "description": "Labour, which took the seat with more than 50% of the vote in 2024, came behind Reform UK."
       },
       {
         "title": "Chris Mason on 'an extraordinary by-election result'",
@@ -421,7 +492,78 @@
         "description": "A number of Christian groups said the party's immigration policies were opposed to Church beliefs and teachings."
       }
     ],
-    "Science": []
+    "Science": [
+      {
+        "title": "Researchers unlock hidden dimensions inside a single photon",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260226042500.htm",
+        "source": "Science Daily",
+        "published": "Thu, 26 Feb 2026 11:23:52 EST",
+        "description": "Researchers have discovered new ways to shape quantum light, creating high-dimensional states that can carry much more information per photon. Using advanced tools like on-chip photonics and ultrafast"
+      },
+      {
+        "title": "Scientists discover diet that tricks the body into burning fat without exercise",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071914.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 13:05:43 EST",
+        "description": "Researchers found that cutting two amino acids common in animal protein—methionine and cysteine—made mice burn significantly more energy. The boost in heat production was nearly as powerful as constan"
+      },
+      {
+        "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 12:15:06 EST",
+        "description": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, date"
+      },
+      {
+        "title": "Iron outperforms rare metals in stunning chemistry advance",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 11:08:10 EST",
+        "description": "Researchers at Nagoya University have created a more efficient iron-based photocatalyst that could reduce the need for rare and expensive metals in advanced chemistry. Unlike earlier designs, the new "
+      },
+      {
+        "title": "Scientists turn methane into medicine in stunning breakthrough",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 10:51:30 EST",
+        "description": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-base"
+      },
+      {
+        "title": "MIT study finds Earth’s first animals were likely ancient sea sponges",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 09:45:38 EST",
+        "description": "Scientists at MIT have found compelling chemical evidence that Earth’s earliest animals were likely ancient sea sponges. Hidden inside rocks over 541 million years old are rare molecular “fingerprints"
+      },
+      {
+        "title": "A lost moon may have created Titan and Saturn’s rings",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 07:19:45 EST",
+        "description": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so viol"
+      },
+      {
+        "title": "Stunning 3D maps reveal DNA is structured before life “switches on”",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227061824.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 06:18:24 EST",
+        "description": "For decades, scientists believed a fertilized egg’s DNA began as a shapeless mass, only organizing itself once the embryo switched on its genes. But new research reveals that the genome is already car"
+      },
+      {
+        "title": "American Heart Association warns 60% of US women will have cardiovascular disease by 2050",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227061818.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 06:18:18 EST",
+        "description": "Heart disease is on track to tighten its grip on American women. New projections from the American Heart Association warn that over the next 25 years, cardiovascular disease will rise sharply, driven "
+      },
+      {
+        "title": "Scientists compared dinosaurs to mammals for decades but missed this key difference",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260226042502.htm",
+        "source": "Science Daily",
+        "published": "Fri, 27 Feb 2026 05:08:15 EST",
+        "description": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-"
+      }
+    ]
   },
   "charts": {
     "world_indices": "world-indices.html",
@@ -429,25 +571,39 @@
   },
   "top10": [
     {
-      "title": "UK withdraws Tehran embassy staff as US-Iran tension sparks concern across region",
+      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
       "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 16:01:04 GMT",
-      "description": "The US embassy in Israel has also told some non-emergency staff they can leave the country if they wish."
+      "published": "Fri, 27 Feb 2026 22:21:35 GMT",
+      "description": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack."
     },
     {
-      "title": "'Obnoxious' AI chatbot talked about its mother, customers say",
-      "link": "https://www.bbc.com/news/articles/cy7jeyeyd18o?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "link": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 15:47:20 GMT",
-      "description": "Australian supermarket giant Woolworths tweaks its AI-powered assistant after users said it gave them the \"ick\"."
+      "published": "Fri, 27 Feb 2026 21:30:10 GMT",
+      "description": "Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns."
     },
     {
-      "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+      "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
       "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 15:29:37 GMT",
-      "description": "Sweden's prime minister said it was a serious but not expected incident - and a \"Russian way of acting that we recognise from other places\"."
+      "published": "Fri, 27 Feb 2026 19:58:25 GMT",
+      "description": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\"."
+    },
+    {
+      "title": "Tram derails in Milan, leaving two dead and dozens injured",
+      "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 19:03:10 GMT",
+      "description": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building."
+    },
+    {
+      "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+      "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 27 Feb 2026 16:13:13 GMT",
+      "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
     },
     {
       "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
@@ -469,20 +625,6 @@
       "source": "BBC World",
       "published": "Fri, 27 Feb 2026 12:46:26 GMT",
       "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
-    },
-    {
-      "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
-      "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 10:56:45 GMT",
-      "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war."
-    },
-    {
-      "title": "Indian court clears former Delhi chief minister of corruption charges",
-      "link": "https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 27 Feb 2026 10:47:47 GMT",
-      "description": "Arvind Kejriwal was arrested in March 2024, weeks before India's general election, and spent months in jail."
     },
     {
       "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
