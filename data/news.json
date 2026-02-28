@@ -1,8 +1,15 @@
 {
-  "updated_sgt": "2026-02-28 16:00 SGT",
-  "updated_iso": "2026-02-28T16:00:13.199475+08:00",
+  "updated_sgt": "2026-02-28 20:00 SGT",
+  "updated_iso": "2026-02-28T20:00:17.253043+08:00",
   "categories": {
     "World": [
+      {
+        "title": "What we know about the joint US-Israel attack on Iran",
+        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 11:28:16 GMT",
+        "description": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE."
+      },
       {
         "title": "At least 15 killed after military plane carrying banknotes crashes in Bolivia",
         "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
@@ -15,7 +22,7 @@
         "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Sat, 28 Feb 2026 03:50:05 GMT",
-        "description": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense."
+        "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
       },
       {
         "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
@@ -46,13 +53,6 @@
         "description": "Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary."
       },
       {
-        "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
-        "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 19:58:25 GMT",
-        "description": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\"."
-      },
-      {
         "title": "Tram derails in Milan, leaving two dead and dozens injured",
         "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -76,11 +76,11 @@
     ],
     "Finance": [
       {
-        "title": "Trump says U.S. military has begun major combat operations in Iran",
+        "title": "U.S.-Israel launch massive attack on Iran; 4 U.S. military bases hit in retaliation",
         "link": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
         "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 07:45:03 GMT",
-        "description": "Israeli Defense Minister Israel Katz described the attack as being done “to remove threats.”"
+        "published": "Sat, 28 Feb 2026 11:47:09 GMT",
+        "description": "U.S. President Donald Trump said Iran has continued to pursue nuclear weapons despite ongoing negotiations to end its program."
       },
       {
         "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
@@ -220,6 +220,34 @@
     ],
     "Crypto": [
       {
+        "title": "Morgan Stanley Files For Bank Charter To Offer Crypto Custody And Staking Services — Report",
+        "link": "https://bitcoinist.com/morgan-stanley-files-for-bank-charter-offer-crypto/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 11:00:32 +0000",
+        "description": "In a significant move, Morgan Stanley has submitted an application for a new national bank charter that will enable it to offer crypto custody and staking services. This report comes days after the re"
+      },
+      {
+        "title": "$190 Million In Crypto Longs Caught Off Guard As Bitcoin Retraces Under $66,000",
+        "link": "https://bitcoinist.com/200-million-in-crypto-longs-bitcoin-retraces-66000/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 09:00:36 +0000",
+        "description": "Data shows a large amount of crypto long contracts have been liquidated as the Bitcoin price has plunged below the $66,000 level. Crypto Market Has Faced $267 Million In Liquidations Over The Past Day"
+      },
+      {
+        "title": "Minnesota Pushes Crypto ATM Ban In Crackdown On Digital Asset Fraud",
+        "link": "https://bitcoinist.com/minnesota-pushes-crypto-atm-ban-in-crackdown/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 08:00:53 +0000",
+        "description": "Minnesota lawmakers are weighing a proposal that would prohibit Bitcoin (BTC) and other cryptocurrency kiosks across the state, as concerns mount over the role the machines play in financial scams. Ac"
+      },
+      {
+        "title": "DOJ Task Force Confiscates $580 Million In Crypto From Chinese Fraud Ring",
+        "link": "https://bitcoinist.com/doj-task-force-confiscates-580-million-in-crypto/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 06:00:52 +0000",
+        "description": "US Federal authorities announced Thursday that more than $580 million in crypto tied to Chinese transnational criminal organizations has been seized or frozen as part of an aggressive crackdown on lar"
+      },
+      {
         "title": "Binance Surpasses $35B In Gold Volume As Crypto-Native Traders Disrupt Traditional Commodity Desks",
         "link": "https://bitcoinist.com/binance-surpasses-35b-in-gold-volume-crypto-native/",
         "source": "Bitcoinist",
@@ -246,37 +274,23 @@
         "source": "Bitcoinist",
         "published": "Sat, 28 Feb 2026 02:00:46 +0000",
         "description": "Ripple is reshaping how builders on the XRP Ledger get funded in 2026, arguing that the ecosystem has reached a point where support needs to flow through more than Ripple-linked programs alone. The ch"
-      },
-      {
-        "title": "Year Of The Underdog: Why Dogecoin Is On The Verge Of A Major Recovery",
-        "link": "https://bitcoinist.com/dogecoin-eye-major-recovery/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 01:00:54 +0000",
-        "description": "It has been a brutal few months for Dogecoin in terms of price action. At the time of writing, Dogecoin is trading just below $0.10, below all of its moving averages, and sitting more than 86% below i"
-      },
-      {
-        "title": "Crypto Policy Turning Point: Blockchain Devs Could Gain Legal Shield",
-        "link": "https://bitcoinist.com/crypto-policy-turning-point-blockchain-devs-could-gain-legal-shield/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 00:00:30 +0000",
-        "description": "Building software has never been against the law. But in recent years, some crypto and blockchain developers have found themselves facing federal criminal charges simply for creating tools that others"
-      },
-      {
-        "title": "The Most Important Variable For Bitcoin That Investors Should Know About",
-        "link": "https://bitcoinist.com/most-important-variable-bitcoin/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 23:00:51 +0000",
-        "description": "While Bitcoin investors often prioritize price targets, support zones, and percentage moves, a recent breakdown by analyst @ArdiNSC shifts attention toward a different and often overlooked metric: tim"
-      },
-      {
-        "title": "Is XRP More Sustainable Than Bitcoin? Energy Consumption Difference Sparks Debate",
-        "link": "https://bitcoinist.com/is-xrp-sustainable-than-bitcoin/",
-        "source": "Bitcoinist",
-        "published": "Fri, 27 Feb 2026 22:00:41 +0000",
-        "description": "A battle over energy cost is brewing in the crypto space, as a new report from technical analyst Bullrunners pits Bitcoin’s (BTC) energy-hungry Proof of Work (PoW) system against XRP’s comparatively l"
       }
     ],
     "Markets": [
+      {
+        "title": "U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.",
+        "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 28 Feb 2026 10:12:00 GMT",
+        "description": "A massive backlog of maintenance and software contracts will ensure recurring revenue."
+      },
+      {
+        "title": "The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.",
+        "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 28 Feb 2026 10:08:00 GMT",
+        "description": "Bitcoin was tumbling on Saturday after military action was carried out against Iran by the U.S. and Israel."
+      },
       {
         "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
         "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
@@ -332,92 +346,78 @@
         "source": "MarketWatch",
         "published": "Fri, 27 Feb 2026 22:35:00 GMT",
         "description": "United Airlines’ stock on Friday suffered its worst drop in 10 months, with other airline stocks also seeing steep declines amid rising oil futures prices and increased market jitters."
-      },
-      {
-        "title": "Medicare will run out of money 12 years earlier than expected",
-        "link": "https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 22:22:00 GMT",
-        "description": "The Congressional Budget Office warns America’s public retirement programs are deteriorating at a shocking rate."
-      },
-      {
-        "title": "Software stocks fall as Block’s big job cuts stoke further AI fears",
-        "link": "https://www.marketwatch.com/story/software-stocks-fall-as-blocks-big-job-cuts-stoke-further-ai-fears-c66aef8e?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 21:45:00 GMT",
-        "description": "Block’s layoffs exacerbated concerns that artificial-intelligence could decimate employee counts and hurt demand for software."
       }
     ],
     "Singapore": [
       {
-        "title": "Ice Hockey-Tennis great King calls US men's Olympic team's laughter at Trump joke 'uncomfortable'",
-        "link": "https://www.channelnewsasia.com/sport/ice-hockey-tennis-great-king-calls-us-mens-olympic-teams-laughter-trump-joke-uncomfortable-5960186",
+        "title": "Singaporeans in the Middle East urged to exercise caution amid amid US-Israel attack on Iran",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-embassies-middle-east-advise-caution-us-israel-attack-iran-5960481",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 14:53:24 +0800",
+        "published": "Sat, 28 Feb 2026 19:41:00 +0800",
+        "description": "The Singapore Embassy in Doha noted an alert issued by Qatari authorities: \"Everyone must comply and stay in their homes or a safe place, and not go out except for extreme necessity until the danger h"
+      },
+      {
+        "title": "Son of Iran's late shah says 'final victory' near",
+        "link": "https://www.channelnewsasia.com/world/son-iran-late-shah-reza-pahlavi-hails-us-israel-strikes-iran-5960521",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 19:35:35 +0800",
         "description": ""
       },
       {
-        "title": "Israel launches 'pre-emptive' attack against Iran in coordination with US",
-        "link": "https://www.channelnewsasia.com/world/us-israel-strike-iran-tehran-explosions-air-sea-5960146",
+        "title": "Airspace closed, flights cancelled as US, Israel strike Iran",
+        "link": "https://www.channelnewsasia.com/world/airspace-closed-flights-cancelled-us-israel-iran-strikes-5960516",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 14:39:00 +0800",
+        "published": "Sat, 28 Feb 2026 19:31:00 +0800",
         "description": ""
       },
       {
-        "title": "Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father",
-        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-exiled-activist-anna-kwok-father-jailed-keep-fighting-5959661",
+        "title": "How will US, Israeli strikes on Iran affect oil markets?",
+        "link": "https://www.channelnewsasia.com/world/israel-us-strikes-iran-oil-prices-strait-hormuz-5960421",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 14:24:28 +0800",
-        "description": "Kwok's 69-year-old father, Kwok Yin-sang, was sentenced to jail for eight months for attempting to withdraw roughly US$11,000 from her insurance policy.&nbsp;"
+        "published": "Sat, 28 Feb 2026 19:15:00 +0800",
+        "description": "The main risk to the oil market remains a blockade of the Strait of Hormuz, which connects the Gulf to the Gulf of Oman and which Iran has frequently threatened to paralyse."
       },
       {
-        "title": "US backs Pakistan's 'right to defend itself' after strikes on Afghanistan",
-        "link": "https://www.channelnewsasia.com/asia/us-backs-pakistans-right-defend-itself-after-strikes-afghanistan-5960126",
+        "title": "Dramatic changes observed in one of universe's biggest stars",
+        "link": "https://www.channelnewsasia.com/business/dramatic-changes-observed-in-one-universes-biggest-stars-5960471",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 14:12:00 +0800",
-        "description": "The United States \"expressed support for Pakistan's right to defend itself against Taliban attacks\", a US official said."
-      },
-      {
-        "title": "In-form Jacks savours England's 'Brook era' in white-ball cricket",
-        "link": "https://www.channelnewsasia.com/sport/in-form-jacks-savours-englands-brook-era-in-white-ball-cricket-5960056",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 12:34:05 +0800",
+        "published": "Sat, 28 Feb 2026 19:02:27 +0800",
         "description": ""
       },
       {
-        "title": "North Korea unveils image of leader's daughter firing rifle",
-        "link": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-daugther-ju-ae-firing-rifle-successor-5959996",
+        "title": "FIA and F1 manufacturers reach compromise on engine controversy",
+        "link": "https://www.channelnewsasia.com/sport/fia-and-f1-manufacturers-reach-compromise-engine-controversy-5960441",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 12:06:00 +0800",
-        "description": "Kim Jong Un's daughter, Ju Ae, has long been seen as the next in line to rule North Korea.&nbsp;"
-      },
-      {
-        "title": "Xie Shaoguang opts out of Star Awards 2026 and will not attend the ceremony",
-        "link": "https://www.channelnewsasia.com/entertainment/xie-shaoguang-skips-star-awards-2026-5959986",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 11:37:40 +0800",
-        "description": "“I’m already in a semi-retired state,” he explained."
-      },
-      {
-        "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
-        "link": "https://www.channelnewsasia.com/business/nvidia-plans-new-chip-speed-ai-processing-wsj-reports-5959981",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 11:22:46 +0800",
+        "published": "Sat, 28 Feb 2026 18:52:53 +0800",
         "description": ""
       },
       {
-        "title": "OpenAI reaches deal to deploy AI models on US Department of War classified network",
-        "link": "https://www.channelnewsasia.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-5959976",
+        "title": "SIA, Scoot flights to Middle East cancelled amid US-Israel attack on Iran",
+        "link": "https://www.channelnewsasia.com/singapore/sia-scoot-flights-cancelled-us-israel-attack-iran-5960401",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 11:17:55 +0800",
+        "published": "Sat, 28 Feb 2026 18:31:00 +0800",
+        "description": "SIA says it will continue to monitor the situation in the Middle East and adjust its flight paths as needed."
+      },
+      {
+        "title": "US-Iran: More than four decades of enmity",
+        "link": "https://www.channelnewsasia.com/world/us-iran-more-four-decades-enmity-5960316",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 17:03:00 +0800",
+        "description": "Saturday's US and Israeli strikes on Iran are but the latest in a series of conflicts between Washington and Tehran stretching back decades."
+      },
+      {
+        "title": "Acosta wins Thailand GP sprint after stewards order Marquez to give up lead",
+        "link": "https://www.channelnewsasia.com/sport/acosta-wins-thailand-gp-sprint-after-stewards-order-marquez-give-up-lead-5960306",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 16:49:55 +0800",
         "description": ""
       },
       {
-        "title": "South Korea’s President Lee to make three-day state visit to Singapore",
-        "link": "https://www.channelnewsasia.com/singapore/south-korea-president-three-day-state-visit-tharman-shanmugaratnam-lawrence-wong-5958121",
+        "title": "Trump says US aims to destroy Iran's military, topple government",
+        "link": "https://www.channelnewsasia.com/world/israel-strikes-iran-us-donald-trump-5960256",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 10:08:28 +0800",
-        "description": ""
+        "published": "Sat, 28 Feb 2026 16:08:00 +0800",
+        "description": "\"We are going to destroy their missiles and raze their missile industry to the ground,\"&nbsp;US President Donald Trump said in a video address."
       }
     ],
     "US Politics": [
@@ -425,7 +425,7 @@
         "title": "Mahmood to press on with immigration reforms despite by-election defeat",
         "link": "https://www.bbc.com/news/articles/cwyx55nkxg9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 22:52:46 GMT",
+        "published": "Sat, 28 Feb 2026 10:06:30 GMT",
         "description": "The home secretary is to double down on plans for Danish-style restrictions on asylum seekers."
       },
       {
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Ice Hockey-Tennis great King calls US men's Olympic team's laughter at Trump joke 'uncomfortable'",
-      "link": "https://www.channelnewsasia.com/sport/ice-hockey-tennis-great-king-calls-us-mens-olympic-teams-laughter-trump-joke-uncomfortable-5960186",
+      "title": "Singaporeans in the Middle East urged to exercise caution amid amid US-Israel attack on Iran",
+      "link": "https://www.channelnewsasia.com/singapore/singapore-embassies-middle-east-advise-caution-us-israel-attack-iran-5960481",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 14:53:24 +0800",
+      "published": "Sat, 28 Feb 2026 19:41:00 +0800",
+      "description": "The Singapore Embassy in Doha noted an alert issued by Qatari authorities: \"Everyone must comply and stay in their homes or a safe place, and not go out except for extreme necessity until the danger h"
+    },
+    {
+      "title": "Son of Iran's late shah says 'final victory' near",
+      "link": "https://www.channelnewsasia.com/world/son-iran-late-shah-reza-pahlavi-hails-us-israel-strikes-iran-5960521",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 19:35:35 +0800",
       "description": ""
     },
     {
-      "title": "Israel launches 'pre-emptive' attack against Iran in coordination with US",
-      "link": "https://www.channelnewsasia.com/world/us-israel-strike-iran-tehran-explosions-air-sea-5960146",
+      "title": "Airspace closed, flights cancelled as US, Israel strike Iran",
+      "link": "https://www.channelnewsasia.com/world/airspace-closed-flights-cancelled-us-israel-iran-strikes-5960516",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 14:39:00 +0800",
+      "published": "Sat, 28 Feb 2026 19:31:00 +0800",
       "description": ""
     },
     {
-      "title": "Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father",
-      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-exiled-activist-anna-kwok-father-jailed-keep-fighting-5959661",
+      "title": "How will US, Israeli strikes on Iran affect oil markets?",
+      "link": "https://www.channelnewsasia.com/world/israel-us-strikes-iran-oil-prices-strait-hormuz-5960421",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 14:24:28 +0800",
-      "description": "Kwok's 69-year-old father, Kwok Yin-sang, was sentenced to jail for eight months for attempting to withdraw roughly US$11,000 from her insurance policy.&nbsp;"
+      "published": "Sat, 28 Feb 2026 19:15:00 +0800",
+      "description": "The main risk to the oil market remains a blockade of the Strait of Hormuz, which connects the Gulf to the Gulf of Oman and which Iran has frequently threatened to paralyse."
     },
     {
-      "title": "US backs Pakistan's 'right to defend itself' after strikes on Afghanistan",
-      "link": "https://www.channelnewsasia.com/asia/us-backs-pakistans-right-defend-itself-after-strikes-afghanistan-5960126",
+      "title": "Dramatic changes observed in one of universe's biggest stars",
+      "link": "https://www.channelnewsasia.com/business/dramatic-changes-observed-in-one-universes-biggest-stars-5960471",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 14:12:00 +0800",
-      "description": "The United States \"expressed support for Pakistan's right to defend itself against Taliban attacks\", a US official said."
+      "published": "Sat, 28 Feb 2026 19:02:27 +0800",
+      "description": ""
     },
     {
-      "title": "Binance Surpasses $35B In Gold Volume As Crypto-Native Traders Disrupt Traditional Commodity Desks",
-      "link": "https://bitcoinist.com/binance-surpasses-35b-in-gold-volume-crypto-native/",
+      "title": "Morgan Stanley Files For Bank Charter To Offer Crypto Custody And Staking Services — Report",
+      "link": "https://bitcoinist.com/morgan-stanley-files-for-bank-charter-offer-crypto/",
       "source": "Bitcoinist",
-      "published": "Sat, 28 Feb 2026 05:00:04 +0000",
-      "description": "Binance expanded its product suite on January 5 with the launch of gold futures trading, offering users 24/7 access to price exposure on the precious metal. The move reflects a broader trend within di"
+      "published": "Sat, 28 Feb 2026 11:00:32 +0000",
+      "description": "In a significant move, Morgan Stanley has submitted an application for a new national bank charter that will enable it to offer crypto custody and staking services. This report comes days after the re"
     },
     {
-      "title": "In-form Jacks savours England's 'Brook era' in white-ball cricket",
-      "link": "https://www.channelnewsasia.com/sport/in-form-jacks-savours-englands-brook-era-in-white-ball-cricket-5960056",
+      "title": "FIA and F1 manufacturers reach compromise on engine controversy",
+      "link": "https://www.channelnewsasia.com/sport/fia-and-f1-manufacturers-reach-compromise-engine-controversy-5960441",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 12:34:05 +0800",
+      "published": "Sat, 28 Feb 2026 18:52:53 +0800",
       "description": ""
     },
     {
-      "title": "North Korea unveils image of leader's daughter firing rifle",
-      "link": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-daugther-ju-ae-firing-rifle-successor-5959996",
+      "title": "SIA, Scoot flights to Middle East cancelled amid US-Israel attack on Iran",
+      "link": "https://www.channelnewsasia.com/singapore/sia-scoot-flights-cancelled-us-israel-attack-iran-5960401",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 12:06:00 +0800",
-      "description": "Kim Jong Un's daughter, Ju Ae, has long been seen as the next in line to rule North Korea.&nbsp;"
+      "published": "Sat, 28 Feb 2026 18:31:00 +0800",
+      "description": "SIA says it will continue to monitor the situation in the Middle East and adjust its flight paths as needed."
     },
     {
-      "title": "‘Making Bitcoin Bankable’: Citi Plans 2026 BTC Integration With Traditional Finance",
-      "link": "https://bitcoinist.com/citi-2026-bitcoin-integration-traditional-finance/",
+      "title": "US-Iran: More than four decades of enmity",
+      "link": "https://www.channelnewsasia.com/world/us-iran-more-four-decades-enmity-5960316",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 17:03:00 +0800",
+      "description": "Saturday's US and Israeli strikes on Iran are but the latest in a series of conflicts between Washington and Tehran stretching back decades."
+    },
+    {
+      "title": "$190 Million In Crypto Longs Caught Off Guard As Bitcoin Retraces Under $66,000",
+      "link": "https://bitcoinist.com/200-million-in-crypto-longs-bitcoin-retraces-66000/",
       "source": "Bitcoinist",
-      "published": "Sat, 28 Feb 2026 04:00:50 +0000",
-      "description": "A Citibank executive has announced the firm’s plan to introduce infrastructure “to make Bitcoin (BTC) bankable” as part of a broader institutional push to integrate the flagship cryptocurrency into tr"
-    },
-    {
-      "title": "India disrupts access to popular developer platform Supabase with blocking order",
-      "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
-      "source": "TechCrunch",
-      "published": "Sat, 28 Feb 2026 03:51:52 +0000",
-      "description": "India, one of Supabase’s biggest markets, is seeing patchy access after a government block order."
-    },
-    {
-      "title": "Xie Shaoguang opts out of Star Awards 2026 and will not attend the ceremony",
-      "link": "https://www.channelnewsasia.com/entertainment/xie-shaoguang-skips-star-awards-2026-5959986",
-      "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 11:37:40 +0800",
-      "description": "“I’m already in a semi-retired state,” he explained."
+      "published": "Sat, 28 Feb 2026 09:00:36 +0000",
+      "description": "Data shows a large amount of crypto long contracts have been liquidated as the Bitcoin price has plunged below the $66,000 level. Crypto Market Has Faced $267 Million In Liquidations Over The Past Day"
     }
   ]
 }
