@@ -1,20 +1,27 @@
 {
-  "updated_sgt": "2026-02-28 20:00 SGT",
-  "updated_iso": "2026-02-28T20:00:17.253043+08:00",
+  "updated_sgt": "2026-03-01 00:00 SGT",
+  "updated_iso": "2026-03-01T00:00:18.878464+08:00",
   "categories": {
     "World": [
       {
-        "title": "What we know about the joint US-Israel attack on Iran",
-        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+        "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
+        "link": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 28 Feb 2026 11:28:16 GMT",
-        "description": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE."
+        "published": "Sat, 28 Feb 2026 15:36:27 GMT",
+        "description": "Iranians talk about what is happening inside the country, despite an almost total internet blackout."
       },
       {
-        "title": "At least 15 killed after military plane carrying banknotes crashes in Bolivia",
+        "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
+        "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 28 Feb 2026 13:35:44 GMT",
+        "description": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain."
+      },
+      {
+        "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
         "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 28 Feb 2026 06:01:03 GMT",
+        "published": "Sat, 28 Feb 2026 13:00:39 GMT",
         "description": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
       },
       {
@@ -65,29 +72,50 @@
         "source": "BBC World",
         "published": "Fri, 27 Feb 2026 13:19:18 GMT",
         "description": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October."
-      },
-      {
-        "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
-        "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 12:46:26 GMT",
-        "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
       }
     ],
     "Finance": [
       {
-        "title": "U.S.-Israel launch massive attack on Iran; 4 U.S. military bases hit in retaliation",
-        "link": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+        "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
+        "link": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html",
         "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 11:47:09 GMT",
-        "description": "U.S. President Donald Trump said Iran has continued to pursue nuclear weapons despite ongoing negotiations to end its program."
+        "published": "Sat, 28 Feb 2026 15:04:18 GMT",
+        "description": "Berkshire Hathaway reported fourth-quarter and full-year 2025 earnings on Saturday."
       },
       {
-        "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
-        "link": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
+        "title": "'Bigger ramifications than Venezuela': Markets brace for impact after U.S. strikes Iran",
+        "link": "https://www.cnbc.com/2026/02/28/markets-brace-for-impact-following-us-military-strikes-against-iran.html",
         "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 04:32:33 GMT",
-        "description": "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,\" Trump wrote in a Truth Social post."
+        "published": "Sat, 28 Feb 2026 14:47:07 GMT",
+        "description": "Investors are bracing for impact after the U.S.'s attacks on Iran, a move they see as carrying far larger market consequences than the Venezuela campaign."
+      },
+      {
+        "title": "Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter",
+        "link": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 14:44:01 GMT",
+        "description": "Berkshire Hathaway's Greg Abel released his first annual shareholder letter as chief executive."
+      },
+      {
+        "title": "NASA is sending its first Black and first female astronauts to the moon",
+        "link": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "description": "NASA is sending the first Black and first female astronauts to the moon in an upcoming launch, marking the first journey to the moon in over 50 years."
+      },
+      {
+        "title": "AI just leveled up and there are no guardrails anymore",
+        "link": "https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "description": "CNBC's Deirdre Bosa goes inside the AI-driven market meltdown, the political fight, and the race that's moving faster than anyone can govern."
+      },
+      {
+        "title": "Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI",
+        "link": "https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "description": "In folding its Intrinsic project into the main company and out of \"Other Bets,\" Google is aiming to mimic its Android strategy for robots."
       },
       {
         "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
@@ -95,27 +123,6 @@
         "source": "CNBC Finance",
         "published": "Sat, 28 Feb 2026 04:25:34 GMT",
         "description": "OpenAI CEO Sam Altman said on X that his company has come to terms with the Defense Department for use of its models."
-      },
-      {
-        "title": "Pentagon-Anthropic AI standoff is real-time testing balance of power in future of warfare",
-        "link": "https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 03:51:22 GMT",
-        "description": "The Pentagon clash with Anthropic and Friday's severe response from Trump and Defense Secretary Hegseth highlights a growing war over who controls military AI."
-      },
-      {
-        "title": "Jack Dorsey made the loudest case yet that AI is already replacing jobs",
-        "link": "https://www.cnbc.com/2026/02/27/jack-dorsey-made-the-loudest-case-yet-ai-is-already-replacing-jobs.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 23:38:28 GMT",
-        "description": "In cutting nearly 40% of its workforce, Block loudly professed that the days of AI taking the jobs of humans has arrived."
-      },
-      {
-        "title": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses",
-        "link": "https://www.cnbc.com/2026/02/27/amazon-open-ai-cloud-jassy-altman.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 22:38:27 GMT",
-        "description": "The deal could ease some of Wall Street's fears about Amazon's monster $200 billion capex spending, and accelerate its development of AI tools."
       },
       {
         "title": "WBD employees fear coming wave of job losses as Paramount tops Netflix's bid to acquire company",
@@ -132,13 +139,6 @@
         "description": "The average IRS tax refund is up 10.2%, based on early filing data. Here's what filers need to know."
       },
       {
-        "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
-        "link": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 16:59:22 GMT",
-        "description": "UBS downgraded U.S. equities to \"benchmark\" in a fully invested global equity portfolio, saying factors that powered years of outperformance are starting to fade."
-      },
-      {
         "title": "Trump said tariffs could someday 'substantially replace' income taxes. What policy experts say",
         "link": "https://www.cnbc.com/2026/02/27/trump-tariffs-income-taxes.html",
         "source": "CNBC Finance",
@@ -147,6 +147,20 @@
       }
     ],
     "Technology": [
+      {
+        "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
+        "link": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
+        "source": "TechCrunch",
+        "published": "Sat, 28 Feb 2026 15:09:03 +0000",
+        "description": "We round up everything Xiaomi announced at its Mobile World Congress event."
+      },
+      {
+        "title": "Why China’s humanoid robot industry is winning the early market",
+        "link": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+        "source": "TechCrunch",
+        "published": "Sat, 28 Feb 2026 15:00:00 +0000",
+        "description": "China’s push into humanoid robots is accelerating, with domestic firms shipping more units and iterating faster than U.S. competitors in a still-nascent market."
+      },
       {
         "title": "India disrupts access to popular developer platform Supabase with blocking order",
         "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
@@ -202,23 +216,23 @@
         "source": "TechCrunch",
         "published": "Fri, 27 Feb 2026 17:17:18 +0000",
         "description": "As Netflix continues its live sports push, the company has partnered with Apple to air the Formula 1 Canadian Grand Prix."
-      },
-      {
-        "title": "Perplexity’s new Computer is another bet that users need many AI models",
-        "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
-        "source": "TechCrunch",
-        "published": "Fri, 27 Feb 2026 17:00:55 +0000",
-        "description": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\""
-      },
-      {
-        "title": "Pokémon Winds and Pokémon Waves are coming to the Nintendo Switch 2 in 2027",
-        "link": "https://techcrunch.com/2026/02/27/pokemon-winds-and-pokemon-waves-are-coming-to-the-nintendo-switch-2-in-2027/",
-        "source": "TechCrunch",
-        "published": "Fri, 27 Feb 2026 16:57:21 +0000",
-        "description": "The 10th-generation starter Pokémon were revealed in the trailer: Browt (a grass bird), Pombon (a fire puppy), and Gecqua (a water gecko)."
       }
     ],
     "Crypto": [
+      {
+        "title": "A Repeat Of February? Watch Out For These Bitcoin Price Levels In March",
+        "link": "https://bitcoinist.com/watch-out-for-these-bitcoin-price-levels-in-march/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 15:00:27 +0000",
+        "description": "The Bitcoin price performance was quite disappointing over the past month. The flagship cryptocurrency has struggled to break sustainably above $70,000 throughout February, with prices only reaching $"
+      },
+      {
+        "title": "Mt. Gox Ex-CEO Wants Bitcoin’s Rules Rewritten To Claw Back $5B In Stolen Coins",
+        "link": "https://bitcoinist.com/mt-gox-ex-ceo-wants-bitcoins-rules-rewritten-to-claw-back-5b-in-stolen-coins/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 13:00:32 +0000",
+        "description": "Twelve years is a long time to wait. For thousands of people who lost their Bitcoin when the Mt. Gox exchange collapsed in 2014, the wait has stretched on with little hope of getting everything back. "
+      },
       {
         "title": "Morgan Stanley Files For Bank Charter To Offer Crypto Custody And Staking Services — Report",
         "link": "https://bitcoinist.com/morgan-stanley-files-for-bank-charter-offer-crypto/",
@@ -260,164 +274,150 @@
         "source": "Bitcoinist",
         "published": "Sat, 28 Feb 2026 04:00:50 +0000",
         "description": "A Citibank executive has announced the firm’s plan to introduce infrastructure “to make Bitcoin (BTC) bankable” as part of a broader institutional push to integrate the flagship cryptocurrency into tr"
-      },
-      {
-        "title": "The 2.4 Million Ethereum Anchor: How Binance’s Illiquid Supply Is Absorbing ETH’s February Volatility",
-        "link": "https://bitcoinist.com/2-4-million-ethereum-anchor-binance-illiquid-supply/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 03:00:00 +0000",
-        "description": "Ethereum is navigating a period of heightened volatility and uncertainty as it hovers around the critical $2,000 threshold. While recent price action suggests temporary stabilization after weeks of se"
-      },
-      {
-        "title": "XRP Builder Funding Shifts In 2026 As Ripple Backs New Model",
-        "link": "https://bitcoinist.com/xrp-builder-funding-shift-2026-ripple/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 02:00:46 +0000",
-        "description": "Ripple is reshaping how builders on the XRP Ledger get funded in 2026, arguing that the ecosystem has reached a point where support needs to flow through more than Ripple-linked programs alone. The ch"
       }
     ],
     "Markets": [
       {
-        "title": "U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.",
-        "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
+        "title": "Stanley Druckenmiller says this is how he’d build a portfolio from scratch right now",
+        "link": "https://www.marketwatch.com/story/stanley-druckenmiller-says-this-is-how-hed-build-a-portfolio-from-scratch-right-now-98c23d33?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 28 Feb 2026 10:12:00 GMT",
-        "description": "A massive backlog of maintenance and software contracts will ensure recurring revenue."
+        "published": "Sat, 28 Feb 2026 15:38:00 GMT",
+        "description": "The legendary investor says he’s been shifting his investment focus and AI is no longer playing a starring role."
       },
       {
-        "title": "The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.",
+        "title": "Trump calls for regime change after U.S.-Israel attack on Iran. Markets should brace for more than June’s brief military campaign.",
         "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 28 Feb 2026 10:08:00 GMT",
-        "description": "Bitcoin was tumbling on Saturday after military action was carried out against Iran by the U.S. and Israel."
+        "published": "Sat, 28 Feb 2026 15:36:00 GMT",
+        "description": "The next 24 to 48 hours of conflict will be crucial for markets after the U.S. and Israel launched military strikes against Iran."
       },
       {
-        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
-        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+        "title": "‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?",
+        "link": "https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 28 Feb 2026 00:00:00 GMT",
-        "description": "His lawyer said, “He’s gone off the deep end.”"
+        "published": "Sat, 28 Feb 2026 15:30:00 GMT",
+        "description": "“After the divorce was finalized, he and his partner moved out of state to a place where there would be no child-support enforcement.”"
       },
       {
-        "title": "Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.",
-        "link": "https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories",
+        "title": "This could be Nvidia’s next big move, with the stock in search of a positive catalyst",
+        "link": "https://www.marketwatch.com/story/this-could-be-nvidias-next-big-move-with-the-stock-in-search-of-a-positive-catalyst-11caa4ac?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 23:30:00 GMT",
-        "description": "Stocks were caught up Friday in a whirlwind of market-moving headlines, making for a wild final trading day in a rough month for U.S. equities."
-      },
-      {
-        "title": "Trump blacklists Anthropic, opening the door to Elon Musk and xAI",
-        "link": "https://www.marketwatch.com/story/trump-blacklists-anthropic-opening-the-door-to-elon-musk-and-xai-03011fda?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 23:02:00 GMT",
-        "description": "Grok will let its model be used for classified purposes, while Anthropic has refused to let its products be deployed for autonomous weapons or mass surveillance."
+        "published": "Sat, 28 Feb 2026 15:24:00 GMT",
+        "description": "A report says Nvidia is planning a new chip platform that seeks to address evolving customer needs as the AI era transitions more toward inference workloads."
       },
       {
         "title": "After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?",
         "link": "https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 23:00:00 GMT",
+        "published": "Sat, 28 Feb 2026 15:05:00 GMT",
         "description": "“I’ve owned my own company for the last 15 years. It’s worth $8.5 million.”"
       },
       {
-        "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
-        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories",
+        "title": "Berkshire Hathaway shrinks cash pile in Buffett’s last act as CEO. Here’s how successor Greg Abel is now looking to spend.",
+        "link": "https://www.marketwatch.com/story/berkshire-hathaway-shrinks-cash-pile-in-buffetts-last-act-as-ceo-heres-how-successor-greg-abel-is-now-looking-to-spend-477eeaf3?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 22:51:00 GMT",
-        "description": "Shows like HBO’s ‘DTF St. Louis’ and ‘Rooster,’ Paramount’s ‘The Madison’ and Netflix’s ‘Peaky Blinders’ movie jump out of the gate as Emmy season gets underway"
+        "published": "Sat, 28 Feb 2026 15:02:00 GMT",
+        "description": "Company’s cash hoard at end of 2025 — which Abel noted was not a sign of an investment retreat — was down 2.1% from September to $373.3 billion."
+      },
+      {
+        "title": "Trump blacklists Anthropic — and OpenAI swoops in",
+        "link": "https://www.marketwatch.com/story/trump-blacklists-anthropic-opening-the-door-to-elon-musk-and-xai-03011fda?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 28 Feb 2026 14:42:00 GMT",
+        "description": "Claude developer Anthropic refused to let its products be deployed for autonomous weapons or mass surveillance."
       },
       {
         "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
         "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 22:49:00 GMT",
+        "published": "Sat, 28 Feb 2026 14:30:00 GMT",
         "description": "“I live in a state with no inheritance tax. I assume I can make this deposit legally.”"
       },
       {
-        "title": "Trump warned ‘sometimes you have to’ use force on Friday. Oil markets now see high odds of a U.S. strike on Iran.",
-        "link": "https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c?mod=mw_rss_topstories",
+        "title": "Any chance of a Fed interest-rate cut in 2026 is ‘evaporating before our very eyes’ with Iran war set to stoke oil prices",
+        "link": "https://www.marketwatch.com/story/any-chance-the-fed-cuts-rates-this-year-is-evaporating-before-our-very-eyes-as-iran-tensions-raise-oil-prices-18978691?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 22:38:00 GMT",
-        "description": "Oil prices jolted higher on Friday, booking their biggest daily gains in over a week, after President Trump signaled the window for using diplomacy to end Tehran’s nuclear program may be closing."
+        "published": "Sat, 28 Feb 2026 14:22:00 GMT",
+        "description": "U.S. and Israel strike several locations in Iran, which responds with missile attacks on Gulf nations."
       },
       {
-        "title": "United’s stock had its worst day in months on rising oil prices, market jitters",
-        "link": "https://www.marketwatch.com/story/uniteds-stock-and-other-airline-shares-get-a-reality-check-from-rising-oil-prices-market-jitters-2b6adfd0?mod=mw_rss_topstories",
+        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
+        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 22:35:00 GMT",
-        "description": "United Airlines’ stock on Friday suffered its worst drop in 10 months, with other airline stocks also seeing steep declines amid rising oil futures prices and increased market jitters."
+        "published": "Sat, 28 Feb 2026 14:03:00 GMT",
+        "description": "His lawyer said, “He’s gone off the deep end.”"
       }
     ],
     "Singapore": [
       {
-        "title": "Singaporeans in the Middle East urged to exercise caution amid amid US-Israel attack on Iran",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-embassies-middle-east-advise-caution-us-israel-attack-iran-5960481",
+        "title": "Xhaka the key as Sunderland snap losing streak",
+        "link": "https://www.channelnewsasia.com/sport/xhaka-key-sunderland-snap-losing-streak-5960836",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 19:41:00 +0800",
-        "description": "The Singapore Embassy in Doha noted an alert issued by Qatari authorities: \"Everyone must comply and stay in their homes or a safe place, and not go out except for extreme necessity until the danger h"
-      },
-      {
-        "title": "Son of Iran's late shah says 'final victory' near",
-        "link": "https://www.channelnewsasia.com/world/son-iran-late-shah-reza-pahlavi-hails-us-israel-strikes-iran-5960521",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 19:35:35 +0800",
+        "published": "Sat, 28 Feb 2026 23:48:12 +0800",
         "description": ""
       },
       {
-        "title": "Airspace closed, flights cancelled as US, Israel strike Iran",
-        "link": "https://www.channelnewsasia.com/world/airspace-closed-flights-cancelled-us-israel-iran-strikes-5960516",
+        "title": "What led to US-Israeli strikes on Iran: Protests, nuclear power and proxies",
+        "link": "https://www.channelnewsasia.com/world/us-israel-strikes-iran-nuclear-weapons-hezbollah-houthi-proxies-protest-crackdown-5960826",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 19:31:00 +0800",
+        "published": "Sat, 28 Feb 2026 23:45:00 +0800",
         "description": ""
       },
       {
-        "title": "How will US, Israeli strikes on Iran affect oil markets?",
-        "link": "https://www.channelnewsasia.com/world/israel-us-strikes-iran-oil-prices-strait-hormuz-5960421",
+        "title": "Security stepped up at Singapore's checkpoints following US, Israeli strikes on Iran",
+        "link": "https://www.channelnewsasia.com/singapore/ica-steps-up-border-checkpoint-security-iran-strikes-5960711",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 19:15:00 +0800",
-        "description": "The main risk to the oil market remains a blockade of the Strait of Hormuz, which connects the Gulf to the Gulf of Oman and which Iran has frequently threatened to paralyse."
+        "published": "Sat, 28 Feb 2026 22:18:00 +0800",
+        "description": "The Immigration and Checkpoints Authority has stepped up security checks on arriving travellers, cargo and conveyances at Singapore's land, air and sea checkpoints."
       },
       {
-        "title": "Dramatic changes observed in one of universe's biggest stars",
-        "link": "https://www.channelnewsasia.com/business/dramatic-changes-observed-in-one-universes-biggest-stars-5960471",
+        "title": "IFAB approves new rules to curb time-wasting, will be in effect at 2026 World Cup",
+        "link": "https://www.channelnewsasia.com/sport/ifab-approves-new-rules-curb-time-wasting-will-be-in-effect-2026-world-cup-5960686",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 19:02:27 +0800",
+        "published": "Sat, 28 Feb 2026 21:41:14 +0800",
         "description": ""
       },
       {
-        "title": "FIA and F1 manufacturers reach compromise on engine controversy",
-        "link": "https://www.channelnewsasia.com/sport/fia-and-f1-manufacturers-reach-compromise-engine-controversy-5960441",
+        "title": "Tensions in the Middle East will affect energy prices and impact countries far away, like Singapore: SM Lee",
+        "link": "https://www.channelnewsasia.com/singapore/tensions-middle-east-energy-prices-countries-far-away-sm-lee-5960336",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 18:52:53 +0800",
+        "published": "Sat, 28 Feb 2026 21:33:00 +0800",
+        "description": "The overall climate of uncertainty created by these “dramatic twists and turns” will dampen the global mood for trade and investment, says Senior Minister Lee Hsien Loong."
+      },
+      {
+        "title": "This Singapore engineer helped build Apple's products for 22 years. Now he's redrawing his own blueprint",
+        "link": "https://www.channelnewsasia.com/today/up-close/tech-engineer-apple-career-singaporean-work-abroad-5957701",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 21:30:00 +0800",
+        "description": "Singaporean engineer Mark Sin spent 22 years shaping Apple's hardware while rallying the Singaporean community in the San Francisco Bay Area as president of SingaporeConnect. Now, he is stepping away "
+      },
+      {
+        "title": "Can you be your 'authentic' self at work and still be taken seriously?",
+        "link": "https://www.channelnewsasia.com/today/voices/authentic-whole-self-being-real-workplace-office-pretend-fake-pressure-5954601",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 21:30:00 +0800",
+        "description": "Early in her career, CNA TODAY's Amanda Yeap worried that \"being herself\" too much would hurt her credibility. She's since learnt the difference between \"faking it\" in the workplace, and simply exerci"
+      },
+      {
+        "title": "Weathering life's storms: How to regulate your emotions at work amid tough times",
+        "link": "https://www.channelnewsasia.com/today/mental-health-matters/stress-work-emotion-regulating-5947446",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 21:30:00 +0800",
+        "description": "Emotional regulation is not about pushing aside your feelings but rather about being to able to respond to high-pressure situations at work with intention rather than impulsively."
+      },
+      {
+        "title": "Singapore 'deeply concerned' by US, Israeli strikes on Iran: Faishal Ibrahim",
+        "link": "https://www.channelnewsasia.com/singapore/faishal-israel-us-iran-strikes-singapore-5960646",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 21:23:49 +0800",
+        "description": "Singapore is monitoring developments closely and supports efforts towards de-escalation, the protection of civilian lives and respect for international law, Acting Minister-in-charge of Muslim Affairs"
+      },
+      {
+        "title": "Medvedev wins Dubai title with walkover",
+        "link": "https://www.channelnewsasia.com/sport/medvedev-wins-dubai-title-walkover-5960666",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 21:17:19 +0800",
         "description": ""
-      },
-      {
-        "title": "SIA, Scoot flights to Middle East cancelled amid US-Israel attack on Iran",
-        "link": "https://www.channelnewsasia.com/singapore/sia-scoot-flights-cancelled-us-israel-attack-iran-5960401",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 18:31:00 +0800",
-        "description": "SIA says it will continue to monitor the situation in the Middle East and adjust its flight paths as needed."
-      },
-      {
-        "title": "US-Iran: More than four decades of enmity",
-        "link": "https://www.channelnewsasia.com/world/us-iran-more-four-decades-enmity-5960316",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 17:03:00 +0800",
-        "description": "Saturday's US and Israeli strikes on Iran are but the latest in a series of conflicts between Washington and Tehran stretching back decades."
-      },
-      {
-        "title": "Acosta wins Thailand GP sprint after stewards order Marquez to give up lead",
-        "link": "https://www.channelnewsasia.com/sport/acosta-wins-thailand-gp-sprint-after-stewards-order-marquez-give-up-lead-5960306",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 16:49:55 +0800",
-        "description": ""
-      },
-      {
-        "title": "Trump says US aims to destroy Iran's military, topple government",
-        "link": "https://www.channelnewsasia.com/world/israel-strikes-iran-us-donald-trump-5960256",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 16:08:00 +0800",
-        "description": "\"We are going to destroy their missiles and raze their missile industry to the ground,\"&nbsp;US President Donald Trump said in a video address."
       }
     ],
     "US Politics": [
@@ -494,18 +494,60 @@
     ],
     "Science": [
       {
+        "title": "How the body really ages: 7 million cells mapped across 21 organs",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
+        "source": "Science Daily",
+        "published": "Sat, 28 Feb 2026 10:25:43 EST",
+        "description": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in "
+      },
+      {
+        "title": "A major climate hope in Antarctica just melted away",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228082714.htm",
+        "source": "Science Daily",
+        "published": "Sat, 28 Feb 2026 09:59:08 EST",
+        "description": "A popular climate theory suggested that melting Antarctic glaciers would release iron into the ocean, sparking algae blooms that pull carbon dioxide from the air. New field data from West Antarctica r"
+      },
+      {
+        "title": "The first animals on Earth had no skeletons and that changes everything",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071924.htm",
+        "source": "Science Daily",
+        "published": "Sat, 28 Feb 2026 09:50:14 EST",
+        "description": "Sponges may be ancient, but their timeline has been murky. New research suggests the earliest sponges were soft and skeleton-free, explaining why their fossils don’t appear until much later. By analyz"
+      },
+      {
+        "title": "Textbooks challenged by new discovery about how cells divide",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071928.htm",
+        "source": "Science Daily",
+        "published": "Sat, 28 Feb 2026 09:33:54 EST",
+        "description": "Scientists have uncovered a surprising new way that giant embryonic cells divide—without relying on the classic “purse-string” ring long thought essential for splitting a cell in two. Studying zebrafi"
+      },
+      {
+        "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
+        "source": "Science Daily",
+        "published": "Sat, 28 Feb 2026 09:20:04 EST",
+        "description": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial prot"
+      },
+      {
+        "title": "Your morning coffee could one day help fight cancer",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071940.htm",
+        "source": "Science Daily",
+        "published": "Sat, 28 Feb 2026 09:03:20 EST",
+        "description": "Scientists at Texas A&M are turning an everyday pick-me-up into a high-tech medical switch. By combining caffeine with CRISPR gene editing, researchers have created a system that allows cells to be pr"
+      },
+      {
+        "title": "This plastic is made from milk and it vanishes in 13 weeks",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071922.htm",
+        "source": "Science Daily",
+        "published": "Sat, 28 Feb 2026 08:23:21 EST",
+        "description": "Scientists racing to tackle plastic pollution have created a surprising new contender: a biodegradable packaging film made partly from milk protein. Researchers at Flinders University blended calcium "
+      },
+      {
         "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code",
         "link": "https://www.sciencedaily.com/releases/2026/02/260227071920.htm",
         "source": "Science Daily",
         "published": "Sat, 28 Feb 2026 01:47:32 EST",
         "description": "Scientists at UC Berkeley have discovered a microbe that bends one of biology’s most sacred rules. Instead of treating a specific three-letter DNA code as a clear “stop” signal, this methane-producing"
-      },
-      {
-        "title": "Scientists discover diet that tricks the body into burning fat without exercise",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071914.htm",
-        "source": "Science Daily",
-        "published": "Fri, 27 Feb 2026 13:05:43 EST",
-        "description": "Researchers found that cutting two amino acids common in animal protein—methionine and cysteine—made mice burn significantly more energy. The boost in heat production was nearly as powerful as constan"
       },
       {
         "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
@@ -515,53 +557,11 @@
         "description": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, date"
       },
       {
-        "title": "Iron outperforms rare metals in stunning chemistry advance",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm",
-        "source": "Science Daily",
-        "published": "Fri, 27 Feb 2026 11:08:10 EST",
-        "description": "Researchers at Nagoya University have created a more efficient iron-based photocatalyst that could reduce the need for rare and expensive metals in advanced chemistry. Unlike earlier designs, the new "
-      },
-      {
-        "title": "Scientists turn methane into medicine in stunning breakthrough",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
-        "source": "Science Daily",
-        "published": "Fri, 27 Feb 2026 10:51:30 EST",
-        "description": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-base"
-      },
-      {
-        "title": "MIT study finds Earth’s first animals were likely ancient sea sponges",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
-        "source": "Science Daily",
-        "published": "Fri, 27 Feb 2026 09:45:38 EST",
-        "description": "Scientists at MIT have found compelling chemical evidence that Earth’s earliest animals were likely ancient sea sponges. Hidden inside rocks over 541 million years old are rare molecular “fingerprints"
-      },
-      {
         "title": "A lost moon may have created Titan and Saturn’s rings",
         "link": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
         "source": "Science Daily",
         "published": "Fri, 27 Feb 2026 07:19:45 EST",
         "description": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so viol"
-      },
-      {
-        "title": "Stunning 3D maps reveal DNA is structured before life “switches on”",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227061824.htm",
-        "source": "Science Daily",
-        "published": "Fri, 27 Feb 2026 06:18:24 EST",
-        "description": "For decades, scientists believed a fertilized egg’s DNA began as a shapeless mass, only organizing itself once the embryo switched on its genes. But new research reveals that the genome is already car"
-      },
-      {
-        "title": "American Heart Association warns 60% of US women will have cardiovascular disease by 2050",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227061818.htm",
-        "source": "Science Daily",
-        "published": "Fri, 27 Feb 2026 06:18:18 EST",
-        "description": "Heart disease is on track to tighten its grip on American women. New projections from the American Heart Association warn that over the next 25 years, cardiovascular disease will rise sharply, driven "
-      },
-      {
-        "title": "Scientists compared dinosaurs to mammals for decades but missed this key difference",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260226042502.htm",
-        "source": "Science Daily",
-        "published": "Fri, 27 Feb 2026 05:08:15 EST",
-        "description": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Singaporeans in the Middle East urged to exercise caution amid amid US-Israel attack on Iran",
-      "link": "https://www.channelnewsasia.com/singapore/singapore-embassies-middle-east-advise-caution-us-israel-attack-iran-5960481",
+      "title": "Xhaka the key as Sunderland snap losing streak",
+      "link": "https://www.channelnewsasia.com/sport/xhaka-key-sunderland-snap-losing-streak-5960836",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 19:41:00 +0800",
-      "description": "The Singapore Embassy in Doha noted an alert issued by Qatari authorities: \"Everyone must comply and stay in their homes or a safe place, and not go out except for extreme necessity until the danger h"
-    },
-    {
-      "title": "Son of Iran's late shah says 'final victory' near",
-      "link": "https://www.channelnewsasia.com/world/son-iran-late-shah-reza-pahlavi-hails-us-israel-strikes-iran-5960521",
-      "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 19:35:35 +0800",
+      "published": "Sat, 28 Feb 2026 23:48:12 +0800",
       "description": ""
     },
     {
-      "title": "Airspace closed, flights cancelled as US, Israel strike Iran",
-      "link": "https://www.channelnewsasia.com/world/airspace-closed-flights-cancelled-us-israel-iran-strikes-5960516",
+      "title": "What led to US-Israeli strikes on Iran: Protests, nuclear power and proxies",
+      "link": "https://www.channelnewsasia.com/world/us-israel-strikes-iran-nuclear-weapons-hezbollah-houthi-proxies-protest-crackdown-5960826",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 19:31:00 +0800",
+      "published": "Sat, 28 Feb 2026 23:45:00 +0800",
       "description": ""
     },
     {
-      "title": "How will US, Israeli strikes on Iran affect oil markets?",
-      "link": "https://www.channelnewsasia.com/world/israel-us-strikes-iran-oil-prices-strait-hormuz-5960421",
-      "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 19:15:00 +0800",
-      "description": "The main risk to the oil market remains a blockade of the Strait of Hormuz, which connects the Gulf to the Gulf of Oman and which Iran has frequently threatened to paralyse."
+      "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
+      "link": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
+      "source": "TechCrunch",
+      "published": "Sat, 28 Feb 2026 15:09:03 +0000",
+      "description": "We round up everything Xiaomi announced at its Mobile World Congress event."
     },
     {
-      "title": "Dramatic changes observed in one of universe's biggest stars",
-      "link": "https://www.channelnewsasia.com/business/dramatic-changes-observed-in-one-universes-biggest-stars-5960471",
-      "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 19:02:27 +0800",
-      "description": ""
-    },
-    {
-      "title": "Morgan Stanley Files For Bank Charter To Offer Crypto Custody And Staking Services — Report",
-      "link": "https://bitcoinist.com/morgan-stanley-files-for-bank-charter-offer-crypto/",
+      "title": "A Repeat Of February? Watch Out For These Bitcoin Price Levels In March",
+      "link": "https://bitcoinist.com/watch-out-for-these-bitcoin-price-levels-in-march/",
       "source": "Bitcoinist",
-      "published": "Sat, 28 Feb 2026 11:00:32 +0000",
-      "description": "In a significant move, Morgan Stanley has submitted an application for a new national bank charter that will enable it to offer crypto custody and staking services. This report comes days after the re"
+      "published": "Sat, 28 Feb 2026 15:00:27 +0000",
+      "description": "The Bitcoin price performance was quite disappointing over the past month. The flagship cryptocurrency has struggled to break sustainably above $70,000 throughout February, with prices only reaching $"
     },
     {
-      "title": "FIA and F1 manufacturers reach compromise on engine controversy",
-      "link": "https://www.channelnewsasia.com/sport/fia-and-f1-manufacturers-reach-compromise-engine-controversy-5960441",
+      "title": "Why China’s humanoid robot industry is winning the early market",
+      "link": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "source": "TechCrunch",
+      "published": "Sat, 28 Feb 2026 15:00:00 +0000",
+      "description": "China’s push into humanoid robots is accelerating, with domestic firms shipping more units and iterating faster than U.S. competitors in a still-nascent market."
+    },
+    {
+      "title": "Security stepped up at Singapore's checkpoints following US, Israeli strikes on Iran",
+      "link": "https://www.channelnewsasia.com/singapore/ica-steps-up-border-checkpoint-security-iran-strikes-5960711",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 18:52:53 +0800",
+      "published": "Sat, 28 Feb 2026 22:18:00 +0800",
+      "description": "The Immigration and Checkpoints Authority has stepped up security checks on arriving travellers, cargo and conveyances at Singapore's land, air and sea checkpoints."
+    },
+    {
+      "title": "IFAB approves new rules to curb time-wasting, will be in effect at 2026 World Cup",
+      "link": "https://www.channelnewsasia.com/sport/ifab-approves-new-rules-curb-time-wasting-will-be-in-effect-2026-world-cup-5960686",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 21:41:14 +0800",
       "description": ""
     },
     {
-      "title": "SIA, Scoot flights to Middle East cancelled amid US-Israel attack on Iran",
-      "link": "https://www.channelnewsasia.com/singapore/sia-scoot-flights-cancelled-us-israel-attack-iran-5960401",
+      "title": "Tensions in the Middle East will affect energy prices and impact countries far away, like Singapore: SM Lee",
+      "link": "https://www.channelnewsasia.com/singapore/tensions-middle-east-energy-prices-countries-far-away-sm-lee-5960336",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 18:31:00 +0800",
-      "description": "SIA says it will continue to monitor the situation in the Middle East and adjust its flight paths as needed."
+      "published": "Sat, 28 Feb 2026 21:33:00 +0800",
+      "description": "The overall climate of uncertainty created by these “dramatic twists and turns” will dampen the global mood for trade and investment, says Senior Minister Lee Hsien Loong."
     },
     {
-      "title": "US-Iran: More than four decades of enmity",
-      "link": "https://www.channelnewsasia.com/world/us-iran-more-four-decades-enmity-5960316",
+      "title": "This Singapore engineer helped build Apple's products for 22 years. Now he's redrawing his own blueprint",
+      "link": "https://www.channelnewsasia.com/today/up-close/tech-engineer-apple-career-singaporean-work-abroad-5957701",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 17:03:00 +0800",
-      "description": "Saturday's US and Israeli strikes on Iran are but the latest in a series of conflicts between Washington and Tehran stretching back decades."
+      "published": "Sat, 28 Feb 2026 21:30:00 +0800",
+      "description": "Singaporean engineer Mark Sin spent 22 years shaping Apple's hardware while rallying the Singaporean community in the San Francisco Bay Area as president of SingaporeConnect. Now, he is stepping away "
     },
     {
-      "title": "$190 Million In Crypto Longs Caught Off Guard As Bitcoin Retraces Under $66,000",
-      "link": "https://bitcoinist.com/200-million-in-crypto-longs-bitcoin-retraces-66000/",
-      "source": "Bitcoinist",
-      "published": "Sat, 28 Feb 2026 09:00:36 +0000",
-      "description": "Data shows a large amount of crypto long contracts have been liquidated as the Bitcoin price has plunged below the $66,000 level. Crypto Market Has Faced $267 Million In Liquidations Over The Past Day"
+      "title": "Can you be your 'authentic' self at work and still be taken seriously?",
+      "link": "https://www.channelnewsasia.com/today/voices/authentic-whole-self-being-real-workplace-office-pretend-fake-pressure-5954601",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 21:30:00 +0800",
+      "description": "Early in her career, CNA TODAY's Amanda Yeap worried that \"being herself\" too much would hurt her credibility. She's since learnt the difference between \"faking it\" in the workplace, and simply exerci"
     }
   ]
 }
