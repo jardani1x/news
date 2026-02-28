@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-02-28 14:29 SGT",
-  "updated_iso": "2026-02-28T14:29:49.236001+08:00",
+  "updated_sgt": "2026-02-28 16:00 SGT",
+  "updated_iso": "2026-02-28T16:00:13.199475+08:00",
   "categories": {
     "World": [
       {
@@ -39,18 +39,18 @@
         "description": "The two countries are repairing a strained relationship as they also seek to reduce their trade reliance on the US."
       },
       {
-        "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-        "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 22:21:35 GMT",
-        "description": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack."
-      },
-      {
         "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
         "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Fri, 27 Feb 2026 20:31:27 GMT",
         "description": "Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary."
+      },
+      {
+        "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
+        "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 27 Feb 2026 19:58:25 GMT",
+        "description": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\"."
       },
       {
         "title": "Tram derails in Milan, leaving two dead and dozens injured",
@@ -76,6 +76,20 @@
     ],
     "Finance": [
       {
+        "title": "Trump says U.S. military has begun major combat operations in Iran",
+        "link": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 07:45:03 GMT",
+        "description": "Israeli Defense Minister Israel Katz described the attack as being done “to remove threats.”"
+      },
+      {
+        "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
+        "link": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 04:32:33 GMT",
+        "description": "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,\" Trump wrote in a Truth Social post."
+      },
+      {
         "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
         "link": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
         "source": "CNBC Finance",
@@ -83,25 +97,18 @@
         "description": "OpenAI CEO Sam Altman said on X that his company has come to terms with the Defense Department for use of its models."
       },
       {
+        "title": "Pentagon-Anthropic AI standoff is real-time testing balance of power in future of warfare",
+        "link": "https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 03:51:22 GMT",
+        "description": "The Pentagon clash with Anthropic and Friday's severe response from Trump and Defense Secretary Hegseth highlights a growing war over who controls military AI."
+      },
+      {
         "title": "Jack Dorsey made the loudest case yet that AI is already replacing jobs",
         "link": "https://www.cnbc.com/2026/02/27/jack-dorsey-made-the-loudest-case-yet-ai-is-already-replacing-jobs.html",
         "source": "CNBC Finance",
         "published": "Fri, 27 Feb 2026 23:38:28 GMT",
         "description": "In cutting nearly 40% of its workforce, Block loudly professed that the days of AI taking the jobs of humans has arrived."
-      },
-      {
-        "title": "Judge dismisses Trump officials’ bid to end student loan repayment plan used by millions of borrowers",
-        "link": "https://www.cnbc.com/2026/02/27/judge-dismisses-trump-officials-bid-to-end-save-plan.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 23:21:22 GMT",
-        "description": "A federal judge on Friday dismissed the Trump administration's request to eliminate the Saving on a Valuable Education, or SAVE, student loan repayment plan."
-      },
-      {
-        "title": "White House gives Democrats new DHS funding offer as partial government shutdown drags on",
-        "link": "https://www.cnbc.com/2026/02/27/white-house-dhs-ice-government-shutdown-democrats.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 22:46:33 GMT",
-        "description": "The Department of Homeland Security has been shut down since Feb. 14 as immigration enforcement negotiations drag on."
       },
       {
         "title": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses",
@@ -130,13 +137,6 @@
         "source": "CNBC Finance",
         "published": "Fri, 27 Feb 2026 16:59:22 GMT",
         "description": "UBS downgraded U.S. equities to \"benchmark\" in a fully invested global equity portfolio, saying factors that powered years of outperformance are starting to fade."
-      },
-      {
-        "title": "Core wholesale prices rose 0.8% in January, much more than expected",
-        "link": "https://www.cnbc.com/2026/02/27/ppi-january-2026-.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 27 Feb 2026 14:29:19 GMT",
-        "description": "The core producer price index increased a seasonally adjusted 0.8%, more than the 0.6% gain in December."
       },
       {
         "title": "Trump said tariffs could someday 'substantially replace' income taxes. What policy experts say",
@@ -350,6 +350,20 @@
     ],
     "Singapore": [
       {
+        "title": "Ice Hockey-Tennis great King calls US men's Olympic team's laughter at Trump joke 'uncomfortable'",
+        "link": "https://www.channelnewsasia.com/sport/ice-hockey-tennis-great-king-calls-us-mens-olympic-teams-laughter-trump-joke-uncomfortable-5960186",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 14:53:24 +0800",
+        "description": ""
+      },
+      {
+        "title": "Israel launches 'pre-emptive' attack against Iran in coordination with US",
+        "link": "https://www.channelnewsasia.com/world/us-israel-strike-iran-tehran-explosions-air-sea-5960146",
+        "source": "CNA Singapore",
+        "published": "Sat, 28 Feb 2026 14:39:00 +0800",
+        "description": ""
+      },
+      {
         "title": "Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father",
         "link": "https://www.channelnewsasia.com/east-asia/hong-kong-exiled-activist-anna-kwok-father-jailed-keep-fighting-5959661",
         "source": "CNA Singapore",
@@ -360,7 +374,7 @@
         "title": "US backs Pakistan's 'right to defend itself' after strikes on Afghanistan",
         "link": "https://www.channelnewsasia.com/asia/us-backs-pakistans-right-defend-itself-after-strikes-afghanistan-5960126",
         "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 14:12:40 +0800",
+        "published": "Sat, 28 Feb 2026 14:12:00 +0800",
         "description": "The United States \"expressed support for Pakistan's right to defend itself against Taliban attacks\", a US official said."
       },
       {
@@ -403,20 +417,6 @@
         "link": "https://www.channelnewsasia.com/singapore/south-korea-president-three-day-state-visit-tharman-shanmugaratnam-lawrence-wong-5958121",
         "source": "CNA Singapore",
         "published": "Sat, 28 Feb 2026 10:08:28 +0800",
-        "description": ""
-      },
-      {
-        "title": "Singer-songwriter Neil Sedaka dies at age 86",
-        "link": "https://www.channelnewsasia.com/entertainment/neil-sedaka-death-5959751",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 09:51:04 +0800",
-        "description": "He was behind dozens of hits in the 1960s and ’70s, including Breaking Up Is Hard to Do, Laughter in the Rain and Oh! Carol, a lament for his high school sweetheart, singer-songwriter Carole King."
-      },
-      {
-        "title": "Anthropic says it will challenge Pentagon's supply chain risk designation in court",
-        "link": "https://www.channelnewsasia.com/business/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-in-court-5959916",
-        "source": "CNA Singapore",
-        "published": "Sat, 28 Feb 2026 09:35:59 +0800",
         "description": ""
       }
     ],
@@ -494,11 +494,11 @@
     ],
     "Science": [
       {
-        "title": "Researchers unlock hidden dimensions inside a single photon",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260226042500.htm",
+        "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260227071920.htm",
         "source": "Science Daily",
-        "published": "Thu, 26 Feb 2026 11:23:52 EST",
-        "description": "Researchers have discovered new ways to shape quantum light, creating high-dimensional states that can carry much more information per photon. Using advanced tools like on-chip photonics and ultrafast"
+        "published": "Sat, 28 Feb 2026 01:47:32 EST",
+        "description": "Scientists at UC Berkeley have discovered a microbe that bends one of biology’s most sacred rules. Instead of treating a specific three-letter DNA code as a clear “stop” signal, this methane-producing"
       },
       {
         "title": "Scientists discover diet that tricks the body into burning fat without exercise",
@@ -563,67 +563,27 @@
         "published": "Fri, 27 Feb 2026 05:08:15 EST",
         "description": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-"
       }
-    ],
-    "Breaking": [
-      {
-        "title": "Trump warns Iran: \"Not thrilled\" with nuclear talks, leaves military option open",
-        "link": "https://www.bbc.com/news/articles/c309vz0z893o",
-        "source": "BBC News",
-        "published": "Sat, 28 Feb 2026 22:21:35 GMT",
-        "description": "President Trump said he was \"not happy\" with Iran's stance in the latest nuclear programme talks, but has not yet decided whether to attack. Trump told reporters he would \"love not to use\" military force but added, \"Sometimes you have to.\" Oil markets now see high odds of a U.S. strike on Iran."
-      },
-      {
-        "title": "Rubio plans Israel trip as US escalation looms",
-        "link": "https://www.aljazeera.com/news/2026/02/27/rubio-israel-trip-iran-talks",
-        "source": "Al Jazeera",
-        "published": "Fri, 27 Feb 2026 23:00:00 GMT",
-        "description": "US Secretary of State Marco Rubio is planning a trip to Israel as tensions between the US and Iran escalate. The visit comes after Trump's warnings about Iran's nuclear programme and his administration's blacklisting of Anthropic over AI disputes."
-      },
-      {
-        "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
-        "link": "https://www.bbc.com/news/articles/cj32l00k47lo",
-        "source": "BBC News",
-        "published": "Wed, 25 Feb 2026 18:00:00 GMT",
-        "description": "The State Department has ordered non-essential staff to leave the US embassy in Beirut after a security review. The partial evacuation comes amid rising tensions in the Middle East linked to Iran's nuclear programme and US pressure on the regime."
-      },
-      {
-        "title": "Israeli strikes kill at least 10 in Lebanon",
-        "link": "https://www.bbc.com/news/articles/cvg8914dkl0o",
-        "source": "BBC News",
-        "published": "Tue, 24 Feb 2026 20:30:00 GMT",
-        "description": "Israeli strikes killed at least 10 people in Lebanon, officials say. The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah. The incidents raise concerns about renewed hostilities in the region."
-      },
-      {
-        "title": "Aid groups in Gaza and West Bank get temporary reprieve",
-        "link": "https://www.bbc.com/news/articles/cd6z382de8yo",
-        "source": "BBC News",
-        "published": "Fri, 27 Feb 2026 20:31:27 GMT",
-        "description": "Dozens of well-known aid groups faced shutdown under a new Israeli law, but an Israeli court has paused the ban threat - though the reprieve might be temporary. The groups provide critical humanitarian aid to Palestinians in Gaza and the West Bank."
-      },
-      {
-        "title": "Oil markets surge on Iran strike fears",
-        "link": "https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c",
-        "source": "MarketWatch",
-        "published": "Fri, 27 Feb 2026 22:38:00 GMT",
-        "description": "Oil prices jolted higher on Friday, booking their biggest daily gains in over a week, after President Trump signaled the window for diplomacy to end Tehran's nuclear program may be closing. Traders now price in higher probability of military action."
-      },
-      {
-        "title": "India and Israel pledge to boost ties in defence and technology",
-        "link": "https://www.bbc.com/news/articles/cly14vppym2o",
-        "source": "BBC News",
-        "published": "Fri, 27 Feb 2026 14:00:00 GMT",
-        "description": "Opposition parties have criticised Modi's visit to Israel and accused the government of abandoning the Palestinian cause. The visit aims to strengthen defence and technology cooperation between the two countries."
-      },
-      {
-        "title": "Pentagon designates Anthropic as supply-chain risk over AI weapons concerns",
-        "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-        "source": "TechCrunch",
-        "published": "Fri, 27 Feb 2026 21:53:14 GMT",
-        "description": "The Pentagon moves to designate Anthropic as a supply-chain risk. \"We don't need it, we don't want it, and will not do business with them again,\" Trump wrote. The clash raises questions about AI use in autonomous weapons and surveillance."
-      }
     ]
   },
+  "charts": {
+    "world_indices": "world-indices.html",
+    "crypto": "crypto-charts.html"
+  },
   "top10": [
+    {
+      "title": "Ice Hockey-Tennis great King calls US men's Olympic team's laughter at Trump joke 'uncomfortable'",
+      "link": "https://www.channelnewsasia.com/sport/ice-hockey-tennis-great-king-calls-us-mens-olympic-teams-laughter-trump-joke-uncomfortable-5960186",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 14:53:24 +0800",
+      "description": ""
+    },
+    {
+      "title": "Israel launches 'pre-emptive' attack against Iran in coordination with US",
+      "link": "https://www.channelnewsasia.com/world/us-israel-strike-iran-tehran-explosions-air-sea-5960146",
+      "source": "CNA Singapore",
+      "published": "Sat, 28 Feb 2026 14:39:00 +0800",
+      "description": ""
+    },
     {
       "title": "Exiled activist Anna Kwok vows to keep fighting after Hong Kong jails her father",
       "link": "https://www.channelnewsasia.com/east-asia/hong-kong-exiled-activist-anna-kwok-father-jailed-keep-fighting-5959661",
@@ -635,7 +595,7 @@
       "title": "US backs Pakistan's 'right to defend itself' after strikes on Afghanistan",
       "link": "https://www.channelnewsasia.com/asia/us-backs-pakistans-right-defend-itself-after-strikes-afghanistan-5960126",
       "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 14:12:40 +0800",
+      "published": "Sat, 28 Feb 2026 14:12:00 +0800",
       "description": "The United States \"expressed support for Pakistan's right to defend itself against Taliban attacks\", a US official said."
     },
     {
@@ -679,20 +639,6 @@
       "source": "CNA Singapore",
       "published": "Sat, 28 Feb 2026 11:37:40 +0800",
       "description": "“I’m already in a semi-retired state,” he explained."
-    },
-    {
-      "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
-      "link": "https://www.channelnewsasia.com/business/nvidia-plans-new-chip-speed-ai-processing-wsj-reports-5959981",
-      "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 11:22:46 +0800",
-      "description": ""
-    },
-    {
-      "title": "OpenAI reaches deal to deploy AI models on US Department of War classified network",
-      "link": "https://www.channelnewsasia.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-5959976",
-      "source": "CNA Singapore",
-      "published": "Sat, 28 Feb 2026 11:17:55 +0800",
-      "description": ""
     }
   ]
 }
