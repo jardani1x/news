@@ -1,14 +1,21 @@
 {
-  "updated_sgt": "2026-03-01 08:00 SGT",
-  "updated_iso": "2026-03-01T08:00:19.286912+08:00",
+  "updated_sgt": "2026-03-01 12:00 SGT",
+  "updated_iso": "2026-03-01T12:00:13.940506+08:00",
   "categories": {
     "World": [
       {
-        "title": "Ayatollah Khamenei's iron grip on power in Iran",
+        "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
         "link": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 28 Feb 2026 23:07:05 GMT",
-        "description": "The supreme leader of Iran embraced hardline policies against increasing pressure for reform."
+        "published": "Sun, 01 Mar 2026 01:47:42 GMT",
+        "description": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country."
+      },
+      {
+        "title": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
+        "link": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 01 Mar 2026 00:21:43 GMT",
+        "description": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
       },
       {
         "title": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
@@ -58,13 +65,6 @@
         "source": "BBC World",
         "published": "Sat, 28 Feb 2026 03:43:56 GMT",
         "description": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
-      },
-      {
-        "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
-        "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 28 Feb 2026 02:17:20 GMT",
-        "description": "Ex-CNN anchor Don Lemon was one of the original nine defendants arrested last month"
       },
       {
         "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
@@ -148,6 +148,13 @@
     ],
     "Technology": [
       {
+        "title": "The trap Anthropic built for itself",
+        "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "source": "TechCrunch",
+        "published": "Sun, 01 Mar 2026 00:08:58 +0000",
+        "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them."
+      },
+      {
         "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
         "link": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
         "source": "TechCrunch",
@@ -209,16 +216,30 @@
         "source": "TechCrunch",
         "published": "Fri, 27 Feb 2026 23:00:54 +0000",
         "description": "The company said such trades violates its internal company policies about using confidential information for personal gain."
-      },
-      {
-        "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-        "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-        "source": "TechCrunch",
-        "published": "Fri, 27 Feb 2026 21:53:14 +0000",
-        "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post."
       }
     ],
     "Crypto": [
+      {
+        "title": "Crypto At The Casino? UK Weighs Letting Online Bettors Pay With Digital Currency",
+        "link": "https://bitcoinist.com/crypto-at-the-casino-uk-weighs-letting-online-bettors-pay-with-digital-currency/",
+        "source": "Bitcoinist",
+        "published": "Sun, 01 Mar 2026 02:30:43 +0000",
+        "description": "British gamblers searching for ways to bet with cryptocurrency are more likely to end up on an illegal website than a regulated one. That is part of what prompted the UK Gambling Commission to start a"
+      },
+      {
+        "title": "Pundit Uses Bitcoin Halving Cycle To Show Exactly When To Start Buying BTC Again",
+        "link": "https://bitcoinist.com/when-to-start-buying-bitcoin-again/",
+        "source": "Bitcoinist",
+        "published": "Sun, 01 Mar 2026 01:00:48 +0000",
+        "description": "Bitcoin’s long-term structure has always been examined through the perspective of its halving cycle, and one crypto pundit believes the pattern is pointing to a clear price bottom. The analysis center"
+      },
+      {
+        "title": "Banking Giant Barclays Considers Blockchain Payment Platform – Details",
+        "link": "https://bitcoinist.com/banking-giant-barclays-consider-blockchain-platform/",
+        "source": "Bitcoinist",
+        "published": "Sat, 28 Feb 2026 23:00:55 +0000",
+        "description": "Prominent British multinational bank Barclays Plc is exploring the development of a blockchain platform to support payments, signaling a deeper push by traditional finance lenders into digital-asset t"
+      },
       {
         "title": "Bitcoin Buying Just Ramped Up Into The Billions Again, Is It Time To Get Back In?",
         "link": "https://bitcoinist.com/bitcoin-buying-just-ramped-up/",
@@ -253,27 +274,6 @@
         "source": "Bitcoinist",
         "published": "Sat, 28 Feb 2026 13:00:32 +0000",
         "description": "Twelve years is a long time to wait. For thousands of people who lost their Bitcoin when the Mt. Gox exchange collapsed in 2014, the wait has stretched on with little hope of getting everything back. "
-      },
-      {
-        "title": "Morgan Stanley Files For Bank Charter To Offer Crypto Custody And Staking Services — Report",
-        "link": "https://bitcoinist.com/morgan-stanley-files-for-bank-charter-offer-crypto/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 11:00:32 +0000",
-        "description": "In a significant move, Morgan Stanley has submitted an application for a new national bank charter that will enable it to offer crypto custody and staking services. This report comes days after the re"
-      },
-      {
-        "title": "$190 Million In Crypto Longs Caught Off Guard As Bitcoin Retraces Under $66,000",
-        "link": "https://bitcoinist.com/200-million-in-crypto-longs-bitcoin-retraces-66000/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 09:00:36 +0000",
-        "description": "Data shows a large amount of crypto long contracts have been liquidated as the Bitcoin price has plunged below the $66,000 level. Crypto Market Has Faced $267 Million In Liquidations Over The Past Day"
-      },
-      {
-        "title": "Minnesota Pushes Crypto ATM Ban In Crackdown On Digital Asset Fraud",
-        "link": "https://bitcoinist.com/minnesota-pushes-crypto-atm-ban-in-crackdown/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 08:00:53 +0000",
-        "description": "Minnesota lawmakers are weighing a proposal that would prohibit Bitcoin (BTC) and other cryptocurrency kiosks across the state, as concerns mount over the role the machines play in financial scams. Ac"
       }
     ],
     "Markets": [
@@ -345,79 +345,79 @@
         "link": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d?mod=mw_rss_topstories",
         "source": "MarketWatch",
         "published": "Sat, 28 Feb 2026 19:50:00 GMT",
-        "description": "Dubai and Doha airports are among the largest international hubs for air travel."
+        "description": "Dubai and Doha airports now rank among the largest international hubs."
       }
     ],
     "Singapore": [
       {
-        "title": "OpenAI details layered protections in US defense department pact",
-        "link": "https://www.channelnewsasia.com/business/openai-details-layered-protections-in-us-defense-department-pact-5961201",
+        "title": "Commentary: The bar US set for victory in Iran is higher than Khamenei’s death",
+        "link": "https://www.channelnewsasia.com/commentary/trump-strikes-iran-middle-east-war-regime-change-5961086",
         "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 07:05:36 +0800",
+        "published": "Sun, 01 Mar 2026 11:11:00 +0800",
+        "description": "Iran’s leaders need to ensure regime survival and that was always about more than one man, says James M Dorsey from the S Rajaratnam School of International Studies."
+      },
+      {
+        "title": "China urges immediate ceasefire after US, Israel strike Iran",
+        "link": "https://www.channelnewsasia.com/east-asia/china-urges-immediate-ceasefire-after-us-israel-strike-iran-5961376",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 11:03:00 +0800",
+        "description": "On Sunday (Mar 1), China's embassy in Israel issued a notice advising Chinese citizens in Israel to evacuate to safer areas within the country as soon as possible or to leave for Egypt via the Taba bo"
+      },
+      {
+        "title": "Xiaomi says February EV deliveries topped 20,000, down from January",
+        "link": "https://www.channelnewsasia.com/business/xiaomi-says-february-ev-deliveries-topped-20000-down-january-5961391",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 10:48:34 +0800",
         "description": ""
       },
       {
-        "title": "PSG extend lead atop League 1 with 1-0 win at Le Havre",
-        "link": "https://www.channelnewsasia.com/sport/psg-extend-lead-atop-league-1-1-0-win-le-havre-5961166",
+        "title": "Indonesia flag carrier Garuda suspends flights from and to Doha: Statement",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-flag-carrier-garuda-suspends-flights-and-doha-statement-5961351",
         "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 06:37:04 +0800",
+        "published": "Sun, 01 Mar 2026 10:32:00 +0800",
+        "description": "The airline said its other international routes would continue to operate normally."
+      },
+      {
+        "title": "Why is the US attacking Iran?",
+        "link": "https://www.channelnewsasia.com/world/why-us-attacking-iran-explainer-5961366",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 10:27:00 +0800",
         "description": ""
       },
       {
-        "title": "Inter stretch Serie A lead to 13 points with 2-0 win over Genoa",
-        "link": "https://www.channelnewsasia.com/sport/inter-stretch-serie-lead-13-points-2-0-win-over-genoa-5961161",
+        "title": "Afghanistan fires at Pakistani jets over Kabul as conflict intensifies",
+        "link": "https://www.channelnewsasia.com/world/afghanistan-pakistan-fighting-kabul-blast-gunfire-5961341",
         "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 06:32:23 +0800",
-        "description": ""
+        "published": "Sun, 01 Mar 2026 10:21:00 +0800",
+        "description": "The Taliban-ruled state has suffered Pakistani strikes against government installations over the past week following accusations, which it denies, that it harbours militants."
       },
       {
-        "title": "Things to do in Nice, France: Where to eat, shop and wander beyond the beach",
-        "link": "https://www.channelnewsasia.com/experiences/things-do-in-nice-france-guide-5951871",
+        "title": "'Unofficial' talks on plastic pollution treaty to begin in Japan",
+        "link": "https://www.channelnewsasia.com/east-asia/unofficial-talks-plastic-pollution-treaty-begin-in-japan-5961301",
         "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 06:24:05 +0800",
-        "description": "Often treated as a cursory stop on road trips in southern France, Nice shines when you slow down. Think Old Town markets, heritage craftsmen, socca snacks and long bistro nights."
+        "published": "Sun, 01 Mar 2026 09:55:00 +0800",
+        "description": "Countries expected to be present in Tokyo include big oil producers like Saudi Arabia, Russia and the United States as well as islands states Antigua and Barbuda and Palau, plus China, India and the E"
       },
       {
-        "title": "Commentary: Does ‘free’ shipping really exist? Here are the marketing tricks you need to know",
-        "link": "https://www.channelnewsasia.com/commentary/free-shipping-online-shopping-retailer-consumer-marketing-5958086",
+        "title": "Killing of Khamenei an attempt to 'kill an era' in Iran: Analyst",
+        "link": "https://www.channelnewsasia.com/world/iran-khamenei-killed-us-israel-attack-analysts-5961246",
         "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 06:00:00 +0800",
-        "description": "Don’t let the allure of free delivery trick you into paying for more than you intended, says a professor."
+        "published": "Sun, 01 Mar 2026 09:25:00 +0800",
+        "description": "Khamenei has followers in Lebanon, Iraq, Bahrain, UAE and many other countries so there is a risk of major escalation in those areas, says an analyst."
       },
       {
-        "title": "‘Killing auto industry’: Indonesia government faces pushback on US$2.4 billion Indian trucks import",
-        "link": "https://www.channelnewsasia.com/asia/url-indonesia-india-vehicles-pickup-trucks-red-white-cooperatives-5942001",
+        "title": "Pop-soul singer Olivia Dean wins 4 Brit Awards, taking artist of the year and song of the year",
+        "link": "https://www.channelnewsasia.com/entertainment/olivia-dean-wins-4-brit-awards-5961236",
         "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 06:00:00 +0800",
-        "description": "The 105,000 trucks are to support the government’s cooperative programme - a flagship initiative of Indonesia President Prabowo Subianto aimed at strengthening rural supply chains and advancing food s"
+        "published": "Sun, 01 Mar 2026 09:18:34 +0800",
+        "description": "She had also won the best new artist award at this year’s Grammys in February."
       },
       {
-        "title": "Iran's Supreme Leader Khamenei is dead, says Trump",
-        "link": "https://www.channelnewsasia.com/world/trump-irans-supreme-leader-khamenei-dead-israel-attack-5961081",
+        "title": "Prior to Iran attacks, CIA assessed Khamenei could be replaced by hardline IRGC elements",
+        "link": "https://www.channelnewsasia.com/world/iran-khamenei-killed-replaced-irgc-cia-assess-5960841",
         "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 05:37:00 +0800",
-        "description": "After the US and Israel launched attacks on Iran on Saturday, President Donald Trump said on social media that Iran's Ayatollah \"Khamenei, one of the most evil people in history, is dead\"."
-      },
-      {
-        "title": "Man City newcomer Semenyo senses team's shift into title-winning mentality",
-        "link": "https://www.channelnewsasia.com/sport/man-city-newcomer-semenyo-senses-teams-shift-title-winning-mentality-5961121",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 05:29:16 +0800",
-        "description": ""
-      },
-      {
-        "title": "Kane double, Kimmich strike give leaders Bayern 3-2 comeback win at Dortmund",
-        "link": "https://www.channelnewsasia.com/sport/kane-double-kimmich-strike-give-leaders-bayern-3-2-comeback-win-dortmund-5961071",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 04:21:47 +0800",
-        "description": ""
-      },
-      {
-        "title": "Mexican official says World Diving Cup will be rescheduled after cancellation",
-        "link": "https://www.channelnewsasia.com/sport/mexican-official-says-world-diving-cup-will-be-rescheduled-after-cancellation-5961056",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 03:55:45 +0800",
-        "description": ""
+        "published": "Sun, 01 Mar 2026 08:52:00 +0800",
+        "description": "Iran's Supreme Leader Ayatollah Ali&nbsp;Khamenei was killed in strikes on Saturday by the US and Israel."
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "OpenAI details layered protections in US defense department pact",
-      "link": "https://www.channelnewsasia.com/business/openai-details-layered-protections-in-us-defense-department-pact-5961201",
+      "title": "Commentary: The bar US set for victory in Iran is higher than Khamenei’s death",
+      "link": "https://www.channelnewsasia.com/commentary/trump-strikes-iran-middle-east-war-regime-change-5961086",
       "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 07:05:36 +0800",
+      "published": "Sun, 01 Mar 2026 11:11:00 +0800",
+      "description": "Iran’s leaders need to ensure regime survival and that was always about more than one man, says James M Dorsey from the S Rajaratnam School of International Studies."
+    },
+    {
+      "title": "China urges immediate ceasefire after US, Israel strike Iran",
+      "link": "https://www.channelnewsasia.com/east-asia/china-urges-immediate-ceasefire-after-us-israel-strike-iran-5961376",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 11:03:00 +0800",
+      "description": "On Sunday (Mar 1), China's embassy in Israel issued a notice advising Chinese citizens in Israel to evacuate to safer areas within the country as soon as possible or to leave for Egypt via the Taba bo"
+    },
+    {
+      "title": "Xiaomi says February EV deliveries topped 20,000, down from January",
+      "link": "https://www.channelnewsasia.com/business/xiaomi-says-february-ev-deliveries-topped-20000-down-january-5961391",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 10:48:34 +0800",
       "description": ""
     },
     {
-      "title": "PSG extend lead atop League 1 with 1-0 win at Le Havre",
-      "link": "https://www.channelnewsasia.com/sport/psg-extend-lead-atop-league-1-1-0-win-le-havre-5961166",
+      "title": "Indonesia flag carrier Garuda suspends flights from and to Doha: Statement",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-flag-carrier-garuda-suspends-flights-and-doha-statement-5961351",
       "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 06:37:04 +0800",
+      "published": "Sun, 01 Mar 2026 10:32:00 +0800",
+      "description": "The airline said its other international routes would continue to operate normally."
+    },
+    {
+      "title": "Crypto At The Casino? UK Weighs Letting Online Bettors Pay With Digital Currency",
+      "link": "https://bitcoinist.com/crypto-at-the-casino-uk-weighs-letting-online-bettors-pay-with-digital-currency/",
+      "source": "Bitcoinist",
+      "published": "Sun, 01 Mar 2026 02:30:43 +0000",
+      "description": "British gamblers searching for ways to bet with cryptocurrency are more likely to end up on an illegal website than a regulated one. That is part of what prompted the UK Gambling Commission to start a"
+    },
+    {
+      "title": "Why is the US attacking Iran?",
+      "link": "https://www.channelnewsasia.com/world/why-us-attacking-iran-explainer-5961366",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 10:27:00 +0800",
       "description": ""
     },
     {
-      "title": "Inter stretch Serie A lead to 13 points with 2-0 win over Genoa",
-      "link": "https://www.channelnewsasia.com/sport/inter-stretch-serie-lead-13-points-2-0-win-over-genoa-5961161",
+      "title": "Afghanistan fires at Pakistani jets over Kabul as conflict intensifies",
+      "link": "https://www.channelnewsasia.com/world/afghanistan-pakistan-fighting-kabul-blast-gunfire-5961341",
       "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 06:32:23 +0800",
-      "description": ""
+      "published": "Sun, 01 Mar 2026 10:21:00 +0800",
+      "description": "The Taliban-ruled state has suffered Pakistani strikes against government installations over the past week following accusations, which it denies, that it harbours militants."
     },
     {
-      "title": "Things to do in Nice, France: Where to eat, shop and wander beyond the beach",
-      "link": "https://www.channelnewsasia.com/experiences/things-do-in-nice-france-guide-5951871",
+      "title": "'Unofficial' talks on plastic pollution treaty to begin in Japan",
+      "link": "https://www.channelnewsasia.com/east-asia/unofficial-talks-plastic-pollution-treaty-begin-in-japan-5961301",
       "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 06:24:05 +0800",
-      "description": "Often treated as a cursory stop on road trips in southern France, Nice shines when you slow down. Think Old Town markets, heritage craftsmen, socca snacks and long bistro nights."
+      "published": "Sun, 01 Mar 2026 09:55:00 +0800",
+      "description": "Countries expected to be present in Tokyo include big oil producers like Saudi Arabia, Russia and the United States as well as islands states Antigua and Barbuda and Palau, plus China, India and the E"
     },
     {
-      "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
-      "link": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
-      "source": "TechCrunch",
-      "published": "Sat, 28 Feb 2026 22:07:48 +0000",
-      "description": "Netflix's co-CEO reportedly told Trump, \"I took your advice.\""
-    },
-    {
-      "title": "Commentary: Does ‘free’ shipping really exist? Here are the marketing tricks you need to know",
-      "link": "https://www.channelnewsasia.com/commentary/free-shipping-online-shopping-retailer-consumer-marketing-5958086",
+      "title": "Killing of Khamenei an attempt to 'kill an era' in Iran: Analyst",
+      "link": "https://www.channelnewsasia.com/world/iran-khamenei-killed-us-israel-attack-analysts-5961246",
       "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 06:00:00 +0800",
-      "description": "Don’t let the allure of free delivery trick you into paying for more than you intended, says a professor."
+      "published": "Sun, 01 Mar 2026 09:25:00 +0800",
+      "description": "Khamenei has followers in Lebanon, Iraq, Bahrain, UAE and many other countries so there is a risk of major escalation in those areas, says an analyst."
     },
     {
-      "title": "‘Killing auto industry’: Indonesia government faces pushback on US$2.4 billion Indian trucks import",
-      "link": "https://www.channelnewsasia.com/asia/url-indonesia-india-vehicles-pickup-trucks-red-white-cooperatives-5942001",
+      "title": "Pop-soul singer Olivia Dean wins 4 Brit Awards, taking artist of the year and song of the year",
+      "link": "https://www.channelnewsasia.com/entertainment/olivia-dean-wins-4-brit-awards-5961236",
       "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 06:00:00 +0800",
-      "description": "The 105,000 trucks are to support the government’s cooperative programme - a flagship initiative of Indonesia President Prabowo Subianto aimed at strengthening rural supply chains and advancing food s"
-    },
-    {
-      "title": "Iran's Supreme Leader Khamenei is dead, says Trump",
-      "link": "https://www.channelnewsasia.com/world/trump-irans-supreme-leader-khamenei-dead-israel-attack-5961081",
-      "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 05:37:00 +0800",
-      "description": "After the US and Israel launched attacks on Iran on Saturday, President Donald Trump said on social media that Iran's Ayatollah \"Khamenei, one of the most evil people in history, is dead\"."
-    },
-    {
-      "title": "Man City newcomer Semenyo senses team's shift into title-winning mentality",
-      "link": "https://www.channelnewsasia.com/sport/man-city-newcomer-semenyo-senses-teams-shift-title-winning-mentality-5961121",
-      "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 05:29:16 +0800",
-      "description": ""
-    },
-    {
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
-      "link": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-      "source": "TechCrunch",
-      "published": "Sat, 28 Feb 2026 21:28:06 +0000",
-      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop."
+      "published": "Sun, 01 Mar 2026 09:18:34 +0800",
+      "description": "She had also won the best new artist award at this year’s Grammys in February."
     }
   ]
 }
