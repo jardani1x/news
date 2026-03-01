@@ -1,21 +1,21 @@
 {
-  "updated_sgt": "2026-03-01 16:00 SGT",
-  "updated_iso": "2026-03-01T16:00:16.780793+08:00",
+  "updated_sgt": "2026-03-01 20:00 SGT",
+  "updated_iso": "2026-03-01T20:00:14.990825+08:00",
   "categories": {
     "World": [
       {
-        "title": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
-        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 01 Mar 2026 03:57:42 GMT",
-        "description": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
-      },
-      {
-        "title": "Iran says US and Israel strikes hit school killing 108",
+        "title": "At least 148 dead after reported strike on school, Iran says",
         "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sun, 01 Mar 2026 02:34:04 GMT",
-        "description": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops."
+        "published": "Sun, 01 Mar 2026 11:40:44 GMT",
+        "description": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area."
+      },
+      {
+        "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
+        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 01 Mar 2026 10:58:33 GMT",
+        "description": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
       },
       {
         "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
@@ -76,10 +76,24 @@
     ],
     "Finance": [
       {
+        "title": "$100 oil? Prolonged Hormuz closure could spark a 1970s-style energy shock",
+        "link": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 01 Mar 2026 10:57:52 GMT",
+        "description": "Energy analysts are bracing for a possible oil supply shock after U.S. strikes on Iran reignited fears of disruptions in the Strait of Hormuz."
+      },
+      {
+        "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
+        "link": "https://www.cnbc.com/2026/03/01/us-israel-attacks-strikes-iran-retaliate-china-russia-allies.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 01 Mar 2026 09:21:20 GMT",
+        "description": "Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support."
+      },
+      {
         "title": "Iran after Khamenei: What's next and what it means for the country?",
         "link": "https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html",
         "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 05:39:16 GMT",
+        "published": "Sun, 01 Mar 2026 08:40:22 GMT",
         "description": "Khamenei assumed power following the death of Ayatollah Ruhollah Khomeini in 1989, inheriting a revolutionary state still consolidating itself."
       },
       {
@@ -118,13 +132,6 @@
         "description": "Berkshire Hathaway's Greg Abel released his first annual shareholder letter as chief executive."
       },
       {
-        "title": "Xiaomi launches flagship smartphone as memory price surge threatens sales",
-        "link": "https://www.cnbc.com/2026/02/28/xiaomi-17-and-17-ultra-launch-price-specs.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 14:32:04 GMT",
-        "description": "The Xiaomi 17 starts at 999 euros ($1,179) while the Xiaomi 17 Ultra starts at 1,499 euros, with the device priced the same as its predecessor."
-      },
-      {
         "title": "NASA is sending its first Black and first female astronauts to the moon",
         "link": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
         "source": "CNBC Finance",
@@ -137,13 +144,6 @@
         "source": "CNBC Finance",
         "published": "Sat, 28 Feb 2026 13:00:01 GMT",
         "description": "The outlooks of Life Time and Planet Fitness show the divergence in spending between higher- and lower-income consumers."
-      },
-      {
-        "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
-        "link": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 04:25:34 GMT",
-        "description": "OpenAI CEO Sam Altman said on X that his company has come to terms with the Defense Department for use of its models."
       }
     ],
     "Technology": [
@@ -220,6 +220,13 @@
     ],
     "Crypto": [
       {
+        "title": "Binance Liquidity Supply Revisits 2024 Levels As Tradable BTC Rises — Details",
+        "link": "https://bitcoinist.com/binance-liquidity-supply-back-to-2024-levels/",
+        "source": "Bitcoinist",
+        "published": "Sun, 01 Mar 2026 10:00:23 +0000",
+        "description": "Throughout February, the Bitcoin price barely showed real hopes of a trend shift from its stark bearish structure. However, in the last day, the flagship cryptocurrency has witnessed a modest amount o"
+      },
+      {
         "title": "XRP Ledger Positioned For Real World Asset Explosion As Securitize Teases $400-T Market",
         "link": "https://bitcoinist.com/xrp-ledger-real-world-asset-spike/",
         "source": "Bitcoinist",
@@ -267,16 +274,16 @@
         "source": "Bitcoinist",
         "published": "Sat, 28 Feb 2026 19:00:32 +0000",
         "description": "Bitcoin has experienced another net loss over the past week, with the premier cryptocurrency struggling to reclaim key technical levels. Meanwhile, a recent market evaluation shows that while price ac"
-      },
-      {
-        "title": "Seized Crypto Stolen As South Korea’s Tax Authority Leaks Private Key",
-        "link": "https://bitcoinist.com/seized-crypto-stolen-as-south-koreas-tax-authority-leaks-private-key/",
-        "source": "Bitcoinist",
-        "published": "Sat, 28 Feb 2026 17:00:05 +0000",
-        "description": "A piece of paper ruined everything. South Korea&#8217;s National Tax Service (NTS) published an official press release last Thursday meant to highlight its crackdown on tax dodgers — and somewhere in "
       }
     ],
     "Markets": [
+      {
+        "title": "Here’s how much you could pay for a gallon of gas by May because of the attacks on Iran",
+        "link": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 01 Mar 2026 09:04:00 GMT",
+        "description": "U.S.-Israel strikes against Iran will push up oil prices, as well as how much Americans pay for gasoline at the pump: GasBuddy"
+      },
       {
         "title": "Investors should brace for more than a brief military campaign in Iran",
         "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
@@ -339,16 +346,44 @@
         "source": "MarketWatch",
         "published": "Sat, 28 Feb 2026 20:27:00 GMT",
         "description": "“Is there a formula or method for figuring out when replacement becomes more cost-effective than ongoing repairs?”"
-      },
-      {
-        "title": "The U.S.-Israel attack on Iran will wreak havoc on international air travel",
-        "link": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 28 Feb 2026 19:50:00 GMT",
-        "description": "Dubai and Doha airports now rank among the largest international hubs."
       }
     ],
     "Singapore": [
+      {
+        "title": "Israel says its air force has struck Tehran again after killing Khamenei",
+        "link": "https://www.channelnewsasia.com/world/iran-us-israel-strikes-tehran-khamenei-killed-5961816",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 19:42:00 +0800",
+        "description": "The strikes are intended to open the \"path to Tehran\", says Israel."
+      },
+      {
+        "title": "Singaporeans in UAE hear explosions, feel tremors from missile strikes",
+        "link": "https://www.channelnewsasia.com/singapore/singaporeans-hear-explosions-feel-tremors-missile-strike-iran-uae-dubai-5961821",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 19:26:07 +0800",
+        "description": "Singaporeans told CNA that the UAE authorities issued mobile phone alerts urging residents to seek immediate shelter in the closest secure building."
+      },
+      {
+        "title": "Iran vows revenge for slain supreme leader despite Trump threat",
+        "link": "https://www.channelnewsasia.com/world/iran-khamenei-killed-revenge-us-israel-strikes-trump-threat-5961776",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 18:23:00 +0800",
+        "description": "US President Donald Trump has threatened to unleash \"force that has never been seen before\" and urged Iran's people to rise up and seize power."
+      },
+      {
+        "title": "Blast at India explosives factory kills 17",
+        "link": "https://www.channelnewsasia.com/asia/blast-india-explosives-factory-kills-17-5961721",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 17:12:00 +0800",
+        "description": "The accident, which also left 18 injured, happened in Nagpur, about 800km from state capital Mumbai."
+      },
+      {
+        "title": "Aprilia's Bezzecchi wins Thailand GP as Acosta takes championship lead",
+        "link": "https://www.channelnewsasia.com/sport/aprilias-bezzecchi-wins-thailand-gp-acosta-takes-championship-lead-5961736",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Mar 2026 17:08:19 +0800",
+        "description": ""
+      },
       {
         "title": "Malaysians advised to halt non-essential travel to Middle East: Foreign ministry",
         "link": "https://www.channelnewsasia.com/asia/malaysians-advised-halt-non-essential-travel-middle-east-foreign-ministry-5961666",
@@ -383,44 +418,30 @@
         "source": "CNA Singapore",
         "published": "Sun, 01 Mar 2026 12:41:00 +0800",
         "description": "Explosions were heard in Dubai and Doha after Iran confirmed that US-Israel strikes killed its supreme leader, Ayatollah Ali Khamenei."
-      },
-      {
-        "title": "Iran's Ayatollah Ali Khamenei, who based iron rule on fiery hostility to US and Israel, dies at 86",
-        "link": "https://www.channelnewsasia.com/world/iran-supreme-leader-khamenei-dies-us-israel-attack-5961356",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 12:12:00 +0800",
-        "description": "Ayatollah Ali Khamenei was killed on Saturday in air strikes by Israel and the US."
-      },
-      {
-        "title": "Sri Lanka's Jayasuriya to step down, Pakistan's Agha weighs future",
-        "link": "https://www.channelnewsasia.com/sport/sri-lankas-jayasuriya-step-down-pakistans-agha-weighs-future-5961476",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 12:09:02 +0800",
-        "description": ""
-      },
-      {
-        "title": "South Korea calls for resuming dialogue with North",
-        "link": "https://www.channelnewsasia.com/east-asia/south-korea-calls-resuming-dialogue-north-5961446",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 12:01:42 +0800",
-        "description": "Since taking office in June, South Korea President Lee Jae Myung&nbsp;has sought to mend ties with the nuclear-armed North, which reaffirmed its anti-Seoul approach during a party meeting last week."
-      },
-      {
-        "title": "Commentary: The bar US set for victory in Iran is higher than Khamenei’s death",
-        "link": "https://www.channelnewsasia.com/commentary/trump-strikes-iran-middle-east-war-regime-change-5961086",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 11:11:00 +0800",
-        "description": "Iran’s leaders need to ensure regime survival and that was always about more than one man, says James M Dorsey from the S Rajaratnam School of International Studies."
-      },
-      {
-        "title": "China urges immediate ceasefire after US, Israel strike Iran",
-        "link": "https://www.channelnewsasia.com/east-asia/china-urges-immediate-ceasefire-after-us-israel-strike-iran-5961376",
-        "source": "CNA Singapore",
-        "published": "Sun, 01 Mar 2026 11:03:00 +0800",
-        "description": "On Sunday (Mar 1), China's embassy in Israel issued a notice advising Chinese citizens in Israel to evacuate to safer areas within the country as soon as possible or to leave for Egypt via the Taba bo"
       }
     ],
     "US Politics": [
+      {
+        "title": "UK troops and civilians being put at risk by Iran strikes, Healey says",
+        "link": "https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 01 Mar 2026 11:01:05 GMT",
+        "description": "British military personnel at a base in Bahrain were \"within several hundred yards\" of a strike, the defence secretary says."
+      },
+      {
+        "title": "Minister Josh Simons resigns after Labour Together claims",
+        "link": "https://www.bbc.com/news/articles/cq6q0l9e7plo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 28 Feb 2026 20:14:44 GMT",
+        "description": "Simons faced claims the think tank he used to run commissioned a report which looked into the background of journalists."
+      },
+      {
+        "title": "Burnham would probably have won by-election, Labour deputy leader says",
+        "link": "https://www.bbc.com/news/articles/cde46np2nklo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 28 Feb 2026 17:10:37 GMT",
+        "description": "Lucy Powell tells the BBC that Labour needs to make more use of the Greater Manchester mayor."
+      },
       {
         "title": "Mahmood to press on with immigration reforms despite by-election defeat",
         "link": "https://www.bbc.com/news/articles/cwyx55nkxg9o?at_medium=RSS&at_campaign=rss",
@@ -450,13 +471,6 @@
         "description": "A group of low-fee paying private schools have challenged the government's removal of the VAT exemption."
       },
       {
-        "title": "Plaid Cymru vs Reform is choice between culture or ignorance, says ap Iorwerth",
-        "link": "https://www.bbc.com/news/articles/c70n1g25w2lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 16:57:12 GMT",
-        "description": "Plaid Cymru's leader told the party's conference that a Reform Welsh government would set Wales back by decades."
-      },
-      {
         "title": "Palestine Action arrest as Churchill statue defaced",
         "link": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
@@ -476,23 +490,16 @@
         "source": "BBC Politics",
         "published": "Fri, 27 Feb 2026 12:29:17 GMT",
         "description": "Spencer marked her victory by apologising to customers for potentially having to cancel work due to her Westminster move."
-      },
-      {
-        "title": "Chris Mason on 'an extraordinary by-election result'",
-        "link": "https://www.bbc.com/news/videos/c9q514wrew0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 06:14:54 GMT",
-        "description": "Chris Mason reports from Manchester on the Gorton and Denton by-election result."
-      },
-      {
-        "title": "Christian groups 'outraged' at Reform conference held in Church House",
-        "link": "https://www.bbc.com/news/articles/ckg3ek2pjzdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 05:29:50 GMT",
-        "description": "A number of Christian groups said the party's immigration policies were opposed to Church beliefs and teachings."
       }
     ],
     "Science": [
+      {
+        "title": "Insomnia and sleep apnea together dramatically raise heart disease risk",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228093440.htm",
+        "source": "Science Daily",
+        "published": "Sun, 01 Mar 2026 04:07:43 EST",
+        "description": "Struggling to fall asleep and stopping breathing at night may be a far riskier combo than previously thought. In a study of nearly a million veterans, researchers found that having both insomnia and s"
+      },
       {
         "title": "Hidden ingredient in Ozempic and Wegovy tablets raises new gut health questions",
         "link": "https://www.sciencedaily.com/releases/2026/02/260228093435.htm",
@@ -543,13 +550,6 @@
         "description": "Scientists at Texas A&M are turning an everyday pick-me-up into a high-tech medical switch. By combining caffeine with CRISPR gene editing, researchers have created a system that allows cells to be pr"
       },
       {
-        "title": "This plastic is made from milk and it vanishes in 13 weeks",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260227071922.htm",
-        "source": "Science Daily",
-        "published": "Sat, 28 Feb 2026 08:23:21 EST",
-        "description": "Scientists racing to tackle plastic pollution have created a surprising new contender: a biodegradable packaging film made partly from milk protein. Researchers at Flinders University blended calcium "
-      },
-      {
         "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
         "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
         "source": "Science Daily",
@@ -570,6 +570,48 @@
     "crypto": "crypto-charts.html"
   },
   "top10": [
+    {
+      "title": "Israel says its air force has struck Tehran again after killing Khamenei",
+      "link": "https://www.channelnewsasia.com/world/iran-us-israel-strikes-tehran-khamenei-killed-5961816",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 19:42:00 +0800",
+      "description": "The strikes are intended to open the \"path to Tehran\", says Israel."
+    },
+    {
+      "title": "Singaporeans in UAE hear explosions, feel tremors from missile strikes",
+      "link": "https://www.channelnewsasia.com/singapore/singaporeans-hear-explosions-feel-tremors-missile-strike-iran-uae-dubai-5961821",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 19:26:07 +0800",
+      "description": "Singaporeans told CNA that the UAE authorities issued mobile phone alerts urging residents to seek immediate shelter in the closest secure building."
+    },
+    {
+      "title": "Iran vows revenge for slain supreme leader despite Trump threat",
+      "link": "https://www.channelnewsasia.com/world/iran-khamenei-killed-revenge-us-israel-strikes-trump-threat-5961776",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 18:23:00 +0800",
+      "description": "US President Donald Trump has threatened to unleash \"force that has never been seen before\" and urged Iran's people to rise up and seize power."
+    },
+    {
+      "title": "Binance Liquidity Supply Revisits 2024 Levels As Tradable BTC Rises — Details",
+      "link": "https://bitcoinist.com/binance-liquidity-supply-back-to-2024-levels/",
+      "source": "Bitcoinist",
+      "published": "Sun, 01 Mar 2026 10:00:23 +0000",
+      "description": "Throughout February, the Bitcoin price barely showed real hopes of a trend shift from its stark bearish structure. However, in the last day, the flagship cryptocurrency has witnessed a modest amount o"
+    },
+    {
+      "title": "Blast at India explosives factory kills 17",
+      "link": "https://www.channelnewsasia.com/asia/blast-india-explosives-factory-kills-17-5961721",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 17:12:00 +0800",
+      "description": "The accident, which also left 18 injured, happened in Nagpur, about 800km from state capital Mumbai."
+    },
+    {
+      "title": "Aprilia's Bezzecchi wins Thailand GP as Acosta takes championship lead",
+      "link": "https://www.channelnewsasia.com/sport/aprilias-bezzecchi-wins-thailand-gp-acosta-takes-championship-lead-5961736",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Mar 2026 17:08:19 +0800",
+      "description": ""
+    },
     {
       "title": "Malaysians advised to halt non-essential travel to Middle East: Foreign ministry",
       "link": "https://www.channelnewsasia.com/asia/malaysians-advised-halt-non-essential-travel-middle-east-foreign-ministry-5961666",
@@ -597,48 +639,6 @@
       "source": "CNA Singapore",
       "published": "Sun, 01 Mar 2026 13:30:00 +0800",
       "description": "The leaders' comments come after Israel and the United States launched&nbsp;an attack of unprecedented scale&nbsp;aimed at bringing down the Islamic republic."
-    },
-    {
-      "title": "XRP Ledger Positioned For Real World Asset Explosion As Securitize Teases $400-T Market",
-      "link": "https://bitcoinist.com/xrp-ledger-real-world-asset-spike/",
-      "source": "Bitcoinist",
-      "published": "Sun, 01 Mar 2026 05:00:46 +0000",
-      "description": "The conversation around real-world asset (RWA) tokenization is heating up, and the numbers are staggering. After digital asset securities firm Securitize highlighted the potential for a $400 trillion "
-    },
-    {
-      "title": "Iran launches new wave of strikes against Israel, US bases in Middle East",
-      "link": "https://www.channelnewsasia.com/world/iran-us-israel-attack-supreme-leader-killed-5961496",
-      "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 12:41:00 +0800",
-      "description": "Explosions were heard in Dubai and Doha after Iran confirmed that US-Israel strikes killed its supreme leader, Ayatollah Ali Khamenei."
-    },
-    {
-      "title": "Iran's Ayatollah Ali Khamenei, who based iron rule on fiery hostility to US and Israel, dies at 86",
-      "link": "https://www.channelnewsasia.com/world/iran-supreme-leader-khamenei-dies-us-israel-attack-5961356",
-      "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 12:12:00 +0800",
-      "description": "Ayatollah Ali Khamenei was killed on Saturday in air strikes by Israel and the US."
-    },
-    {
-      "title": "Sri Lanka's Jayasuriya to step down, Pakistan's Agha weighs future",
-      "link": "https://www.channelnewsasia.com/sport/sri-lankas-jayasuriya-step-down-pakistans-agha-weighs-future-5961476",
-      "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 12:09:02 +0800",
-      "description": ""
-    },
-    {
-      "title": "South Korea calls for resuming dialogue with North",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-calls-resuming-dialogue-north-5961446",
-      "source": "CNA Singapore",
-      "published": "Sun, 01 Mar 2026 12:01:42 +0800",
-      "description": "Since taking office in June, South Korea President Lee Jae Myung&nbsp;has sought to mend ties with the nuclear-armed North, which reaffirmed its anti-Seoul approach during a party meeting last week."
-    },
-    {
-      "title": "Ripple Exec Clears The Air On Blocked XRP Transactions – When Does It Happen?",
-      "link": "https://bitcoinist.com/ripple-exec-clears-the-air-on-blocked-xrp-transactions-when-does-it-happen/",
-      "source": "Bitcoinist",
-      "published": "Sun, 01 Mar 2026 04:00:15 +0000",
-      "description": "Former Ripple Chief Technology Officer (CTO) David Schwartz has addressed speculation that the crypto firm can block transactions on the XRP Ledger (XRPL). He explained the only way this could happen "
     }
   ]
 }
