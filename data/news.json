@@ -1,15 +1,8 @@
 {
-  "updated_sgt": "2026-03-02 16:00 SGT",
-  "updated_iso": "2026-03-02T16:00:14.990772+08:00",
+  "updated_sgt": "2026-03-02 20:00 SGT",
+  "updated_iso": "2026-03-02T20:00:16.107560+08:00",
   "categories": {
     "World": [
-      {
-        "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
-        "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 01 Mar 2026 23:17:32 GMT",
-        "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead."
-      },
       {
         "title": "Could Kim's teen daughter become North Korea's next leader?",
         "link": "https://www.bbc.com/news/articles/cgjzdlx983po?at_medium=RSS&at_campaign=rss",
@@ -53,10 +46,17 @@
         "description": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
       },
       {
-        "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+        "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
+        "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 02 Mar 2026 11:24:48 GMT",
+        "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead."
+      },
+      {
+        "title": "Oil prices jump and shares fall as conflict escalates",
         "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 02 Mar 2026 06:53:43 GMT",
+        "published": "Mon, 02 Mar 2026 09:56:32 GMT",
         "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
       },
       {
@@ -76,74 +76,74 @@
     ],
     "Finance": [
       {
-        "title": "Iran after Khamenei: What's next and what it means for the country?",
-        "link": "https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html",
+        "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
+        "link": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html",
         "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 23:58:07 GMT",
-        "description": "Khamenei assumed power following the death of Ayatollah Ruhollah Khomeini in 1989, inheriting a revolutionary state still consolidating itself."
+        "published": "Sat, 28 Feb 2026 15:04:18 GMT",
+        "description": "Berkshire Hathaway reported fourth-quarter and full-year 2025 earnings on Saturday."
       },
       {
-        "title": "U.S. crude oil jumps more than 8%, topping $72 a barrel on fears of Iran supply disruption",
+        "title": "NASA is sending its first Black and first female astronauts to the moon",
+        "link": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "description": "NASA is sending the first Black and first female astronauts to the moon in an upcoming launch, marking the first journey to the moon in over 50 years."
+      },
+      {
+        "title": "How the 'K-shaped' economy is showing up at two big U.S. gyms",
+        "link": "https://www.cnbc.com/2026/02/28/life-time-planet-fitness-earnings-show-k-shaped-economy.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "description": "The outlooks of Life Time and Planet Fitness show the divergence in spending between higher- and lower-income consumers."
+      },
+      {
+        "title": "The Strait of Hormuz crisis explained: What it means for global shipping",
+        "link": "https://www.cnbc.com/2026/03/02/strait-of-hormuz-crisis-us-iran-israel-war-shipping-trade-oil.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 02 Mar 2026 11:38:26 GMT",
+        "description": "The Middle East conflict has stoked fears of prolonged disruption to global trade via key maritime corridors."
+      },
+      {
+        "title": "U.S. crude oil jumps more than 7% on fears of Iran supply disruption",
         "link": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
         "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 23:42:50 GMT",
+        "published": "Mon, 02 Mar 2026 11:10:18 GMT",
         "description": "It is unclear who will ultimately govern Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei."
       },
       {
-        "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
-        "link": "https://www.cnbc.com/2026/03/01/us-israel-attacks-strikes-iran-retaliate-china-russia-allies.html",
+        "title": "Global defense stocks jump as U.S., Iran exchange attacks",
+        "link": "https://www.cnbc.com/2026/03/02/defense-stocks-us-iran-israel-attacks-lockheed-renk-leonardo.html",
         "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 16:20:57 GMT",
-        "description": "Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support."
+        "published": "Mon, 02 Mar 2026 10:58:09 GMT",
+        "description": "The defense sector was a rare bright spot amid a broader market sell-off triggered by fears of a wider regional conflict following U.S. attacks on Iran."
       },
       {
-        "title": "'Bigger ramifications than Venezuela': Markets brace for impact after U.S. strikes Iran",
-        "link": "https://www.cnbc.com/2026/02/28/markets-brace-for-impact-following-us-military-strikes-against-iran.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 23:47:25 GMT",
-        "description": "Investors are bracing for impact after the U.S.'s attacks on Iran, a move they see as carrying far larger market consequences than the Venezuela campaign."
-      },
-      {
-        "title": "How Iran chooses its supreme leader, and who could be next?",
-        "link": "https://www.cnbc.com/2026/03/02/iran-ayatollah-trump-supreme-leader.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 07:52:05 GMT",
-        "description": "Ayatollah Khamenei's death following the joint U.S.-Israeli airstrikes has compelled country's leadership to confront the task of selecting a new supreme leader."
-      },
-      {
-        "title": "Asia airline stocks drop while energy shares rise as Iran conflict escalates",
-        "link": "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 07:43:42 GMT",
-        "description": "Oil futures on Monday jumped by over 8%, with West Texas Intermediate futures and Brent trading at $72.52 and $79.04 per barrel respectively."
-      },
-      {
-        "title": "Global markets after Iran strikes: oil surges, airlines sink, bonds defy safe-haven playbook",
+        "title": "Markets after Iran strikes: oil surges, airlines sink, bonds defy safe-haven playbook",
         "link": "https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 07:39:50 GMT",
-        "description": "Asian markets started the day lower across the board, with major markets in the region in negative territory."
+        "published": "Mon, 02 Mar 2026 10:51:20 GMT",
+        "description": "Global markets started the day lower across the board, with major sectors in Europe and Asia negative."
       },
       {
-        "title": "European stocks set to slump as markets react to U.S., Israeli strikes on Iran",
-        "link": "https://www.cnbc.com/2026/03/02/european-markets-stoxx-600-ftse-dax-cac-iran-strikes-reaction.html",
+        "title": "Why India looks especially vulnerable as conflict rages in Middle East",
+        "link": "https://www.cnbc.com/2026/03/02/india-impact-iran-middle-east-conflict-oil-prices-airlines.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 06:08:12 GMT",
-        "description": "European stocks are expected to start the new trading week firmly in negative territory."
+        "published": "Mon, 02 Mar 2026 10:37:27 GMT",
+        "description": "As conflict in the Middle East causes surging oil prices and disrupts the aviation sector, India is coming under pressure."
       },
       {
-        "title": "Iran conflict: Where things stand, global responses — and what comes next",
-        "link": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html",
+        "title": "Khamenei's death raises questions about Trump's China trip",
+        "link": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 05:28:28 GMT",
-        "description": "The U.S.-Israel conflict with Iran is extending into its third day with each side pledging escalation."
+        "published": "Mon, 02 Mar 2026 09:49:08 GMT",
+        "description": "U.S. President Donald Trump has been scheduled to visit China at the end of March, following tense trade relations with Beijing."
       },
       {
-        "title": "Global week ahead: Operation Epic Fury means new risks for markets",
-        "link": "https://www.cnbc.com/2026/03/02/global-week-ahead-operation-epic-fury-us-israel-iran-strikes-oil-shipping-markets-volatility.html",
+        "title": "The digital front: Iran’s internet down for second day amid reports of U.S.-Israel cyberattacks",
+        "link": "https://www.cnbc.com/2026/03/02/irans-internet-down-amid-reports-of-us-israel-cyberattacks.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 02:25:23 GMT",
-        "description": "Investors will grapple with how to trade the fallout of the U.S. and Israel's joint action in Iran."
+        "published": "Mon, 02 Mar 2026 09:26:48 GMT",
+        "description": "Iran is facing widespread internet disruptions following the U.S.-Israeli airstrikes over the weekend."
       }
     ],
     "Technology": [
@@ -255,11 +255,11 @@
         "description": "Bitcoin has reacted as expected to the conflict between the United States and Iran, continuing a pattern that has always appeared during previous geopolitical escalations. Crypto prices are digesting "
       },
       {
-        "title": "Binance Liquidity Supply Revisits 2024 Levels As Tradable BTC Rises — Details",
-        "link": "https://bitcoinist.com/binance-liquidity-supply-back-to-2024-levels/",
+        "title": "War With Iran May Spark Federal Reserve Intervention, Arthur Hayes Says",
+        "link": "https://bitcoinist.com/war-with-iran-may-spark-federal-reserve-intervention-arthur-hayes-says/",
         "source": "Bitcoinist",
-        "published": "Sun, 01 Mar 2026 10:00:23 +0000",
-        "description": "Throughout February, the Bitcoin price barely showed real hopes of a trend shift from its stark bearish structure. However, in the last day, the flagship cryptocurrency has witnessed a modest amount o"
+        "published": "Mon, 02 Mar 2026 09:00:43 +0000",
+        "description": "Iran and the Middle East are on fire again. US and Israeli forces launched a series of airstrikes on Iran over the weekend, killing Supreme Leader Ali Khamenei — a development that sent shockwaves thr"
       },
       {
         "title": "A Longer Iran War Could Send Bitcoin Higher, Arthur Hayes Says",
@@ -299,46 +299,46 @@
         "description": "Shows like HBO’s ‘DTF St. Louis’ and ‘Rooster,’ Paramount’s ‘The Madison’ and Netflix’s ‘Peaky Blinders’ movie jump out of the gate as Emmy season gets underway"
       },
       {
-        "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
-        "link": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5?mod=mw_rss_topstories",
+        "title": "Here’s how far oil is away from dragging stocks into a bear market, according to Morgan Stanley",
+        "link": "https://www.marketwatch.com/story/heres-how-far-oil-is-away-from-dragging-stocks-into-a-bear-market-according-to-morgan-stanley-b8e1932b?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 01 Mar 2026 19:29:00 GMT",
-        "description": "“I own a home worth $520,000 and do not have a mortgage on it.”"
+        "published": "Mon, 02 Mar 2026 11:38:00 GMT",
+        "description": "History shows market can recover quite quickly from geopolitical shocks"
       },
       {
-        "title": "Here’s where traders expect crude-oil prices to open after this weekend’s attack on Iran",
-        "link": "https://www.marketwatch.com/story/heres-where-traders-expect-crude-oil-prices-to-open-after-this-weekends-attack-on-iran-d5dc2ee4?mod=mw_rss_topstories",
+        "title": "Here’s oil’s path to $120 per barrel, according to JPMorgan",
+        "link": "https://www.marketwatch.com/story/heres-the-path-to-oil-hitting-120-per-barrel-according-to-jpmorgan-71792b31?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 01 Mar 2026 19:17:00 GMT",
-        "description": "Crude-oil markets won’t officially open for a few more hours, but traders are already using prediction markets like Kalshi to take bets on where prices will settle on Monday."
+        "published": "Mon, 02 Mar 2026 10:55:00 GMT",
+        "description": "The question is how high could oil prices go in the case of a sustained conflict."
       },
       {
-        "title": "U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.",
-        "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
+        "title": "Gasoil is spiking more than crude. What it is and why prices are soaring amid Iran conflict.",
+        "link": "https://www.marketwatch.com/story/gasoil-is-spiking-more-than-crude-what-it-is-and-why-prices-are-soaring-amid-iran-conflict-af45ca50?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 01 Mar 2026 18:40:00 GMT",
-        "description": "A massive backlog of maintenance and software contracts will ensure recurring revenue."
+        "published": "Mon, 02 Mar 2026 10:31:00 GMT",
+        "description": "The workhorse of the fuel world was climbing on Monday, with a strike on a major Saudi Arabia refinery getting the blame."
       },
       {
-        "title": "‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?",
-        "link": "https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6?mod=mw_rss_topstories",
+        "title": "Iran conflicts just adds to wall of worry for U.S. stocks, says Citi strategist",
+        "link": "https://www.marketwatch.com/story/iran-conflicts-just-adds-to-wall-of-worry-for-u-s-stocks-says-citi-strategist-25c0d655?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 01 Mar 2026 18:07:00 GMT",
-        "description": "“Within a week or two after the deadline to contest the will expired, my stepmother sent me an email stating she would not share anything.”"
+        "published": "Mon, 02 Mar 2026 10:26:00 GMT",
+        "description": "The rising oil price is just one more addition to the growing list of concerns that have stalled U.S. equity performance so far in 2026."
       },
       {
-        "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
-        "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
+        "title": "‘Wonder Woman’ star Gal Gadot lists her elegant beachfront penthouse in Malibu for $8.75 million",
+        "link": "https://www.marketwatch.com/story/wonder-woman-star-gal-gadot-lists-her-elegant-beachfront-penthouse-in-malibu-for-8-75-million-88c5bd00?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 01 Mar 2026 17:06:00 GMT",
-        "description": "“I live in a state with no inheritance tax. I assume I can make this deposit legally.”"
+        "published": "Mon, 02 Mar 2026 10:02:00 GMT",
+        "description": "Gadot and her husband have carried out extensive renovations of the home, which sits right on the beach."
       },
       {
-        "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead",
-        "link": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93?mod=mw_rss_topstories",
+        "title": "‘Home Alone’ star Macaulay Culkin sells California estate for $14.25 million",
+        "link": "https://www.marketwatch.com/story/home-alone-star-macaulay-culkin-sells-california-estate-for-14-25-million-a306071a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 01 Mar 2026 17:00:00 GMT",
-        "description": "“You’ve got this somewhat dystopian narrative permeating the psychology of the market” with respect to AI and jobs, asset-management firm’s CIO says."
+        "published": "Mon, 02 Mar 2026 10:01:00 GMT",
+        "description": "Macaulay Culkin has quietly sold his sprawling California estate for $14.25 million—one year after he opened up about his role as a “homebody dad” with longtime partner Brenda Song."
       },
       {
         "title": "Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT",
@@ -350,79 +350,79 @@
     ],
     "Singapore": [
       {
-        "title": "Indonesia’s offer to mediate US-Iran conflict seen as ‘bold’ but ‘unrealistic’",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-iran-us-israel-prabowo-subianto-mediator-5962996",
+        "title": "Amazon to invest additional $21 billion in Spain for data centres, AI",
+        "link": "https://www.channelnewsasia.com/business/amazon-invest-additional-21-billion-in-spain-data-centres-ai-5964056",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 15:40:11 +0800",
-        "description": "President Prabowo Subianto has said he is prepared to travel to Tehran if Indonesia is appointed to mediate the US-Iran conflict."
-      },
-      {
-        "title": "Singapore monitoring Iran situation 'closely', will reassess GDP forecasts if necessary: DPM Gan Kim Yong",
-        "link": "https://www.channelnewsasia.com/singapore/iran-war-singapore-government-monitoring-gan-kim-yong-us-israel-5963326",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 15:24:14 +0800",
-        "description": "The Trade and Industry Minister said in parliament that global energy prices could rise if the conflict continues."
-      },
-      {
-        "title": "Don Don Donki to close Pasir Ris Downtown East store on Mar 15",
-        "link": "https://www.channelnewsasia.com/dining/downtown-east-don-don-donki-outlet-close-mar-15-5962831",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 15:19:00 +0800",
-        "description": "The Downtown East outlet was the first Don Don Donki store in the east, with queues lasting up to 45 minutes when it first opened in April 2021."
-      },
-      {
-        "title": "Vodafone teams up with Amazon's satellites to connect masts in Europe and Africa",
-        "link": "https://www.channelnewsasia.com/business/vodafone-teams-up-amazons-satellites-connect-masts-in-europe-and-africa-5963366",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 15:07:45 +0800",
+        "published": "Mon, 02 Mar 2026 19:31:36 +0800",
         "description": ""
       },
       {
-        "title": "Suspected drone strike hits British air base in Cyprus",
-        "link": "https://www.channelnewsasia.com/world/drone-strike-british-air-force-base-cyprus-5963341",
+        "title": "Woman, 40, accused of repeated sexual offences against boy aged below 16 in parked car, other locations",
+        "link": "https://www.channelnewsasia.com/singapore/woman-charged-sexual-grooming-16-boy-parked-car-5963846",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 14:58:17 +0800",
+        "published": "Mon, 02 Mar 2026 19:30:27 +0800",
+        "description": "The 40-year-old Singaporean woman pleaded not guilty."
+      },
+      {
+        "title": "‘Missiles explode right above you’: Chinese citizens stranded amid Iran war share harrowing experiences",
+        "link": "https://www.channelnewsasia.com/east-asia/chinese-citizens-stranded-iran-war-dubai-missiles-united-states-israel-attack-5963746",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 19:29:41 +0800",
+        "description": "Beijing has confirmed one national killed in Tehran and evacuated more than 3,000 citizens from Iran, as those stranded across the Middle East describe explosions, airspace closures and mounting uncer"
+      },
+      {
+        "title": "Exclusive-ASML plots future of chipmaking tools for AI beyond EUV",
+        "link": "https://www.channelnewsasia.com/business/exclusive-asml-plots-future-chipmaking-tools-ai-beyond-euv-5963961",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 19:05:52 +0800",
         "description": ""
       },
       {
-        "title": "Singapore to invest S$800 million in decarbonisation over next five years",
-        "link": "https://www.channelnewsasia.com/singapore/decarbonisation-research-development-investment-5963276",
+        "title": "Fed races to adapt to AI promises and pitfalls for jobs, inflation",
+        "link": "https://www.channelnewsasia.com/business/fed-races-adapt-ai-promises-and-pitfalls-jobs-inflation-5963931",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 14:41:00 +0800",
-        "description": "Another S$800 million will be invested to establish a Research, Innovation and Enterprise flagship in semiconductors."
-      },
-      {
-        "title": "Singapore launches Champions of AI programme to drive company-wide transformation",
-        "link": "https://www.channelnewsasia.com/singapore/ai-champions-transformation-skills-missions-5963121",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 13:49:00 +0800",
-        "description": "&nbsp;A select group of companies will pilot the programme before it is expanded."
-      },
-      {
-        "title": "Singapore, South Korea to work towards upgrading free trade agreement",
-        "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-lee-jae-myung-south-korea-free-trade-agreement-5963031",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 13:49:00 +0800",
-        "description": "Cooperation in areas such as artificial intelligence, civil nuclear energy and intellectual property is also on the cards after both sides concluded several memorandums of understanding."
-      },
-      {
-        "title": "Elliott agrees to Toyota's increased $30 billion tender offer for Toyota Industries",
-        "link": "https://www.channelnewsasia.com/business/elliott-agrees-toyotas-increased-30-billion-tender-offer-toyota-industries-5963146",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 13:15:43 +0800",
+        "published": "Mon, 02 Mar 2026 19:02:26 +0800",
         "description": ""
       },
       {
-        "title": "Pokemon Center Singapore to temporarily close from Apr 1 as part of renewal works",
-        "link": "https://www.channelnewsasia.com/living/pokemon-center-singapore-closed-apr-1-temporary-5962886",
+        "title": "South Africa juggernaut faces knockout test against New Zealand",
+        "link": "https://www.channelnewsasia.com/sport/south-africa-juggernaut-faces-knockout-test-against-new-zealand-5963936",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 13:12:15 +0800",
-        "description": "Pokemon Singapore announced on Monday (Mar 2) that&nbsp;Pokemon Center Singapore will be closed from Apr 1 as it \"undergoes a comprehensive store renewal to feature a fully localised store concept\"."
+        "published": "Mon, 02 Mar 2026 19:00:16 +0800",
+        "description": ""
+      },
+      {
+        "title": "Edwin Tong says attorney-general appointment is structured, refutes Sylvia Lim's claims that process is thin",
+        "link": "https://www.channelnewsasia.com/singapore/attorney-general-appointment-structured-not-thin-edwin-tong-sylvia-lim-5963661",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 18:52:29 +0800",
+        "description": "\"There is a clear, deliberate and very structured process of the appointment with the appropriate checks and balances,\" said Law Minister Edwin Tong."
+      },
+      {
+        "title": "Tesla gains market in France, Norway in February",
+        "link": "https://www.channelnewsasia.com/business/tesla-gains-market-in-france-norway-in-february-5963791",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 18:16:01 +0800",
+        "description": ""
+      },
+      {
+        "title": "Chinese New Year celebrations in Canada grow amid improvement in relations with China",
+        "link": "https://www.channelnewsasia.com/world/canada-montreal-chinese-new-year-celebrations-relations-china-5963621",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 18:00:42 +0800",
+        "description": "The broader diplomatic climate can directly affect how Chinese Canadians feel, especially after a surge in anti-Asian hate during the COVID-19 pandemic, said one expert."
+      },
+      {
+        "title": "IAEA head urges 'utmost restraint' after strikes on Iran",
+        "link": "https://www.channelnewsasia.com/world/iaea-head-rafael-grossi-urges-restraint-iran-strikes-nuclear-installations-5963741",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 17:59:00 +0800",
+        "description": "The United Nations' nuclear watchdog said it had been trying to contact Iran's nuclear regulatory authorities \"with no response so far\"."
       }
     ],
     "US Politics": [
       {
-        "title": "Consultation on social media ban for under-16s to begin",
+        "title": "UK launches consultation asking for views on under-16s social media ban",
         "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Sun, 01 Mar 2026 22:35:18 GMT",
@@ -450,13 +450,6 @@
         "description": "The former Labour MP says he is \"on the mend\" after becoming ill on New Year's Day."
       },
       {
-        "title": "Minister Josh Simons resigns after Labour Together claims",
-        "link": "https://www.bbc.com/news/articles/cq6q0l9e7plo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Sat, 28 Feb 2026 20:14:44 GMT",
-        "description": "Simons faced claims the think tank he used to run commissioned a report which looked into the background of journalists."
-      },
-      {
         "title": "Burnham would probably have won by-election, Labour deputy leader says",
         "link": "https://www.bbc.com/news/articles/cde46np2nklo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
@@ -464,17 +457,24 @@
         "description": "Lucy Powell tells the BBC that Labour needs to make more use of the Greater Manchester mayor."
       },
       {
-        "title": "Iranian drone crashed into RAF base, Cyprus president says",
+        "title": "Iranian drone hit RAF base, Cyprus president says",
         "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 02 Mar 2026 07:40:00 GMT",
+        "published": "Mon, 02 Mar 2026 11:39:49 GMT",
         "description": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said."
+      },
+      {
+        "title": "More than 100,000 Britons register for help in Middle East",
+        "link": "https://www.bbc.com/news/articles/c62drgzled6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 02 Mar 2026 11:25:14 GMT",
+        "description": "Foreign Office sources say no evacuation was imminent but the government is preparing for potential scenarios."
       },
       {
         "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
         "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 02 Mar 2026 07:22:48 GMT",
+        "published": "Mon, 02 Mar 2026 10:00:38 GMT",
         "description": "The prime minister says it remains the case that the UK will \"not join offensive action now\"."
       },
       {
@@ -493,6 +493,20 @@
       }
     ],
     "Science": [
+      {
+        "title": "Scientists discover the genetic switch that keeps your organs healthy",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260301190359.htm",
+        "source": "Science Daily",
+        "published": "Sun, 01 Mar 2026 19:19:16 EST",
+        "description": "Scientists have uncovered a powerful genetic switch that helps some of the body’s most important immune cells grow up properly and keep our organs healthy. The switch, called MafB, guides immature pre"
+      },
+      {
+        "title": "New crystal seeding method boosts perovskite solar cell efficiency to 23%",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260301190354.htm",
+        "source": "Science Daily",
+        "published": "Sun, 01 Mar 2026 19:11:45 EST",
+        "description": "Inverted perovskite solar cells offer strong potential for scalable, low-cost solar power, but a hidden interface inside the device has limited their performance and durability. Researchers have now i"
+      },
       {
         "title": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
         "link": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm",
@@ -522,46 +536,32 @@
         "description": "That photogenic cup of bubble tea may come with hidden downsides. Tapioca pearls made from cassava can absorb heavy metals like lead, and in large amounts they may slow digestion or even cause blockag"
       },
       {
-        "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
+        "title": "Scientists reveal why a popular anti-aging compound may also fuel cancer",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260302030657.htm",
         "source": "Science Daily",
-        "published": "Sun, 01 Mar 2026 09:09:30 EST",
-        "description": "Scientists at Oregon State University have engineered a powerful new nanomaterial that zeroes in on cancer cells and destroys them from the inside out. Designed to exploit cancer’s unique chemistry—it"
+        "published": "Mon, 02 Mar 2026 06:13:04 EST",
+        "description": "Polyamines—natural molecules found in every living cell—have become stars in the longevity world for their ability to boost cellular cleanup and support healthy aging. But there’s a dark twist: high l"
       },
       {
-        "title": "For the first time, light mimics a Nobel Prize quantum effect",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
+        "title": "Hidden oceans on icy moons may be boiling beneath the surface",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260302030646.htm",
         "source": "Science Daily",
-        "published": "Sun, 01 Mar 2026 08:40:10 EST",
-        "description": "Scientists have pulled off a feat long considered out of reach: getting light to mimic the famous quantum Hall effect. In their experiment, photons drift sideways in perfectly defined, quantized steps"
+        "published": "Mon, 02 Mar 2026 03:54:10 EST",
+        "description": "Icy moons circling the outer planets may be far more dynamic—and explosive—than they appear. New research suggests that when heat from tidal forces melts their ice shells from below, the sudden drop i"
       },
       {
-        "title": "A faint cosmic hum could solve the Universe’s expansion mystery",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm",
+        "title": "A tiny twist creates giant magnetic skyrmions in 2D crystals",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260302030654.htm",
         "source": "Science Daily",
-        "published": "Sun, 01 Mar 2026 07:55:42 EST",
-        "description": "Astronomers have long known the universe is expanding—but exactly how fast remains one of the biggest mysteries in cosmology. Different techniques for measuring the Hubble constant stubbornly disagree"
+        "published": "Mon, 02 Mar 2026 03:45:13 EST",
+        "description": "Twisting atomically thin magnetic layers does more than reshape their electronics—it can create giant, topological magnetic textures. In chromium triiodide, researchers observed skyrmion-like patterns"
       },
       {
-        "title": "Jupiter’s moons may have formed with the ingredients for life",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260228093443.htm",
+        "title": "Scientists just turned light into a remote control for crystals",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260301190404.htm",
         "source": "Science Daily",
-        "published": "Sun, 01 Mar 2026 07:06:01 EST",
-        "description": "Jupiter’s icy moons may have been seeded with the chemical ingredients for life from the very beginning. An international team of scientists modeled how complex organic molecules—essential building bl"
-      },
-      {
-        "title": "Insomnia and sleep apnea together dramatically raise heart disease risk",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260228093440.htm",
-        "source": "Science Daily",
-        "published": "Sun, 01 Mar 2026 04:07:43 EST",
-        "description": "Struggling to fall asleep and stopping breathing at night may be a far riskier combo than previously thought. In a study of nearly a million veterans, researchers found that having both insomnia and s"
-      },
-      {
-        "title": "Hidden ingredient in Ozempic and Wegovy tablets raises new gut health questions",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260228093435.htm",
-        "source": "Science Daily",
-        "published": "Sun, 01 Mar 2026 02:34:00 EST",
-        "description": "Scientists are taking a closer look at the pill forms of Wegovy and Ozempic. In an animal study, the ingredient SNAC, which helps semaglutide survive the stomach and enter the bloodstream, was associa"
+        "published": "Mon, 02 Mar 2026 02:54:08 EST",
+        "description": "NYU researchers have found a way to use light to control how microscopic particles assemble into crystals, effectively turning illumination into a tool for shaping matter. By adding light-sensitive mo"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Indonesia’s offer to mediate US-Iran conflict seen as ‘bold’ but ‘unrealistic’",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-iran-us-israel-prabowo-subianto-mediator-5962996",
+      "title": "Amazon to invest additional $21 billion in Spain for data centres, AI",
+      "link": "https://www.channelnewsasia.com/business/amazon-invest-additional-21-billion-in-spain-data-centres-ai-5964056",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 15:40:11 +0800",
-      "description": "President Prabowo Subianto has said he is prepared to travel to Tehran if Indonesia is appointed to mediate the US-Iran conflict."
-    },
-    {
-      "title": "A Longer Iran War Could Send Bitcoin Higher, Arthur Hayes Says",
-      "link": "https://bitcoinist.com/longer-iran-war-send-bitcoin-higher-hayes/",
-      "source": "Bitcoinist",
-      "published": "Mon, 02 Mar 2026 07:30:06 +0000",
-      "description": "Arthur Hayes argues that a deeper US conflict with Iran could ultimately become a bullish macro setup for Bitcoin, not because war is constructive for markets, but because it may push the Federal Rese"
-    },
-    {
-      "title": "Singapore monitoring Iran situation 'closely', will reassess GDP forecasts if necessary: DPM Gan Kim Yong",
-      "link": "https://www.channelnewsasia.com/singapore/iran-war-singapore-government-monitoring-gan-kim-yong-us-israel-5963326",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 15:24:14 +0800",
-      "description": "The Trade and Industry Minister said in parliament that global energy prices could rise if the conflict continues."
-    },
-    {
-      "title": "Don Don Donki to close Pasir Ris Downtown East store on Mar 15",
-      "link": "https://www.channelnewsasia.com/dining/downtown-east-don-don-donki-outlet-close-mar-15-5962831",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 15:19:00 +0800",
-      "description": "The Downtown East outlet was the first Don Don Donki store in the east, with queues lasting up to 45 minutes when it first opened in April 2021."
-    },
-    {
-      "title": "Vodafone teams up with Amazon's satellites to connect masts in Europe and Africa",
-      "link": "https://www.channelnewsasia.com/business/vodafone-teams-up-amazons-satellites-connect-masts-in-europe-and-africa-5963366",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 15:07:45 +0800",
+      "published": "Mon, 02 Mar 2026 19:31:36 +0800",
       "description": ""
     },
     {
-      "title": "Suspected drone strike hits British air base in Cyprus",
-      "link": "https://www.channelnewsasia.com/world/drone-strike-british-air-force-base-cyprus-5963341",
+      "title": "Woman, 40, accused of repeated sexual offences against boy aged below 16 in parked car, other locations",
+      "link": "https://www.channelnewsasia.com/singapore/woman-charged-sexual-grooming-16-boy-parked-car-5963846",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 14:58:17 +0800",
+      "published": "Mon, 02 Mar 2026 19:30:27 +0800",
+      "description": "The 40-year-old Singaporean woman pleaded not guilty."
+    },
+    {
+      "title": "‘Missiles explode right above you’: Chinese citizens stranded amid Iran war share harrowing experiences",
+      "link": "https://www.channelnewsasia.com/east-asia/chinese-citizens-stranded-iran-war-dubai-missiles-united-states-israel-attack-5963746",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 19:29:41 +0800",
+      "description": "Beijing has confirmed one national killed in Tehran and evacuated more than 3,000 citizens from Iran, as those stranded across the Middle East describe explosions, airspace closures and mounting uncer"
+    },
+    {
+      "title": "Exclusive-ASML plots future of chipmaking tools for AI beyond EUV",
+      "link": "https://www.channelnewsasia.com/business/exclusive-asml-plots-future-chipmaking-tools-ai-beyond-euv-5963961",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 19:05:52 +0800",
       "description": ""
     },
     {
-      "title": "Singapore to invest S$800 million in decarbonisation over next five years",
-      "link": "https://www.channelnewsasia.com/singapore/decarbonisation-research-development-investment-5963276",
+      "title": "Fed races to adapt to AI promises and pitfalls for jobs, inflation",
+      "link": "https://www.channelnewsasia.com/business/fed-races-adapt-ai-promises-and-pitfalls-jobs-inflation-5963931",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 14:41:00 +0800",
-      "description": "Another S$800 million will be invested to establish a Research, Innovation and Enterprise flagship in semiconductors."
+      "published": "Mon, 02 Mar 2026 19:02:26 +0800",
+      "description": ""
     },
     {
-      "title": "This Analyst Predicted The Dogecoin Price Crash, But There’s More To The Forecast",
-      "link": "https://bitcoinist.com/dogecoin-price-crash-theres-more/",
-      "source": "Bitcoinist",
-      "published": "Mon, 02 Mar 2026 06:00:55 +0000",
-      "description": "Despite maintaining its position as the leading meme coin in the market, Dogecoin has suffered immensely in the market decline. It failed to reach a new all-time high in the 2024-2025 market run-up an"
+      "title": "South Africa juggernaut faces knockout test against New Zealand",
+      "link": "https://www.channelnewsasia.com/sport/south-africa-juggernaut-faces-knockout-test-against-new-zealand-5963936",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 19:00:16 +0800",
+      "description": ""
     },
     {
-      "title": "Singapore launches Champions of AI programme to drive company-wide transformation",
-      "link": "https://www.channelnewsasia.com/singapore/ai-champions-transformation-skills-missions-5963121",
+      "title": "Edwin Tong says attorney-general appointment is structured, refutes Sylvia Lim's claims that process is thin",
+      "link": "https://www.channelnewsasia.com/singapore/attorney-general-appointment-structured-not-thin-edwin-tong-sylvia-lim-5963661",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 13:49:00 +0800",
-      "description": "&nbsp;A select group of companies will pilot the programme before it is expanded."
+      "published": "Mon, 02 Mar 2026 18:52:29 +0800",
+      "description": "\"There is a clear, deliberate and very structured process of the appointment with the appropriate checks and balances,\" said Law Minister Edwin Tong."
     },
     {
-      "title": "Singapore, South Korea to work towards upgrading free trade agreement",
-      "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-lee-jae-myung-south-korea-free-trade-agreement-5963031",
+      "title": "Tesla gains market in France, Norway in February",
+      "link": "https://www.channelnewsasia.com/business/tesla-gains-market-in-france-norway-in-february-5963791",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 13:49:00 +0800",
-      "description": "Cooperation in areas such as artificial intelligence, civil nuclear energy and intellectual property is also on the cards after both sides concluded several memorandums of understanding."
+      "published": "Mon, 02 Mar 2026 18:16:01 +0800",
+      "description": ""
+    },
+    {
+      "title": "Chinese New Year celebrations in Canada grow amid improvement in relations with China",
+      "link": "https://www.channelnewsasia.com/world/canada-montreal-chinese-new-year-celebrations-relations-china-5963621",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 18:00:42 +0800",
+      "description": "The broader diplomatic climate can directly affect how Chinese Canadians feel, especially after a surge in anti-Asian hate during the COVID-19 pandemic, said one expert."
+    },
+    {
+      "title": "IAEA head urges 'utmost restraint' after strikes on Iran",
+      "link": "https://www.channelnewsasia.com/world/iaea-head-rafael-grossi-urges-restraint-iran-strikes-nuclear-installations-5963741",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 17:59:00 +0800",
+      "description": "The United Nations' nuclear watchdog said it had been trying to contact Iran's nuclear regulatory authorities \"with no response so far\"."
     }
   ]
 }
