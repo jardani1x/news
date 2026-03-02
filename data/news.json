@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-03-02 08:00 SGT",
-  "updated_iso": "2026-03-02T08:00:17.718946+08:00",
+  "updated_sgt": "2026-03-02 12:00 SGT",
+  "updated_iso": "2026-03-02T12:00:21.500646+08:00",
   "categories": {
     "World": [
       {
@@ -9,6 +9,13 @@
         "source": "BBC World",
         "published": "Sun, 01 Mar 2026 23:17:32 GMT",
         "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead."
+      },
+      {
+        "title": "Could Kim's teen daughter become North Korea's next leader?",
+        "link": "https://www.bbc.com/news/articles/cgjzdlx983po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 01 Mar 2026 23:11:11 GMT",
+        "description": "Kim Jue Ae is becoming more visible alongside her father, but much about her remains a mystery."
       },
       {
         "title": "Nine dead in missile attack on Israel as Iran strikes region",
@@ -53,25 +60,18 @@
         "description": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
       },
       {
-        "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-        "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 28 Feb 2026 13:00:39 GMT",
-        "description": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
+        "published": "Mon, 02 Mar 2026 02:12:41 GMT",
+        "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
       },
       {
-        "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-        "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
+        "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+        "link": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 28 Feb 2026 03:43:56 GMT",
-        "description": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
-      },
-      {
-        "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
-        "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 27 Feb 2026 20:31:27 GMT",
-        "description": "Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary."
+        "published": "Mon, 02 Mar 2026 00:02:10 GMT",
+        "description": "Growing insecurity in the Sahel made 2025 one of the worst years on record for the abduction of foreigners in Africa."
       }
     ],
     "Finance": [
@@ -88,13 +88,6 @@
         "source": "CNBC Finance",
         "published": "Sun, 01 Mar 2026 23:42:50 GMT",
         "description": "It is unclear who will ultimately govern Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei."
-      },
-      {
-        "title": "Global week ahead: Operation Epic Fury means new risks for markets",
-        "link": "https://www.cnbc.com/2026/03/02/global-week-ahead-operation-epic-fury-us-israel-iran-strikes-oil-shipping-markets-volatility.html",
-        "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 23:15:25 GMT",
-        "description": "Investors will grapple with how to trade the fallout of the U.S. and Israel's joint action in Iran."
       },
       {
         "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
@@ -139,11 +132,18 @@
         "description": "Investors are bracing for impact after the U.S.'s attacks on Iran, a move they see as carrying far larger market consequences than the Venezuela campaign."
       },
       {
-        "title": "How the 'K-shaped' economy is showing up at two big U.S. gyms",
-        "link": "https://www.cnbc.com/2026/02/28/life-time-planet-fitness-earnings-show-k-shaped-economy.html",
+        "title": "Global week ahead: Operation Epic Fury means new risks for markets",
+        "link": "https://www.cnbc.com/2026/03/02/global-week-ahead-operation-epic-fury-us-israel-iran-strikes-oil-shipping-markets-volatility.html",
         "source": "CNBC Finance",
-        "published": "Sat, 28 Feb 2026 13:00:01 GMT",
-        "description": "The outlooks of Life Time and Planet Fitness show the divergence in spending between higher- and lower-income consumers."
+        "published": "Mon, 02 Mar 2026 02:25:23 GMT",
+        "description": "Investors will grapple with how to trade the fallout of the U.S. and Israel's joint action in Iran."
+      },
+      {
+        "title": "Asia airline stocks drop while energy shares rise as Iran conflict escalates",
+        "link": "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 02 Mar 2026 02:15:32 GMT",
+        "description": "Oil futures on Monday jumped by over 8%, with West Texas Intermediate futures and Brent trading at $72.52 and $79.04 per barrel respectively."
       }
     ],
     "Technology": [
@@ -341,83 +341,83 @@
         "description": "“You’ve got this somewhat dystopian narrative permeating the psychology of the market” with respect to AI and jobs, asset-management firm’s CIO says."
       },
       {
-        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
-        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+        "title": "Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT",
+        "link": "https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 01 Mar 2026 16:30:00 GMT",
-        "description": "His lawyer said, “He’s gone off the deep end.”"
+        "published": "Mon, 02 Mar 2026 01:32:00 GMT",
+        "description": "OpenAI faces some user criticism over its new deal with the Department of Defense."
       }
     ],
     "Singapore": [
       {
-        "title": "Oil prices surge in Asia, stocks under pressure",
-        "link": "https://www.channelnewsasia.com/business/oil-prices-surge-in-asia-stocks-under-pressure-5962541",
+        "title": "Commentary: Iran strikes will be nasty for oil prices but not a shock",
+        "link": "https://www.channelnewsasia.com/commentary/iran-oil-us-strike-market-demand-middle-east-5962916",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 07:40:30 +0800",
+        "published": "Mon, 02 Mar 2026 11:54:26 +0800",
+        "description": "Tehran can still weaponise oil as its last line of defence, but it’s a huge risk, says Javier Blas for Bloomberg Opinion."
+      },
+      {
+        "title": "Australia stock exchange hunts for new chief as lawsuit, regulatory lapses loom",
+        "link": "https://www.channelnewsasia.com/business/australia-stock-exchange-hunts-new-chief-lawsuit-regulatory-lapses-loom-5962931",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 11:42:48 +0800",
         "description": ""
       },
       {
-        "title": "Oil jumps as US-Iran conflict escalates, disrupts shipping",
-        "link": "https://www.channelnewsasia.com/world/oil-prices-increase-us-iran-israel-shipments-disrupted-hormuz-5962521",
+        "title": "Up to 1,000 more people to get access to civil legal aid as income threshold set to be increased",
+        "link": "https://www.channelnewsasia.com/singapore/civil-legal-aid-income-threshold-increase-5962806",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 07:39:29 +0800",
-        "description": "Oil prices surged more than 8 per cent to their highest in months on Monday (Mar 2) as Iran and Israel stepped up attacks in the Middle East."
+        "published": "Mon, 02 Mar 2026 11:35:00 +0800",
+        "description": "The top three most common civil legal aid categories are matrimonial, monetary claims and probate matters."
       },
       {
-        "title": "What women should prioritise when investing in their 20s, 30s, 40s, 50s and beyond",
-        "link": "https://www.channelnewsasia.com/women/women-investing-20s-30s-40s-50s-5942251",
+        "title": "Girls’ Generation’s Tiffany Young and Korean actor Byun Yo-han are married",
+        "link": "https://www.channelnewsasia.com/entertainment/girls-generation-tiffany-marries-actor-byun-yo-han-5962696",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 07:25:39 +0800",
-        "description": "Investing has never been more accessible – but knowing what to prioritise at each stage of life is another matter. From building discipline in your 20s to planning for sustainability in your 50s, this"
+        "published": "Mon, 02 Mar 2026 11:06:55 +0800",
+        "description": "The couple first announced they were dating on Dec 13, 2025 in&nbsp;handwritten letters posted on their Instagram pages."
       },
       {
-        "title": "UK's Starmer says US can use British bases for defensive strikes against Iran missiles",
-        "link": "https://www.channelnewsasia.com/world/us-use-british-bases-defensive-strikes-iran-missiles-starmer-5962461",
+        "title": "Singaporeans advised to defer all travel to the Middle East: MFA",
+        "link": "https://www.channelnewsasia.com/singapore/mfa-singaporeans-advised-defer-travel-middle-east-us-israel-iran-war-5962676",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 07:00:00 +0800",
-        "description": "British Prime Minister Keir Starmer said the decision was based on the \"collective self-defence of long-standing friends and allies and protecting British lives\" in the Middle East.&nbsp;"
+        "published": "Mon, 02 Mar 2026 10:43:35 +0800",
+        "description": "The ministry has issued travel advisories to 15 destinations in the region."
       },
       {
-        "title": "Trump says war in Iran could last a month, vows to avenge US military deaths",
-        "link": "https://www.channelnewsasia.com/world/iran-war-us-trump-month-tehran-strikes-5962426",
+        "title": "Pokemon Winds and Waves announced for Switch 2, FireRed and LeafGreen re-released on Switch",
+        "link": "https://www.channelnewsasia.com/living/pokemon-winds-waves-switch-2-firered-leafgreen-5962701",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 06:24:00 +0800",
-        "description": "The US president also said 48 Iranian leaders had been killed and that the US military had started sinking Iran's Navy, destroying nine Iranian warships so far and \"going after the rest\"."
+        "published": "Mon, 02 Mar 2026 10:39:31 +0800",
+        "description": "On Friday (Feb 27), The Pokemon Company announced that it will release Pokemon Winds and Waves in 2027 on the Nintendo Switch 2. The games will be the first instalments in the 10th generation of the P"
       },
       {
-        "title": "Why Tasmania is producing some of the world’s best single malt whiskies",
-        "link": "https://www.channelnewsasia.com/experiences/tasmanian-whisky-lark-sullivans-cove-5957146",
+        "title": "US-Israel strikes on Iran put focus on the Strait of Hormuz",
+        "link": "https://www.channelnewsasia.com/world/strait-hormuz-iran-us-israel-war-5962736",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 06:23:00 +0800",
-        "description": "On a visit to Tasmania – Australia’s single malt heartland – it becomes clear how a cool climate, long ageing and local inputs have helped Tasmanian whisky win global awards and earn respect in market"
+        "published": "Mon, 02 Mar 2026 10:32:00 +0800",
+        "description": "A prolonged disruption of traffic in the strait would trigger a spike in oil prices and potentially destabilise the global economy.&nbsp;"
       },
       {
-        "title": "How South Korea nudged its birth rate back up – and what Singapore can learn",
-        "link": "https://www.channelnewsasia.com/singapore/fertility-rate-tfr-singapore-historic-low-south-korea-5958376",
+        "title": "Japan faces growth risks, slower BOJ rate hikes from Iran conflict",
+        "link": "https://www.channelnewsasia.com/business/japan-faces-growth-risks-slower-boj-rate-hikes-iran-conflict-5962791",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 06:00:00 +0800",
-        "description": "South Korea pulled back from a record-low fertility rate of 0.72 in 2023. As Singapore hits its own new low, experts say it could learn a thing or two from the East Asian country."
-      },
-      {
-        "title": "Commentary: Unsure how to use AI at work? Try these simple steps",
-        "link": "https://www.channelnewsasia.com/commentary/ai-use-work-chatgpt-claude-google-notebooklm-5958196",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 06:00:00 +0800",
-        "description": "You do not need a specialised degree or a perfect command of English to use tools like ChatGPT well, says Gen AI coach and NTU lecturer Ian Yong Hoe Tan."
-      },
-      {
-        "title": "Thailand plans salt tax to ease rising health concerns, but experts urge broader action",
-        "link": "https://www.channelnewsasia.com/asia/thailand-sodium-tax-food-health-5957671",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 06:00:00 +0800",
-        "description": "Thailand's plan to introduce a tiered salt tax in a bid to curb soaring rates of high blood pressure and kidney disease has sparked debate over whether price measures can succeed where education campa"
-      },
-      {
-        "title": "Exclusive-Australia says it may go after app stores, search engines in AI age crackdown",
-        "link": "https://www.channelnewsasia.com/business/exclusive-australia-says-it-may-go-after-app-stores-search-engines-in-ai-age-crackdown-5962406",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 05:06:43 +0800",
+        "published": "Mon, 02 Mar 2026 10:30:33 +0800",
         "description": ""
+      },
+      {
+        "title": "Bank of Japan deputy governor says rate hikes likely to continue",
+        "link": "https://www.channelnewsasia.com/business/bank-japan-deputy-governor-says-rate-hikes-likely-continue-5962776",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 10:23:41 +0800",
+        "description": ""
+      },
+      {
+        "title": "The skills that go beyond technology",
+        "link": "https://www.channelnewsasia.com/advertorial/skills-go-beyond-technology-5933656",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 09:16:47 +0800",
+        "description": "Through upskilling at NTUC LearningHub, these mid-career individuals are transforming their careers, sharpening vital human skills like leadership, coaching and critical thinking, and navigating chang"
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Oil prices surge in Asia, stocks under pressure",
-      "link": "https://www.channelnewsasia.com/business/oil-prices-surge-in-asia-stocks-under-pressure-5962541",
+      "title": "Commentary: Iran strikes will be nasty for oil prices but not a shock",
+      "link": "https://www.channelnewsasia.com/commentary/iran-oil-us-strike-market-demand-middle-east-5962916",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 07:40:30 +0800",
+      "published": "Mon, 02 Mar 2026 11:54:26 +0800",
+      "description": "Tehran can still weaponise oil as its last line of defence, but it’s a huge risk, says Javier Blas for Bloomberg Opinion."
+    },
+    {
+      "title": "Australia stock exchange hunts for new chief as lawsuit, regulatory lapses loom",
+      "link": "https://www.channelnewsasia.com/business/australia-stock-exchange-hunts-new-chief-lawsuit-regulatory-lapses-loom-5962931",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 11:42:48 +0800",
       "description": ""
     },
     {
-      "title": "Oil jumps as US-Iran conflict escalates, disrupts shipping",
-      "link": "https://www.channelnewsasia.com/world/oil-prices-increase-us-iran-israel-shipments-disrupted-hormuz-5962521",
+      "title": "Up to 1,000 more people to get access to civil legal aid as income threshold set to be increased",
+      "link": "https://www.channelnewsasia.com/singapore/civil-legal-aid-income-threshold-increase-5962806",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 07:39:29 +0800",
-      "description": "Oil prices surged more than 8 per cent to their highest in months on Monday (Mar 2) as Iran and Israel stepped up attacks in the Middle East."
+      "published": "Mon, 02 Mar 2026 11:35:00 +0800",
+      "description": "The top three most common civil legal aid categories are matrimonial, monetary claims and probate matters."
     },
     {
-      "title": "What women should prioritise when investing in their 20s, 30s, 40s, 50s and beyond",
-      "link": "https://www.channelnewsasia.com/women/women-investing-20s-30s-40s-50s-5942251",
+      "title": "Girls’ Generation’s Tiffany Young and Korean actor Byun Yo-han are married",
+      "link": "https://www.channelnewsasia.com/entertainment/girls-generation-tiffany-marries-actor-byun-yo-han-5962696",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 07:25:39 +0800",
-      "description": "Investing has never been more accessible – but knowing what to prioritise at each stage of life is another matter. From building discipline in your 20s to planning for sustainability in your 50s, this"
+      "published": "Mon, 02 Mar 2026 11:06:55 +0800",
+      "description": "The couple first announced they were dating on Dec 13, 2025 in&nbsp;handwritten letters posted on their Instagram pages."
     },
     {
-      "title": "UK's Starmer says US can use British bases for defensive strikes against Iran missiles",
-      "link": "https://www.channelnewsasia.com/world/us-use-british-bases-defensive-strikes-iran-missiles-starmer-5962461",
+      "title": "Singaporeans advised to defer all travel to the Middle East: MFA",
+      "link": "https://www.channelnewsasia.com/singapore/mfa-singaporeans-advised-defer-travel-middle-east-us-israel-iran-war-5962676",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 07:00:00 +0800",
-      "description": "British Prime Minister Keir Starmer said the decision was based on the \"collective self-defence of long-standing friends and allies and protecting British lives\" in the Middle East.&nbsp;"
+      "published": "Mon, 02 Mar 2026 10:43:35 +0800",
+      "description": "The ministry has issued travel advisories to 15 destinations in the region."
     },
     {
-      "title": "Trump says war in Iran could last a month, vows to avenge US military deaths",
-      "link": "https://www.channelnewsasia.com/world/iran-war-us-trump-month-tehran-strikes-5962426",
+      "title": "Pokemon Winds and Waves announced for Switch 2, FireRed and LeafGreen re-released on Switch",
+      "link": "https://www.channelnewsasia.com/living/pokemon-winds-waves-switch-2-firered-leafgreen-5962701",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 06:24:00 +0800",
-      "description": "The US president also said 48 Iranian leaders had been killed and that the US military had started sinking Iran's Navy, destroying nine Iranian warships so far and \"going after the rest\"."
+      "published": "Mon, 02 Mar 2026 10:39:31 +0800",
+      "description": "On Friday (Feb 27), The Pokemon Company announced that it will release Pokemon Winds and Waves in 2027 on the Nintendo Switch 2. The games will be the first instalments in the 10th generation of the P"
     },
     {
-      "title": "Why Tasmania is producing some of the world’s best single malt whiskies",
-      "link": "https://www.channelnewsasia.com/experiences/tasmanian-whisky-lark-sullivans-cove-5957146",
+      "title": "US-Israel strikes on Iran put focus on the Strait of Hormuz",
+      "link": "https://www.channelnewsasia.com/world/strait-hormuz-iran-us-israel-war-5962736",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 06:23:00 +0800",
-      "description": "On a visit to Tasmania – Australia’s single malt heartland – it becomes clear how a cool climate, long ageing and local inputs have helped Tasmanian whisky win global awards and earn respect in market"
+      "published": "Mon, 02 Mar 2026 10:32:00 +0800",
+      "description": "A prolonged disruption of traffic in the strait would trigger a spike in oil prices and potentially destabilise the global economy.&nbsp;"
     },
     {
-      "title": "How South Korea nudged its birth rate back up – and what Singapore can learn",
-      "link": "https://www.channelnewsasia.com/singapore/fertility-rate-tfr-singapore-historic-low-south-korea-5958376",
+      "title": "Japan faces growth risks, slower BOJ rate hikes from Iran conflict",
+      "link": "https://www.channelnewsasia.com/business/japan-faces-growth-risks-slower-boj-rate-hikes-iran-conflict-5962791",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 06:00:00 +0800",
-      "description": "South Korea pulled back from a record-low fertility rate of 0.72 in 2023. As Singapore hits its own new low, experts say it could learn a thing or two from the East Asian country."
-    },
-    {
-      "title": "Commentary: Unsure how to use AI at work? Try these simple steps",
-      "link": "https://www.channelnewsasia.com/commentary/ai-use-work-chatgpt-claude-google-notebooklm-5958196",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 06:00:00 +0800",
-      "description": "You do not need a specialised degree or a perfect command of English to use tools like ChatGPT well, says Gen AI coach and NTU lecturer Ian Yong Hoe Tan."
-    },
-    {
-      "title": "Thailand plans salt tax to ease rising health concerns, but experts urge broader action",
-      "link": "https://www.channelnewsasia.com/asia/thailand-sodium-tax-food-health-5957671",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 06:00:00 +0800",
-      "description": "Thailand's plan to introduce a tiered salt tax in a bid to curb soaring rates of high blood pressure and kidney disease has sparked debate over whether price measures can succeed where education campa"
-    },
-    {
-      "title": "Exclusive-Australia says it may go after app stores, search engines in AI age crackdown",
-      "link": "https://www.channelnewsasia.com/business/exclusive-australia-says-it-may-go-after-app-stores-search-engines-in-ai-age-crackdown-5962406",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 05:06:43 +0800",
+      "published": "Mon, 02 Mar 2026 10:30:33 +0800",
       "description": ""
+    },
+    {
+      "title": "Bank of Japan deputy governor says rate hikes likely to continue",
+      "link": "https://www.channelnewsasia.com/business/bank-japan-deputy-governor-says-rate-hikes-likely-continue-5962776",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 10:23:41 +0800",
+      "description": ""
+    },
+    {
+      "title": "The skills that go beyond technology",
+      "link": "https://www.channelnewsasia.com/advertorial/skills-go-beyond-technology-5933656",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 09:16:47 +0800",
+      "description": "Through upskilling at NTUC LearningHub, these mid-career individuals are transforming their careers, sharpening vital human skills like leadership, coaching and critical thinking, and navigating chang"
     }
   ]
 }
