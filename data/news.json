@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-03-02 12:00 SGT",
-  "updated_iso": "2026-03-02T12:00:21.500646+08:00",
+  "updated_sgt": "2026-03-02 16:00 SGT",
+  "updated_iso": "2026-03-02T16:00:14.990772+08:00",
   "categories": {
     "World": [
       {
@@ -32,13 +32,6 @@
         "description": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure."
       },
       {
-        "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
-        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 01 Mar 2026 21:45:33 GMT",
-        "description": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
-      },
-      {
         "title": "War photographer Paul Conroy dies as tributes paid",
         "link": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -63,8 +56,15 @@
         "title": "Oil prices rise after ships attacked near Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 02 Mar 2026 02:12:41 GMT",
+        "published": "Mon, 02 Mar 2026 06:53:43 GMT",
         "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
+      },
+      {
+        "title": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
+        "link": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 02 Mar 2026 05:08:35 GMT",
+        "description": "The US star's best actor win for Sinners leaves the Oscars race too close to call."
       },
       {
         "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
@@ -90,39 +90,11 @@
         "description": "It is unclear who will ultimately govern Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei."
       },
       {
-        "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
-        "link": "https://www.cnbc.com/2026/03/01/travel-iran-attack-middle-east-flights.html",
-        "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 17:28:35 GMT",
-        "description": "What travelers need to know after the strikes in the Middle East."
-      },
-      {
-        "title": "$100 oil? Prolonged Hormuz closure could spark a 1970s-style energy shock",
-        "link": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
-        "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 16:55:54 GMT",
-        "description": "Energy analysts are bracing for a possible oil supply shock after U.S. strikes on Iran reignited fears of disruptions in the Strait of Hormuz."
-      },
-      {
         "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
         "link": "https://www.cnbc.com/2026/03/01/us-israel-attacks-strikes-iran-retaliate-china-russia-allies.html",
         "source": "CNBC Finance",
         "published": "Sun, 01 Mar 2026 16:20:57 GMT",
         "description": "Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support."
-      },
-      {
-        "title": "Top Wall Street analysts recommend these dividend stocks for enhanced returns",
-        "link": "https://www.cnbc.com/2026/03/01/top-wall-street-analysts-recommend-these-dividend-stocks-for-enhanced-returns.html",
-        "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 12:38:29 GMT",
-        "description": "TipRanks names three stocks with dividends that analysts believe can bolster investors' portfolios."
-      },
-      {
-        "title": "All the highlights from Berkshire CEO Abel's first shareholder letter",
-        "link": "https://www.cnbc.com/2026/03/01/all-the-highlights-from-berkshire-ceo-abels-first-shareholder-letter.html",
-        "source": "CNBC Finance",
-        "published": "Sun, 01 Mar 2026 12:20:34 GMT",
-        "description": "After two months on the job, new Berkshire Hathaway CEO Greg Abel emphasizes he won't be making major changes to the way the company has operated for decades under Warren Buffett's leadership."
       },
       {
         "title": "'Bigger ramifications than Venezuela': Markets brace for impact after U.S. strikes Iran",
@@ -132,18 +104,46 @@
         "description": "Investors are bracing for impact after the U.S.'s attacks on Iran, a move they see as carrying far larger market consequences than the Venezuela campaign."
       },
       {
-        "title": "Global week ahead: Operation Epic Fury means new risks for markets",
-        "link": "https://www.cnbc.com/2026/03/02/global-week-ahead-operation-epic-fury-us-israel-iran-strikes-oil-shipping-markets-volatility.html",
+        "title": "How Iran chooses its supreme leader, and who could be next?",
+        "link": "https://www.cnbc.com/2026/03/02/iran-ayatollah-trump-supreme-leader.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 02:25:23 GMT",
-        "description": "Investors will grapple with how to trade the fallout of the U.S. and Israel's joint action in Iran."
+        "published": "Mon, 02 Mar 2026 07:52:05 GMT",
+        "description": "Ayatollah Khamenei's death following the joint U.S.-Israeli airstrikes has compelled country's leadership to confront the task of selecting a new supreme leader."
       },
       {
         "title": "Asia airline stocks drop while energy shares rise as Iran conflict escalates",
         "link": "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 02:15:32 GMT",
+        "published": "Mon, 02 Mar 2026 07:43:42 GMT",
         "description": "Oil futures on Monday jumped by over 8%, with West Texas Intermediate futures and Brent trading at $72.52 and $79.04 per barrel respectively."
+      },
+      {
+        "title": "Global markets after Iran strikes: oil surges, airlines sink, bonds defy safe-haven playbook",
+        "link": "https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 02 Mar 2026 07:39:50 GMT",
+        "description": "Asian markets started the day lower across the board, with major markets in the region in negative territory."
+      },
+      {
+        "title": "European stocks set to slump as markets react to U.S., Israeli strikes on Iran",
+        "link": "https://www.cnbc.com/2026/03/02/european-markets-stoxx-600-ftse-dax-cac-iran-strikes-reaction.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 02 Mar 2026 06:08:12 GMT",
+        "description": "European stocks are expected to start the new trading week firmly in negative territory."
+      },
+      {
+        "title": "Iran conflict: Where things stand, global responses — and what comes next",
+        "link": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 02 Mar 2026 05:28:28 GMT",
+        "description": "The U.S.-Israel conflict with Iran is extending into its third day with each side pledging escalation."
+      },
+      {
+        "title": "Global week ahead: Operation Epic Fury means new risks for markets",
+        "link": "https://www.cnbc.com/2026/03/02/global-week-ahead-operation-epic-fury-us-israel-iran-strikes-oil-shipping-markets-volatility.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 02 Mar 2026 02:25:23 GMT",
+        "description": "Investors will grapple with how to trade the fallout of the U.S. and Israel's joint action in Iran."
       }
     ],
     "Technology": [
@@ -262,18 +262,18 @@
         "description": "Throughout February, the Bitcoin price barely showed real hopes of a trend shift from its stark bearish structure. However, in the last day, the flagship cryptocurrency has witnessed a modest amount o"
       },
       {
-        "title": "XRP Ledger Positioned For Real World Asset Explosion As Securitize Teases $400-T Market",
-        "link": "https://bitcoinist.com/xrp-ledger-real-world-asset-spike/",
+        "title": "A Longer Iran War Could Send Bitcoin Higher, Arthur Hayes Says",
+        "link": "https://bitcoinist.com/longer-iran-war-send-bitcoin-higher-hayes/",
         "source": "Bitcoinist",
-        "published": "Sun, 01 Mar 2026 05:00:46 +0000",
-        "description": "The conversation around real-world asset (RWA) tokenization is heating up, and the numbers are staggering. After digital asset securities firm Securitize highlighted the potential for a $400 trillion "
+        "published": "Mon, 02 Mar 2026 07:30:06 +0000",
+        "description": "Arthur Hayes argues that a deeper US conflict with Iran could ultimately become a bullish macro setup for Bitcoin, not because war is constructive for markets, but because it may push the Federal Rese"
       },
       {
-        "title": "Ripple Exec Clears The Air On Blocked XRP Transactions – When Does It Happen?",
-        "link": "https://bitcoinist.com/ripple-exec-clears-the-air-on-blocked-xrp-transactions-when-does-it-happen/",
+        "title": "This Analyst Predicted The Dogecoin Price Crash, But There’s More To The Forecast",
+        "link": "https://bitcoinist.com/dogecoin-price-crash-theres-more/",
         "source": "Bitcoinist",
-        "published": "Sun, 01 Mar 2026 04:00:15 +0000",
-        "description": "Former Ripple Chief Technology Officer (CTO) David Schwartz has addressed speculation that the crypto firm can block transactions on the XRP Ledger (XRPL). He explained the only way this could happen "
+        "published": "Mon, 02 Mar 2026 06:00:55 +0000",
+        "description": "Despite maintaining its position as the leading meme coin in the market, Dogecoin has suffered immensely in the market decline. It failed to reach a new all-time high in the 2024-2025 market run-up an"
       }
     ],
     "Markets": [
@@ -350,77 +350,84 @@
     ],
     "Singapore": [
       {
-        "title": "Commentary: Iran strikes will be nasty for oil prices but not a shock",
-        "link": "https://www.channelnewsasia.com/commentary/iran-oil-us-strike-market-demand-middle-east-5962916",
+        "title": "Indonesia’s offer to mediate US-Iran conflict seen as ‘bold’ but ‘unrealistic’",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-iran-us-israel-prabowo-subianto-mediator-5962996",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 11:54:26 +0800",
-        "description": "Tehran can still weaponise oil as its last line of defence, but it’s a huge risk, says Javier Blas for Bloomberg Opinion."
+        "published": "Mon, 02 Mar 2026 15:40:11 +0800",
+        "description": "President Prabowo Subianto has said he is prepared to travel to Tehran if Indonesia is appointed to mediate the US-Iran conflict."
       },
       {
-        "title": "Australia stock exchange hunts for new chief as lawsuit, regulatory lapses loom",
-        "link": "https://www.channelnewsasia.com/business/australia-stock-exchange-hunts-new-chief-lawsuit-regulatory-lapses-loom-5962931",
+        "title": "Singapore monitoring Iran situation 'closely', will reassess GDP forecasts if necessary: DPM Gan Kim Yong",
+        "link": "https://www.channelnewsasia.com/singapore/iran-war-singapore-government-monitoring-gan-kim-yong-us-israel-5963326",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 11:42:48 +0800",
+        "published": "Mon, 02 Mar 2026 15:24:14 +0800",
+        "description": "The Trade and Industry Minister said in parliament that global energy prices could rise if the conflict continues."
+      },
+      {
+        "title": "Don Don Donki to close Pasir Ris Downtown East store on Mar 15",
+        "link": "https://www.channelnewsasia.com/dining/downtown-east-don-don-donki-outlet-close-mar-15-5962831",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 15:19:00 +0800",
+        "description": "The Downtown East outlet was the first Don Don Donki store in the east, with queues lasting up to 45 minutes when it first opened in April 2021."
+      },
+      {
+        "title": "Vodafone teams up with Amazon's satellites to connect masts in Europe and Africa",
+        "link": "https://www.channelnewsasia.com/business/vodafone-teams-up-amazons-satellites-connect-masts-in-europe-and-africa-5963366",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 15:07:45 +0800",
         "description": ""
       },
       {
-        "title": "Up to 1,000 more people to get access to civil legal aid as income threshold set to be increased",
-        "link": "https://www.channelnewsasia.com/singapore/civil-legal-aid-income-threshold-increase-5962806",
+        "title": "Suspected drone strike hits British air base in Cyprus",
+        "link": "https://www.channelnewsasia.com/world/drone-strike-british-air-force-base-cyprus-5963341",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 11:35:00 +0800",
-        "description": "The top three most common civil legal aid categories are matrimonial, monetary claims and probate matters."
-      },
-      {
-        "title": "Girls’ Generation’s Tiffany Young and Korean actor Byun Yo-han are married",
-        "link": "https://www.channelnewsasia.com/entertainment/girls-generation-tiffany-marries-actor-byun-yo-han-5962696",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 11:06:55 +0800",
-        "description": "The couple first announced they were dating on Dec 13, 2025 in&nbsp;handwritten letters posted on their Instagram pages."
-      },
-      {
-        "title": "Singaporeans advised to defer all travel to the Middle East: MFA",
-        "link": "https://www.channelnewsasia.com/singapore/mfa-singaporeans-advised-defer-travel-middle-east-us-israel-iran-war-5962676",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 10:43:35 +0800",
-        "description": "The ministry has issued travel advisories to 15 destinations in the region."
-      },
-      {
-        "title": "Pokemon Winds and Waves announced for Switch 2, FireRed and LeafGreen re-released on Switch",
-        "link": "https://www.channelnewsasia.com/living/pokemon-winds-waves-switch-2-firered-leafgreen-5962701",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 10:39:31 +0800",
-        "description": "On Friday (Feb 27), The Pokemon Company announced that it will release Pokemon Winds and Waves in 2027 on the Nintendo Switch 2. The games will be the first instalments in the 10th generation of the P"
-      },
-      {
-        "title": "US-Israel strikes on Iran put focus on the Strait of Hormuz",
-        "link": "https://www.channelnewsasia.com/world/strait-hormuz-iran-us-israel-war-5962736",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 10:32:00 +0800",
-        "description": "A prolonged disruption of traffic in the strait would trigger a spike in oil prices and potentially destabilise the global economy.&nbsp;"
-      },
-      {
-        "title": "Japan faces growth risks, slower BOJ rate hikes from Iran conflict",
-        "link": "https://www.channelnewsasia.com/business/japan-faces-growth-risks-slower-boj-rate-hikes-iran-conflict-5962791",
-        "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 10:30:33 +0800",
+        "published": "Mon, 02 Mar 2026 14:58:17 +0800",
         "description": ""
       },
       {
-        "title": "Bank of Japan deputy governor says rate hikes likely to continue",
-        "link": "https://www.channelnewsasia.com/business/bank-japan-deputy-governor-says-rate-hikes-likely-continue-5962776",
+        "title": "Singapore to invest S$800 million in decarbonisation over next five years",
+        "link": "https://www.channelnewsasia.com/singapore/decarbonisation-research-development-investment-5963276",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 10:23:41 +0800",
+        "published": "Mon, 02 Mar 2026 14:41:00 +0800",
+        "description": "Another S$800 million will be invested to establish a Research, Innovation and Enterprise flagship in semiconductors."
+      },
+      {
+        "title": "Singapore launches Champions of AI programme to drive company-wide transformation",
+        "link": "https://www.channelnewsasia.com/singapore/ai-champions-transformation-skills-missions-5963121",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 13:49:00 +0800",
+        "description": "&nbsp;A select group of companies will pilot the programme before it is expanded."
+      },
+      {
+        "title": "Singapore, South Korea to work towards upgrading free trade agreement",
+        "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-lee-jae-myung-south-korea-free-trade-agreement-5963031",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 13:49:00 +0800",
+        "description": "Cooperation in areas such as artificial intelligence, civil nuclear energy and intellectual property is also on the cards after both sides concluded several memorandums of understanding."
+      },
+      {
+        "title": "Elliott agrees to Toyota's increased $30 billion tender offer for Toyota Industries",
+        "link": "https://www.channelnewsasia.com/business/elliott-agrees-toyotas-increased-30-billion-tender-offer-toyota-industries-5963146",
+        "source": "CNA Singapore",
+        "published": "Mon, 02 Mar 2026 13:15:43 +0800",
         "description": ""
       },
       {
-        "title": "The skills that go beyond technology",
-        "link": "https://www.channelnewsasia.com/advertorial/skills-go-beyond-technology-5933656",
+        "title": "Pokemon Center Singapore to temporarily close from Apr 1 as part of renewal works",
+        "link": "https://www.channelnewsasia.com/living/pokemon-center-singapore-closed-apr-1-temporary-5962886",
         "source": "CNA Singapore",
-        "published": "Mon, 02 Mar 2026 09:16:47 +0800",
-        "description": "Through upskilling at NTUC LearningHub, these mid-career individuals are transforming their careers, sharpening vital human skills like leadership, coaching and critical thinking, and navigating chang"
+        "published": "Mon, 02 Mar 2026 13:12:15 +0800",
+        "description": "Pokemon Singapore announced on Monday (Mar 2) that&nbsp;Pokemon Center Singapore will be closed from Apr 1 as it \"undergoes a comprehensive store renewal to feature a fully localised store concept\"."
       }
     ],
     "US Politics": [
+      {
+        "title": "Consultation on social media ban for under-16s to begin",
+        "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 01 Mar 2026 22:35:18 GMT",
+        "description": "Discussions over what measures to implement to protect children's wellbeing will last for three months."
+      },
       {
         "title": "Major changes to asylum system set to come into force",
         "link": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&at_campaign=rss",
@@ -457,39 +464,32 @@
         "description": "Lucy Powell tells the BBC that Labour needs to make more use of the Greater Manchester mayor."
       },
       {
-        "title": "Mahmood to press on with immigration reforms despite by-election defeat",
-        "link": "https://www.bbc.com/news/articles/cwyx55nkxg9o?at_medium=RSS&at_campaign=rss",
+        "title": "Iranian drone crashed into RAF base, Cyprus president says",
+        "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 28 Feb 2026 10:06:30 GMT",
-        "description": "The home secretary is to double down on plans for Danish-style restrictions on asylum seekers."
+        "published": "Mon, 02 Mar 2026 07:40:00 GMT",
+        "description": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said."
       },
       {
-        "title": "Reform UK reports by-election 'family voting' concerns to police",
-        "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
+        "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+        "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 18:37:04 GMT",
-        "description": "It comes after election observers raised concerns about \"extremely high\" levels of family voting."
+        "published": "Mon, 02 Mar 2026 07:22:48 GMT",
+        "description": "The prime minister says it remains the case that the UK will \"not join offensive action now\"."
       },
       {
-        "title": "Private schools lose legal challenge over VAT changes",
-        "link": "https://www.bbc.com/news/articles/c5y4lj1llvjo?at_medium=RSS&at_campaign=rss",
+        "title": "Reform council deputy admits post image was AI",
+        "link": "https://www.bbc.com/news/articles/c3ewpn4yj2go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 18:06:39 GMT",
-        "description": "A group of low-fee paying private schools have challenged the government's removal of the VAT exemption."
+        "published": "Mon, 02 Mar 2026 06:16:15 GMT",
+        "description": "Darren Grimes says the picture was used for \"illustrative purposes\" in his blog."
       },
       {
-        "title": "Palestine Action arrest as Churchill statue defaced",
-        "link": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&at_campaign=rss",
+        "title": "Labour promises same-day mental health services if it wins Senedd election",
+        "link": "https://www.bbc.com/news/articles/cd9gzggy22zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 16:30:55 GMT",
-        "description": "The Westminster statue of the former prime minister is vandalised with slogans daubed in red paint."
-      },
-      {
-        "title": "Henry Zeffman: Green victory shows insurgent parties are here to stay",
-        "link": "https://www.bbc.com/news/articles/cn0egryw20yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 27 Feb 2026 15:38:15 GMT",
-        "description": "The party's historic win in Gorton and Denton by-election is clearest sign yet of changing political landscape."
+        "published": "Mon, 02 Mar 2026 06:09:37 GMT",
+        "description": "Eluned Morgan will promise better mental health services as she launches her Senedd election campaign."
       }
     ],
     "Science": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Commentary: Iran strikes will be nasty for oil prices but not a shock",
-      "link": "https://www.channelnewsasia.com/commentary/iran-oil-us-strike-market-demand-middle-east-5962916",
+      "title": "Indonesia’s offer to mediate US-Iran conflict seen as ‘bold’ but ‘unrealistic’",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-iran-us-israel-prabowo-subianto-mediator-5962996",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 11:54:26 +0800",
-      "description": "Tehran can still weaponise oil as its last line of defence, but it’s a huge risk, says Javier Blas for Bloomberg Opinion."
+      "published": "Mon, 02 Mar 2026 15:40:11 +0800",
+      "description": "President Prabowo Subianto has said he is prepared to travel to Tehran if Indonesia is appointed to mediate the US-Iran conflict."
     },
     {
-      "title": "Australia stock exchange hunts for new chief as lawsuit, regulatory lapses loom",
-      "link": "https://www.channelnewsasia.com/business/australia-stock-exchange-hunts-new-chief-lawsuit-regulatory-lapses-loom-5962931",
+      "title": "A Longer Iran War Could Send Bitcoin Higher, Arthur Hayes Says",
+      "link": "https://bitcoinist.com/longer-iran-war-send-bitcoin-higher-hayes/",
+      "source": "Bitcoinist",
+      "published": "Mon, 02 Mar 2026 07:30:06 +0000",
+      "description": "Arthur Hayes argues that a deeper US conflict with Iran could ultimately become a bullish macro setup for Bitcoin, not because war is constructive for markets, but because it may push the Federal Rese"
+    },
+    {
+      "title": "Singapore monitoring Iran situation 'closely', will reassess GDP forecasts if necessary: DPM Gan Kim Yong",
+      "link": "https://www.channelnewsasia.com/singapore/iran-war-singapore-government-monitoring-gan-kim-yong-us-israel-5963326",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 11:42:48 +0800",
+      "published": "Mon, 02 Mar 2026 15:24:14 +0800",
+      "description": "The Trade and Industry Minister said in parliament that global energy prices could rise if the conflict continues."
+    },
+    {
+      "title": "Don Don Donki to close Pasir Ris Downtown East store on Mar 15",
+      "link": "https://www.channelnewsasia.com/dining/downtown-east-don-don-donki-outlet-close-mar-15-5962831",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 15:19:00 +0800",
+      "description": "The Downtown East outlet was the first Don Don Donki store in the east, with queues lasting up to 45 minutes when it first opened in April 2021."
+    },
+    {
+      "title": "Vodafone teams up with Amazon's satellites to connect masts in Europe and Africa",
+      "link": "https://www.channelnewsasia.com/business/vodafone-teams-up-amazons-satellites-connect-masts-in-europe-and-africa-5963366",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 15:07:45 +0800",
       "description": ""
     },
     {
-      "title": "Up to 1,000 more people to get access to civil legal aid as income threshold set to be increased",
-      "link": "https://www.channelnewsasia.com/singapore/civil-legal-aid-income-threshold-increase-5962806",
+      "title": "Suspected drone strike hits British air base in Cyprus",
+      "link": "https://www.channelnewsasia.com/world/drone-strike-british-air-force-base-cyprus-5963341",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 11:35:00 +0800",
-      "description": "The top three most common civil legal aid categories are matrimonial, monetary claims and probate matters."
-    },
-    {
-      "title": "Girls’ Generation’s Tiffany Young and Korean actor Byun Yo-han are married",
-      "link": "https://www.channelnewsasia.com/entertainment/girls-generation-tiffany-marries-actor-byun-yo-han-5962696",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 11:06:55 +0800",
-      "description": "The couple first announced they were dating on Dec 13, 2025 in&nbsp;handwritten letters posted on their Instagram pages."
-    },
-    {
-      "title": "Singaporeans advised to defer all travel to the Middle East: MFA",
-      "link": "https://www.channelnewsasia.com/singapore/mfa-singaporeans-advised-defer-travel-middle-east-us-israel-iran-war-5962676",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 10:43:35 +0800",
-      "description": "The ministry has issued travel advisories to 15 destinations in the region."
-    },
-    {
-      "title": "Pokemon Winds and Waves announced for Switch 2, FireRed and LeafGreen re-released on Switch",
-      "link": "https://www.channelnewsasia.com/living/pokemon-winds-waves-switch-2-firered-leafgreen-5962701",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 10:39:31 +0800",
-      "description": "On Friday (Feb 27), The Pokemon Company announced that it will release Pokemon Winds and Waves in 2027 on the Nintendo Switch 2. The games will be the first instalments in the 10th generation of the P"
-    },
-    {
-      "title": "US-Israel strikes on Iran put focus on the Strait of Hormuz",
-      "link": "https://www.channelnewsasia.com/world/strait-hormuz-iran-us-israel-war-5962736",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 10:32:00 +0800",
-      "description": "A prolonged disruption of traffic in the strait would trigger a spike in oil prices and potentially destabilise the global economy.&nbsp;"
-    },
-    {
-      "title": "Japan faces growth risks, slower BOJ rate hikes from Iran conflict",
-      "link": "https://www.channelnewsasia.com/business/japan-faces-growth-risks-slower-boj-rate-hikes-iran-conflict-5962791",
-      "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 10:30:33 +0800",
+      "published": "Mon, 02 Mar 2026 14:58:17 +0800",
       "description": ""
     },
     {
-      "title": "Bank of Japan deputy governor says rate hikes likely to continue",
-      "link": "https://www.channelnewsasia.com/business/bank-japan-deputy-governor-says-rate-hikes-likely-continue-5962776",
+      "title": "Singapore to invest S$800 million in decarbonisation over next five years",
+      "link": "https://www.channelnewsasia.com/singapore/decarbonisation-research-development-investment-5963276",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 10:23:41 +0800",
-      "description": ""
+      "published": "Mon, 02 Mar 2026 14:41:00 +0800",
+      "description": "Another S$800 million will be invested to establish a Research, Innovation and Enterprise flagship in semiconductors."
     },
     {
-      "title": "The skills that go beyond technology",
-      "link": "https://www.channelnewsasia.com/advertorial/skills-go-beyond-technology-5933656",
+      "title": "This Analyst Predicted The Dogecoin Price Crash, But There’s More To The Forecast",
+      "link": "https://bitcoinist.com/dogecoin-price-crash-theres-more/",
+      "source": "Bitcoinist",
+      "published": "Mon, 02 Mar 2026 06:00:55 +0000",
+      "description": "Despite maintaining its position as the leading meme coin in the market, Dogecoin has suffered immensely in the market decline. It failed to reach a new all-time high in the 2024-2025 market run-up an"
+    },
+    {
+      "title": "Singapore launches Champions of AI programme to drive company-wide transformation",
+      "link": "https://www.channelnewsasia.com/singapore/ai-champions-transformation-skills-missions-5963121",
       "source": "CNA Singapore",
-      "published": "Mon, 02 Mar 2026 09:16:47 +0800",
-      "description": "Through upskilling at NTUC LearningHub, these mid-career individuals are transforming their careers, sharpening vital human skills like leadership, coaching and critical thinking, and navigating chang"
+      "published": "Mon, 02 Mar 2026 13:49:00 +0800",
+      "description": "&nbsp;A select group of companies will pilot the programme before it is expanded."
+    },
+    {
+      "title": "Singapore, South Korea to work towards upgrading free trade agreement",
+      "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-lee-jae-myung-south-korea-free-trade-agreement-5963031",
+      "source": "CNA Singapore",
+      "published": "Mon, 02 Mar 2026 13:49:00 +0800",
+      "description": "Cooperation in areas such as artificial intelligence, civil nuclear energy and intellectual property is also on the cards after both sides concluded several memorandums of understanding."
     }
   ]
 }
