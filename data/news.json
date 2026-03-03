@@ -1,21 +1,21 @@
 {
-  "updated_sgt": "2026-03-03 08:00 SGT",
-  "updated_iso": "2026-03-03T08:00:18.385996+08:00",
+  "updated_sgt": "2026-03-03 12:00 SGT",
+  "updated_iso": "2026-03-03T12:00:18.870875+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Texas authorities identify Austin bar shooting victims",
+        "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 03 Mar 2026 03:15:07 GMT",
+        "description": "Three victims and the suspected gunman were killed, and more were injured in the Sunday shooting that the FBI says could have terrorism links."
+      },
       {
         "title": "Oil and gas prices jump as conflict escalates",
         "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Mon, 02 Mar 2026 21:23:55 GMT",
         "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
-      },
-      {
-        "title": "Texas authorities identify Austin bar shooting victims",
-        "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 02 Mar 2026 21:21:52 GMT",
-        "description": "Two victims and the suspected gunman were killed, and 14 more injured in the Sunday shooting that the FBI says could have terrorism links."
       },
       {
         "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
@@ -76,39 +76,46 @@
     ],
     "Finance": [
       {
+        "title": "South Korea's Kospi leads losses in Asia stocks as Iran conflict sours sentiment; oil prices rise",
+        "link": "https://www.cnbc.com/2026/03/03/asia-markets-live-iran-oil-trump-nikkei-kospi-hang-seng.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 03 Mar 2026 03:43:51 GMT",
+        "description": "Oil prices continue to rise Iran's Revolutionary Guard says it has closed the Strait of Hormuz"
+      },
+      {
+        "title": "OpenAI's Altman admits defense deal was 'opportunistic and sloppy' amid backlash",
+        "link": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 03 Mar 2026 03:18:40 GMT",
+        "description": "Sam Altman says that OpenAI \"shouldn't have rushed\" its deal with the Defense Department and was making \"some additions.\""
+      },
+      {
+        "title": "Amazon says drone strikes damaged 3 facilities in UAE and Bahrain",
+        "link": "https://www.cnbc.com/2026/03/02/amazon-says-drone-strikes-damaged-3-facilities-in-uae-and-bahrain.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 03 Mar 2026 02:04:02 GMT",
+        "description": "Amazon Web Services warned that instability is likely to continue in the Middle East, making operations \"unpredictable.\""
+      },
+      {
         "title": "Supreme Court bars redrawing only Republican-held NYC congressional district for 2026 election",
         "link": "https://www.cnbc.com/2026/03/02/supreme-court-republican-new-york-malliotakis.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 23:59:42 GMT",
+        "published": "Tue, 03 Mar 2026 01:32:15 GMT",
         "description": "The Supreme Court ruling is a potentially significant one for Republicans, who are trying to retain their majorities in both chambers of Congress."
+      },
+      {
+        "title": "South Korea defense stocks soar with heavyweight Hanwha Aerospace surging 22% as traders react to Iran war",
+        "link": "https://www.cnbc.com/2026/03/03/south-korea-defense-stocks-soar-hanwha-aerospace-iran-us-israel-war.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 03 Mar 2026 01:28:03 GMT",
+        "description": "The sector's gains were a sharp contrast to the wider Kospi, which was down 2% and is currently leading Asian losses."
       },
       {
         "title": "First flights take off from Dubai after Iran strikes, but service is 'limited'",
         "link": "https://www.cnbc.com/2026/03/02/middle-east-flights.html",
         "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 23:50:30 GMT",
+        "published": "Tue, 03 Mar 2026 00:12:01 GMT",
         "description": "Emirates airline said it will resume a limited number of flights as early as Monday evening local time."
-      },
-      {
-        "title": "Jamie Dimon says Trump’s $5 billion debanking lawsuit ‘has no merit’ but he’s sympathetic to concerns",
-        "link": "https://www.cnbc.com/2026/03/02/dimon-trump-debanking-lawsuit-no-merit-concerns.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 23:01:45 GMT",
-        "description": "The suit against JPMorgan, the world's biggest bank by market cap, and its CEO puts Dimon in an awkward position."
-      },
-      {
-        "title": "Iran war prediction market bets draw heat: 'Insane this is legal'",
-        "link": "https://www.cnbc.com/2026/03/02/prediction-markets-iran-strikes-khamenei.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 22:35:10 GMT",
-        "description": "Wagers were placed over the weekend about the fate of Iranian leader Ayatollah Ali Khamenei, who was killed in the bombardment of Iran."
-      },
-      {
-        "title": "Gold price jumps on Middle East turmoil. What to know before investing",
-        "link": "https://www.cnbc.com/2026/03/02/gold-price-jumps-on-middle-east-turmoil-what-to-know-before-investing.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 21:38:39 GMT",
-        "description": "Although gold is generally viewed as a safe-haven investment during turbulent times, it's important to know what you're investing in before jumping in."
       },
       {
         "title": "As Trump declares inflation tamed, Iran conflict threatens new price pressures",
@@ -116,13 +123,6 @@
         "source": "CNBC Finance",
         "published": "Mon, 02 Mar 2026 20:24:54 GMT",
         "description": "The conflict involving Iran threatens another price spike that could undermine the president's central case for lower interest rates."
-      },
-      {
-        "title": "What student loan borrowers need to know about judge's ruling on SAVE plan",
-        "link": "https://www.cnbc.com/2026/03/02/student-loan-borrowers-save-ruling.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 02 Mar 2026 20:09:56 GMT",
-        "description": "Here's what experts recommend student loan borrowers do after a recent victory in court for the Biden administration-era SAVE plan."
       },
       {
         "title": "The Strait of Hormuz crisis explained: What it means for global shipping",
@@ -147,6 +147,27 @@
       }
     ],
     "Technology": [
+      {
+        "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+        "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+        "source": "TechCrunch",
+        "published": "Tue, 03 Mar 2026 01:53:59 +0000",
+        "description": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source."
+      },
+      {
+        "title": "India’s Pronto formalizes house help as its valuation jumps 8x in under a year",
+        "link": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/",
+        "source": "TechCrunch",
+        "published": "Tue, 03 Mar 2026 01:15:00 +0000",
+        "description": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India's largely offline home services market."
+      },
+      {
+        "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+        "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+        "source": "TechCrunch",
+        "published": "Tue, 03 Mar 2026 00:03:37 +0000",
+        "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew."
+      },
       {
         "title": "Stripe wants to turn your AI costs into a profit center",
         "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
@@ -195,30 +216,37 @@
         "source": "TechCrunch",
         "published": "Mon, 02 Mar 2026 18:34:19 +0000",
         "description": "Ellison reassured investors that HBO’s identity and creative vision as a studio would remain unchanged, stating, “Our viewpoint is HBO should stay HBO.”"
-      },
-      {
-        "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-        "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-        "source": "TechCrunch",
-        "published": "Mon, 02 Mar 2026 17:18:34 +0000",
-        "description": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly."
-      },
-      {
-        "title": "X adds ‘Paid Partnership’ labels so creators can ditch the hashtags",
-        "link": "https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/",
-        "source": "TechCrunch",
-        "published": "Mon, 02 Mar 2026 16:25:08 +0000",
-        "description": "The new labels comply with regulations and allow creators to be more transparent with their followers."
-      },
-      {
-        "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
-        "link": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/",
-        "source": "TechCrunch",
-        "published": "Mon, 02 Mar 2026 16:11:56 +0000",
-        "description": "A hacking group called Department of Peace said they hacked a specific office within Homeland Security to protest ICE’s mass deportation campaign, and the companies aiding it."
       }
     ],
     "Crypto": [
+      {
+        "title": "Why Bitcoin Seasonality Failed: Inside BTC’s Structural Breakdown In February 2026",
+        "link": "https://bitcoinist.com/why-bitcoin-seasonality-failed-inside-structural/",
+        "source": "Bitcoinist",
+        "published": "Tue, 03 Mar 2026 03:00:13 +0000",
+        "description": "Bitcoin is currently consolidating between $62,000 and $69,000, compressing within a narrowing range as geopolitical tensions in the Middle East inject fresh uncertainty into global risk markets. Rath"
+      },
+      {
+        "title": "EU Banks In FOMO Mode: Crypto Deals Heat Up Before Digital Euro",
+        "link": "https://bitcoinist.com/eu-banks-fomo-crypto-deals-heat-up-digital-euro/",
+        "source": "Bitcoinist",
+        "published": "Tue, 03 Mar 2026 02:00:06 +0000",
+        "description": "Major EU banks, including ING, UniCredit, CaixaBank and BBVA, are no longer content to merely talk about a digital euro: they have grown bolder and are now racing to hunt down crypto partners to launc"
+      },
+      {
+        "title": "Beyond Capitulation: Why Bitcoin’s Short-Term Holders Refuse To Blink Amid Iran Escalation",
+        "link": "https://bitcoinist.com/bitcoins-short-term-holders-refuse-blink-iran/",
+        "source": "Bitcoinist",
+        "published": "Tue, 03 Mar 2026 01:00:18 +0000",
+        "description": "Bitcoin is facing renewed pressure as geopolitical tensions in the Middle East reshape the macro backdrop and weigh on risk assets. Rather than responding to isolated headlines, the market is reacting"
+      },
+      {
+        "title": "Former SEC Chair Made Shocking Revelation to Ripple’s CEO During White House Meet",
+        "link": "https://bitcoinist.com/sec-shocking-revelation-ripples-ceo-white-house/",
+        "source": "Bitcoinist",
+        "published": "Tue, 03 Mar 2026 00:00:32 +0000",
+        "description": "XRP Australia 2026 turned into an unexpected window into Washington’s inner workings when Ripple CEO Brad Garlinghouse revealed that former SEC Chair Gary Gensler had privately apologized and admitted"
+      },
       {
         "title": "X Opens The Door To Crypto Promotions — With Strings Attached",
         "link": "https://bitcoinist.com/x-opens-the-door-to-crypto-promotions-with-strings-attached/",
@@ -246,37 +274,37 @@
         "source": "Bitcoinist",
         "published": "Mon, 02 Mar 2026 18:00:45 +0000",
         "description": "Crypto heads into the week of March 2 with five clear catalysts on deck: a worsening US-Iran conflict under President Donald Trump, a privacy-focused Bitcoin wrapper from Starknet, Polygon’s March 4 a"
-      },
-      {
-        "title": "Ethereum Accumulation Addresses See Continued Capital Inflows While Market Volatility Persists",
-        "link": "https://bitcoinist.com/ethereum-continued-capital-inflows/",
-        "source": "Bitcoinist",
-        "published": "Mon, 02 Mar 2026 16:30:54 +0000",
-        "description": "As bearish pressure returns to the cryptocurrency market, the price of Ethereum has lost the $2,000 level. Despite the fact that volatility still lingers, conviction is building among investors again,"
-      },
-      {
-        "title": "XRP Mirrors The Russell 2000, What This Means And Why It’s Important",
-        "link": "https://bitcoinist.com/xrp-mirrors-the-russell-2000/",
-        "source": "Bitcoinist",
-        "published": "Mon, 02 Mar 2026 15:00:49 +0000",
-        "description": "A crypto analyst has drawn a striking comparison between XRP and the Russell 2000 index, a US stock market index that tracks the performance of smaller publicly traded companies. Based on the similari"
-      },
-      {
-        "title": "If You Hold XRP, Then You Should See This Message From A Developer",
-        "link": "https://bitcoinist.com/xrp-message-from-developer/",
-        "source": "Bitcoinist",
-        "published": "Mon, 02 Mar 2026 13:30:08 +0000",
-        "description": "An on-chain developer has announced that a new wave of deceptive non-fungible token (NFT) scams is sweeping across the XRP Ledger (XRPL), putting wallet holders on high alert. The attacks, which rely "
-      },
-      {
-        "title": "Ethereum Roadmap Could Advance Faster With AI, Vitalik Buterin Says",
-        "link": "https://bitcoinist.com/ethereum-roadmap-advance-faster-ai-vitalik-buterin/",
-        "source": "Bitcoinist",
-        "published": "Mon, 02 Mar 2026 12:00:04 +0000",
-        "description": "Ethereum’s long-range protocol roadmap may move faster than many expect as AI tools improve, according to Vitalik Buterin, who pointed to a recent experiment that used agentic coding to assemble an am"
       }
     ],
     "Markets": [
+      {
+        "title": "Apple launches new iPhone and iPad Air as it gears up for a major AI push",
+        "link": "https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 03 Mar 2026 03:16:00 GMT",
+        "description": "The company is boosting the storage capacity of its devices, a move thought to be a prelude to expected Siri enhancements later this year."
+      },
+      {
+        "title": "MongoDB’s stock sinks after earnings, signaling more tough times for the software sector",
+        "link": "https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 03 Mar 2026 02:23:00 GMT",
+        "description": "A “planned” transition involving the exits of two sales leaders is also rattling investors."
+      },
+      {
+        "title": "SoFi’s stock rises as CEO Anthony Noto reacts to recent selloff with a $1 million purchase",
+        "link": "https://www.marketwatch.com/story/sofis-stock-rises-as-ceo-anthony-noto-reacts-to-recent-selloff-with-a-1-million-purchase-d03ba5b6?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 03 Mar 2026 01:28:00 GMT",
+        "description": "Noto, who already owns a SoFi stake worth about $215 million on paper, has been known to buy the dip before."
+      },
+      {
+        "title": "‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?",
+        "link": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 03 Mar 2026 00:00:00 GMT",
+        "description": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors.”"
+      },
       {
         "title": "EchoStar’s business deemed ‘irrelevant’ as investors focus on future SpaceX stake",
         "link": "https://www.marketwatch.com/story/echostars-business-deemed-irrelevant-as-investors-focus-on-future-spacex-stake-5a89c0c7?mod=mw_rss_topstories",
@@ -313,114 +341,93 @@
         "description": "You may have opportunities to optimize for short-term volatility, financial planners told MarketWatch."
       },
       {
-        "title": "Apple launches new iPhone and iPad Air as it gears up for a major AI push",
-        "link": "https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 02 Mar 2026 22:20:00 GMT",
-        "description": "The company is boosting the storage capacity of its devices, a move thought to be a prelude to expected Siri enhancements later this year."
-      },
-      {
         "title": "Nvidia’s stock is Morgan Stanley’s new top chip pick — replacing Micron",
         "link": "https://www.marketwatch.com/story/nvidias-stock-is-morgan-stanleys-new-top-chip-pick-replacing-micron-2dfffd2b?mod=mw_rss_topstories",
         "source": "MarketWatch",
         "published": "Mon, 02 Mar 2026 22:18:00 GMT",
         "description": "An analyst sees a “surprisingly good entry point” for Nvidia investors given the stock’s recent sluggish performance."
-      },
-      {
-        "title": "Boeing’s stock stands out in this screen of aerospace and defense investments",
-        "link": "https://www.marketwatch.com/story/boeings-stock-stands-out-in-this-screen-of-aerospace-and-defense-investments-aba58bd3?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 02 Mar 2026 22:16:00 GMT",
-        "description": "Several of the largest defense contractors trade at low price/sales ratios when compared with that of the S&P 500, and Boeing has a high projected sales growth rate."
-      },
-      {
-        "title": "Cruise stocks drop, as there’s more than just the Iran conflict to worry about",
-        "link": "https://www.marketwatch.com/story/cruise-stocks-drop-as-theres-more-the-just-the-iran-conflict-to-worry-about-808189e4?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 02 Mar 2026 22:11:00 GMT",
-        "description": "Norwegian’s sales miss and downbeat booking and profit outlooks spark concern about demand for cruises."
-      },
-      {
-        "title": "American, Delta stocks fall as Iran conflict sparks worries about fuel costs, travel demand",
-        "link": "https://www.marketwatch.com/story/american-delta-stocks-fall-as-iran-conflict-sparks-worries-about-fuel-costs-travel-demand-c691eb25?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 02 Mar 2026 22:07:00 GMT",
-        "description": "Airline stocks drop as the Iran conflict sparks worries about rising fuel costs."
       }
     ],
     "Singapore": [
       {
-        "title": "Myopia now, glaucoma later? The hidden link explained and how to reduce your risk",
-        "link": "https://www.channelnewsasia.com/wellness/glaucoma-risk-lasik-eye-implants-5948976",
+        "title": "Spa operator House+ Bubble announces temporary closure of bathing pools as part of 'internal facility adjustments'",
+        "link": "https://www.channelnewsasia.com/style-beauty/house-bubble-singapore-spa-pool-closure-5965901",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 07:19:43 +0800",
-        "description": "Experts explain whether Lasik or lens implants affect your risk, and how a hair strand-like microshunt could reduce reliance on lifelong eye drops for patients."
+        "published": "Tue, 03 Mar 2026 11:33:00 +0800",
+        "description": "Located at Jurong East,&nbsp;House+ Bubble is a 24-hour spa that's currently in its soft-opening phase. It is set to officially open on Mar 14."
       },
       {
-        "title": "Amazon data center unit acquires George Washington University Virginia campus",
-        "link": "https://www.channelnewsasia.com/business/amazon-data-center-unit-acquires-george-washington-university-virginia-campus-5965481",
+        "title": "Single admissions exercise to replace separate polytechnic, JC and ITE application processes from 2028",
+        "link": "https://www.channelnewsasia.com/singapore/sec-junior-college-polytechnic-admission-exercise-full-subject-based-banding-5965726",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:50:48 +0800",
+        "published": "Tue, 03 Mar 2026 11:27:36 +0800",
+        "description": "Students can submit up to 12 course choices across all post-secondary pathways using their Singapore-Cambridge Secondary Education Certificate results."
+      },
+      {
+        "title": "15 schools to host advanced modules as Singapore discontinues Gifted Education Programme",
+        "link": "https://www.channelnewsasia.com/singapore/gifted-education-programme-gep-discontinued-gep-schools-advanced-modules-5963381",
+        "source": "CNA Singapore",
+        "published": "Tue, 03 Mar 2026 10:45:00 +0800",
+        "description": "The 15 centres will offer after-school advanced modules for students who may benefit from more development beyond high-ability programmes in their own schools."
+      },
+      {
+        "title": "Japan quarterly capex rises 6.5% as government seeks to spur investment",
+        "link": "https://www.channelnewsasia.com/business/japan-quarterly-capex-rises-65-government-seeks-spur-investment-5965821",
+        "source": "CNA Singapore",
+        "published": "Tue, 03 Mar 2026 10:30:06 +0800",
         "description": ""
       },
       {
-        "title": "Rubio says Israel's strike plan triggered US attack on Iran",
-        "link": "https://www.channelnewsasia.com/world/marco-rubio-us-attack-iran-israel-strikes-5965446",
+        "title": "Chen Hanwei responds to Star Awards debate on whether veteran actors should step down",
+        "link": "https://www.channelnewsasia.com/entertainment/chen-hanwei-whether-veteran-actors-should-step-down-star-awards-5965691",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:27:00 +0800",
-        "description": "The US knew that not hitting Iran before Israel's strike would lead to higher American casualties, said Secretary of State Marco Rubio.&nbsp;"
+        "published": "Tue, 03 Mar 2026 10:20:01 +0800",
+        "description": "The seven-time Best Actor winner received his 16th nomination at this year's Star Awards, and here's why he's (probably) not stepping out of the race anytime soon.&nbsp;"
       },
       {
-        "title": "Satriano volley stuns Real Madrid as Getafe shake up LaLiga title race",
-        "link": "https://www.channelnewsasia.com/sport/satriano-volley-stuns-real-madrid-getafe-shake-up-laliga-title-race-5965436",
+        "title": "OpenAI amending deal with Pentagon, CEO Altman says",
+        "link": "https://www.channelnewsasia.com/business/openai-amending-deal-pentagon-ceo-altman-says-5965731",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:16:42 +0800",
+        "published": "Tue, 03 Mar 2026 09:45:25 +0800",
         "description": ""
       },
       {
-        "title": "Iran vows to attack any ship trying to pass through Strait of Hormuz",
-        "link": "https://www.channelnewsasia.com/world/strait-hormuz-shipping-oil-iran-vows-attack-5965286",
+        "title": "US embassy in Riyadh hit by drones: Saudi defence ministry",
+        "link": "https://www.channelnewsasia.com/world/us-embassy-riyadh-hit-drones-iran-conflict-5965686",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:10:00 +0800",
-        "description": "This is Iran's most explicit warning since telling ships it was closing the export route on Saturday, a move that threatens to choke a fifth of global oil flows and send crude prices sharply higher."
+        "published": "Tue, 03 Mar 2026 09:23:00 +0800",
+        "description": ""
       },
       {
-        "title": "Luxury hotel Soori Penang is architect Chan Soo Khian’s tribute to the place he grew up in",
-        "link": "https://www.channelnewsasia.com/remarkable-living/luxury-hotel-soori-penang-chan-soo-khian-khoo-kongsi-5961471",
+        "title": "Middle East oil shipping costs surge to all-time high as Iran war intensifies",
+        "link": "https://www.channelnewsasia.com/world/oil-shipping-prices-rise-iran-us-israel-war-strait-hormuz-5965676",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:06:00 +0800",
-        "description": "Chan Soo Khian grew up next to Khoo Kongsi, in a world of aunties, uncles, cousins, and a compound alive with activity. His 15-suite hotel now sits in that same historic orbit, translating personal me"
+        "published": "Tue, 03 Mar 2026 09:18:00 +0800",
+        "description": "The cost of hiring a supertanker to ship oil from the Middle East to China surged to an all-time high of over US$400,000 a day."
       },
       {
-        "title": "Commentary: There’s more than meets the eye to Singapore’s new Gulfstream G550 maritime surveillance aircraft",
-        "link": "https://www.channelnewsasia.com/commentary/singapore-armed-forces-saf-war-plane-gulfstream-boeing-fokker-5959446",
+        "title": "Qatar LNG halt won't immediately affect Japan's energy supply, minister says",
+        "link": "https://www.channelnewsasia.com/business/qatar-lng-halt-wont-immediately-affect-japans-energy-supply-minister-says-5965696",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:00:00 +0800",
-        "description": "Behind an unusual two-for-one replacement of the Singapore Armed Forces’ Fokker 50s lies a secret edge capability, says author and former defence journalist David Boey."
+        "published": "Tue, 03 Mar 2026 09:14:51 +0800",
+        "description": ""
       },
       {
-        "title": "Sarawak-Petronas lawsuits threaten to shake up balance of authority between Putrajaya and resource-rich states",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-petronas-sarawak-federal-court-cases-oil-gas-anwar-5957156",
+        "title": "Malaysia's parliament fails to pass Bill limiting PM's tenure to 10 years",
+        "link": "https://www.channelnewsasia.com/asia/anwar-term-limit-bill-reject-malaysia-10-years-5964316",
         "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:00:00 +0800",
-        "description": "An unprecedented legal showdown between the Sarawak state government and national oil corporation Petronas over hydrocarbon resource ownership could change long-assumed understandings of federal power"
-      },
-      {
-        "title": "China’s Two Sessions: 5 things to watch as political gatherings get underway",
-        "link": "https://www.channelnewsasia.com/east-asia/china-two-sessions-2026-gdp-five-year-plan-tech-defence-5954546",
-        "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 06:00:00 +0800",
-        "description": "The tone of the country’s biggest annual political meetings will focus on stability and realism instead of major policy shifts, say analysts."
-      },
-      {
-        "title": "Commentary: Tussle between Pentagon and Anthropic is dark news for ‘ethical AI’",
-        "link": "https://www.channelnewsasia.com/commentary/pentagon-anthropic-claude-ai-defence-military-iran-5963821",
-        "source": "CNA Singapore",
-        "published": "Tue, 03 Mar 2026 05:59:00 +0800",
-        "description": "Hours after Trump denounced Anthropic, the US launched strikes on Iran, reportedly planned with the aid of the company’s software, says this academic."
+        "published": "Tue, 03 Mar 2026 08:47:00 +0800",
+        "description": "The Bill was rejected as 146 lawmakers voting in favour fell just two short of the two-thirds majority required to pass the amendment."
       }
     ],
     "US Politics": [
+      {
+        "title": "Parents of nursery abuse victims to meet minister",
+        "link": "https://www.bbc.com/news/articles/cvg35lxp32no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 03 Mar 2026 02:04:07 GMT",
+        "description": "Parents of Vincent Chan's victims will meet the education secretary to press her on safeguarding."
+      },
       {
         "title": "UK launches consultation asking for views on under-16s social media ban",
         "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
@@ -483,13 +490,6 @@
         "source": "BBC Politics",
         "published": "Mon, 02 Mar 2026 16:45:49 GMT",
         "description": "Findings from the experiment will be published later this year and inform future electoral reform."
-      },
-      {
-        "title": "Labour promises to replace Wales' largest hospital if it wins Senedd election",
-        "link": "https://www.bbc.com/news/articles/cd9gzggy22zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 02 Mar 2026 12:34:04 GMT",
-        "description": "Eluned Morgan said Labour would redevelop hospitals in Cardiff and Wrexham, and support a new one in west Wales."
       }
     ],
     "Science": []
@@ -500,73 +500,73 @@
   },
   "top10": [
     {
-      "title": "Myopia now, glaucoma later? The hidden link explained and how to reduce your risk",
-      "link": "https://www.channelnewsasia.com/wellness/glaucoma-risk-lasik-eye-implants-5948976",
+      "title": "Spa operator House+ Bubble announces temporary closure of bathing pools as part of 'internal facility adjustments'",
+      "link": "https://www.channelnewsasia.com/style-beauty/house-bubble-singapore-spa-pool-closure-5965901",
       "source": "CNA Singapore",
-      "published": "Tue, 03 Mar 2026 07:19:43 +0800",
-      "description": "Experts explain whether Lasik or lens implants affect your risk, and how a hair strand-like microshunt could reduce reliance on lifelong eye drops for patients."
+      "published": "Tue, 03 Mar 2026 11:33:00 +0800",
+      "description": "Located at Jurong East,&nbsp;House+ Bubble is a 24-hour spa that's currently in its soft-opening phase. It is set to officially open on Mar 14."
     },
     {
-      "title": "Stripe wants to turn your AI costs into a profit center",
-      "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
-      "source": "TechCrunch",
-      "published": "Mon, 02 Mar 2026 23:18:27 +0000",
-      "description": "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees."
-    },
-    {
-      "title": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
-      "link": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/",
-      "source": "TechCrunch",
-      "published": "Mon, 02 Mar 2026 23:01:57 +0000",
-      "description": "The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion)."
-    },
-    {
-      "title": "No one has a good plan for how AI companies should work with the government",
-      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-      "source": "TechCrunch",
-      "published": "Mon, 02 Mar 2026 22:59:10 +0000",
-      "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities."
-    },
-    {
-      "title": "Amazon data center unit acquires George Washington University Virginia campus",
-      "link": "https://www.channelnewsasia.com/business/amazon-data-center-unit-acquires-george-washington-university-virginia-campus-5965481",
+      "title": "Single admissions exercise to replace separate polytechnic, JC and ITE application processes from 2028",
+      "link": "https://www.channelnewsasia.com/singapore/sec-junior-college-polytechnic-admission-exercise-full-subject-based-banding-5965726",
       "source": "CNA Singapore",
-      "published": "Tue, 03 Mar 2026 06:50:48 +0800",
+      "published": "Tue, 03 Mar 2026 11:27:36 +0800",
+      "description": "Students can submit up to 12 course choices across all post-secondary pathways using their Singapore-Cambridge Secondary Education Certificate results."
+    },
+    {
+      "title": "Why Bitcoin Seasonality Failed: Inside BTC’s Structural Breakdown In February 2026",
+      "link": "https://bitcoinist.com/why-bitcoin-seasonality-failed-inside-structural/",
+      "source": "Bitcoinist",
+      "published": "Tue, 03 Mar 2026 03:00:13 +0000",
+      "description": "Bitcoin is currently consolidating between $62,000 and $69,000, compressing within a narrowing range as geopolitical tensions in the Middle East inject fresh uncertainty into global risk markets. Rath"
+    },
+    {
+      "title": "15 schools to host advanced modules as Singapore discontinues Gifted Education Programme",
+      "link": "https://www.channelnewsasia.com/singapore/gifted-education-programme-gep-discontinued-gep-schools-advanced-modules-5963381",
+      "source": "CNA Singapore",
+      "published": "Tue, 03 Mar 2026 10:45:00 +0800",
+      "description": "The 15 centres will offer after-school advanced modules for students who may benefit from more development beyond high-ability programmes in their own schools."
+    },
+    {
+      "title": "Japan quarterly capex rises 6.5% as government seeks to spur investment",
+      "link": "https://www.channelnewsasia.com/business/japan-quarterly-capex-rises-65-government-seeks-spur-investment-5965821",
+      "source": "CNA Singapore",
+      "published": "Tue, 03 Mar 2026 10:30:06 +0800",
       "description": ""
     },
     {
-      "title": "A new app alerts you if someone nearby is wearing smart glasses",
-      "link": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/",
-      "source": "TechCrunch",
-      "published": "Mon, 02 Mar 2026 22:40:00 +0000",
-      "description": "A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to always-on recording and listening devices that invade people's privacy."
+      "title": "Chen Hanwei responds to Star Awards debate on whether veteran actors should step down",
+      "link": "https://www.channelnewsasia.com/entertainment/chen-hanwei-whether-veteran-actors-should-step-down-star-awards-5965691",
+      "source": "CNA Singapore",
+      "published": "Tue, 03 Mar 2026 10:20:01 +0800",
+      "description": "The seven-time Best Actor winner received his 16th nomination at this year's Star Awards, and here's why he's (probably) not stepping out of the race anytime soon.&nbsp;"
     },
     {
-      "title": "X Opens The Door To Crypto Promotions — With Strings Attached",
-      "link": "https://bitcoinist.com/x-opens-the-door-to-crypto-promotions-with-strings-attached/",
+      "title": "EU Banks In FOMO Mode: Crypto Deals Heat Up Before Digital Euro",
+      "link": "https://bitcoinist.com/eu-banks-fomo-crypto-deals-heat-up-digital-euro/",
       "source": "Bitcoinist",
-      "published": "Mon, 02 Mar 2026 22:30:20 +0000",
-      "description": "Crypto influencers just got a new way to make money on X. The social media platform owned by Elon Musk quietly reversed its long-standing ban on sponsored crypto content over the weekend, rolling out "
+      "published": "Tue, 03 Mar 2026 02:00:06 +0000",
+      "description": "Major EU banks, including ING, UniCredit, CaixaBank and BBVA, are no longer content to merely talk about a digital euro: they have grown bolder and are now racing to hunt down crypto partners to launc"
     },
     {
-      "title": "Rubio says Israel's strike plan triggered US attack on Iran",
-      "link": "https://www.channelnewsasia.com/world/marco-rubio-us-attack-iran-israel-strikes-5965446",
-      "source": "CNA Singapore",
-      "published": "Tue, 03 Mar 2026 06:27:00 +0800",
-      "description": "The US knew that not hitting Iran before Israel's strike would lead to higher American casualties, said Secretary of State Marco Rubio.&nbsp;"
-    },
-    {
-      "title": "Instagram tracked growing usage while targeting teens, lawyers argue",
-      "link": "https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/",
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
       "source": "TechCrunch",
-      "published": "Mon, 02 Mar 2026 22:23:48 +0000",
-      "description": "The company said usage grew from 40 minutes per day in 2023 to 46 minutes in 2026. Other documents referenced teens as being a top priority for the app before asking existing users for birthdays."
+      "published": "Tue, 03 Mar 2026 01:53:59 +0000",
+      "description": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source."
     },
     {
-      "title": "Satriano volley stuns Real Madrid as Getafe shake up LaLiga title race",
-      "link": "https://www.channelnewsasia.com/sport/satriano-volley-stuns-real-madrid-getafe-shake-up-laliga-title-race-5965436",
+      "title": "OpenAI amending deal with Pentagon, CEO Altman says",
+      "link": "https://www.channelnewsasia.com/business/openai-amending-deal-pentagon-ceo-altman-says-5965731",
       "source": "CNA Singapore",
-      "published": "Tue, 03 Mar 2026 06:16:42 +0800",
+      "published": "Tue, 03 Mar 2026 09:45:25 +0800",
+      "description": ""
+    },
+    {
+      "title": "US embassy in Riyadh hit by drones: Saudi defence ministry",
+      "link": "https://www.channelnewsasia.com/world/us-embassy-riyadh-hit-drones-iran-conflict-5965686",
+      "source": "CNA Singapore",
+      "published": "Tue, 03 Mar 2026 09:23:00 +0800",
       "description": ""
     }
   ]
