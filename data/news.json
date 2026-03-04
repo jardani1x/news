@@ -1,8 +1,22 @@
 {
-  "updated_sgt": "2026-03-04 12:00 SGT",
-  "updated_iso": "2026-03-04T12:00:23.621925+08:00",
+  "updated_sgt": "2026-03-04 16:00 SGT",
+  "updated_iso": "2026-03-04T16:00:24.740775+08:00",
   "categories": {
     "World": [
+      {
+        "title": "South Korea woman and doctors guilty of murder of newborn baby",
+        "link": "https://www.bbc.com/news/articles/c2k88j5x9wdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 05:43:03 GMT",
+        "description": "The case has gripped South Korea, where there is no regulation on how far into pregnancy an abortion can take place."
+      },
+      {
+        "title": "US and Ecuador forces launch operation to fight drug trafficking",
+        "link": "https://www.bbc.com/news/articles/cgjzz4gn64zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 04:07:37 GMT",
+        "description": "Washington says the two countries are combatting what the US calls designated terrorist organisations in the South American country."
+      },
       {
         "title": "First US soldiers to die in Iran conflict are identified",
         "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
@@ -11,11 +25,32 @@
         "description": "Four of the six - ranging in age from 20 to 42 - have been named after the drone strike in Kuwait."
       },
       {
-        "title": "European allies rush to bolster Cyprus defences after drones target British base",
-        "link": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss",
+        "title": "What to know about the 'two sessions', China's biggest political meeting",
+        "link": "https://www.bbc.com/news/articles/c2lrxyke7kro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 03 Mar 2026 22:10:09 GMT",
-        "description": "The Cypriot government suspects the Iran-backed group Hezbollah in Lebanon targeted the UK's RAF Akrotiri base in Cyprus."
+        "published": "Wed, 04 Mar 2026 01:04:48 GMT",
+        "description": "The carefully choreographed annual meetings signal the priorities of the world's second-largest economy."
+      },
+      {
+        "title": "Australian girl, 8, killed in snowmobile accident in Japan",
+        "link": "https://www.bbc.com/news/articles/c5yk5yw49nqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 00:53:03 GMT",
+        "description": "It is the fourth Australian death at a Japanese ski resort this year."
+      },
+      {
+        "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
+        "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 00:34:49 GMT",
+        "description": "TikTok tells the BBC it won't join rival platforms such as WhatsApp and Messenger in using end-to-end encryption."
+      },
+      {
+        "title": "US commerce secretary to testify before Congress about Epstein ties",
+        "link": "https://www.bbc.com/news/articles/cy7jm7k7pxzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 00:11:27 GMT",
+        "description": "The cabinet member \"voluntarily\" agreed to be interviewed, weeks after acknowledging that he visited Epstein's island."
       },
       {
         "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
@@ -32,55 +67,27 @@
         "description": "Trump lashed out after Spain barred the US from using its military bases to carry out strikes on Iran."
       },
       {
-        "title": "US sends planes to evacuate nationals from Middle East as Iran conflict spreads",
-        "link": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 03 Mar 2026 20:43:05 GMT",
-        "description": "The US State Department says Americans should \"depart now via commercial means\" as strikes continue."
-      },
-      {
-        "title": "New charges for son of Norway's crown princess on trial for rape",
-        "link": "https://www.bbc.com/news/articles/c0e5r28y3xqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 03 Mar 2026 18:59:39 GMT",
-        "description": "Marius Borg Høiby now faces a total of 40 charges at his trial and denies the most serious allegations."
-      },
-      {
         "title": "Guilty verdict for US father of teenage school shooter",
         "link": "https://www.bbc.com/news/articles/cpv87wwmd0lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Tue, 03 Mar 2026 17:14:21 GMT",
         "description": "Prosecutors say Colin Gray, 55, could have prevented his son from killing four people at a high school in Georgia in 2024."
-      },
-      {
-        "title": "Why Europe's leaders have struggled to speak as one on Iran",
-        "link": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 03 Mar 2026 16:26:21 GMT",
-        "description": "European nations say they want to work better together but have differing priorities"
-      },
-      {
-        "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
-        "link": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 03 Mar 2026 15:42:28 GMT",
-        "description": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese."
-      },
-      {
-        "title": "Zelensky fears Trump's Iran war could hurt Ukraine",
-        "link": "https://www.bbc.com/news/articles/clyv10dre79o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 03 Mar 2026 13:41:43 GMT",
-        "description": "Ukraine fears what soaring oil prices and a shortage in air defences could mean for them."
       }
     ],
     "Finance": [
       {
-        "title": "South Korea's Kospi plunges 12% putting it on track for its worst day in decades as Iran conflict rages",
+        "title": "South Korea's Kospi sinks over 12% to clock its worst day as Iran conflict fuels risk-off sentiment",
         "link": "https://www.cnbc.com/2026/03/04/asia-markets-hang-seng-index-kospi-nikkei-225.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 03:59:38 GMT",
-        "description": "Most Asia-Pacific markets were set to open lower on Wednesday, extending a selloff amid an escalating Middle East war."
+        "published": "Wed, 04 Mar 2026 07:59:34 GMT",
+        "description": "The Korea Exchange temporarily halted trading for the Kospi index on Wednesday. A circuit breaker was activated on the Kosdaq as well, which closed 14% lower at 978.44."
+      },
+      {
+        "title": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
+        "link": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 04 Mar 2026 05:32:45 GMT",
+        "description": "Middle East conflict has posed a fresh test to central banks, with fears of an oil shock and renewed inflation risks changing their bid to shore up growth."
       },
       {
         "title": "China's factory activity slumps more than expected in February as holiday disrupts production",
@@ -111,13 +118,6 @@
         "description": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology."
       },
       {
-        "title": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
-        "link": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 03 Mar 2026 22:39:12 GMT",
-        "description": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown."
-      },
-      {
         "title": "Epstein files: Howard Lutnick volunteers to testify to House Oversight Committee",
         "link": "https://www.cnbc.com/2026/03/03/lutnick-epstein-trump-house-oversight.html",
         "source": "CNBC Finance",
@@ -132,18 +132,18 @@
         "description": "Trump said when the invasion began his objective was to \"defend the American people by eliminating imminent threats from the Iranian regime, a vicious group.\""
       },
       {
-        "title": "Blackstone’s Gray: Market ‘noise’ fueled record redemptions from world’s largest private credit fund",
-        "link": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 03 Mar 2026 18:55:30 GMT",
-        "description": "Blackstone president Jon Gray defended the quality of loans within the firm's flagship private credit fund."
-      },
-      {
         "title": "Five races to watch on the day the 2026 midterm elections kick off",
         "link": "https://www.cnbc.com/2026/03/03/2026-midterm-elections-five-races-to-watch.html",
         "source": "CNBC Finance",
         "published": "Tue, 03 Mar 2026 17:31:21 GMT",
         "description": "Results from Tuesday's races in three states could be telling for how the rest of the midterm season will unfold."
+      },
+      {
+        "title": "Canada and India move to reset ties as trust in U.S. falters",
+        "link": "https://www.cnbc.com/2026/03/03/canada-india-modi-carney-relationship-trump.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 03 Mar 2026 14:28:54 GMT",
+        "description": "India and Canada's relations have thawed with the two sides promising to deepen trade, but it is far from a complete reset."
       }
     ],
     "Technology": [
@@ -220,6 +220,27 @@
     ],
     "Crypto": [
       {
+        "title": "Confidential LIBRA Advisory Agreement Between Co‑Creator And President Milei Revealed",
+        "link": "https://bitcoinist.com/confidential-libra-advisory-agreement-milei-reveal/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 06:00:39 +0000",
+        "description": "A new chapter has unfolded in the ongoing LIBRA cryptocurrency scandal, as fresh judicial findings suggest that the relationship between Argentine President Javier Milei and LIBRA co-creator Hayden Ma"
+      },
+      {
+        "title": "Iranian Crypto Outflows Hit $10.3 Million After US‑Israeli Airstrikes, Chainalysis Finds",
+        "link": "https://bitcoinist.com/iranian-crypto-hit-10-million-us-israeli-airstrikes/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 05:00:40 +0000",
+        "description": "On‑chain data shows that in the days after joint US‑Israeli airstrikes on February 28, Iranian exchanges saw a sharp spike in withdrawals, with roughly 10.3 million dollars in crypto fleeing. Iran’s C"
+      },
+      {
+        "title": "Volatility Without Reward: Why Bitcoin’s MVRV Signals A High-Risk, Zero-Return Regime",
+        "link": "https://bitcoinist.com/volatility-without-reward-bitcoin-mvrv-signals/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 04:00:07 +0000",
+        "description": "Bitcoin is navigating heightened uncertainty as escalating conflicts in the Middle East inject fresh volatility into global markets. Price action has become increasingly reactive to geopolitical headl"
+      },
+      {
         "title": "Crypto Exchange Uniswap Prevails In High-Profile Rug Pull Lawsuit",
         "link": "https://bitcoinist.com/crypto-exchange-uniswap-prevails-in-high-profile-rug-pull-lawsuit/",
         "source": "Bitcoinist",
@@ -253,27 +274,6 @@
         "source": "Bitcoinist",
         "published": "Tue, 03 Mar 2026 23:00:09 +0000",
         "description": "With the Ethereum price slowly demonstrating bullish traction after reclaiming the $2,000 mark, sentiment is turning positive once again. During this price action, investors are choosing to hold the l"
-      },
-      {
-        "title": "Shielded Labs Warns Zcash Must Act Now To Win Long-Term Investors",
-        "link": "https://bitcoinist.com/shielded-labs-zcash-act-now-to-win-investors/",
-        "source": "Bitcoinist",
-        "published": "Tue, 03 Mar 2026 21:30:49 +0000",
-        "description": "Shielded Labs is urging the Zcash community to move quickly on long-term sustainability changes, arguing that the network has a near-term opening to attract patient capital and should not wait for tha"
-      },
-      {
-        "title": "Long-Term Bitcoin Investor Shares Why It’s Important To Be Patient & Strategic At This Time",
-        "link": "https://bitcoinist.com/long-term-bitcoin-investor/",
-        "source": "Bitcoinist",
-        "published": "Tue, 03 Mar 2026 20:00:19 +0000",
-        "description": "A long-term Bitcoin bull is imploring investors to stay measured and strategic in the middle of brutal short-term challenges for the market. In a detailed thread posted on X, market analyst Caleb Fran"
-      },
-      {
-        "title": "Solana Emerges As The Most Active Blockchain Ahead Of Major Chains By Daily Transactions",
-        "link": "https://bitcoinist.com/solana-daily-transactions-surges/",
-        "source": "Bitcoinist",
-        "published": "Tue, 03 Mar 2026 18:30:09 +0000",
-        "description": "As Monday drew to a close, the Solana price witnessed a bounce, bringing it closer to the $90 mark, which has ignited bullish sentiment among investors. The SOL’s price rebound coincides with a signif"
       }
     ],
     "Markets": [
@@ -350,82 +350,96 @@
     ],
     "Singapore": [
       {
-        "title": "Taiwan indicts 62 over suspected scam centre operator Prince Group",
-        "link": "https://www.channelnewsasia.com/east-asia/taiwan-indicts-62-linked-suspected-scam-centre-prince-group-5969146",
+        "title": "Former Malaysian minister Rafizi’s ex-aide a ‘wanted’ man to assist in probe over US$270 million government deal",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-macc-james-chai-wanted-rafizi-ramli-arm-holdings-investigations-5969411",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:47:50 +0800",
+        "published": "Wed, 04 Mar 2026 15:42:00 +0800",
+        "description": "The Malaysian Anti-Corruption Commission said that it was tracking down Chai Jin Shern, also known as James Chai, and had appealed to the public to provide any information on his whereabouts."
+      },
+      {
+        "title": "Iran players focus on Asian Cup despite concern for families stuck in military conflict",
+        "link": "https://www.channelnewsasia.com/sport/iran-players-focus-asian-cup-despite-concern-families-stuck-in-military-conflict-5969871",
+        "source": "CNA Singapore",
+        "published": "Wed, 04 Mar 2026 15:23:13 +0800",
         "description": ""
       },
       {
-        "title": "Edmund Chen returns to court for permission to travel to China, Japan",
-        "link": "https://www.channelnewsasia.com/singapore/edmund-chen-permission-travel-china-japan-court-appeal-5969156",
+        "title": "Singaporean model Chuando Tan celebrates 60th birthday, goes viral again",
+        "link": "https://www.channelnewsasia.com/entertainment/chuando-tan-60th-birthday-5969781",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:39:10 +0800",
-        "description": "The prosecution did not object to the application to travel, but noted that Chen's flight risk, while low, was \"not zero\"."
+        "published": "Wed, 04 Mar 2026 15:21:27 +0800",
+        "description": "Singaporean model and artistic director Chuando Tan has gone viral globally numerous times for his youthful looks."
       },
       {
-        "title": "Terry Xu and publisher of The Online Citizen ordered to pay S$125,000 for defaming UOB",
-        "link": "https://www.channelnewsasia.com/singapore/uob-awarded-damages-defamation-terry-xu-toc-5969061",
+        "title": "Gardens by the Bay to develop wetlands attraction with teamLab flagship museum",
+        "link": "https://www.channelnewsasia.com/singapore/wetlands-bay-teamlab-flagship-museum-gardens-5966761",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:31:42 +0800",
-        "description": "UOB sued Mr Terry Xu Yuan Chen and the publisher of The Online Citizen over a series of articles and social media posts alleging financial scandal, criminal wrongdoing and coercive conduct towards two"
+        "published": "Wed, 04 Mar 2026 15:21:00 +0800",
+        "description": "Wetlands by the Bay will feature more than 600 mangroves and coastal plants, tripling the collection at the existing Kingfisher Wetlands."
       },
       {
-        "title": "Trump Commerce chief agrees to testify in congressional Epstein probe",
-        "link": "https://www.channelnewsasia.com/world/epstein-probe-howard-lutnick-testify-us-congress-5969131",
+        "title": "South Korean label Ador holding auditions in Singapore on Mar 28 for new K-pop boy band",
+        "link": "https://www.channelnewsasia.com/entertainment/ador-auditions-singapore-new-k-pop-boy-band-5969176",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:27:00 +0800",
-        "description": "US Commerce Secretary Howard Lutnick, a billionaire former New York financier, has faced pressure over his associations with the now-deceased Epstein."
+        "published": "Wed, 04 Mar 2026 15:03:09 +0800",
+        "description": "Online applications are now open for all males born after 2007 to&nbsp;submit any content that showcases their talents, including singing, dancing, rapping and vlogging."
       },
       {
-        "title": "PARF rebate cuts unlikely to significantly affect COE renewals: Jeffrey Siow",
-        "link": "https://www.channelnewsasia.com/singapore/coe-bidding-exercise-parf-rebates-reduced-5968701",
+        "title": "Swiatek, Gauff inspired by figure skater Liu's journey from teen burnout to Olympic gold",
+        "link": "https://www.channelnewsasia.com/sport/swiatek-gauff-inspired-figure-skater-lius-journey-teen-burnout-olympic-gold-5969836",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:23:43 +0800",
-        "description": "The Acting Minister for Transport estimates that fewer than 2,000 car buyers who had signed sales contracts were affected by the revised car scrapping rebates."
-      },
-      {
-        "title": "Indonesia will keep budget deficit below 3% of GDP as Middle East conflict lifts oil prices, minister says",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-oil-prices-budget-middle-east-conflict-5967381",
-        "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:16:41 +0800",
-        "description": "A quarter of Indonesia's crude oil imports come from the Middle East, while the region also accounts for 30 per cent of the country's liquefied petroleum gas (LPG) imports."
-      },
-      {
-        "title": "WTA players divided on five-set matches proposal at Grand Slams",
-        "link": "https://www.channelnewsasia.com/sport/wta-players-divided-five-set-matches-proposal-grand-slams-5969101",
-        "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:11:30 +0800",
+        "published": "Wed, 04 Mar 2026 14:58:29 +0800",
         "description": ""
       },
       {
-        "title": "Stock plunge sparks trading halt in South Korea's key indexes",
-        "link": "https://www.channelnewsasia.com/business/asian-markets-kospi-plunge-iran-war-middle-east-5968971",
+        "title": "Italy's Fineco says will use AI to boost new client growth under plan to 2029",
+        "link": "https://www.channelnewsasia.com/business/italys-fineco-says-will-use-ai-boost-new-client-growth-under-plan-2029-5969811",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:01:00 +0800",
-        "description": "The Kospi plunged 8 per cent on Wednesday (Mar 4), extending a steep selloff from the previous day as the escalating war in the Middle East rattled investor sentiment."
+        "published": "Wed, 04 Mar 2026 14:48:24 +0800",
+        "description": ""
       },
       {
-        "title": "Every Body Knows Fair 2026 to take place at Takashimaya Square from Mar 6 to 8",
-        "link": "https://www.channelnewsasia.com/wellness/every-body-knows-fair-takashimaya-square-mar-6-8-wellness-5966886",
+        "title": "Ahmad Samsuri’s PN chairman role does not make him opposition coalition’s prime ministerial pick: Muhyiddin",
+        "link": "https://www.channelnewsasia.com/asia/ahmad-samsuri-perikatan-nasional-pn-opposition-prime-minister-pick-muhyiddin-5969676",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 11:00:36 +0800",
-        "description": "The fair will bring a wide range of activities – from live fitness sessions and expert-led wellness talks to Mediacorp star appearances and music performances."
+        "published": "Wed, 04 Mar 2026 14:46:00 +0800",
+        "description": "Former prime minister Muhyiddin Yassin also said he will oppose all efforts for his former Bersatu deputy, Hamzah Zainudin, to rejoin Perikatan Nasional (PN) under a new party. &nbsp;"
       },
       {
-        "title": "Singapore to inject S$70 million over five years to boost local farm output",
-        "link": "https://www.channelnewsasia.com/singapore/local-farms-output-production-act-fund-5966671",
+        "title": "Piastri cool on prospects of breakthrough win at Australian Grand Prix",
+        "link": "https://www.channelnewsasia.com/sport/piastri-cool-prospects-breakthrough-win-australian-grand-prix-5969791",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 10:52:00 +0800",
-        "description": "New measures include an expanded national breeding programme and fresh hatchery support for the aquaculture sector. &nbsp;"
+        "published": "Wed, 04 Mar 2026 14:40:11 +0800",
+        "description": ""
+      },
+      {
+        "title": "Japanese utilities boost LNG reserves, METI sees no calls for emergency supply yet",
+        "link": "https://www.channelnewsasia.com/business/japanese-utilities-boost-lng-reserves-meti-sees-no-calls-emergency-supply-yet-5969731",
+        "source": "CNA Singapore",
+        "published": "Wed, 04 Mar 2026 14:27:50 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
       {
+        "title": "Mahmood to stop study visas from four countries due to 'abuse'",
+        "link": "https://www.bbc.com/news/articles/cx2jy74895eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 04 Mar 2026 07:58:15 GMT",
+        "description": "The government will end study visas from Afghanistan, Cameroon, Myanmar and Sudan, due to what she says is abuse."
+      },
+      {
+        "title": "Chris Mason: Trump belittles Starmer with 'no Churchill' jibe but can the special relationship recover?",
+        "link": "https://www.bbc.com/news/articles/c4gqqdy847jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 04 Mar 2026 04:49:01 GMT",
+        "description": "The remarks came amid a row over the refusal to permit the use of UK bases for the initial US-Israel strikes."
+      },
+      {
         "title": "UK announces first Middle East repatriation flight",
         "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 04 Mar 2026 03:53:09 GMT",
+        "published": "Wed, 04 Mar 2026 04:36:04 GMT",
         "description": "The chartered flight is currently scheduled to leave Muscat International Airport in Oman on Wednesday evening."
       },
       {
@@ -434,13 +448,6 @@
         "source": "BBC Politics",
         "published": "Tue, 03 Mar 2026 23:10:24 GMT",
         "description": "The prime minister said the \"UK is fully committed to the security of Cyprus and British military personnel based\" on RAF Akrotiri."
-      },
-      {
-        "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-        "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 03 Mar 2026 21:44:31 GMT",
-        "description": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last."
       },
       {
         "title": "Trump says Starmer is 'no Winston Churchill' over Iran strikes",
@@ -476,13 +483,6 @@
         "source": "BBC Politics",
         "published": "Mon, 02 Mar 2026 18:21:55 GMT",
         "description": "Westminster's expenses watchdog says MPs are dealing with higher levels of complex casework and abuse."
-      },
-      {
-        "title": "Farage calls for changes to election voting rules",
-        "link": "https://www.bbc.com/news/articles/cj0dnry9ljgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 02 Mar 2026 17:34:52 GMT",
-        "description": "The Reform UK leader says postal voting should be restricted to those with a 'valid reason'."
       },
       {
         "title": "Refugee status becomes temporary in asylum shake-up",
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Taiwan indicts 62 over suspected scam centre operator Prince Group",
-      "link": "https://www.channelnewsasia.com/east-asia/taiwan-indicts-62-linked-suspected-scam-centre-prince-group-5969146",
+      "title": "Former Malaysian minister Rafizi’s ex-aide a ‘wanted’ man to assist in probe over US$270 million government deal",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-macc-james-chai-wanted-rafizi-ramli-arm-holdings-investigations-5969411",
       "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:47:50 +0800",
+      "published": "Wed, 04 Mar 2026 15:42:00 +0800",
+      "description": "The Malaysian Anti-Corruption Commission said that it was tracking down Chai Jin Shern, also known as James Chai, and had appealed to the public to provide any information on his whereabouts."
+    },
+    {
+      "title": "Iran players focus on Asian Cup despite concern for families stuck in military conflict",
+      "link": "https://www.channelnewsasia.com/sport/iran-players-focus-asian-cup-despite-concern-families-stuck-in-military-conflict-5969871",
+      "source": "CNA Singapore",
+      "published": "Wed, 04 Mar 2026 15:23:13 +0800",
       "description": ""
     },
     {
-      "title": "Edmund Chen returns to court for permission to travel to China, Japan",
-      "link": "https://www.channelnewsasia.com/singapore/edmund-chen-permission-travel-china-japan-court-appeal-5969156",
+      "title": "Singaporean model Chuando Tan celebrates 60th birthday, goes viral again",
+      "link": "https://www.channelnewsasia.com/entertainment/chuando-tan-60th-birthday-5969781",
       "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:39:10 +0800",
-      "description": "The prosecution did not object to the application to travel, but noted that Chen's flight risk, while low, was \"not zero\"."
+      "published": "Wed, 04 Mar 2026 15:21:27 +0800",
+      "description": "Singaporean model and artistic director Chuando Tan has gone viral globally numerous times for his youthful looks."
     },
     {
-      "title": "Terry Xu and publisher of The Online Citizen ordered to pay S$125,000 for defaming UOB",
-      "link": "https://www.channelnewsasia.com/singapore/uob-awarded-damages-defamation-terry-xu-toc-5969061",
+      "title": "Gardens by the Bay to develop wetlands attraction with teamLab flagship museum",
+      "link": "https://www.channelnewsasia.com/singapore/wetlands-bay-teamlab-flagship-museum-gardens-5966761",
       "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:31:42 +0800",
-      "description": "UOB sued Mr Terry Xu Yuan Chen and the publisher of The Online Citizen over a series of articles and social media posts alleging financial scandal, criminal wrongdoing and coercive conduct towards two"
+      "published": "Wed, 04 Mar 2026 15:21:00 +0800",
+      "description": "Wetlands by the Bay will feature more than 600 mangroves and coastal plants, tripling the collection at the existing Kingfisher Wetlands."
     },
     {
-      "title": "Trump Commerce chief agrees to testify in congressional Epstein probe",
-      "link": "https://www.channelnewsasia.com/world/epstein-probe-howard-lutnick-testify-us-congress-5969131",
+      "title": "South Korean label Ador holding auditions in Singapore on Mar 28 for new K-pop boy band",
+      "link": "https://www.channelnewsasia.com/entertainment/ador-auditions-singapore-new-k-pop-boy-band-5969176",
       "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:27:00 +0800",
-      "description": "US Commerce Secretary Howard Lutnick, a billionaire former New York financier, has faced pressure over his associations with the now-deceased Epstein."
+      "published": "Wed, 04 Mar 2026 15:03:09 +0800",
+      "description": "Online applications are now open for all males born after 2007 to&nbsp;submit any content that showcases their talents, including singing, dancing, rapping and vlogging."
     },
     {
-      "title": "PARF rebate cuts unlikely to significantly affect COE renewals: Jeffrey Siow",
-      "link": "https://www.channelnewsasia.com/singapore/coe-bidding-exercise-parf-rebates-reduced-5968701",
+      "title": "Swiatek, Gauff inspired by figure skater Liu's journey from teen burnout to Olympic gold",
+      "link": "https://www.channelnewsasia.com/sport/swiatek-gauff-inspired-figure-skater-lius-journey-teen-burnout-olympic-gold-5969836",
       "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:23:43 +0800",
-      "description": "The Acting Minister for Transport estimates that fewer than 2,000 car buyers who had signed sales contracts were affected by the revised car scrapping rebates."
-    },
-    {
-      "title": "Indonesia will keep budget deficit below 3% of GDP as Middle East conflict lifts oil prices, minister says",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-oil-prices-budget-middle-east-conflict-5967381",
-      "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:16:41 +0800",
-      "description": "A quarter of Indonesia's crude oil imports come from the Middle East, while the region also accounts for 30 per cent of the country's liquefied petroleum gas (LPG) imports."
-    },
-    {
-      "title": "WTA players divided on five-set matches proposal at Grand Slams",
-      "link": "https://www.channelnewsasia.com/sport/wta-players-divided-five-set-matches-proposal-grand-slams-5969101",
-      "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:11:30 +0800",
+      "published": "Wed, 04 Mar 2026 14:58:29 +0800",
       "description": ""
     },
     {
-      "title": "Stock plunge sparks trading halt in South Korea's key indexes",
-      "link": "https://www.channelnewsasia.com/business/asian-markets-kospi-plunge-iran-war-middle-east-5968971",
+      "title": "Italy's Fineco says will use AI to boost new client growth under plan to 2029",
+      "link": "https://www.channelnewsasia.com/business/italys-fineco-says-will-use-ai-boost-new-client-growth-under-plan-2029-5969811",
       "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:01:00 +0800",
-      "description": "The Kospi plunged 8 per cent on Wednesday (Mar 4), extending a steep selloff from the previous day as the escalating war in the Middle East rattled investor sentiment."
+      "published": "Wed, 04 Mar 2026 14:48:24 +0800",
+      "description": ""
     },
     {
-      "title": "Every Body Knows Fair 2026 to take place at Takashimaya Square from Mar 6 to 8",
-      "link": "https://www.channelnewsasia.com/wellness/every-body-knows-fair-takashimaya-square-mar-6-8-wellness-5966886",
+      "title": "Ahmad Samsuri’s PN chairman role does not make him opposition coalition’s prime ministerial pick: Muhyiddin",
+      "link": "https://www.channelnewsasia.com/asia/ahmad-samsuri-perikatan-nasional-pn-opposition-prime-minister-pick-muhyiddin-5969676",
       "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 11:00:36 +0800",
-      "description": "The fair will bring a wide range of activities – from live fitness sessions and expert-led wellness talks to Mediacorp star appearances and music performances."
+      "published": "Wed, 04 Mar 2026 14:46:00 +0800",
+      "description": "Former prime minister Muhyiddin Yassin also said he will oppose all efforts for his former Bersatu deputy, Hamzah Zainudin, to rejoin Perikatan Nasional (PN) under a new party. &nbsp;"
     },
     {
-      "title": "Crypto Exchange Uniswap Prevails In High-Profile Rug Pull Lawsuit",
-      "link": "https://bitcoinist.com/crypto-exchange-uniswap-prevails-in-high-profile-rug-pull-lawsuit/",
-      "source": "Bitcoinist",
-      "published": "Wed, 04 Mar 2026 03:00:30 +0000",
-      "description": "A four-year legal battle came to a close this week when a federal judge ruled that Uniswap cannot be held responsible for fraudulent tokens that were bought and sold on its platform. The decision is b"
+      "title": "Piastri cool on prospects of breakthrough win at Australian Grand Prix",
+      "link": "https://www.channelnewsasia.com/sport/piastri-cool-prospects-breakthrough-win-australian-grand-prix-5969791",
+      "source": "CNA Singapore",
+      "published": "Wed, 04 Mar 2026 14:40:11 +0800",
+      "description": ""
+    },
+    {
+      "title": "Japanese utilities boost LNG reserves, METI sees no calls for emergency supply yet",
+      "link": "https://www.channelnewsasia.com/business/japanese-utilities-boost-lng-reserves-meti-sees-no-calls-emergency-supply-yet-5969731",
+      "source": "CNA Singapore",
+      "published": "Wed, 04 Mar 2026 14:27:50 +0800",
+      "description": ""
     }
   ]
 }
