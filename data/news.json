@@ -1,28 +1,63 @@
 {
-  "updated_sgt": "2026-03-05 00:00 SGT",
-  "updated_iso": "2026-03-05T00:00:57.406154+08:00",
+  "updated_sgt": "2026-03-05 08:00 SGT",
+  "updated_iso": "2026-03-05T08:00:45.991611+08:00",
   "categories": {
     "World": [
       {
-        "title": "Nigeria halts Christian pilgrimages to Holy Land over Middle East conflict",
-        "link": "https://www.bbc.com/news/articles/cly11z77wxxo?at_medium=RSS&at_campaign=rss",
+        "title": "US Senate vote fails to rein in Trump war powers on Iran",
+        "link": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 15:31:24 GMT",
-        "description": "NCPC say the measure is necessary to prioritise the \"safety and comfort\" of Nigerian pilgrims."
+        "published": "Wed, 04 Mar 2026 23:42:08 GMT",
+        "description": "The measure, passed largely along party lines, would halt US military action until approved by Congress."
+      },
+      {
+        "title": "Millions of Cubans plunged into darkness as fuel crisis deepens",
+        "link": "https://www.bbc.com/news/articles/cx2ggpq1742o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 22:46:53 GMT",
+        "description": "Fuel shortages have been exacerbated by a US oil blockade since the seizure of Venezuelan President Nicolás Maduro."
       },
       {
         "title": "Higher tariffs likely this week, says US Treasury",
         "link": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 15:17:50 GMT",
+        "published": "Wed, 04 Mar 2026 22:11:17 GMT",
         "description": "Scott Bessent says that \"likely sometime this week\" the US will increase its global tariff on imports from the existing 10%."
       },
       {
-        "title": "MP not seen anything to suspect husband has 'broken any law', after China spy arrests",
-        "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 14:59:01 GMT",
-        "description": "The Met Police suspect three men of assisting Chinese intelligence services in the UK."
+        "published": "Wed, 04 Mar 2026 20:42:35 GMT",
+        "description": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
+      },
+      {
+        "title": "Pentagon identifies four of six US soldiers killed in Iran conflict",
+        "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 19:08:24 GMT",
+        "description": "The US soldiers were killed after a drone evaded air defences to hit a command centre in Port Shuaiba, Kuwait, on Sunday."
+      },
+      {
+        "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
+        "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 18:14:04 GMT",
+        "description": "The Arctic Metagaz went down between Libya and Malta after it was hit by explosions and a fire, Libyan officials say."
+      },
+      {
+        "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
+        "link": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 18:10:50 GMT",
+        "description": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state."
+      },
+      {
+        "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+        "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 04 Mar 2026 16:56:17 GMT",
+        "description": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast."
       },
       {
         "title": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
@@ -32,90 +67,76 @@
         "description": "Civilians are being displaced, taking shelter in tents, parks and cars, as Israel retaliates to Hezbollah rocket attack."
       },
       {
-        "title": "Nigerian doctors suspended over death of author Chimamanda Ngozi Adichie's son",
-        "link": "https://www.bbc.com/news/articles/cp8rrk5ngngo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 14:17:14 GMT",
-        "description": "The author's 21-month-old son died in January after complications during medical procedures at a private hospital in Lagos."
-      },
-      {
-        "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
-        "link": "https://www.bbc.com/news/articles/c89kkykg39yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 13:13:08 GMT",
-        "description": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial."
-      },
-      {
         "title": "South Africa's long-serving former defence minister and former Robben Island prisoner dies",
         "link": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Wed, 04 Mar 2026 12:45:24 GMT",
         "description": "Mosiuoa Lekota was imprisoned with former South African President Nelson Mandela on Robben Island."
-      },
-      {
-        "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
-        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 12:30:50 GMT",
-        "description": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
-      },
-      {
-        "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
-        "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 00:34:49 GMT",
-        "description": "TikTok tells the BBC it won't join rival platforms such as WhatsApp and Messenger in using end-to-end encryption."
-      },
-      {
-        "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-        "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 03 Mar 2026 21:44:31 GMT",
-        "description": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last."
       }
     ],
     "Finance": [
       {
+        "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
+        "link": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 04 Mar 2026 22:53:45 GMT",
+        "description": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending."
+      },
+      {
+        "title": "Tech industry group expresses 'concern' to Pete Hegseth over supply chain risk label",
+        "link": "https://www.cnbc.com/2026/03/04/big-tech-industry-group-.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 04 Mar 2026 21:46:16 GMT",
+        "description": "The Information Technology Industry Council's letter doesn't name Anthropic, but lands days after the AI company was designated a supply chain risk."
+      },
+      {
+        "title": "Okta beats fourth-quarter estimates, but issues weak guidance",
+        "link": "https://www.cnbc.com/2026/03/04/okta-okta-q4-2026-earnings.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 04 Mar 2026 21:40:57 GMT",
+        "description": "Okta's stock has dropped this year as investors fret over AI replacing cybersecurity"
+      },
+      {
+        "title": "Epstein files: House committee subpoenas Attorney General Pam Bondi",
+        "link": "https://www.cnbc.com/2026/03/04/epstein-files-nancy-mace-pam-bondi-subpoena-doj.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 04 Mar 2026 21:35:35 GMT",
+        "description": "Attorney General Pam Bondi \"claims the DOJ has released all of the Epstein files. The record is clear: they have not,\" Rep. Nancy Mace said in a post on X."
+      },
+      {
         "title": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
         "link": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 15:55:11 GMT",
+        "published": "Wed, 04 Mar 2026 21:29:49 GMT",
         "description": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills."
       },
       {
-        "title": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
-        "link": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html",
+        "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+        "link": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 15:50:43 GMT",
-        "description": ""
+        "published": "Wed, 04 Mar 2026 21:09:04 GMT",
+        "description": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last."
       },
       {
-        "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
-        "link": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html",
+        "title": "Rep. Tony Gonzales will face House ethics panel probe over 'sexual misconduct' claim",
+        "link": "https://www.cnbc.com/2026/03/04/house-ethics-gonzales-congress.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 15:43:07 GMT",
-        "description": "The dispute centers on whether crypto firms like Coinbase can offer yields on stablecoins, which banks warn will siphon trillions of dollars from the industry."
+        "published": "Wed, 04 Mar 2026 19:55:12 GMT",
+        "description": "Texas Republican Rep. Tony Gonzales has come under fire for allegedly having a romantic relationship with a staffer who died by suicide last year"
       },
       {
         "title": "Apple announces MacBook Neo, its most affordable laptop ever",
         "link": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 15:40:36 GMT",
+        "published": "Wed, 04 Mar 2026 19:47:34 GMT",
         "description": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
       },
       {
-        "title": "Coinbase leads crypto stocks higher after Trump signals support for digital asset market structure bill",
-        "link": "https://www.cnbc.com/2026/03/04/coinbase-leads-crypto-stocks-higher-after-trump-signals-support-for-digital-asset-market-structure-bill.html",
+        "title": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
+        "link": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 15:19:27 GMT",
-        "description": "Coinbase jumped 12% on Wednesday following President Trump's latest call to help pass a law that would enable crypto firms to issue yield-bearing stablecoins."
-      },
-      {
-        "title": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions, ADP says",
-        "link": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 15:17:46 GMT",
-        "description": ""
+        "published": "Wed, 04 Mar 2026 19:16:10 GMT",
+        "description": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped"
       },
       {
         "title": "Bessent says global 15% tariff starts this week, predicts Trump duties will return to old levels later this year",
@@ -123,102 +144,116 @@
         "source": "CNBC Finance",
         "published": "Wed, 04 Mar 2026 14:38:23 GMT",
         "description": "The Supreme Court last month ruled that President Donald Trump's sweeping global tariffs are not authorized under the law known as IEEPA."
-      },
-      {
-        "title": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
-        "link": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 14:13:48 GMT",
-        "description": "Anthropic customers that do business with the government are having to make the tough call on whether to abandon Claude."
-      },
-      {
-        "title": "Disney launches its Adventure cruise ship — a new foothold in Southeast Asia",
-        "link": "https://www.cnbc.com/2026/03/04/disney-adventure-cruise-ship-foothold-asia.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 14:00:01 GMT",
-        "description": "The Disney Adventure sets sail from Singapore this month. The company's global aspirations coincide with a sharp decline in international visitors to the U.S."
-      },
-      {
-        "title": "Remember Twitter? Elon Musk expected to testify over flip-flop in $44 billion buyout",
-        "link": "https://www.cnbc.com/2026/03/04/elon-musk-to-testify-securities-fraud-trial-over-twitter-deal-in-sf.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 13:00:01 GMT",
-        "description": "Musk is on trial for a case filed by Twitter investors in 2022, the year he purchased the social media company for $44 billion."
       }
     ],
     "Technology": [
       {
-        "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-        "link": "https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+        "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+        "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 16:00:00 +0000",
-        "description": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” h"
+        "published": "Wed, 04 Mar 2026 22:40:05 +0000",
+        "description": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in."
       },
       {
-        "title": "TikTok won’t add end-to-end encryption to direct messages, report says",
-        "link": "https://techcrunch.com/2026/03/04/tiktok-wont-add-end-to-end-encryption-to-direct-messages-report-says/",
+        "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+        "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 15:15:31 +0000",
-        "description": "The social media giant says that end-to-end encryption would make users less safe."
+        "published": "Wed, 04 Mar 2026 21:43:58 +0000",
+        "description": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be."
       },
       {
-        "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
-        "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+        "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+        "link": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 14:58:36 +0000",
-        "description": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack."
+        "published": "Wed, 04 Mar 2026 20:05:12 +0000",
+        "description": "Google has dropped its commission, charging a 20% service fee and an optional 5% to use its billing services. It will also offer a new process for third-party app stores."
       },
       {
-        "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
-        "link": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
+        "title": "His house burned down. He used the insurance money to build PopSockets.",
+        "link": "https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 14:57:17 +0000",
-        "description": "Apple is offering the MacBook Neo at a more affordable price point by using an A18 Pro chip, which is used in the iPhone 16 Pro."
+        "published": "Wed, 04 Mar 2026 19:34:26 +0000",
+        "description": "Does&#160;a&#160;consumer hardware&#160;company need to get on the&#160;VC treadmill to&#160;succeed?&#160;Eleven years and 290 million products sold across 115 countries later,&#160;PopSockets&#160;h"
       },
       {
-        "title": "One startup’s pitch to provide more reliable AI answers: crowdsource the chatbots",
-        "link": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+        "title": "US and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools",
+        "link": "https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 14:00:00 +0000",
-        "description": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the sa"
+        "published": "Wed, 04 Mar 2026 19:01:55 +0000",
+        "description": "Authorities say LeakBase was \"one of the world’s largest online forums for cybercriminals,\" and maintained an archive of hacked databases containing hundreds of millions of passwords."
       },
       {
-        "title": "Who needs data centers in space when they can float offshore?",
-        "link": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+        "title": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
+        "link": "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 12:00:00 +0000",
-        "description": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year."
+        "published": "Wed, 04 Mar 2026 19:00:43 +0000",
+        "description": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week."
       },
       {
-        "title": "Eight Sleep raises $50M at $1.5B valuation",
-        "link": "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/",
+        "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+        "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 11:00:00 +0000",
-        "description": "Eight Sleep said it was free-cash-flow positive in 2025, and plans to use the new funding for new products, global expansions, and clinical validation."
+        "published": "Wed, 04 Mar 2026 18:50:58 +0000",
+        "description": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more."
       },
       {
-        "title": "Why AI startups are selling the same equity at two different prices",
-        "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+        "title": "Decagon completes first tender offer at $4.5B valuation",
+        "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 00:31:25 +0000",
-        "description": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status."
+        "published": "Wed, 04 Mar 2026 18:32:53 +0000",
+        "description": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity."
       },
       {
-        "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals",
-        "link": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/",
+        "title": "The US military is still using Claude — but defense-tech clients are fleeing",
+        "link": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
         "source": "TechCrunch",
-        "published": "Tue, 03 Mar 2026 23:27:31 +0000",
-        "description": "Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for \"secondhand\" exploits."
+        "published": "Wed, 04 Mar 2026 17:20:01 +0000",
+        "description": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions."
       },
       {
-        "title": "Alibaba’s Qwen tech lead steps down after major AI push",
-        "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+        "title": "X taps William Shatner to give out invites to its payments service, X Money",
+        "link": "https://techcrunch.com/2026/03/04/x-taps-william-shatner-to-give-out-invites-to-its-payments-service-x-money/",
         "source": "TechCrunch",
-        "published": "Tue, 03 Mar 2026 23:16:36 +0000",
-        "description": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch."
+        "published": "Wed, 04 Mar 2026 16:34:21 +0000",
+        "description": "42 X users donated to William Shatner's charity in exchange for an early invite to X Money beta."
       }
     ],
     "Crypto": [
+      {
+        "title": "Vitalik Buterin Makes Shocking Warning About Ethereum’s Future",
+        "link": "https://bitcoinist.com/vitalik-buterin-shocking-warning-ethereums-future/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 22:00:33 +0000",
+        "description": "Ethereum co-founder, Vitalik Buterin, has issued one of his starkest warnings yet: if the network continues to limit itself to DeFi, obsessing over yields and political meme coins, it will betray Ethe"
+      },
+      {
+        "title": "What’s Next For The Crypto Market Structure Bill? Key Dates And Turning Points Ahead",
+        "link": "https://bitcoinist.com/whats-next-for-the-crypto-market-structure-bill/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 21:39:42 +0000",
+        "description": "The future of the CLARITY Act — widely referred to as the crypto market structure bill — remains uncertain after the March 1 deadline set by the White House passed without the expected breakthrough be"
+      },
+      {
+        "title": "Brief Ethereum Recovery Coincides With Record-Breaking Levels Of Address Expansion",
+        "link": "https://bitcoinist.com/ethereum-record-breaking-address/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 20:30:10 +0000",
+        "description": "Ethereum saw a brief bounce, which pushed its price above the $2,000 mark, but this upward move seems lost its momentum and has fallen below the level. Amid this, ETH’s price bounce on Tuesday comes a"
+      },
+      {
+        "title": "Can ADA Price Still Surge? Cardano Founder Says The Best Is Yet To Come",
+        "link": "https://bitcoinist.com/can-cardano-price-still-surge/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 19:00:05 +0000",
+        "description": "Cardano founder Charles Hoskinson is refusing to join the chorus of crypto pessimists. In a recent podcast appearance, Hoskinson delivered a bullish message to a rattled investor base, insisting that "
+      },
+      {
+        "title": "XRP To $60: The Last Time 5 Red Months Appeared, It Led To A 4,300% Increase",
+        "link": "https://bitcoinist.com/xrp-to-60-5-red-months-4300/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 17:30:45 +0000",
+        "description": "XRP has now recorded five consecutive monthly losses, highlighting its sustained weakness since Q4 2025. The cryptocurrency continues to trade sideways amid growing investor caution amid broader marke"
+      },
       {
         "title": "XRP Caught In Volatility Storm, Open Interest Slashed By 70% – Here’s What This Means",
         "link": "https://bitcoinist.com/xrp-caught-in-volatility-storm/",
@@ -239,215 +274,187 @@
         "source": "Bitcoinist",
         "published": "Wed, 04 Mar 2026 13:00:43 +0000",
         "description": "Ripple says it is tightening the XRP Ledger amendment process after a critical flaw was found in the proposed Batch amendment (XLS-56), an incident that exposed gaps in review even as the network’s la"
-      },
-      {
-        "title": "Stablecoins Pose Fresh Risk To Eurozone Lending, ECB Says",
-        "link": "https://bitcoinist.com/stablecoins-pose-fresh-risk-to-eurozone-lending-ecb-says/",
-        "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 11:30:58 +0000",
-        "description": "Europe’s top central bank is watching stablecoins with growing caution. What began as a niche crypto tool is now large enough to draw attention in Frankfurt. Related Reading: US Senate Tucks CBDC Ban "
-      },
-      {
-        "title": "Paraguay Plans First State-Run Bitcoin Mining Project",
-        "link": "https://bitcoinist.com/paraguay-first-state-run-bitcoin-mining/",
-        "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 10:00:26 +0000",
-        "description": "Paraguay’s state power utility ANDE has signed a memorandum of understanding with crypto infrastructure firm Morphware, setting up a formal cooperation framework that explicitly includes exploring Bit"
-      },
-      {
-        "title": "Solana OI And Weighted Funding Rate Crash To Levels Not Seen Since 2023",
-        "link": "https://bitcoinist.com/solana-oi-weighted-funding-rate/",
-        "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 08:30:32 +0000",
-        "description": "After hitting an all-time high of $291 back in January 2025, Solana has begun what has been a year of steady declines. While there have been some relief bounces along the way, the main direction has b"
-      },
-      {
-        "title": "Another Bitcoin Miner Shifts To AI: Core Scientific Offloads 1,900 BTC",
-        "link": "https://bitcoinist.com/bitcoin-miner-shifts-ai-core-scientific-1900-btc/",
-        "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 07:00:48 +0000",
-        "description": "Core Scientific is the latest in the line of Bitcoin miners accelerating a pivot toward AI, selling 1,900 BTC and signaling that more is coming. Core Scientific Expects To Sell All Of Its Bitcoin Hold"
-      },
-      {
-        "title": "Confidential LIBRA Advisory Agreement Between Co‑Creator And President Milei Revealed",
-        "link": "https://bitcoinist.com/confidential-libra-advisory-agreement-milei-reveal/",
-        "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 06:00:39 +0000",
-        "description": "A new chapter has unfolded in the ongoing LIBRA cryptocurrency scandal, as fresh judicial findings suggest that the relationship between Argentine President Javier Milei and LIBRA co-creator Hayden Ma"
       }
     ],
     "Markets": [
       {
-        "title": "Economy gained strength in February despite Winter Storm Fern. ISM survey hits 3½-year high.",
-        "link": "https://www.marketwatch.com/story/u-s-economy-gained-strength-february-despite-winter-storm-fern-ism-survey-hits-3-1-3-year-high-0fb7ec43?mod=mw_rss_topstories",
+        "title": "Tesla’s self-driving effort could be worth more than double its EV division",
+        "link": "https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 15:56:00 GMT",
-        "description": "The largest part of the U.S. economy expanded in February at the fastest pace in three and a half years, a survey showed, as businesses adjusted to high tariffs and sales and new orders rose."
+        "published": "Wed, 04 Mar 2026 23:50:00 GMT",
+        "description": "Tesla has made autonomous vehicles a priority, investing heavily in robotaxis and driving-assistance software."
       },
       {
-        "title": "I’m supporting friends through breakups, layoffs and family deaths. Are Uber Eats gift cards appropriate?",
-        "link": "https://www.marketwatch.com/story/im-supporting-friends-through-breakups-layoffs-and-family-deaths-are-uber-eats-gift-cards-appropriate-877b57fd?mod=mw_rss_topstories",
+        "title": "Apple’s new $599 MacBook Neo borrows iPhone chip to make play for budget-laptop market share",
+        "link": "https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 15:39:00 GMT",
-        "description": "“The costs are starting to rack up.”"
+        "published": "Wed, 04 Mar 2026 23:49:00 GMT",
+        "description": "Apple wraps up three days of product launches with its cheapest laptop yet."
       },
       {
-        "title": "Jack Daniel’s parent surprises investors, showing increases in alcohol sales and profits",
-        "link": "https://www.marketwatch.com/story/jack-daniels-parent-surprises-investors-showing-increases-in-alcohol-sales-and-profits-c4e5abc7?mod=mw_rss_topstories",
+        "title": "‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?",
+        "link": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 15:09:00 GMT",
-        "description": "Brown-Forman’s stock was surging Wednesday after the company reported that quarterly sales rose for the first time in more than two years. Wall Street had been expecting another decline."
+        "published": "Wed, 04 Mar 2026 23:40:00 GMT",
+        "description": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors.”"
       },
       {
-        "title": "Bessent pledges more U.S. support for Gulf oil trade. Here’s what the White House could do next.",
-        "link": "https://www.marketwatch.com/story/bessent-pledges-more-u-s-support-for-gulf-oil-trade-heres-what-the-white-house-could-do-next-e989bff3?mod=mw_rss_topstories",
+        "title": "Why the rise in 401(k) hardship withdrawals may not be such a problem",
+        "link": "https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 14:54:00 GMT",
-        "description": "Oil prices are falling for the first time since the attack on Iran."
+        "published": "Wed, 04 Mar 2026 23:31:00 GMT",
+        "description": "More people are taking hardship withdrawals from their 401(k) accounts, according to a recent Vanguard report, and while not ideal, this isn’t the five-alarm fire that it may appear to be."
       },
       {
-        "title": "ADP says U.S. businesses added 63,000 jobs in February. Labor market is sluggish even though hiring picked up.",
-        "link": "https://www.marketwatch.com/story/adp-says-businesses-add-63-000-jobs-in-february-as-hiring-picks-up-93f1ab7c?mod=mw_rss_topstories",
+        "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
+        "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 14:25:00 GMT",
-        "description": "ADP said businesses created 63,000 new jobs in February — the biggest increase in seven months — in another sign that a sluggish U.S. labor market might be slightly perking up."
-      },
-      {
-        "title": "The stock market’s violent swings are sending a message about the escalating Iran conflict",
-        "link": "https://www.marketwatch.com/story/the-stock-markets-wild-swings-are-sending-a-message-about-the-escalating-iran-conflict-9dc81cac?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 14:21:00 GMT",
-        "description": "Stocks point higher Wednesday, a day after volatility gripped traders trying to gauge the impact on oil and inflation."
-      },
-      {
-        "title": "Oil prices turn lower as fears about energy supply shock ease",
-        "link": "https://www.marketwatch.com/story/oil-prices-move-back-to-multi-month-highs-as-iran-war-disrupts-supply-c3ec031b?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 14:16:00 GMT",
-        "description": "Goldman Sachs warns cost of crude oil could hit $100 a barrel."
-      },
-      {
-        "title": "How this top-performing trend-following manager got ahead of the Iran conflict and a software rout",
-        "link": "https://www.marketwatch.com/story/how-this-top-performing-trend-following-manager-got-ahead-of-the-iran-conflict-and-a-software-rout-8110f662?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 13:51:00 GMT",
-        "description": "Longboard Asset Management has made a strategy of not getting hung up on headlines. Here’s what the trend-following manager sees as worth investing in now."
+        "published": "Wed, 04 Mar 2026 23:30:00 GMT",
+        "description": "“She is reading alarmist headlines about Iran in the newspapers.”"
       },
       {
         "title": "‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?",
         "link": "https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 13:15:00 GMT",
+        "published": "Wed, 04 Mar 2026 23:28:00 GMT",
         "description": "“Without clear distance and boundaries, he will pull me down with him.”"
       },
       {
-        "title": "There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline",
-        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
+        "title": "Blue Owl’s private-credit stumble revives fears of another Bear Stearns moment",
+        "link": "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 13:02:00 GMT",
-        "description": "The same financial habits that pushed the number of 401(k) millionaires to new highs should help retirement savers through the current global uncertainty"
+        "published": "Wed, 04 Mar 2026 23:15:00 GMT",
+        "description": "This is not yet a repeat of 2008. But dismissing it as a nonevent would be a mistake."
+      },
+      {
+        "title": "Broadcom’s stock climbs after it says AI is not disrupting its software business",
+        "link": "https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Wed, 04 Mar 2026 23:11:00 GMT",
+        "description": "The chip maker sees sales growth in its infrastructure software accelerating, showing that it’s focused on and investing in that business."
+      },
+      {
+        "title": "The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
+        "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Wed, 04 Mar 2026 23:07:00 GMT",
+        "description": "Here’s what financial planners know but many retirees discover too late."
+      },
+      {
+        "title": "Okta’s stock rallies as momentum in AI agents fuels an earnings beat",
+        "link": "https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Wed, 04 Mar 2026 22:22:00 GMT",
+        "description": "Okta beat earnings expectations for the latest quarter, but guidance for the current quarter was below forecasts."
       }
     ],
     "Singapore": [
       {
-        "title": "US dollar nudges lower on hopes of Middle East de-escalation",
-        "link": "https://www.channelnewsasia.com/business/us-dollar-nudges-lower-hopes-middle-east-de-escalation-5968636",
+        "title": "US sinks Iranian warship off Sri Lanka, NATO downs Iranian missile heading for Türkiye",
+        "link": "https://www.channelnewsasia.com/world/us-sinks-iran-war-ship-nato-israel-missile-5972121",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 23:47:23 +0800",
+        "published": "Thu, 05 Mar 2026 07:27:00 +0800",
+        "description": "The missile incident was the first time that Türkiye, which has NATO's second-largest military, was drawn into the conflict."
+      },
+      {
+        "title": "Bromance, clams, gochujang: Celeb chefs Edward Lee, Ryu Soo-young explore Korean seafood in new road trip show",
+        "link": "https://www.channelnewsasia.com/entertainment/ed-and-ryu-mad-about-seafood-bbc-5961731",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 07:24:44 +0800",
+        "description": "The two popular chefs and TV personalities explore the depths of coastal Korean cuisine in Ed &amp; Ryu: Mad About Seafood, bonding, cooking and charming townspeople along the way."
+      },
+      {
+        "title": "Dior's Jonathan Anderson finds his stride with a garden of earthly delights at Paris Fashion Week",
+        "link": "https://www.channelnewsasia.com/obsessions/jonathan-anderson-dior-fall-winter-2026-paris-5968266",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 07:07:09 +0800",
+        "description": "In a glass-walled runway at the Tuileries, Jonathan Anderson’s Dior blooms into focus for fall/winter 2026."
+      },
+      {
+        "title": "Arsenal seize control as Man City slip, Chelsea thrash Villa",
+        "link": "https://www.channelnewsasia.com/sport/arsenal-seize-control-man-city-slip-chelsea-thrash-villa-5972081",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 07:01:09 +0800",
         "description": ""
       },
       {
-        "title": "Maguire handed suspended prison sentence for 2020 brawl in Mykonos - Sky Sports",
-        "link": "https://www.channelnewsasia.com/sport/maguire-handed-suspended-prison-sentence-2020-brawl-in-mykonos-sky-sports-5971246",
+        "title": "Trump rates Iran war '15 out of 10'",
+        "link": "https://www.channelnewsasia.com/world/trump-rates-us-war-iran-leaders-killed-5972046",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 23:24:16 +0800",
+        "published": "Thu, 05 Mar 2026 06:41:00 +0800",
+        "description": "\"We're in a very strong position now, and their (Iran's) leadership is just rapidly going,\" said US President Donald Trump.&nbsp;&nbsp;"
+      },
+      {
+        "title": "Real Sociedad edge Bilbao to set up Copa del Rey final against Atletico Madrid",
+        "link": "https://www.channelnewsasia.com/sport/real-sociedad-edge-bilbao-set-up-copa-del-rey-final-against-atletico-madrid-5972051",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 06:36:59 +0800",
         "description": ""
       },
       {
-        "title": "Italy basilica bust re-attributed to Michelangelo after centuries in obscurity",
-        "link": "https://www.channelnewsasia.com/business/italy-basilica-bust-re-attributed-michelangelo-after-centuries-in-obscurity-5971241",
+        "title": "Newcastle, down to 10 men, end Carrick's unbeaten run with Man Utd",
+        "link": "https://www.channelnewsasia.com/sport/newcastle-down-10-men-end-carricks-unbeaten-run-man-utd-5972031",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 23:20:57 +0800",
+        "published": "Thu, 05 Mar 2026 06:30:13 +0800",
         "description": ""
       },
       {
-        "title": "Live viewing powers Formula One to biggest total audience in five years",
-        "link": "https://www.channelnewsasia.com/sport/live-viewing-powers-formula-one-biggest-total-audience-in-five-years-5971211",
+        "title": "Hari Raya 2026: 10 Singapore and Malaysia labels to shop for your festive outfits",
+        "link": "https://www.channelnewsasia.com/obsessions/hari-raya-2026-baju-kurung-kebaya-singapore-malaysia-brands-5966636",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 23:04:38 +0800",
-        "description": ""
+        "published": "Thu, 05 Mar 2026 06:06:00 +0800",
+        "description": "Planning your Raya 2026 looks? These labels offer everything from baju kurungs, kebayas, kaftans and versatile separates that balance modesty, comfort and style for the festivities.&nbsp;"
       },
       {
-        "title": "German athletes to boycott Games opening ceremony parade",
-        "link": "https://www.channelnewsasia.com/sport/german-athletes-boycott-games-opening-ceremony-parade-5971186",
+        "title": "Commentary: Iranians cannot just ‘take back’ their country after US-Israel strikes",
+        "link": "https://www.channelnewsasia.com/commentary/iran-war-us-israel-iranians-topple-regime-5970591",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 23:00:33 +0800",
-        "description": ""
+        "published": "Thu, 05 Mar 2026 06:00:00 +0800",
+        "description": "Even after the death of Supreme Leader Ayatollah Ali Khamenei and numerous senior leaders, there has been no popular uprising so far, says war studies lecturer Samir Puri."
       },
       {
-        "title": "Ireland's Farrell shuffles pack again for Wales visit",
-        "link": "https://www.channelnewsasia.com/sport/irelands-farrell-shuffles-pack-again-wales-visit-5971156",
+        "title": "Anwar faces ‘reality check’ on support for reform agenda after failure to pass Bill on PM tenure limit",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-pm-term-limit-attorney-general-public-prosecutor-reform-agenda-5967791",
         "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 22:48:22 +0800",
-        "description": ""
-      },
-      {
-        "title": "US and Britain split over crypto collaboration, sources say",
-        "link": "https://www.channelnewsasia.com/business/us-and-britain-split-over-crypto-collaboration-sources-say-5971106",
-        "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 22:23:07 +0800",
-        "description": ""
-      },
-      {
-        "title": "Apple debuts $599 MacBook Neo to challenge Chromebooks, Windows PCs",
-        "link": "https://www.channelnewsasia.com/business/apple-debuts-599-macbook-neo-challenge-chromebooks-windows-pcs-5971111",
-        "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 22:22:48 +0800",
-        "description": ""
-      },
-      {
-        "title": "England have belief and skills to take down India, says Brook",
-        "link": "https://www.channelnewsasia.com/sport/england-have-belief-and-skills-take-down-india-says-brook-5971091",
-        "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 21:55:42 +0800",
-        "description": ""
-      },
-      {
-        "title": "Spain defies Trump's threats over stance on Iran war, says it 'won't be vassals'",
-        "link": "https://www.channelnewsasia.com/world/spain-defies-trumps-threats-over-stance-iran-war-says-it-wont-be-vassals-5970061",
-        "source": "CNA Singapore",
-        "published": "Wed, 04 Mar 2026 21:50:47 +0800",
-        "description": ""
+        "published": "Thu, 05 Mar 2026 06:00:00 +0800",
+        "description": "The failure to pass the Bill has exposed significant coordination gaps and \"uneven political commitment\" within the Anwar Ibrahim administration, say analysts."
       }
     ],
     "US Politics": [
       {
+        "title": "Mahmood to set out curbs to asylum seeker support",
+        "link": "https://www.bbc.com/news/articles/c0j559146e6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 04 Mar 2026 22:31:21 GMT",
+        "description": "The home secretary will say in a speech the move is required to restore \"trust\" to the asylum system."
+      },
+      {
         "title": "First UK government flight to leave Middle East with more planned",
         "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 04 Mar 2026 15:51:34 GMT",
-        "description": "Some British nationals are being invited to board the flight from the capital of Oman later on Wednesday."
+        "published": "Wed, 04 Mar 2026 22:21:07 GMT",
+        "description": "The UK government says more than 130,000 British nationals have registered their interest in leaving the Middle East region."
+      },
+      {
+        "title": "Stock markets and oil prices still volatile over fears Iran war may drag on",
+        "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 04 Mar 2026 19:00:39 GMT",
+        "description": "Experts have warned that if oil and gas prices remains elevated it could make goods and services more expensive."
       },
       {
         "title": "MP not seen anything to suspect husband has 'broken any law', after China spy arrests",
         "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 04 Mar 2026 14:59:01 GMT",
+        "published": "Wed, 04 Mar 2026 18:39:13 GMT",
         "description": "The Met Police suspect three men of assisting Chinese intelligence services in the UK."
       },
       {
         "title": "Starmer defends Iran response as Badenoch calls for more action",
         "link": "https://www.bbc.com/news/articles/c5y4458d9jdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 04 Mar 2026 14:27:59 GMT",
+        "published": "Wed, 04 Mar 2026 17:46:37 GMT",
         "description": "It comes after Trump criticised the PM for refusing to allow the use of UK bases in the initial US-Israel strikes."
-      },
-      {
-        "title": "UK stock market calms but oil prices rise over fears Iran war may drag on",
-        "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 04 Mar 2026 13:58:51 GMT",
-        "description": "European markets are trading a little higher but gas and crude prices remain volatile."
       },
       {
         "title": "Ex-Labour mayor and councillor join Reform UK",
@@ -483,29 +490,57 @@
         "source": "BBC Politics",
         "published": "Tue, 03 Mar 2026 20:17:30 GMT",
         "description": "Sir Keir Starmer had refused to grant the US permission to use the Diego Garcia military base."
-      },
-      {
-        "title": "Reeves says her plan is working as growth forecast cut for this year",
-        "link": "https://www.bbc.com/news/articles/ce8wew99ngpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 03 Mar 2026 16:39:35 GMT",
-        "description": "The forecasts were made before the conflict in the Middle East broke out which could have a \"very significant\" impact, the OBR said."
       }
     ],
     "Science": [
+      {
+        "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
+        "source": "Science Daily",
+        "published": "Wed, 04 Mar 2026 17:41:14 EST",
+        "description": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque h"
+      },
+      {
+        "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
+        "source": "Science Daily",
+        "published": "Wed, 04 Mar 2026 16:35:02 EST",
+        "description": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a"
+      },
+      {
+        "title": "Popular fruits and vegetables linked to higher pesticide levels",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145705.htm",
+        "source": "Science Daily",
+        "published": "Wed, 04 Mar 2026 13:09:52 EST",
+        "description": "A sweeping new study reveals that what’s on your plate may directly shape the pesticides circulating in your body. Researchers found that people who eat more fruits and vegetables known to carry highe"
+      },
+      {
+        "title": "Climate models may be missing massive carbon emissions from boreal wildfires",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303201755.htm",
+        "source": "Science Daily",
+        "published": "Wed, 04 Mar 2026 12:50:50 EST",
+        "description": "Northern wildfires may be more dangerous for the climate than they appear. Researchers found that fires in boreal forests can burn deep into peat soils, releasing ancient carbon stored for hundreds or"
+      },
+      {
+        "title": "A simple hand photo may be the key to detecting a serious disease",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303201807.htm",
+        "source": "Science Daily",
+        "published": "Wed, 04 Mar 2026 11:59:51 EST",
+        "description": "Researchers at Kobe University have developed an AI system that can detect acromegaly, a rare hormone disorder, by analyzing photos of the back of the hand and a clenched fist. The disease often devel"
+      },
+      {
+        "title": "Study finds wild release can be deadly for rescued slow lorises",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303201801.htm",
+        "source": "Science Daily",
+        "published": "Tue, 03 Mar 2026 23:19:55 EST",
+        "description": "Returning rescued slow lorises to the wild may sound like a conservation success, but a new study shows it can turn deadly. Researchers tracked nine released animals and found that only two survived, "
+      },
       {
         "title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
         "link": "https://www.sciencedaily.com/releases/2026/03/260303145730.htm",
         "source": "Science Daily",
         "published": "Tue, 03 Mar 2026 21:38:45 EST",
         "description": "A new study has uncovered why some brain cells are more resistant to Alzheimer’s damage than others. Researchers found a natural cleanup system that helps remove toxic tau protein before it can form h"
-      },
-      {
-        "title": "Neutrinos could explain why matter survived the Big Bang",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303145703.htm",
-        "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 19:59:36 EST",
-        "description": "An international team combining two major neutrino experiments has uncovered stronger evidence that neutrinos and antimatter don’t behave as perfect mirror images. That subtle difference may hold the "
       },
       {
         "title": "What snow monkeys’ steamy baths are really doing to their bodies",
@@ -515,53 +550,18 @@
         "description": "Japanese snow monkeys don’t just soak in hot springs to escape the winter chill — their steamy spa sessions may also be reshaping their invisible world. Researchers in Japan found that macaques who re"
       },
       {
-        "title": "This simple blood protein could stop a deadly black fungus",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303050633.htm",
+        "title": "Scientists build a “periodic table” for AI",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145714.htm",
         "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 14:56:04 EST",
-        "description": "Scientists have uncovered a surprising new hero in the fight against one of the world’s deadliest fungal infections: albumin, the most abundant protein in human blood. In a major international study, "
+        "published": "Tue, 03 Mar 2026 14:57:14 EST",
+        "description": "Choosing the right method for multimodal AI—systems that combine text, images, and more—has long been trial and error. Emory physicists created a unifying mathematical framework that shows many AI tec"
       },
       {
-        "title": "Wolves are stealing cougar kills in Yellowstone, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303050628.htm",
+        "title": "Scientists capture a magnetic flip in 140 trillionths of a second",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260303145707.htm",
         "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 13:10:50 EST",
-        "description": "In Yellowstone’s wild chess match between wolves and cougars, it turns out the real power play is theft. After tracking nearly a decade of GPS data and thousands of kill sites, researchers found that "
-      },
-      {
-        "title": "Laser printed hydrogel implant could transform bone repair",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303050626.htm",
-        "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 12:31:18 EST",
-        "description": "When a bone break is too severe to heal on its own, surgeons often rely on grafts or rigid metal implants — but both come with serious drawbacks. Now, researchers at ETH Zurich have created a jelly-li"
-      },
-      {
-        "title": "Intelligence emerges when the whole brain works as one",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
-        "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 10:32:13 EST",
-        "description": "For decades, scientists have mapped attention, memory, language, and reasoning to separate brain networks — yet one big mystery remained: why does the mind feel like a single, unified system? Research"
-      },
-      {
-        "title": "Blasted off Mars and still alive",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm",
-        "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 08:53:09 EST",
-        "description": "A famously resilient bacterium may be tough enough to survive one of the most violent events imaginable on Mars. In laboratory experiments designed to mimic the crushing shock of a massive asteroid im"
-      },
-      {
-        "title": "James Webb spots a galaxy with tentacles in deep space",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm",
-        "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 08:25:27 EST",
-        "description": "Astronomers using the James Webb Space Telescope have spotted the most distant “jellyfish galaxy” ever seen — a cosmic oddity streaming long, tentacle-like trails of gas and newborn stars as it speeds"
-      },
-      {
-        "title": "A flash of laser light flips a magnet in major light-control breakthrough",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303050630.htm",
-        "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 08:03:51 EST",
-        "description": "Researchers at the University of Basel and the ETH in Zurich have succeeded in changing the polarity of a special ferromagnet using a laser beam. In the future, this method could be used to create ada"
+        "published": "Tue, 03 Mar 2026 14:57:07 EST",
+        "description": "Scientists at the University of Tokyo have captured something never seen before: a frame-by-frame view of how electron spins flip inside an antiferromagnet, a material once thought to be magnetically "
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "XRP Caught In Volatility Storm, Open Interest Slashed By 70% – Here’s What This Means",
-      "link": "https://bitcoinist.com/xrp-caught-in-volatility-storm/",
+      "title": "US sinks Iranian warship off Sri Lanka, NATO downs Iranian missile heading for Türkiye",
+      "link": "https://www.channelnewsasia.com/world/us-sinks-iran-war-ship-nato-israel-missile-5972121",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 07:27:00 +0800",
+      "description": "The missile incident was the first time that Türkiye, which has NATO's second-largest military, was drawn into the conflict."
+    },
+    {
+      "title": "Bromance, clams, gochujang: Celeb chefs Edward Lee, Ryu Soo-young explore Korean seafood in new road trip show",
+      "link": "https://www.channelnewsasia.com/entertainment/ed-and-ryu-mad-about-seafood-bbc-5961731",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 07:24:44 +0800",
+      "description": "The two popular chefs and TV personalities explore the depths of coastal Korean cuisine in Ed &amp; Ryu: Mad About Seafood, bonding, cooking and charming townspeople along the way."
+    },
+    {
+      "title": "Dior's Jonathan Anderson finds his stride with a garden of earthly delights at Paris Fashion Week",
+      "link": "https://www.channelnewsasia.com/obsessions/jonathan-anderson-dior-fall-winter-2026-paris-5968266",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 07:07:09 +0800",
+      "description": "In a glass-walled runway at the Tuileries, Jonathan Anderson’s Dior blooms into focus for fall/winter 2026."
+    },
+    {
+      "title": "Arsenal seize control as Man City slip, Chelsea thrash Villa",
+      "link": "https://www.channelnewsasia.com/sport/arsenal-seize-control-man-city-slip-chelsea-thrash-villa-5972081",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 07:01:09 +0800",
+      "description": ""
+    },
+    {
+      "title": "Trump rates Iran war '15 out of 10'",
+      "link": "https://www.channelnewsasia.com/world/trump-rates-us-war-iran-leaders-killed-5972046",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 06:41:00 +0800",
+      "description": "\"We're in a very strong position now, and their (Iran's) leadership is just rapidly going,\" said US President Donald Trump.&nbsp;&nbsp;"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+      "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "source": "TechCrunch",
+      "published": "Wed, 04 Mar 2026 22:40:05 +0000",
+      "description": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in."
+    },
+    {
+      "title": "Real Sociedad edge Bilbao to set up Copa del Rey final against Atletico Madrid",
+      "link": "https://www.channelnewsasia.com/sport/real-sociedad-edge-bilbao-set-up-copa-del-rey-final-against-atletico-madrid-5972051",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 06:36:59 +0800",
+      "description": ""
+    },
+    {
+      "title": "Newcastle, down to 10 men, end Carrick's unbeaten run with Man Utd",
+      "link": "https://www.channelnewsasia.com/sport/newcastle-down-10-men-end-carricks-unbeaten-run-man-utd-5972031",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 06:30:13 +0800",
+      "description": ""
+    },
+    {
+      "title": "Hari Raya 2026: 10 Singapore and Malaysia labels to shop for your festive outfits",
+      "link": "https://www.channelnewsasia.com/obsessions/hari-raya-2026-baju-kurung-kebaya-singapore-malaysia-brands-5966636",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 06:06:00 +0800",
+      "description": "Planning your Raya 2026 looks? These labels offer everything from baju kurungs, kebayas, kaftans and versatile separates that balance modesty, comfort and style for the festivities.&nbsp;"
+    },
+    {
+      "title": "Vitalik Buterin Makes Shocking Warning About Ethereum’s Future",
+      "link": "https://bitcoinist.com/vitalik-buterin-shocking-warning-ethereums-future/",
       "source": "Bitcoinist",
-      "published": "Wed, 04 Mar 2026 16:00:08 +0000",
-      "description": "The XRP downside pressure has intensified, and is now moving beyond its price dynamics into on-chain activity. Following a prolonged period of downward performance, key areas such as Open Interest hav"
-    },
-    {
-      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-      "link": "https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-      "source": "TechCrunch",
-      "published": "Wed, 04 Mar 2026 16:00:00 +0000",
-      "description": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” h"
-    },
-    {
-      "title": "US dollar nudges lower on hopes of Middle East de-escalation",
-      "link": "https://www.channelnewsasia.com/business/us-dollar-nudges-lower-hopes-middle-east-de-escalation-5968636",
-      "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 23:47:23 +0800",
-      "description": ""
-    },
-    {
-      "title": "Maguire handed suspended prison sentence for 2020 brawl in Mykonos - Sky Sports",
-      "link": "https://www.channelnewsasia.com/sport/maguire-handed-suspended-prison-sentence-2020-brawl-in-mykonos-sky-sports-5971246",
-      "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 23:24:16 +0800",
-      "description": ""
-    },
-    {
-      "title": "Italy basilica bust re-attributed to Michelangelo after centuries in obscurity",
-      "link": "https://www.channelnewsasia.com/business/italy-basilica-bust-re-attributed-michelangelo-after-centuries-in-obscurity-5971241",
-      "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 23:20:57 +0800",
-      "description": ""
-    },
-    {
-      "title": "TikTok won’t add end-to-end encryption to direct messages, report says",
-      "link": "https://techcrunch.com/2026/03/04/tiktok-wont-add-end-to-end-encryption-to-direct-messages-report-says/",
-      "source": "TechCrunch",
-      "published": "Wed, 04 Mar 2026 15:15:31 +0000",
-      "description": "The social media giant says that end-to-end encryption would make users less safe."
-    },
-    {
-      "title": "Live viewing powers Formula One to biggest total audience in five years",
-      "link": "https://www.channelnewsasia.com/sport/live-viewing-powers-formula-one-biggest-total-audience-in-five-years-5971211",
-      "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 23:04:38 +0800",
-      "description": ""
-    },
-    {
-      "title": "German athletes to boycott Games opening ceremony parade",
-      "link": "https://www.channelnewsasia.com/sport/german-athletes-boycott-games-opening-ceremony-parade-5971186",
-      "source": "CNA Singapore",
-      "published": "Wed, 04 Mar 2026 23:00:33 +0800",
-      "description": ""
-    },
-    {
-      "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
-      "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
-      "source": "TechCrunch",
-      "published": "Wed, 04 Mar 2026 14:58:36 +0000",
-      "description": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack."
-    },
-    {
-      "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
-      "link": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
-      "source": "TechCrunch",
-      "published": "Wed, 04 Mar 2026 14:57:17 +0000",
-      "description": "Apple is offering the MacBook Neo at a more affordable price point by using an A18 Pro chip, which is used in the iPhone 16 Pro."
+      "published": "Wed, 04 Mar 2026 22:00:33 +0000",
+      "description": "Ethereum co-founder, Vitalik Buterin, has issued one of his starkest warnings yet: if the network continues to limit itself to DeFi, obsessing over yields and political meme coins, it will betray Ethe"
     }
   ]
 }
