@@ -1,15 +1,8 @@
 {
-  "updated_sgt": "2026-03-05 08:00 SGT",
-  "updated_iso": "2026-03-05T08:00:45.991611+08:00",
+  "updated_sgt": "2026-03-05 12:00 SGT",
+  "updated_iso": "2026-03-05T12:00:14.040328+08:00",
   "categories": {
     "World": [
-      {
-        "title": "US Senate vote fails to rein in Trump war powers on Iran",
-        "link": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 23:42:08 GMT",
-        "description": "The measure, passed largely along party lines, would halt US military action until approved by Congress."
-      },
       {
         "title": "Millions of Cubans plunged into darkness as fuel crisis deepens",
         "link": "https://www.bbc.com/news/articles/cx2ggpq1742o?at_medium=RSS&at_campaign=rss",
@@ -18,25 +11,11 @@
         "description": "Fuel shortages have been exacerbated by a US oil blockade since the seizure of Venezuelan President Nicolás Maduro."
       },
       {
-        "title": "Higher tariffs likely this week, says US Treasury",
-        "link": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 22:11:17 GMT",
-        "description": "Scott Bessent says that \"likely sometime this week\" the US will increase its global tariff on imports from the existing 10%."
-      },
-      {
         "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
         "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Wed, 04 Mar 2026 20:42:35 GMT",
         "description": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
-      },
-      {
-        "title": "Pentagon identifies four of six US soldiers killed in Iran conflict",
-        "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 19:08:24 GMT",
-        "description": "The US soldiers were killed after a drone evaded air defences to hit a command centre in Port Shuaiba, Kuwait, on Sunday."
       },
       {
         "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
@@ -72,36 +51,43 @@
         "source": "BBC World",
         "published": "Wed, 04 Mar 2026 12:45:24 GMT",
         "description": "Mosiuoa Lekota was imprisoned with former South African President Nelson Mandela on Robben Island."
+      },
+      {
+        "title": "China sets lowest economic growth target since 1991",
+        "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 05 Mar 2026 03:10:52 GMT",
+        "description": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023."
+      },
+      {
+        "title": "Pentagon identifies six US soldiers killed in Iran conflict",
+        "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 05 Mar 2026 01:42:40 GMT",
+        "description": "The US soldiers were killed after a drone evaded air defences to hit a command centre in Port Shuaiba, Kuwait, on Sunday."
+      },
+      {
+        "title": "Trade court orders tariff refunds in setback for Trump administration",
+        "link": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 05 Mar 2026 00:13:16 GMT",
+        "description": "A trade court has cleared the way for businesses to receive refunds for tariffs that the Supreme Court struck down last month."
       }
     ],
     "Finance": [
+      {
+        "title": "The U.S. insists the Iran conflict won't be a 'forever war.' Experts beg to differ",
+        "link": "https://www.cnbc.com/2026/03/05/iran-conflict-duration-middle-east-regional-war-experts.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 04 Mar 2026 23:17:13 GMT",
+        "description": "President Trump and his officials say the war won't be protracted. Experts say it could go on longer than the White House expects."
+      },
       {
         "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
         "link": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
         "source": "CNBC Finance",
         "published": "Wed, 04 Mar 2026 22:53:45 GMT",
         "description": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending."
-      },
-      {
-        "title": "Tech industry group expresses 'concern' to Pete Hegseth over supply chain risk label",
-        "link": "https://www.cnbc.com/2026/03/04/big-tech-industry-group-.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 21:46:16 GMT",
-        "description": "The Information Technology Industry Council's letter doesn't name Anthropic, but lands days after the AI company was designated a supply chain risk."
-      },
-      {
-        "title": "Okta beats fourth-quarter estimates, but issues weak guidance",
-        "link": "https://www.cnbc.com/2026/03/04/okta-okta-q4-2026-earnings.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 21:40:57 GMT",
-        "description": "Okta's stock has dropped this year as investors fret over AI replacing cybersecurity"
-      },
-      {
-        "title": "Epstein files: House committee subpoenas Attorney General Pam Bondi",
-        "link": "https://www.cnbc.com/2026/03/04/epstein-files-nancy-mace-pam-bondi-subpoena-doj.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 21:35:35 GMT",
-        "description": "Attorney General Pam Bondi \"claims the DOJ has released all of the Epstein files. The record is clear: they have not,\" Rep. Nancy Mace said in a post on X."
       },
       {
         "title": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
@@ -118,13 +104,6 @@
         "description": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last."
       },
       {
-        "title": "Rep. Tony Gonzales will face House ethics panel probe over 'sexual misconduct' claim",
-        "link": "https://www.cnbc.com/2026/03/04/house-ethics-gonzales-congress.html",
-        "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 19:55:12 GMT",
-        "description": "Texas Republican Rep. Tony Gonzales has come under fire for allegedly having a romantic relationship with a staffer who died by suicide last year"
-      },
-      {
         "title": "Apple announces MacBook Neo, its most affordable laptop ever",
         "link": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
         "source": "CNBC Finance",
@@ -132,18 +111,39 @@
         "description": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
       },
       {
-        "title": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
-        "link": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html",
+        "title": "South Korea's Kospi stages a sharp rebound, surging 10%, on course for best day since 2008",
+        "link": "https://www.cnbc.com/2026/03/05/asia-pacific-markets-kospi-hang-seng-index-nikkei-225-china-two-sessions.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 19:16:10 GMT",
-        "description": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped"
+        "published": "Thu, 05 Mar 2026 03:43:53 GMT",
+        "description": "Asia-Pacific markets opened higher Thursday, rebounding after several days of steep losses."
       },
       {
-        "title": "Bessent says global 15% tariff starts this week, predicts Trump duties will return to old levels later this year",
-        "link": "https://www.cnbc.com/2026/03/04/bessent-says-global-15percent-tariff-starts-this-week-move-back-to-prior-rates-within-5-months.html",
+        "title": "China sets its lowest annual growth target on record at 4.5% to 5% as deflation and tariffs bite",
+        "link": "https://www.cnbc.com/2026/03/05/china-gdp-two-sessions-.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 14:38:23 GMT",
-        "description": "The Supreme Court last month ruled that President Donald Trump's sweeping global tariffs are not authorized under the law known as IEEPA."
+        "published": "Thu, 05 Mar 2026 03:23:02 GMT",
+        "description": "That marks a slight downgrade from the \"around 5%\" target set in the past three years."
+      },
+      {
+        "title": "China to boost defense spending by 7%, slowest pace since 2021",
+        "link": "https://www.cnbc.com/2026/03/05/china-defense-spending-7-percent-2026-budget.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 05 Mar 2026 02:43:33 GMT",
+        "description": "Beijing's planned military budget comes amid escalating conflict in the Middle East and persistent tensions over Taiwan."
+      },
+      {
+        "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
+        "link": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 05 Mar 2026 01:54:14 GMT",
+        "description": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business."
+      },
+      {
+        "title": "Rep. Tony Gonzales admits to affair with staffer who died by suicide",
+        "link": "https://www.cnbc.com/2026/03/04/house-ethics-gonzales-congress.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 05 Mar 2026 00:58:01 GMT",
+        "description": "Texas Republican Rep. Tony Gonzales has come under fire for allegedly having a romantic relationship with a staffer who died by suicide last year"
       }
     ],
     "Technology": [
@@ -211,14 +211,21 @@
         "description": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions."
       },
       {
-        "title": "X taps William Shatner to give out invites to its payments service, X Money",
-        "link": "https://techcrunch.com/2026/03/04/x-taps-william-shatner-to-give-out-invites-to-its-payments-service-x-money/",
+        "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+        "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 16:34:21 +0000",
-        "description": "42 X users donated to William Shatner's charity in exchange for an early invite to X Money beta."
+        "published": "Thu, 05 Mar 2026 01:08:28 +0000",
+        "description": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story."
       }
     ],
     "Crypto": [
+      {
+        "title": "US Moves Bitcoin During Iran Strikes — Market Watches Closely",
+        "link": "https://bitcoinist.com/us-moves-bitcoin-during-iran-strikes-market-watches-closely/",
+        "source": "Bitcoinist",
+        "published": "Wed, 04 Mar 2026 23:30:59 +0000",
+        "description": "The US government shifted seized Bitcoin on Monday just as military strikes on Iran sent crypto markets into a sharp sell-off. Related Reading: Stablecoins Pose Fresh Risk To Eurozone Lending, ECB Say"
+      },
       {
         "title": "Vitalik Buterin Makes Shocking Warning About Ethereum’s Future",
         "link": "https://bitcoinist.com/vitalik-buterin-shocking-warning-ethereums-future/",
@@ -255,25 +262,18 @@
         "description": "XRP has now recorded five consecutive monthly losses, highlighting its sustained weakness since Q4 2025. The cryptocurrency continues to trade sideways amid growing investor caution amid broader marke"
       },
       {
-        "title": "XRP Caught In Volatility Storm, Open Interest Slashed By 70% – Here’s What This Means",
-        "link": "https://bitcoinist.com/xrp-caught-in-volatility-storm/",
+        "title": "XRP Treasury CEO Reveals Exactly What’s Coming For The Cryptocurrency",
+        "link": "https://bitcoinist.com/whats-coming-for-the-xrp/",
         "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 16:00:08 +0000",
-        "description": "The XRP downside pressure has intensified, and is now moving beyond its price dynamics into on-chain activity. Following a prolonged period of downward performance, key areas such as Open Interest hav"
+        "published": "Thu, 05 Mar 2026 02:00:34 +0000",
+        "description": "Evernorth CEO Asheesh Birla is laying out an ambitious roadmap for institutional XRP adoption, with crypto analysts predicting that the positive results from this development could fuel a price surge "
       },
       {
-        "title": "Bitcoin’s Last Cycle Bottom Shows When The Bleed Will End This Time Around",
-        "link": "https://bitcoinist.com/when-bitcoin-bleed-will-end/",
+        "title": "Blockstream Unveils Quantum-Resistant Bitcoin Signing Demo On Liquid",
+        "link": "https://bitcoinist.com/blockstream-quantum-bitcoin-signing-demo-liquid/",
         "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 14:30:03 +0000",
-        "description": "Crypto analyst Ardi has alluded to Bitcoin’s last cycle to provide insights into when the leading crypto could end its downtrend this time around. This comes as BTC continues to show strength amid the"
-      },
-      {
-        "title": "Ripple Outlines Next Steps After Critical XRP Ledger Batch Amendment Bug",
-        "link": "https://bitcoinist.com/ripple-next-steps-xrp-ledger-bug/",
-        "source": "Bitcoinist",
-        "published": "Wed, 04 Mar 2026 13:00:43 +0000",
-        "description": "Ripple says it is tightening the XRP Ledger amendment process after a critical flaw was found in the proposed Batch amendment (XLS-56), an incident that exposed gaps in review even as the network’s la"
+        "published": "Thu, 05 Mar 2026 01:00:18 +0000",
+        "description": "Blockstream Research says it has deployed post-quantum signature verification on Liquid, marking what it describes as the first time real transactions on a production Bitcoin sidechain have been signe"
       }
     ],
     "Markets": [
@@ -313,111 +313,111 @@
         "description": "“She is reading alarmist headlines about Iran in the newspapers.”"
       },
       {
-        "title": "‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?",
-        "link": "https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories",
+        "title": "The most expensive state for in-home caregiving may surprise you — and it costs almost $9,000 a month there",
+        "link": "https://www.marketwatch.com/story/the-most-expensive-state-for-in-home-caregiving-may-surprise-you-and-it-costs-almost-9-000-a-month-there-1cdc19d1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 23:28:00 GMT",
-        "description": "“Without clear distance and boundaries, he will pull me down with him.”"
+        "published": "Thu, 05 Mar 2026 03:45:00 GMT",
+        "description": "The cost of care for an aging parent, whether in their own home or in a nursing facility, varies greatly depending on where they live."
       },
       {
-        "title": "Blue Owl’s private-credit stumble revives fears of another Bear Stearns moment",
-        "link": "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299?mod=mw_rss_topstories",
+        "title": "How to step back from your job without killing your career",
+        "link": "https://www.marketwatch.com/story/im-overworked-heres-how-to-step-back-from-your-job-without-killing-your-career-e1b478ce?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 23:15:00 GMT",
-        "description": "This is not yet a repeat of 2008. But dismissing it as a nonevent would be a mistake."
+        "published": "Thu, 05 Mar 2026 03:27:00 GMT",
+        "description": "Many workers are looking to take a breather from their job or to scale back their high-stress career without quitting altogether. It can be done."
       },
       {
-        "title": "Broadcom’s stock climbs after it says AI is not disrupting its software business",
+        "title": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
+        "link": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 02:04:00 GMT",
+        "description": "Charter rates nearly doubled in recent days and are up fivefold since the start of the year."
+      },
+      {
+        "title": "Broadcom says AI is not disrupting its software business, and its stock climbs",
         "link": "https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 23:11:00 GMT",
+        "published": "Thu, 05 Mar 2026 01:19:00 GMT",
         "description": "The chip maker sees sales growth in its infrastructure software accelerating, showing that it’s focused on and investing in that business."
       },
       {
-        "title": "The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
-        "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 23:07:00 GMT",
-        "description": "Here’s what financial planners know but many retirees discover too late."
-      },
-      {
-        "title": "Okta’s stock rallies as momentum in AI agents fuels an earnings beat",
+        "title": "Okta’s stock rises as momentum in AI agents fuels an earnings beat",
         "link": "https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 04 Mar 2026 22:22:00 GMT",
+        "published": "Thu, 05 Mar 2026 01:17:00 GMT",
         "description": "Okta beat earnings expectations for the latest quarter, but guidance for the current quarter was below forecasts."
       }
     ],
     "Singapore": [
       {
-        "title": "US sinks Iranian warship off Sri Lanka, NATO downs Iranian missile heading for Türkiye",
-        "link": "https://www.channelnewsasia.com/world/us-sinks-iran-war-ship-nato-israel-missile-5972121",
+        "title": "OpenAI tops $25 billion in annualized revenue last month, The Information reports",
+        "link": "https://www.channelnewsasia.com/business/openai-tops-25-billion-in-annualized-revenue-last-month-information-reports-5972651",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 07:27:00 +0800",
-        "description": "The missile incident was the first time that Türkiye, which has NATO's second-largest military, was drawn into the conflict."
-      },
-      {
-        "title": "Bromance, clams, gochujang: Celeb chefs Edward Lee, Ryu Soo-young explore Korean seafood in new road trip show",
-        "link": "https://www.channelnewsasia.com/entertainment/ed-and-ryu-mad-about-seafood-bbc-5961731",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 07:24:44 +0800",
-        "description": "The two popular chefs and TV personalities explore the depths of coastal Korean cuisine in Ed &amp; Ryu: Mad About Seafood, bonding, cooking and charming townspeople along the way."
-      },
-      {
-        "title": "Dior's Jonathan Anderson finds his stride with a garden of earthly delights at Paris Fashion Week",
-        "link": "https://www.channelnewsasia.com/obsessions/jonathan-anderson-dior-fall-winter-2026-paris-5968266",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 07:07:09 +0800",
-        "description": "In a glass-walled runway at the Tuileries, Jonathan Anderson’s Dior blooms into focus for fall/winter 2026."
-      },
-      {
-        "title": "Arsenal seize control as Man City slip, Chelsea thrash Villa",
-        "link": "https://www.channelnewsasia.com/sport/arsenal-seize-control-man-city-slip-chelsea-thrash-villa-5972081",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 07:01:09 +0800",
+        "published": "Thu, 05 Mar 2026 11:38:36 +0800",
         "description": ""
       },
       {
-        "title": "Trump rates Iran war '15 out of 10'",
-        "link": "https://www.channelnewsasia.com/world/trump-rates-us-war-iran-leaders-killed-5972046",
+        "title": "Djokovic says he will keep playing as long as he has 'fire and flair'",
+        "link": "https://www.channelnewsasia.com/sport/djokovic-says-he-will-keep-playing-long-he-has-fire-and-flair-5972656",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 06:41:00 +0800",
-        "description": "\"We're in a very strong position now, and their (Iran's) leadership is just rapidly going,\" said US President Donald Trump.&nbsp;&nbsp;"
-      },
-      {
-        "title": "Real Sociedad edge Bilbao to set up Copa del Rey final against Atletico Madrid",
-        "link": "https://www.channelnewsasia.com/sport/real-sociedad-edge-bilbao-set-up-copa-del-rey-final-against-atletico-madrid-5972051",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 06:36:59 +0800",
+        "published": "Thu, 05 Mar 2026 11:36:45 +0800",
         "description": ""
       },
       {
-        "title": "Newcastle, down to 10 men, end Carrick's unbeaten run with Man Utd",
-        "link": "https://www.channelnewsasia.com/sport/newcastle-down-10-men-end-carricks-unbeaten-run-man-utd-5972031",
+        "title": "Alibaba CEO confirms departure of Qwen AI division head",
+        "link": "https://www.channelnewsasia.com/business/alibaba-ceo-confirms-departure-qwen-ai-division-head-5972641",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 06:30:13 +0800",
+        "published": "Thu, 05 Mar 2026 11:33:15 +0800",
         "description": ""
       },
       {
-        "title": "Hari Raya 2026: 10 Singapore and Malaysia labels to shop for your festive outfits",
-        "link": "https://www.channelnewsasia.com/obsessions/hari-raya-2026-baju-kurung-kebaya-singapore-malaysia-brands-5966636",
+        "title": "Patients with chronic conditions can withdraw more from MediSave starting next year",
+        "link": "https://www.channelnewsasia.com/singapore/medisave-withdrawal-limits-chronic-disease-5972346",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 06:06:00 +0800",
-        "description": "Planning your Raya 2026 looks? These labels offer everything from baju kurungs, kebayas, kaftans and versatile separates that balance modesty, comfort and style for the festivities.&nbsp;"
+        "published": "Thu, 05 Mar 2026 11:19:00 +0800",
+        "description": "Withdrawal limits under the MediSave500/700 scheme will rise to S$700 and S$1,000 for chronic conditions. &nbsp;"
       },
       {
-        "title": "Commentary: Iranians cannot just ‘take back’ their country after US-Israel strikes",
-        "link": "https://www.channelnewsasia.com/commentary/iran-war-us-israel-iranians-topple-regime-5970591",
+        "title": "'Brand new' Audi keeping ambitions in check ahead of F1 opener",
+        "link": "https://www.channelnewsasia.com/sport/brand-new-audi-keeping-ambitions-in-check-ahead-f1-opener-5972596",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 06:00:00 +0800",
-        "description": "Even after the death of Supreme Leader Ayatollah Ali Khamenei and numerous senior leaders, there has been no popular uprising so far, says war studies lecturer Samir Puri."
+        "published": "Thu, 05 Mar 2026 11:18:54 +0800",
+        "description": ""
       },
       {
-        "title": "Anwar faces ‘reality check’ on support for reform agenda after failure to pass Bill on PM tenure limit",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-pm-term-limit-attorney-general-public-prosecutor-reform-agenda-5967791",
+        "title": "Genetic testing for hereditary breast and ovarian cancer to be subsidised",
+        "link": "https://www.channelnewsasia.com/singapore/breast-ovarian-cancer-hereditary-genetic-test-subsidy-hboc-5972356",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 06:00:00 +0800",
-        "description": "The failure to pass the Bill has exposed significant coordination gaps and \"uneven political commitment\" within the Anwar Ibrahim administration, say analysts."
+        "published": "Thu, 05 Mar 2026 11:13:00 +0800",
+        "description": "Eligible patients can receive up to 70 per cent in subsidies for genetic tests, while MediShield Life coverage will be extended to selected risk-reducing surgical procedures. &nbsp;"
+      },
+      {
+        "title": "Travel chaos threatens Iraq's participation in World Cup playoffs",
+        "link": "https://www.channelnewsasia.com/sport/travel-chaos-threatens-iraqs-participation-in-world-cup-playoffs-5972566",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 11:08:57 +0800",
+        "description": ""
+      },
+      {
+        "title": "Singapore to launch AI tool to flag high-risk patients for heart screening",
+        "link": "https://www.channelnewsasia.com/singapore/ai-diabetes-high-cholesterol-health-screening-woodlands-5972401",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 11:07:00 +0800",
+        "description": "Doctors will be encouraged to use the new tool, which can predict a patient’s risk of developing diabetes or high cholesterol. &nbsp;"
+      },
+      {
+        "title": "Watch: BTS The Comeback Live Arirang trailer sparks ARMY reactions",
+        "link": "https://www.channelnewsasia.com/entertainment/bts-comeback-live-arirang-trailer-netflix-5972431",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 11:06:15 +0800",
+        "description": "The 90-second teaser, played against a fan-favourite song from 2019, revisits the hiatus announcement before declaring: “The world’s biggest band is back.”"
+      },
+      {
+        "title": "Icelandic musician Laufey and Hong Kong singer GEM to stage concerts in Singapore in May",
+        "link": "https://www.channelnewsasia.com/entertainment/laufey-gem-singapore-concert-2026-5972211",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 10:58:55 +0800",
+        "description": "Laufey will perform at the Singapore Indoor Stadium on May 19, while GEM will take on the National Stadium on May 23."
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "US sinks Iranian warship off Sri Lanka, NATO downs Iranian missile heading for Türkiye",
-      "link": "https://www.channelnewsasia.com/world/us-sinks-iran-war-ship-nato-israel-missile-5972121",
+      "title": "OpenAI tops $25 billion in annualized revenue last month, The Information reports",
+      "link": "https://www.channelnewsasia.com/business/openai-tops-25-billion-in-annualized-revenue-last-month-information-reports-5972651",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 07:27:00 +0800",
-      "description": "The missile incident was the first time that Türkiye, which has NATO's second-largest military, was drawn into the conflict."
-    },
-    {
-      "title": "Bromance, clams, gochujang: Celeb chefs Edward Lee, Ryu Soo-young explore Korean seafood in new road trip show",
-      "link": "https://www.channelnewsasia.com/entertainment/ed-and-ryu-mad-about-seafood-bbc-5961731",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 07:24:44 +0800",
-      "description": "The two popular chefs and TV personalities explore the depths of coastal Korean cuisine in Ed &amp; Ryu: Mad About Seafood, bonding, cooking and charming townspeople along the way."
-    },
-    {
-      "title": "Dior's Jonathan Anderson finds his stride with a garden of earthly delights at Paris Fashion Week",
-      "link": "https://www.channelnewsasia.com/obsessions/jonathan-anderson-dior-fall-winter-2026-paris-5968266",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 07:07:09 +0800",
-      "description": "In a glass-walled runway at the Tuileries, Jonathan Anderson’s Dior blooms into focus for fall/winter 2026."
-    },
-    {
-      "title": "Arsenal seize control as Man City slip, Chelsea thrash Villa",
-      "link": "https://www.channelnewsasia.com/sport/arsenal-seize-control-man-city-slip-chelsea-thrash-villa-5972081",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 07:01:09 +0800",
+      "published": "Thu, 05 Mar 2026 11:38:36 +0800",
       "description": ""
     },
     {
-      "title": "Trump rates Iran war '15 out of 10'",
-      "link": "https://www.channelnewsasia.com/world/trump-rates-us-war-iran-leaders-killed-5972046",
+      "title": "Djokovic says he will keep playing as long as he has 'fire and flair'",
+      "link": "https://www.channelnewsasia.com/sport/djokovic-says-he-will-keep-playing-long-he-has-fire-and-flair-5972656",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 06:41:00 +0800",
-      "description": "\"We're in a very strong position now, and their (Iran's) leadership is just rapidly going,\" said US President Donald Trump.&nbsp;&nbsp;"
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
-      "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-      "source": "TechCrunch",
-      "published": "Wed, 04 Mar 2026 22:40:05 +0000",
-      "description": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in."
-    },
-    {
-      "title": "Real Sociedad edge Bilbao to set up Copa del Rey final against Atletico Madrid",
-      "link": "https://www.channelnewsasia.com/sport/real-sociedad-edge-bilbao-set-up-copa-del-rey-final-against-atletico-madrid-5972051",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 06:36:59 +0800",
+      "published": "Thu, 05 Mar 2026 11:36:45 +0800",
       "description": ""
     },
     {
-      "title": "Newcastle, down to 10 men, end Carrick's unbeaten run with Man Utd",
-      "link": "https://www.channelnewsasia.com/sport/newcastle-down-10-men-end-carricks-unbeaten-run-man-utd-5972031",
+      "title": "Alibaba CEO confirms departure of Qwen AI division head",
+      "link": "https://www.channelnewsasia.com/business/alibaba-ceo-confirms-departure-qwen-ai-division-head-5972641",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 06:30:13 +0800",
+      "published": "Thu, 05 Mar 2026 11:33:15 +0800",
       "description": ""
     },
     {
-      "title": "Hari Raya 2026: 10 Singapore and Malaysia labels to shop for your festive outfits",
-      "link": "https://www.channelnewsasia.com/obsessions/hari-raya-2026-baju-kurung-kebaya-singapore-malaysia-brands-5966636",
+      "title": "Patients with chronic conditions can withdraw more from MediSave starting next year",
+      "link": "https://www.channelnewsasia.com/singapore/medisave-withdrawal-limits-chronic-disease-5972346",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 06:06:00 +0800",
-      "description": "Planning your Raya 2026 looks? These labels offer everything from baju kurungs, kebayas, kaftans and versatile separates that balance modesty, comfort and style for the festivities.&nbsp;"
+      "published": "Thu, 05 Mar 2026 11:19:00 +0800",
+      "description": "Withdrawal limits under the MediSave500/700 scheme will rise to S$700 and S$1,000 for chronic conditions. &nbsp;"
     },
     {
-      "title": "Vitalik Buterin Makes Shocking Warning About Ethereum’s Future",
-      "link": "https://bitcoinist.com/vitalik-buterin-shocking-warning-ethereums-future/",
-      "source": "Bitcoinist",
-      "published": "Wed, 04 Mar 2026 22:00:33 +0000",
-      "description": "Ethereum co-founder, Vitalik Buterin, has issued one of his starkest warnings yet: if the network continues to limit itself to DeFi, obsessing over yields and political meme coins, it will betray Ethe"
+      "title": "'Brand new' Audi keeping ambitions in check ahead of F1 opener",
+      "link": "https://www.channelnewsasia.com/sport/brand-new-audi-keeping-ambitions-in-check-ahead-f1-opener-5972596",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 11:18:54 +0800",
+      "description": ""
+    },
+    {
+      "title": "Genetic testing for hereditary breast and ovarian cancer to be subsidised",
+      "link": "https://www.channelnewsasia.com/singapore/breast-ovarian-cancer-hereditary-genetic-test-subsidy-hboc-5972356",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 11:13:00 +0800",
+      "description": "Eligible patients can receive up to 70 per cent in subsidies for genetic tests, while MediShield Life coverage will be extended to selected risk-reducing surgical procedures. &nbsp;"
+    },
+    {
+      "title": "Travel chaos threatens Iraq's participation in World Cup playoffs",
+      "link": "https://www.channelnewsasia.com/sport/travel-chaos-threatens-iraqs-participation-in-world-cup-playoffs-5972566",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 11:08:57 +0800",
+      "description": ""
+    },
+    {
+      "title": "Singapore to launch AI tool to flag high-risk patients for heart screening",
+      "link": "https://www.channelnewsasia.com/singapore/ai-diabetes-high-cholesterol-health-screening-woodlands-5972401",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 11:07:00 +0800",
+      "description": "Doctors will be encouraged to use the new tool, which can predict a patient’s risk of developing diabetes or high cholesterol. &nbsp;"
+    },
+    {
+      "title": "Watch: BTS The Comeback Live Arirang trailer sparks ARMY reactions",
+      "link": "https://www.channelnewsasia.com/entertainment/bts-comeback-live-arirang-trailer-netflix-5972431",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 11:06:15 +0800",
+      "description": "The 90-second teaser, played against a fan-favourite song from 2019, revisits the hiatus announcement before declaring: “The world’s biggest band is back.”"
+    },
+    {
+      "title": "Icelandic musician Laufey and Hong Kong singer GEM to stage concerts in Singapore in May",
+      "link": "https://www.channelnewsasia.com/entertainment/laufey-gem-singapore-concert-2026-5972211",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 10:58:55 +0800",
+      "description": "Laufey will perform at the Singapore Indoor Stadium on May 19, while GEM will take on the National Stadium on May 23."
     }
   ]
 }
