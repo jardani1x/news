@@ -1,35 +1,42 @@
 {
-  "updated_sgt": "2026-03-05 20:00 SGT",
-  "updated_iso": "2026-03-05T20:00:32.445622+08:00",
+  "updated_sgt": "2026-03-06 00:00 SGT",
+  "updated_iso": "2026-03-06T00:00:17.260850+08:00",
   "categories": {
     "World": [
       {
-        "title": "Millions of Cubans plunged into darkness as fuel crisis deepens",
-        "link": "https://www.bbc.com/news/articles/cx2ggpq1742o?at_medium=RSS&at_campaign=rss",
+        "title": "Britney Spears arrested in California",
+        "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 22:46:53 GMT",
-        "description": "Fuel shortages have been exacerbated by a US oil blockade since the seizure of Venezuelan President Nicolás Maduro."
+        "published": "Thu, 05 Mar 2026 15:46:41 GMT",
+        "description": "Court documents show she was arrested in Ventura County on Wednesday night."
       },
       {
-        "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
-        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
+        "title": "Nepalis vote in first election since Gen Z uprising for change",
+        "link": "https://www.bbc.com/news/articles/c79550jrye8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 20:42:35 GMT",
-        "description": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
+        "published": "Thu, 05 Mar 2026 12:51:12 GMT",
+        "description": "This election will test whether the country is ready for a new, untested generation to shape its future."
       },
       {
-        "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
-        "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss",
+        "title": "Ethiopia experiments with 'smart' police stations that have no officers",
+        "link": "https://www.bbc.com/news/articles/cjd9jgnrdpko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 18:14:04 GMT",
-        "description": "The Arctic Metagaz went down between Libya and Malta after it was hit by explosions and a fire, Libyan officials say."
+        "published": "Thu, 05 Mar 2026 12:34:22 GMT",
+        "description": "A project to introduce unmanned sites is part of a broader adoption of digital technologies."
       },
       {
-        "title": "South Africa's long-serving former defence minister and former Robben Island prisoner dies",
-        "link": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss",
+        "title": "Texas lawmaker admits 'lapse in judgement' in affair with aide",
+        "link": "https://www.bbc.com/news/articles/cn5gg633qyzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 04 Mar 2026 12:45:24 GMT",
-        "description": "Mosiuoa Lekota was imprisoned with former South African President Nelson Mandela on Robben Island."
+        "published": "Thu, 05 Mar 2026 12:17:30 GMT",
+        "description": "The admission from the married Republican, Tony Gonzales, comes after a House panel launched an ethics investigation."
+      },
+      {
+        "title": "DR Congo government says 200 killed after landslide at rebel-held mine",
+        "link": "https://www.bbc.com/news/articles/c7955g70jgjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 05 Mar 2026 12:03:29 GMT",
+        "description": "The M23, which controls the coltan-rich area, has not commented and the death toll is hard to verify."
       },
       {
         "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
@@ -43,7 +50,14 @@
         "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Thu, 05 Mar 2026 06:52:36 GMT",
-        "description": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast."
+        "description": "More than 100 personnel were thought to be aboard the vessel, which went down to the south of Sri Lanka."
+      },
+      {
+        "title": "Global order is 'breaking down', Carney tells Australian parliament",
+        "link": "https://www.bbc.com/news/articles/cpqwwy8xvy3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 05 Mar 2026 03:57:55 GMT",
+        "description": "The Canadian prime minister said Australia and Canada should work together as 'strategic cousins'."
       },
       {
         "title": "China sets lowest economic growth target since 1991",
@@ -58,92 +72,78 @@
         "source": "BBC World",
         "published": "Thu, 05 Mar 2026 02:55:34 GMT",
         "description": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase."
-      },
-      {
-        "title": "Pentagon identifies six US soldiers killed in Iran conflict",
-        "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 01:42:40 GMT",
-        "description": "The US soldiers were killed after a drone evaded air defences to hit a command centre in Port Shuaiba, Kuwait, on Sunday."
-      },
-      {
-        "title": "Trade court orders tariff refunds in setback for Trump administration",
-        "link": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 00:13:16 GMT",
-        "description": "A trade court has cleared the way for businesses to receive refunds for tariffs that the Supreme Court struck down last month."
       }
     ],
     "Finance": [
       {
-        "title": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
-        "link": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html",
+        "title": "Cloud stocks jump, head for best day in nearly a year despite broad market declines",
+        "link": "https://www.cnbc.com/2026/03/05/cloud-stocks-jump-led-by-okta.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 21:29:49 GMT",
-        "description": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills."
+        "published": "Thu, 05 Mar 2026 15:59:17 GMT",
+        "description": "The WisdomTree Cloud Computing Fund (WCLD) gained 4.5% on the session, putting the exchange-traded fund on track for its best day since April 24, 2025."
       },
       {
-        "title": "Apple announces MacBook Neo, its most affordable laptop ever",
-        "link": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
+        "title": "OpenAI's Altman takes jabs at Anthropic, says government should be more powerful than companies",
+        "link": "https://www.cnbc.com/2026/03/05/open-ai-altman-anthropic-pentagon-war.html",
         "source": "CNBC Finance",
-        "published": "Wed, 04 Mar 2026 19:47:34 GMT",
-        "description": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
+        "published": "Thu, 05 Mar 2026 15:56:57 GMT",
+        "description": "The startup landed a deal with the Department of Defense hours after Anthropic was blacklisted by Defense Secretary Pete Hegseth."
+      },
+      {
+        "title": "Epstein files: DOJ plans to release new batch of documents 'fairly soon,' MS NOW reports",
+        "link": "https://www.cnbc.com/2026/03/05/epstein-doj-bondi-trump.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 05 Mar 2026 15:56:31 GMT",
+        "description": "The top lawyer for Goldman Sachs, Bill Gates, Leon Black and others are expected to testify soon about their dealings with Jeffrey Epstein to a House panel"
+      },
+      {
+        "title": "Sen. Merkley proposes prediction market ban for government officials after Maduro, Iran bets",
+        "link": "https://www.cnbc.com/2026/03/05/prediction-markets-merkley-ban-iran.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 05 Mar 2026 15:30:12 GMT",
+        "description": "After a series of dubious bets placed on the ouster of Venezuela's Maduro and Iran strikes, lawmakers are looking to ban insider trading on prediction markets."
+      },
+      {
+        "title": "U.S. crude oil touches highest level since June 2025 after Iran says it attacked a tanker",
+        "link": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 05 Mar 2026 15:05:15 GMT",
+        "description": "Oil prices have surged about 15% this week as the U.S.-Iran war engulfs the Middle East."
       },
       {
         "title": "Iran's Shahed drone: How 'the poor man’s cruise missile’ is shaping Tehran’s retaliation",
         "link": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
         "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 11:56:08 GMT",
+        "published": "Thu, 05 Mar 2026 14:31:38 GMT",
         "description": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes."
       },
       {
-        "title": "Why Iran war oil price shock won't stop Fed pick Kevin Warsh from cutting interest rates",
-        "link": "https://www.cnbc.com/2026/03/05/iran-oil-fed-kevin-warsh.html",
+        "title": "Berkshire Hathaway begins repurchasing shares, CEO Greg Abel buys $15 million in stock",
+        "link": "https://www.cnbc.com/2026/03/05/berkshire-hathaway-begins-repurchasing-shares-ceo-greg-abel-buys-15-million-in-stock-.html",
         "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 11:44:50 GMT",
-        "description": "President Donald Trump's choice to lead the Federal Reserve sees inflation risk very differently than Chairman Jerome Powell."
+        "published": "Thu, 05 Mar 2026 14:28:23 GMT",
+        "description": "The 62-year-old executive's purchase came a little more than two months into his tenure running the Omaha, Nebraska-based conglomerate."
       },
       {
-        "title": "Eli Lilly launches program to help boost employer coverage of obesity drugs in U.S.",
-        "link": "https://www.cnbc.com/2026/03/05/eli-lilly-launches-program-to-boost-employer-coverage-of-obesity-drugs.html",
+        "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
+        "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
         "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 11:00:01 GMT",
-        "description": "Employers can use Lilly's platform to connect with different third-party program administrators that help manage obesity treatment benefits and costs."
+        "published": "Thu, 05 Mar 2026 12:49:07 GMT",
+        "description": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
+      },
+      {
+        "title": "Is Cuba next? What the fallout from the Iran war means for Havana",
+        "link": "https://www.cnbc.com/2026/03/05/cuba-crisis-iran-war-trump-rubio-talks-venezuela-oil.html",
+        "source": "CNBC Finance",
+        "published": "Thu, 05 Mar 2026 12:44:36 GMT",
+        "description": "Speculation about what's next for Havana comes as the U.S. continues to attack Iran and shortly after Trump ordered U.S. forces to depose Venezuela's president."
       },
       {
         "title": "Spain rejects White House claim it agreed to cooperate with U.S. forces amid Iran war",
         "link": "https://www.cnbc.com/2026/03/05/iran-war-us-spain-trump-sanchez-defense-trade-eu.html",
         "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 10:19:06 GMT",
+        "published": "Thu, 05 Mar 2026 12:11:43 GMT",
         "description": "The White House says Spain will now cooperate with the U.S. militarily over the Iran conflict. Madrid swiftly rejected this claim."
-      },
-      {
-        "title": "Defense experts defend Anthropic in letter to Congress, slam DoD for setting 'dangerous precedent'",
-        "link": "https://www.cnbc.com/2026/03/05/defense-experts-defend-anthropic-to-congress-slams-pentagons-move.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 10:00:01 GMT",
-        "description": "Former defense and intelligence officials and policy experts are urging Congress to investigate the Pentagon's labeling of Anthropic as a supply chain risk."
-      },
-      {
-        "title": "BYD sales plunge in first two months of 2026 as EV giant loses more ground to competitors",
-        "link": "https://www.cnbc.com/2026/03/05/drawdown-byd-chinese-ev-sales-mixed-results-holiday-lull.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 09:40:34 GMT",
-        "description": "BYD lost ground to its domestic competitors over the first two months of 2026, as overall demand in China's electric vehicle market slowed."
-      },
-      {
-        "title": "Investors poured billions into private credit. Now many want their money back",
-        "link": "https://www.cnbc.com/2026/03/05/private-credit-blackstone-blue-owl-kkr-carlyle-retail-wealth-investors-liquid.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 07:55:27 GMT",
-        "description": "Recent redemptions in private credit expose the tensions between high returns and retail liquidity."
-      },
-      {
-        "title": "Emmanuel Macron spelled out a pivot in France's nuclear strategy. Here's why it's so significant",
-        "link": "https://www.cnbc.com/2026/03/05/-france-nuclear-deterrence-strategy-macron.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 07:07:46 GMT",
-        "description": "The French president spelled out a new doctrine of 'forward deterrence' for France. Here's"
       }
     ],
     "Technology": [
@@ -162,53 +162,53 @@
         "description": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be."
       },
       {
-        "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
-        "link": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
+        "title": "Match Group COO out, as dating apps struggle to connect with Gen Z",
+        "link": "https://techcrunch.com/2026/03/05/match-group-coo-out-as-dating-apps-struggle-to-connect-with-gen-z/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 20:05:12 +0000",
-        "description": "Google has dropped its commission, charging a 20% service fee and an optional 5% to use its billing services. It will also offer a new process for third-party app stores."
+        "published": "Thu, 05 Mar 2026 15:36:14 +0000",
+        "description": "Match Group eliminates the COO role as CEO Spencer Rascoff has been managing operations."
       },
       {
-        "title": "His house burned down. He used the insurance money to build PopSockets.",
-        "link": "https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/",
+        "title": "Zeno raises $25M to speed up production of its battery-swap motorbikes",
+        "link": "https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 19:34:26 +0000",
-        "description": "Does&#160;a&#160;consumer hardware&#160;company need to get on the&#160;VC treadmill to&#160;succeed?&#160;Eleven years and 290 million products sold across 115 countries later,&#160;PopSockets&#160;h"
+        "published": "Thu, 05 Mar 2026 15:02:23 +0000",
+        "description": "The startup, co-founded by Tesla and Apple alumni, has sold nearly 1,000 of its motorbikes so far."
       },
       {
-        "title": "US and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools",
-        "link": "https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/",
+        "title": "Meta will allow rival AI chatbots on WhatsApp in Europe, but for a fee",
+        "link": "https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 19:01:55 +0000",
-        "description": "Authorities say LeakBase was \"one of the world’s largest online forums for cybercriminals,\" and maintained an archive of hacked databases containing hundreds of millions of passwords."
+        "published": "Thu, 05 Mar 2026 14:24:44 +0000",
+        "description": "Meta will allow rival AI chatbot providers to offer their services on WhatsApp for a fee, which ranges from €0.0490 to €0.1323 per \"non-template message,\" depending on the country."
       },
       {
-        "title": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
-        "link": "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+        "title": "Science Corp raises $230M as it races to bring its brain implant to market",
+        "link": "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 19:00:43 +0000",
-        "description": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week."
+        "published": "Thu, 05 Mar 2026 14:00:00 +0000",
+        "description": "A source close to the company says the round assigns Science a post-money valuation of $1.25 billion."
       },
       {
-        "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
-        "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+        "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
+        "link": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 18:50:58 +0000",
-        "description": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more."
+        "published": "Thu, 05 Mar 2026 13:15:00 +0000",
+        "description": "On this episode of Build Mode, David Park joins Isabelle Johannessen to discuss how he and his team are intentionally iterating, fundraising, and scaling Narada."
       },
       {
-        "title": "Decagon completes first tender offer at $4.5B valuation",
-        "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+        "title": "Rivian is betting its future on one of the fastest EV launches in US history",
+        "link": "https://techcrunch.com/2026/03/05/rivian-is-betting-its-future-one-of-the-fastest-ev-launches-in-us-history/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 18:32:53 +0000",
-        "description": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity."
+        "published": "Thu, 05 Mar 2026 13:00:00 +0000",
+        "description": "If Rivian reaches its R2 sales target in 2026, it will be one of the fastest ramp-ups ever of a new EV in the United States."
       },
       {
-        "title": "The US military is still using Claude — but defense-tech clients are fleeing",
-        "link": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+        "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
+        "link": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
         "source": "TechCrunch",
-        "published": "Wed, 04 Mar 2026 17:20:01 +0000",
-        "description": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions."
+        "published": "Thu, 05 Mar 2026 13:00:00 +0000",
+        "description": "AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz."
       },
       {
         "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
@@ -219,6 +219,34 @@
       }
     ],
     "Crypto": [
+      {
+        "title": "Why Bitcoin ‘Can’t’ Be A Central Bank Asset: Billionaire Chamath",
+        "link": "https://bitcoinist.com/why-bitcoin-cant-central-bank-asset-billionaire/",
+        "source": "Bitcoinist",
+        "published": "Thu, 05 Mar 2026 15:00:53 +0000",
+        "description": "Billionaire Chamath Palihapitiya says Bitcoin has hit a structural limit that many market participants still do not want to confront: in his view, it lacks the qualities needed for central bank adopti"
+      },
+      {
+        "title": "Here’s How Much Saylor’s Strategy Makes Every Time Bitcoin Goes Up By $1,000",
+        "link": "https://bitcoinist.com/saylor-strategy-bitcoin-1000/",
+        "source": "Bitcoinist",
+        "published": "Thu, 05 Mar 2026 14:00:54 +0000",
+        "description": "Earlier this week, the Executive Chairman of Strategy (formerly MicroStrategy), Michael Saylor, announced that the company had made another major Bitcoin purchase. The announcement, which was made on "
+      },
+      {
+        "title": "Wall Street Giant Morgan Stanley Amends Bitcoin ETF Filing With Coinbase In Key Role",
+        "link": "https://bitcoinist.com/wall-street-giant-morgan-stanley-amends-bitcoin-etf/",
+        "source": "Bitcoinist",
+        "published": "Thu, 05 Mar 2026 13:00:31 +0000",
+        "description": "Morgan Stanley is moving forward with its plans to enter the spot Bitcoin exchange-traded fund (ETF) market, submitting an amended registration statement to the US Securities and Exchange Commission a"
+      },
+      {
+        "title": "Binance Leads Crypto Trading With $7T Spot Volume: CryptoQuant",
+        "link": "https://bitcoinist.com/binance-crypto-trading-7t-spot-volume-cryptoquant/",
+        "source": "Bitcoinist",
+        "published": "Thu, 05 Mar 2026 12:00:34 +0000",
+        "description": "Binance continued to be the spot volume leader in the crypto sector during 2025, according to CryptoQuant&#8217;s annual report on exchanges. Binance Saw $7 Trillion In Spot Crypto Trading Volume In 2"
+      },
       {
         "title": "Banks Seek To Block Kraken’s Fed Approval, Label Crypto A ‘Potential Risk’",
         "link": "https://bitcoinist.com/banks-seek-to-block-krakens-fed-approval-crypto/",
@@ -246,177 +274,149 @@
         "source": "Bitcoinist",
         "published": "Thu, 05 Mar 2026 08:00:41 +0000",
         "description": "Ethereum is attempting to regain the $2,000 level as the broader crypto market shows early signs of relief after weeks of persistent volatility. The recent stabilization in price action has helped eas"
-      },
-      {
-        "title": "Kraken Becomes First Crypto Firm To Gain Access To Federal Reserve’s Master Accounts – Report",
-        "link": "https://bitcoinist.com/kraken-first-crypto-firm-access-fed-master-accounts/",
-        "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 07:00:56 +0000",
-        "description": "Kraken, the US’s second-largest crypto exchange, has reportedly secured access to the Federal Reserve’s (Fed) core payment systems, marking a significant milestone as the first crypto firm to operate "
-      },
-      {
-        "title": "From 240B To 7B: Decoding The Massive Velocity Slump Paralyzing XRP Trading Activity On Binance",
-        "link": "https://bitcoinist.com/240b-to-7b-decoding-velocity-slump-paralyzing-xrp/",
-        "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 06:00:36 +0000",
-        "description": "XRP has remained under sustained pressure as it struggles to reclaim the $1.50 level, reflecting a broader slowdown in market participation across several major altcoins. In recent weeks, price action"
-      },
-      {
-        "title": "Crypto Under Siege? Trump Says Banks Are Trying To Kill It",
-        "link": "https://bitcoinist.com/crypto-under-siege-trump-says-banks-are-trying-to-kill-it/",
-        "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 05:00:34 +0000",
-        "description": "Coinbase’s chief publicly accused big banks of trying to choke off parts of a law meant to clear the rules for stablecoins and other crypto products. Brian Armstrong said banks were pushing terms that"
-      },
-      {
-        "title": "Korea Tones Down 20% Crypto Exchange Stake Ban as Regulators Seek Governance ‘Middle Ground’",
-        "link": "https://bitcoinist.com/korea-tones-down-crypto-ban-regulators-seek-middle/",
-        "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 04:00:31 +0000",
-        "description": "South Korean authorities and the ruling party agree on a 20% ownership ceiling for “major shareholders” in crypto and virtual assets exchanges, with a three‑year implementation delay. From A Strict Pr"
       }
     ],
     "Markets": [
       {
-        "title": "This stock-market correction signal just triggered for only the third time in seven years. Here’s the message for investors.",
-        "link": "https://www.marketwatch.com/story/this-stock-market-correction-signal-just-triggered-for-only-the-third-time-in-seven-years-heres-the-message-for-investors-7142847e?mod=mw_rss_topstories",
+        "title": "MAHA’s sweeping vaccine changes and social media have parents more confused than ever",
+        "link": "https://www.marketwatch.com/story/mahas-sweeping-vaccine-changes-and-social-media-have-parents-more-confused-than-ever-1d58b76d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 11:50:00 GMT",
-        "description": "Variant Perception said its S&P 500 “Correction Signal” has only been triggered three times since 2019."
+        "published": "Thu, 05 Mar 2026 15:50:00 GMT",
+        "description": "The CDC now urges “shared clinical decision-making” around certain pediatric vaccines. I’m a pediatrician. We already do that."
       },
       {
-        "title": "My rude, ungrateful relative gave her lawyer power of attorney — and has lived to regret it. Should I get involved?",
-        "link": "https://www.marketwatch.com/story/my-rude-ungrateful-relative-gave-her-lawyer-power-of-attorney-and-has-lived-to-regret-it-should-i-get-involved-5db8088d?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 11:31:00 GMT",
-        "description": "“A person who is used to controlling others does not like being controlled.”"
-      },
-      {
-        "title": "The ‘dean of valuation’ pours cold water on the Citrini AI doomsday scenario",
-        "link": "https://www.marketwatch.com/story/the-dean-of-valuation-pours-cold-water-on-the-citrini-ai-doomsday-scenario-3fdf98ce?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 11:14:00 GMT",
-        "description": "Damodaran sees value in the Citrini paper but does not agree with its vision of the future"
-      },
-      {
-        "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
-        "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 11:00:00 GMT",
-        "description": "“She is reading alarmist headlines about Iran in the newspapers.”"
-      },
-      {
-        "title": "Oil prices rise again as conflict in Middle East escalates",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-again-as-conflict-in-middle-east-escalates-df0a71d0?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 10:59:00 GMT",
-        "description": "Brent futures advanced close to the highs reached on Tuesday."
-      },
-      {
-        "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million saved. Can I afford to divorce my husband?",
-        "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 10:20:00 GMT",
-        "description": "“He has no loyalty to me or our vows.”"
-      },
-      {
-        "title": "Here’s Chamath Palihapitiya’s unsympathetic response to complaint about SPAC losses",
-        "link": "https://www.marketwatch.com/story/heres-chamath-palihapitiyas-unsympathetic-response-to-complaint-about-spac-losses-7804c1cc?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 10:06:00 GMT",
-        "description": "The host of All-In gave a blunt reply to an investor who said he bought the SPACs promoted by Palihapitiya."
-      },
-      {
-        "title": "A piece of Hollywood history: Gorgeous Palm Springs estate once owned by Cary Grant listed for $12.7 million",
-        "link": "https://www.marketwatch.com/story/a-piece-of-hollywood-history-gorgeous-palm-springs-estate-once-owned-by-cary-grant-listed-for-12-7-million-e2a312f5?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 10:01:00 GMT",
-        "description": "Known as Villa Paradiso, the sprawling Spanish Revival compound holds a special place in the actor’s family history, having served as his favorite retreat for many years."
-      },
-      {
-        "title": "The most expensive state for in-home caregiving may surprise you — and it costs almost $9,000 a month there",
-        "link": "https://www.marketwatch.com/story/the-most-expensive-state-for-in-home-caregiving-may-surprise-you-and-it-costs-almost-9-000-a-month-there-1cdc19d1?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 03:45:00 GMT",
-        "description": "The cost of care for an aging parent, whether in their own home or in a nursing facility, varies greatly depending on where they live."
-      },
-      {
-        "title": "How to step back from your job without killing your career",
+        "title": "You can step back from your job without torpedoing your career. Here’s how.",
         "link": "https://www.marketwatch.com/story/im-overworked-heres-how-to-step-back-from-your-job-without-killing-your-career-e1b478ce?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 03:27:00 GMT",
-        "description": "Many workers are looking to take a breather from their job or to scale back their high-stress career without quitting altogether. It can be done."
+        "published": "Thu, 05 Mar 2026 15:44:00 GMT",
+        "description": "Workers are looking to scale back their high-stress career without quitting altogether — but there are tradeoffs."
+      },
+      {
+        "title": "You could be paying an extra $2,000 for home insurance every year because of this financial baggage. Here’s how to fix it.",
+        "link": "https://www.marketwatch.com/story/you-could-be-paying-an-extra-2-000-for-home-insurance-every-year-because-of-this-financial-baggage-heres-how-to-fix-it-22bb0caf?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 15:29:00 GMT",
+        "description": "Insurers use this little-known factor to decide how big your premiums will be."
+      },
+      {
+        "title": "Tax refunds are about $775 higher this year for people claiming Trump’s new tax breaks, IRS head says",
+        "link": "https://www.marketwatch.com/story/tax-refunds-are-about-775-higher-this-year-for-people-claiming-trumps-new-tax-breaks-irs-head-says-7d57e702?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 15:29:00 GMT",
+        "description": "More than four in 10 returns so far have claimed at least one of the new deductions."
+      },
+      {
+        "title": "Costco’s stock chart sees a bullish ‘golden cross’ just before earnings are released",
+        "link": "https://www.marketwatch.com/story/costcos-stock-chart-sees-a-bullish-golden-cross-just-before-earnings-are-released-1784c6f1?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 15:24:00 GMT",
+        "description": "A bullish “golden cross” pattern appears in Costco’s stock chart for the first time in nearly three years, on the same day the latest quarterly report is slated to be released."
+      },
+      {
+        "title": "Nvidia is shifting focus away from China chip sales",
+        "link": "https://www.marketwatch.com/story/nvidia-is-shifting-focus-away-from-china-chip-sales-1530a13a?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 15:16:00 GMT",
+        "description": "The chip maker has reportedly stopped production of its H200s for China at TSMC, and is focusing instead on Vera Rubin"
+      },
+      {
+        "title": "Last year’s top central-bank buyer of gold may now turn into a seller",
+        "link": "https://www.marketwatch.com/story/last-years-top-central-bank-buyer-of-gold-may-now-turn-into-a-seller-47a36e8e?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 15:13:00 GMT",
+        "description": "The chief of Poland’s central bank has proposed selling some the country’s 550 metric tons to fund defense spending."
+      },
+      {
+        "title": "Pivotal February jobs report likely to show less hiring — but the unemployment rate is crucial",
+        "link": "https://www.marketwatch.com/story/pivotal-february-jobs-report-likely-to-show-less-hiring-but-the-unemployment-rate-is-crucial-5ea46f84?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 15:11:00 GMT",
+        "description": "An increase of about 50,000 in February would be seen as another sign the labor market is thawing."
+      },
+      {
+        "title": "I scrapped $70 million in sales to build a more profitable business. Here’s what I learned.",
+        "link": "https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 14:55:00 GMT",
+        "description": "Tibi founder Amy Smilovic talks about building the fashion retail giant — her way — and answers the question every successful entrepreneur faces."
+      },
+      {
+        "title": "Jobless claims and Challenger, Gray point to declining layoffs. What about hiring plans?",
+        "link": "https://www.marketwatch.com/story/jobless-claims-and-challenger-gray-point-to-declining-layoffs-what-about-hiring-plans-ce1b7215?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 05 Mar 2026 14:48:00 GMT",
+        "description": "The number of people who lost jobs and applied for unemployment benefits at the end of February clung to recent lows and added to a flurry of signals suggesting the labor market has stabilized."
       }
     ],
     "Singapore": [
       {
-        "title": "BYD launches new generation Blade Battery with rapid charging in cold environments",
-        "link": "https://www.channelnewsasia.com/business/byd-launches-new-generation-blade-battery-rapid-charging-in-cold-environments-5973976",
+        "title": "Singapore's Loh Kean Yew exits All-England after round-of-16 loss to France's world No 5 Popov",
+        "link": "https://www.channelnewsasia.com/sport/loh-kean-yew-yeo-jia-min-team-singapore-badminton-all-england-open-5974376",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:53:15 +0800",
+        "published": "Thu, 05 Mar 2026 23:28:16 +0800",
+        "description": "Singapore's Yeo Jia Min was also eliminated from the tournament on Thursday (Mar 5)."
+      },
+      {
+        "title": "Wall Street sees early drop as Iran war drives bond selloff",
+        "link": "https://www.channelnewsasia.com/business/wall-street-sees-early-drop-iran-war-drives-bond-selloff-5974421",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 23:23:30 +0800",
         "description": ""
       },
       {
-        "title": "Fewer fresh graduates found work within 6 months in 2025; median salary held steady at S$4,500: Survey",
-        "link": "https://www.channelnewsasia.com/singapore/graduate-employment-2025-work-jobs-university-5973621",
+        "title": "Toyota Motor to cut output for Middle East by nearly 40,000 vehicles, Nikkei reports",
+        "link": "https://www.channelnewsasia.com/business/toyota-motor-cut-output-middle-east-nearly-40000-vehicles-nikkei-reports-5974406",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:52:09 +0800",
-        "description": "More fresh graduates were seeking work,&nbsp;as opposed to other routes like pursuing further studies or taking a break."
-      },
-      {
-        "title": "'Happy Days!' - Bottas freed from threat of 2024 F1 grid penalty",
-        "link": "https://www.channelnewsasia.com/sport/happy-days-bottas-freed-threat-2024-f1-grid-penalty-5973966",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:51:16 +0800",
+        "published": "Thu, 05 Mar 2026 23:13:12 +0800",
         "description": ""
       },
       {
-        "title": "EFL Championship playoffs expanded to six teams from next season",
-        "link": "https://www.channelnewsasia.com/sport/efl-championship-playoffs-expanded-six-teams-next-season-5973971",
+        "title": "Trump, Bondi face lawsuit over approval of ByteDance TikTok US asset sale",
+        "link": "https://www.channelnewsasia.com/business/trump-bondi-face-lawsuit-over-approval-bytedance-tiktok-us-asset-sale-5974381",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:50:11 +0800",
+        "published": "Thu, 05 Mar 2026 23:07:22 +0800",
         "description": ""
       },
       {
-        "title": "Singapore to increase family counselling capacity as number of cases grows",
-        "link": "https://www.channelnewsasia.com/singapore/family-counselling-capacity-increase-cases-grow-msf-5973116",
+        "title": "German school students rally against army recruitment drive",
+        "link": "https://www.channelnewsasia.com/world/german-school-students-rally-against-army-recruitment-drive-5974371",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:49:00 +0800",
-        "description": "The number of family counselling cases has risen over the past few years – from 3,100 in 2022 to 5,700 in 2025."
-      },
-      {
-        "title": "Government to probe AI-driven disinformation videos: Josephine Teo",
-        "link": "https://www.channelnewsasia.com/singapore/disinformation-ai-youtube-campaign-chinese-fake-videos-lawrence-wong-5973601",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:29:00 +0800",
-        "description": "Following CNA’s investigation last month, YouTube removed most of the videos and accounts spreading \"entirely made-up\" storylines about Singapore’s current affairs for violating its community guidelin"
-      },
-      {
-        "title": "UK's Nothing splashes colour on new phones to shake up 'boring' tech",
-        "link": "https://www.channelnewsasia.com/business/uks-nothing-splashes-colour-new-phones-shake-up-boring-tech-5973881",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:20:45 +0800",
+        "published": "Thu, 05 Mar 2026 23:03:00 +0800",
         "description": ""
       },
       {
-        "title": "Lower growth target, higher stakes: Key signals as China’s Two Sessions open",
-        "link": "https://www.channelnewsasia.com/east-asia/china-two-sessions-gdp-economy-households-tech-defence-5973386",
+        "title": "Wrexham tap into past glory in bid for FA Cup upset against Chelsea",
+        "link": "https://www.channelnewsasia.com/sport/wrexham-tap-past-glory-in-bid-fa-cup-upset-against-chelsea-5974351",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:12:00 +0800",
-        "description": "From a lower growth target to bigger bets on technology and consumption, China’s Two Sessions open with a sober assessment of economic challenges and a recalibration of policy priorities."
-      },
-      {
-        "title": "European shares edge higher after Asia surge",
-        "link": "https://www.channelnewsasia.com/business/european-shares-edge-higher-after-asia-surge-5973851",
-        "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:11:57 +0800",
+        "published": "Thu, 05 Mar 2026 22:41:44 +0800",
         "description": ""
       },
       {
-        "title": "Revolut files for US bank charter, names Duransoy as US CEO",
-        "link": "https://www.channelnewsasia.com/business/revolut-files-us-bank-charter-names-duransoy-us-ceo-5973836",
+        "title": "Codelco, Microsoft sign AI deal for mining operations",
+        "link": "https://www.channelnewsasia.com/business/codelco-microsoft-sign-ai-deal-mining-operations-5974301",
         "source": "CNA Singapore",
-        "published": "Thu, 05 Mar 2026 19:09:11 +0800",
+        "published": "Thu, 05 Mar 2026 22:27:43 +0800",
+        "description": ""
+      },
+      {
+        "title": "Townsend selects all new front row for Scotland",
+        "link": "https://www.channelnewsasia.com/sport/townsend-selects-all-new-front-row-scotland-5974246",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 22:07:30 +0800",
+        "description": ""
+      },
+      {
+        "title": "CVS taps Google Cloud to roll out AI-powered health platform",
+        "link": "https://www.channelnewsasia.com/business/cvs-taps-google-cloud-roll-out-ai-powered-health-platform-5974241",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 22:06:02 +0800",
+        "description": ""
+      },
+      {
+        "title": "France recall Jalibert for Scotland clash",
+        "link": "https://www.channelnewsasia.com/sport/france-recall-jalibert-scotland-clash-5974191",
+        "source": "CNA Singapore",
+        "published": "Thu, 05 Mar 2026 21:36:51 +0800",
         "description": ""
       }
     ],
@@ -457,18 +457,32 @@
         "description": "The remarks came amid a row over the refusal to permit the use of UK bases for the initial US-Israel strikes."
       },
       {
-        "title": "Trump says Starmer is 'no Winston Churchill' over Iran strikes",
-        "link": "https://www.bbc.com/news/articles/c62gwkjg0k9o?at_medium=RSS&at_campaign=rss",
+        "title": "Healey visits Cyprus after criticism of UK response to drone attacks",
+        "link": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 03 Mar 2026 20:17:30 GMT",
-        "description": "Sir Keir Starmer had refused to grant the US permission to use the Diego Garcia military base."
+        "published": "Thu, 05 Mar 2026 14:55:33 GMT",
+        "description": "The Cypriot government has criticised how the UK has handled information sharing after drone attacks."
+      },
+      {
+        "title": "Failed asylum seeker families to be offered up to £40k to leave UK",
+        "link": "https://www.bbc.com/news/articles/c0j559146e6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 05 Mar 2026 14:50:46 GMT",
+        "description": "The home secretary says the \"incentives\" will deliver a \"significant saving to the taxpayer\"."
       },
       {
         "title": "MP's husband and two men bailed after arrests over alleged China spying",
         "link": "https://www.bbc.com/news/articles/crm8898ex3mo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 05 Mar 2026 11:54:23 GMT",
+        "published": "Thu, 05 Mar 2026 14:18:23 GMT",
         "description": "One of those arrested is the husband of Scottish Labour MP Joani Reid."
+      },
+      {
+        "title": "Trying to get social care can be 'horrendous', Baroness Casey tells BBC",
+        "link": "https://www.bbc.com/news/articles/cg4gg9ywereo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 05 Mar 2026 11:24:03 GMT",
+        "description": "The chair of the independent commission on adult social care also says the care system relies on the exploitation of its workforce."
       },
       {
         "title": "Reform leads other parties in donations ahead of May elections",
@@ -476,20 +490,6 @@
         "source": "BBC Politics",
         "published": "Thu, 05 Mar 2026 11:16:01 GMT",
         "description": "The latest donations received by Nigel Farage's party includes £3m from crypto investor Christopher Harborne."
-      },
-      {
-        "title": "Cyprus criticises UK's response to drone attack ahead of Healey visit",
-        "link": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 05 Mar 2026 11:00:03 GMT",
-        "description": "The Cypriot government has criticised how the UK has handled information sharing after drone attacks."
-      },
-      {
-        "title": "Asylum seekers who break law to have support removed",
-        "link": "https://www.bbc.com/news/articles/c0j559146e6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 05 Mar 2026 10:00:23 GMT",
-        "description": "The home secretary will say in a speech the move is required to restore \"trust\" to the asylum system."
       }
     ],
     "Science": [
@@ -571,73 +571,73 @@
   },
   "top10": [
     {
-      "title": "BYD launches new generation Blade Battery with rapid charging in cold environments",
-      "link": "https://www.channelnewsasia.com/business/byd-launches-new-generation-blade-battery-rapid-charging-in-cold-environments-5973976",
+      "title": "Match Group COO out, as dating apps struggle to connect with Gen Z",
+      "link": "https://techcrunch.com/2026/03/05/match-group-coo-out-as-dating-apps-struggle-to-connect-with-gen-z/",
+      "source": "TechCrunch",
+      "published": "Thu, 05 Mar 2026 15:36:14 +0000",
+      "description": "Match Group eliminates the COO role as CEO Spencer Rascoff has been managing operations."
+    },
+    {
+      "title": "Singapore's Loh Kean Yew exits All-England after round-of-16 loss to France's world No 5 Popov",
+      "link": "https://www.channelnewsasia.com/sport/loh-kean-yew-yeo-jia-min-team-singapore-badminton-all-england-open-5974376",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:53:15 +0800",
+      "published": "Thu, 05 Mar 2026 23:28:16 +0800",
+      "description": "Singapore's Yeo Jia Min was also eliminated from the tournament on Thursday (Mar 5)."
+    },
+    {
+      "title": "Wall Street sees early drop as Iran war drives bond selloff",
+      "link": "https://www.channelnewsasia.com/business/wall-street-sees-early-drop-iran-war-drives-bond-selloff-5974421",
+      "source": "CNA Singapore",
+      "published": "Thu, 05 Mar 2026 23:23:30 +0800",
       "description": ""
     },
     {
-      "title": "Fewer fresh graduates found work within 6 months in 2025; median salary held steady at S$4,500: Survey",
-      "link": "https://www.channelnewsasia.com/singapore/graduate-employment-2025-work-jobs-university-5973621",
+      "title": "Toyota Motor to cut output for Middle East by nearly 40,000 vehicles, Nikkei reports",
+      "link": "https://www.channelnewsasia.com/business/toyota-motor-cut-output-middle-east-nearly-40000-vehicles-nikkei-reports-5974406",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:52:09 +0800",
-      "description": "More fresh graduates were seeking work,&nbsp;as opposed to other routes like pursuing further studies or taking a break."
-    },
-    {
-      "title": "'Happy Days!' - Bottas freed from threat of 2024 F1 grid penalty",
-      "link": "https://www.channelnewsasia.com/sport/happy-days-bottas-freed-threat-2024-f1-grid-penalty-5973966",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:51:16 +0800",
+      "published": "Thu, 05 Mar 2026 23:13:12 +0800",
       "description": ""
     },
     {
-      "title": "EFL Championship playoffs expanded to six teams from next season",
-      "link": "https://www.channelnewsasia.com/sport/efl-championship-playoffs-expanded-six-teams-next-season-5973971",
+      "title": "Trump, Bondi face lawsuit over approval of ByteDance TikTok US asset sale",
+      "link": "https://www.channelnewsasia.com/business/trump-bondi-face-lawsuit-over-approval-bytedance-tiktok-us-asset-sale-5974381",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:50:11 +0800",
+      "published": "Thu, 05 Mar 2026 23:07:22 +0800",
       "description": ""
     },
     {
-      "title": "Singapore to increase family counselling capacity as number of cases grows",
-      "link": "https://www.channelnewsasia.com/singapore/family-counselling-capacity-increase-cases-grow-msf-5973116",
+      "title": "German school students rally against army recruitment drive",
+      "link": "https://www.channelnewsasia.com/world/german-school-students-rally-against-army-recruitment-drive-5974371",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:49:00 +0800",
-      "description": "The number of family counselling cases has risen over the past few years – from 3,100 in 2022 to 5,700 in 2025."
-    },
-    {
-      "title": "Government to probe AI-driven disinformation videos: Josephine Teo",
-      "link": "https://www.channelnewsasia.com/singapore/disinformation-ai-youtube-campaign-chinese-fake-videos-lawrence-wong-5973601",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:29:00 +0800",
-      "description": "Following CNA’s investigation last month, YouTube removed most of the videos and accounts spreading \"entirely made-up\" storylines about Singapore’s current affairs for violating its community guidelin"
-    },
-    {
-      "title": "UK's Nothing splashes colour on new phones to shake up 'boring' tech",
-      "link": "https://www.channelnewsasia.com/business/uks-nothing-splashes-colour-new-phones-shake-up-boring-tech-5973881",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:20:45 +0800",
+      "published": "Thu, 05 Mar 2026 23:03:00 +0800",
       "description": ""
     },
     {
-      "title": "Lower growth target, higher stakes: Key signals as China’s Two Sessions open",
-      "link": "https://www.channelnewsasia.com/east-asia/china-two-sessions-gdp-economy-households-tech-defence-5973386",
-      "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:12:00 +0800",
-      "description": "From a lower growth target to bigger bets on technology and consumption, China’s Two Sessions open with a sober assessment of economic challenges and a recalibration of policy priorities."
+      "title": "Zeno raises $25M to speed up production of its battery-swap motorbikes",
+      "link": "https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/",
+      "source": "TechCrunch",
+      "published": "Thu, 05 Mar 2026 15:02:23 +0000",
+      "description": "The startup, co-founded by Tesla and Apple alumni, has sold nearly 1,000 of its motorbikes so far."
     },
     {
-      "title": "European shares edge higher after Asia surge",
-      "link": "https://www.channelnewsasia.com/business/european-shares-edge-higher-after-asia-surge-5973851",
+      "title": "Why Bitcoin ‘Can’t’ Be A Central Bank Asset: Billionaire Chamath",
+      "link": "https://bitcoinist.com/why-bitcoin-cant-central-bank-asset-billionaire/",
+      "source": "Bitcoinist",
+      "published": "Thu, 05 Mar 2026 15:00:53 +0000",
+      "description": "Billionaire Chamath Palihapitiya says Bitcoin has hit a structural limit that many market participants still do not want to confront: in his view, it lacks the qualities needed for central bank adopti"
+    },
+    {
+      "title": "Wrexham tap into past glory in bid for FA Cup upset against Chelsea",
+      "link": "https://www.channelnewsasia.com/sport/wrexham-tap-past-glory-in-bid-fa-cup-upset-against-chelsea-5974351",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:11:57 +0800",
+      "published": "Thu, 05 Mar 2026 22:41:44 +0800",
       "description": ""
     },
     {
-      "title": "Revolut files for US bank charter, names Duransoy as US CEO",
-      "link": "https://www.channelnewsasia.com/business/revolut-files-us-bank-charter-names-duransoy-us-ceo-5973836",
+      "title": "Codelco, Microsoft sign AI deal for mining operations",
+      "link": "https://www.channelnewsasia.com/business/codelco-microsoft-sign-ai-deal-mining-operations-5974301",
       "source": "CNA Singapore",
-      "published": "Thu, 05 Mar 2026 19:09:11 +0800",
+      "published": "Thu, 05 Mar 2026 22:27:43 +0800",
       "description": ""
     }
   ]
