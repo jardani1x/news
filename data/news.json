@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-03-06 12:00 SGT",
-  "updated_iso": "2026-03-06T12:00:14.929671+08:00",
+  "updated_sgt": "2026-03-06 16:00 SGT",
+  "updated_iso": "2026-03-06T16:00:16.572050+08:00",
   "categories": {
     "World": [
       {
@@ -11,25 +11,11 @@
         "description": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples."
       },
       {
-        "title": "Finland plans to lift decades-old ban on hosting nuclear weapons",
-        "link": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 23:12:16 GMT",
-        "description": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine."
-      },
-      {
         "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
         "link": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Thu, 05 Mar 2026 22:16:24 GMT",
         "description": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months."
-      },
-      {
-        "title": "Azerbaijan says Iran struck its territory, as war spills over border",
-        "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 21:33:48 GMT",
-        "description": "President Ilham Aliyev says drone strikes are \"act of terror\" as he places armed forces on high alert."
       },
       {
         "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
@@ -53,11 +39,32 @@
         "description": "The Today programme host visited her colleagues in the office on Thursday, nearly five weeks since her mother disappeared."
       },
       {
-        "title": "Ecuadorean troops find 35m-long 'narco-sub' hidden in nature reserve",
-        "link": "https://www.bbc.com/news/articles/cd6zz65vg0qo?at_medium=RSS&at_campaign=rss",
+        "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
+        "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 17:34:04 GMT",
-        "description": "Ecuador's military says the drug-trafficking submersible was loaded with fuel and \"ready to go\"."
+        "published": "Fri, 06 Mar 2026 04:23:12 GMT",
+        "description": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife."
+      },
+      {
+        "title": "Israel strikes Beirut after evacuation warning sparks panic",
+        "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Mar 2026 04:08:48 GMT",
+        "description": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across Lebanon."
+      },
+      {
+        "title": "Anthropic vows to sue Pentagon over risk designation",
+        "link": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Mar 2026 02:46:30 GMT",
+        "description": "The supply chain risk designation of the artificial intelligence firm is a first for a US company."
+      },
+      {
+        "title": "Ukraine accuses Hungary of taking seven bank workers hostage in Budapest",
+        "link": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Mar 2026 02:13:31 GMT",
+        "description": "Their bank said they were in two vans carrying $80m (£60m) worth of cash between Austria and Ukraine."
       },
       {
         "title": "Canadian teen died from drowning after dingo attack in Australia",
@@ -65,13 +72,6 @@
         "source": "BBC World",
         "published": "Fri, 06 Mar 2026 01:47:32 GMT",
         "description": "The body of Piper James was found in January surrounded by dingoes on the island of K'Gari."
-      },
-      {
-        "title": "Britney Spears arrested in California on suspicion of driving under the influence",
-        "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 00:51:38 GMT",
-        "description": "The singer was arrested by the California Highway Patrol at around 21:30 PT (05:30 GMT) on Wednesday."
       }
     ],
     "Finance": [
@@ -81,13 +81,6 @@
         "source": "CNBC Finance",
         "published": "Thu, 05 Mar 2026 23:00:49 GMT",
         "description": "The Cuba comments show Trump, less than a week into an escalating military conflict in Iran, is considering another major foreign policy move."
-      },
-      {
-        "title": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
-        "link": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 22:08:13 GMT",
-        "description": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
       },
       {
         "title": "The February jobs numbers are coming out Friday. Here's what to expect",
@@ -104,11 +97,32 @@
         "description": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
       },
       {
-        "title": "Asia markets trade mixed after Wall Street losses, oil prices dip after Thursday surge",
+        "title": "Asia markets eke out gains as Iran conflict-led oil worries keep investors jittery",
         "link": "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html",
         "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 03:47:12 GMT",
+        "published": "Fri, 06 Mar 2026 07:49:46 GMT",
         "description": "Overnight, oil prices broke through the $80 per barrel mark, with Brent futures up 3.54% and last trading at $84.31."
+      },
+      {
+        "title": "Iran's Shahed drone: How 'the poor man’s cruise missile’ is shaping Tehran’s retaliation",
+        "link": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 06:03:42 GMT",
+        "description": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes."
+      },
+      {
+        "title": "U.S. offers India a 30-day waiver for buying Russian oil as Iran war deepens energy supply worries",
+        "link": "https://www.cnbc.com/2026/03/06/us-india-waiver-russian-oil-iran-war-energy-supply-worries-.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 05:41:08 GMT",
+        "description": "U.S. has given India a waiver to buy Russian oil for 30 days as conflict in Middle East impacts global energy supply."
+      },
+      {
+        "title": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ",
+        "link": "https://www.cnbc.com/2026/03/06/uae-mulls-freezing-iranian-assets-as-middle-east-conflict-escalates-wsj-.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 05:03:50 GMT",
+        "description": "The UAE is considering freezing billions of dollars of Iranian assets held in the Gulf state, potentially severing one of Tehran's most critical economic lifelines."
       },
       {
         "title": "China dials down growth ambitions with decades-low target. Here's why",
@@ -116,13 +130,6 @@
         "source": "CNBC Finance",
         "published": "Fri, 06 Mar 2026 03:09:11 GMT",
         "description": "China has set its lowest growth target in decades, acknowledging domestic challenges and pointing to global uncertainty."
-      },
-      {
-        "title": "Iran's Shahed drone: How 'the poor man’s cruise missile’ is shaping Tehran’s retaliation",
-        "link": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 02:31:47 GMT",
-        "description": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes."
       },
       {
         "title": "Why the world's top-performing stock market in 2025 is seeing historic volatility",
@@ -137,13 +144,6 @@
         "source": "CNBC Finance",
         "published": "Fri, 06 Mar 2026 01:38:07 GMT",
         "description": "Anthropic said even with the designation, the government can't forbid it from working with companies in other capacities."
-      },
-      {
-        "title": "Trump taps Sen. Markwayne Mullin after firing Kristi Noem as DHS secretary",
-        "link": "https://www.cnbc.com/2026/03/05/trump-kristi-noem-markwayne-mullin-dhs.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 00:23:49 GMT",
-        "description": "Noem's chief advisor, Corey Lewandowski, will also leave his position at DHS, MS Now reported."
       }
     ],
     "Technology": [
@@ -220,32 +220,32 @@
     ],
     "Crypto": [
       {
-        "title": "Bitwise Backs Bitcoin Devs With Over $380K In Donations",
-        "link": "https://bitcoinist.com/bitwise-backs-bitcoin-devs-with-over-380k-in-donations/",
+        "title": "Bitcoin Bears Lose The Lead: Negative Funding Is The Only Thing Stopping A Structural Breakout",
+        "link": "https://bitcoinist.com/bitcoin-bears-lose-lead-negative-funding-stopping/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 23:00:34 +0000",
-        "description": "When Bitwise Asset Management launched its Bitcoin ETF in January 2024, it made a promise: hand over 10% of gross profits every year to the people who keep Bitcoin running. Fourteen months later, that"
+        "published": "Fri, 06 Mar 2026 07:00:34 +0000",
+        "description": "Bitcoin is showing renewed strength after reclaiming the $70,000 level, a move that has helped stabilize sentiment following weeks of heightened volatility and uncertain market direction. The recovery"
       },
       {
-        "title": "Justin Sun, Tron Entities Reach Settlement With US SEC, $10M Fine Imposed",
-        "link": "https://bitcoinist.com/justin-sun-tron-entities-reach-settlement-with-sec/",
+        "title": "Canada’s Top 5 Bank Makes Crypto ETF Move With New Multi-Asset Fund",
+        "link": "https://bitcoinist.com/canadas-top-5-bank-makes-crypto-etf-move-with-new-multi-asset-fund/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 22:34:02 +0000",
-        "description": "The US Securities and Exchange Commission (SEC) has settled its civil fraud case against Tron (TRX) blockchain founder Justin Sun, bringing an end to the legal proceedings that began in 2023. As part "
+        "published": "Fri, 06 Mar 2026 06:00:48 +0000",
+        "description": "The fund behind the product has history with this asset class. Toronto-based 3iQ debuted one of the world&#8217;s first publicly traded spot Bitcoin funds back in 2021, well ahead of US regulators, wh"
       },
       {
-        "title": "Bitcoin Supply Shift: 212,000 BTC Moves Into Long-Term Holder Hands, Price Nearing A Bounce?",
-        "link": "https://bitcoinist.com/bitcoin-supply-shift-212000-btc/",
+        "title": "Why Ethereum’s Record 29.6M ETH Turnover Signals A High-Velocity Speculative Trap",
+        "link": "https://bitcoinist.com/why-ethereums-record-29-6m-eth-turnover-signals/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 22:00:01 +0000",
-        "description": "The price of Bitcoin has been struggling with heightened volatility across the broader cryptocurrency sector, but investors’ action is telling a different and interesting story. In present times, ther"
+        "published": "Fri, 06 Mar 2026 05:00:28 +0000",
+        "description": "Ethereum has pushed back above the $2,100 level, signaling a modest improvement in market sentiment after weeks of volatility and uncertain price action. The move above this key threshold comes as the"
       },
       {
-        "title": "Hyperliquid Policy Center Maps Out Multi-Year Agenda, CEO Sets 3 Key Goals",
-        "link": "https://bitcoinist.com/hyperliquid-policy-center-maps-multi-year-agenda/",
+        "title": "OG Trader Sillytuna Says $24M Crypto Theft Came With Violent Threats",
+        "link": "https://bitcoinist.com/sillytuna-24m-crypto-theft-with-violent-threats/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 21:28:43 +0000",
-        "description": "Jake Chervinsky, CEO of the newly formed Hyperliquid Policy Center (HPC), has laid out a policy roadmap aimed at reshaping how decentralized finance (DeFi) is regulated in the United States. Hyperliqu"
+        "published": "Fri, 06 Mar 2026 04:00:40 +0000",
+        "description": "Sillytuna, one of Ethereum’s earliest NFT whales, has reported a $24 million crypto theft that allegedly combined an on‑chain address‑poisoning scam with offline violence and threats. Related Reading:"
       },
       {
         "title": "Revisiting The Dogecoin Rally To $10: Where Is The Meme Coin This Cycle?",
@@ -302,7 +302,7 @@
         "title": "Anthropic has ‘no choice’ but to fight Pentagon’s ‘supply-chain risk’ designation in court, CEO says",
         "link": "https://www.marketwatch.com/story/anthropic-has-no-choice-but-to-fight-pentagons-supply-chain-risk-designation-in-court-ceo-says-3375d7d1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 03:49:00 GMT",
+        "published": "Fri, 06 Mar 2026 04:33:00 GMT",
         "description": "Anthropic CEO Dario Amodei said Thursday that the AI company has “no choice” but to legally challenge the Pentagon’s move to declare it a supply-chain risk."
       },
       {
@@ -350,74 +350,74 @@
     ],
     "Singapore": [
       {
-        "title": "Singer Harry Styles' fans head in one direction: to star's home village",
-        "link": "https://www.channelnewsasia.com/entertainment/harry-styles-fans-visit-his-home-village-5975506",
+        "title": "Singapore arranges flight to Oman for visitors affected by Middle East airspace disruption",
+        "link": "https://www.channelnewsasia.com/singapore/tourists-middle-east-flight-muscat-oman-changi-airport-stb-5976346",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:54:37 +0800",
-        "description": "The quiet English village where Harry Styles grew up has become a year-round pilgrimage site for fans tracing the pop star’s humble beginnings."
+        "published": "Fri, 06 Mar 2026 15:28:00 +0800",
+        "description": "The Singapore Airlines flight, SQ8002, will depart Singapore’s Changi Airport at 5.30am local time on Mar 8."
       },
       {
-        "title": "Harry Potter stars Tom Felton and Daniel Radcliffe reunite on Broadway",
-        "link": "https://www.channelnewsasia.com/entertainment/tom-felton-daniel-radcliffe-harry-potter-broadway-reunion-5975606",
+        "title": "Malaysia says approved investments hit record high of US$108 billion in 2025",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-approved-investment-record-high-5976271",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:52:41 +0800",
-        "description": "From Hogwarts rivals to Broadway peers, the two English actors reunited in New York City as they were simultaneously performing in separate Broadway productions more than 10 years after the end of the"
+        "published": "Fri, 06 Mar 2026 15:15:00 +0800",
+        "description": "A total of 8,390 projects were approved, with the potential of creating nearly 245,000 jobs for Malaysians,&nbsp;Prime Minister Anwar Ibrahim said."
       },
       {
-        "title": "Hong Kong media tycoon Jimmy Lai will not appeal conviction, 20-year term, lawyer says",
-        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-jimmy-lai-appeal-conviction-apple-daily-5975811",
+        "title": "Two lawyers ordered to pay S$5,000 each in personal costs for citing AI-generated fictitious cases",
+        "link": "https://www.channelnewsasia.com/singapore/lawyers-personal-costs-5000-ai-fictitious-cases-5976126",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:50:00 +0800",
+        "published": "Fri, 06 Mar 2026 15:04:57 +0800",
+        "description": "The lead lawyer for a civil suit had roped in another solicitor to assist him, and this lawyer's paralegal purportedly inserted the fictitious cases into draft submissions."
+      },
+      {
+        "title": "Malaysia FA disappointed with CAS ruling to partially uphold player sanctions",
+        "link": "https://www.channelnewsasia.com/sport/malaysia-fa-disappointed-cas-ruling-partially-uphold-player-sanctions-5976336",
+        "source": "CNA Singapore",
+        "published": "Fri, 06 Mar 2026 15:01:56 +0800",
         "description": ""
       },
       {
-        "title": "US approves temporary sale of stranded Russian oil to India",
-        "link": "https://www.channelnewsasia.com/world/us-approves-temporary-sale-russia-oil-india-iran-5975796",
+        "title": "Foreign outflows from Indian IT stocks at 7-month high in February on AI shockwaves",
+        "link": "https://www.channelnewsasia.com/business/foreign-outflows-indian-it-stocks-7-month-high-in-february-ai-shockwaves-5976321",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:40:00 +0800",
-        "description": "US Treasury Secretary Scott Bessent said the waiver was issued \"to enable oil to keep flowing into the global market\" after the Iran conflict raised supply concerns.&nbsp;"
-      },
-      {
-        "title": "Denso proposes to buy Rohm in deal that could reach $8.3 billion, Nikkei says",
-        "link": "https://www.channelnewsasia.com/business/denso-proposes-buy-rohm-in-deal-could-reach-83-billion-nikkei-says-5975786",
-        "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:30:49 +0800",
+        "published": "Fri, 06 Mar 2026 14:57:15 +0800",
         "description": ""
       },
       {
-        "title": "Ferrari's Leclerc fastest in first practice at Australian Grand Prix",
-        "link": "https://www.channelnewsasia.com/sport/ferraris-leclerc-fastest-in-first-practice-australian-grand-prix-5975776",
+        "title": "Atos hits yearly revenue target after restructuring slashed 19% of workforce",
+        "link": "https://www.channelnewsasia.com/business/atos-hits-yearly-revenue-target-after-restructuring-slashed-19-workforce-5976281",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:26:13 +0800",
+        "published": "Fri, 06 Mar 2026 14:33:47 +0800",
         "description": ""
       },
       {
-        "title": "Taiwan's Foxconn says everyone will feel impact of prolonged Iran conflict",
-        "link": "https://www.channelnewsasia.com/business/taiwans-foxconn-says-everyone-will-feel-impact-prolonged-iran-conflict-5975741",
+        "title": "India's tech state Karnataka bans social media for children under 16",
+        "link": "https://www.channelnewsasia.com/business/indias-tech-state-karnataka-bans-social-media-children-under-16-5976236",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:03:45 +0800",
+        "published": "Fri, 06 Mar 2026 14:22:18 +0800",
         "description": ""
       },
       {
-        "title": "SIA, Scoot extend Middle East flight cancellations amid US-Israel war on Iran",
-        "link": "https://www.channelnewsasia.com/singapore/iran-war-sia-scoot-middle-east-dubai-jeddah-flight-cancellations-5975551",
+        "title": "Guns N’ Roses to perform at National Stadium in Singapore in November, ticket sales start Mar 16",
+        "link": "https://www.channelnewsasia.com/entertainment/guns-n-roses-singapore-november-2026-national-stadium-5976066",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 11:02:00 +0800",
-        "description": "\"As the situation remains fluid, other SIA flights may be affected,\" Singapore's flag carrier said."
+        "published": "Fri, 06 Mar 2026 14:19:32 +0800",
+        "description": "Guns N' Roses will perform at the National Stadium on Nov 25. Ticket pre-sales begin Mar 16, with general sales from Mar 20."
       },
       {
-        "title": "Oil falls as US may intervene in futures market, issues waiver for Russian purchases",
-        "link": "https://www.channelnewsasia.com/business/oil-falls-us-may-intervene-in-futures-market-issues-waiver-russian-purchases-5975711",
+        "title": "BOJ will be vigilant to yen moves, impact on inflation, deputy governor says",
+        "link": "https://www.channelnewsasia.com/business/boj-will-be-vigilant-yen-moves-impact-inflation-deputy-governor-says-5976226",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 10:57:48 +0800",
+        "published": "Fri, 06 Mar 2026 14:15:46 +0800",
         "description": ""
       },
       {
-        "title": "Eligible lower-wage adults returning to school can get S$500 per quarter under new ComLink+ pilot",
-        "link": "https://www.channelnewsasia.com/singapore/lower-income-young-adults-comlink-500-return-school-5973576",
+        "title": "Tokyo says second Japanese citizen held in Iran",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-second-citizen-held-war-iran-5976166",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 10:55:00 +0800",
-        "description": "The support can be given for up to three years, depending on the course duration. &nbsp;"
+        "published": "Fri, 06 Mar 2026 14:00:00 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
@@ -494,39 +494,32 @@
     ],
     "Science": [
       {
-        "title": "Record-breaking photodetector captures light in just 125 picoseconds",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184218.htm",
+        "title": "Scientists discover the switch that revives exhausted cancer-fighting T cells",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260304184235.htm",
         "source": "Science Daily",
-        "published": "Wed, 04 Mar 2026 22:09:56 EST",
-        "description": "A new ultrathin photodetector from Duke University can sense light across the entire electromagnetic spectrum and generate a signal in just 125 picoseconds, making it the fastest pyroelectric detector"
+        "published": "Thu, 05 Mar 2026 22:19:10 EST",
+        "description": "Scientists have uncovered new genetic rules that determine whether the immune system’s “killer” T cells remain powerful long-term defenders or become worn out and ineffective. By building a detailed g"
       },
       {
-        "title": "New drug cuts seizures by up to 91% in children with rare epilepsy",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184215.htm",
+        "title": "Humpback whale recovery is changing who fathers the calves",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305182700.htm",
         "source": "Science Daily",
-        "published": "Wed, 04 Mar 2026 21:14:30 EST",
-        "description": "A new experimental drug is showing remarkable promise for children with Dravet syndrome, a severe genetic form of epilepsy. In clinical trials, the treatment zorevunersen cut seizures by as much as 91"
+        "published": "Thu, 05 Mar 2026 20:19:42 EST",
+        "description": "A new study shows that as humpback whale populations recover from past whaling, older males are gaining a major advantage in reproduction. Early in the recovery, breeding groups were dominated by youn"
       },
       {
-        "title": "Ozempic-like weight loss drugs may help the heart recover after a heart attack",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184223.htm",
+        "title": "Scientists finally see the atomic flaws hiding inside computer chips",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305182657.htm",
         "source": "Science Daily",
-        "published": "Wed, 04 Mar 2026 20:09:30 EST",
-        "description": "Popular weight-loss drugs such as Ozempic, Wegovy, and Mounjaro may do more than help people shed pounds. New research suggests these GLP-1 medications could also help protect the heart after a heart "
+        "published": "Thu, 05 Mar 2026 19:42:42 EST",
+        "description": "Researchers at Cornell University have developed a powerful imaging technique that reveals atomic scale defects inside computer chips for the first time. Using an advanced electron microscopy method, "
       },
       {
-        "title": "A simple hand photo may be the key to detecting a serious disease",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303201807.htm",
+        "title": "ALMA captures the most detailed image ever of the Milky Way’s turbulent core",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
         "source": "Science Daily",
-        "published": "Wed, 04 Mar 2026 11:59:51 EST",
-        "description": "Researchers at Kobe University have developed an AI system that can detect acromegaly, a rare hormone disorder, by analyzing photos of the back of the hand and a clenched fist. The disease often devel"
-      },
-      {
-        "title": "Study finds wild release can be deadly for rescued slow lorises",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303201801.htm",
-        "source": "Science Daily",
-        "published": "Tue, 03 Mar 2026 23:19:55 EST",
-        "description": "Returning rescued slow lorises to the wild may sound like a conservation success, but a new study shows it can turn deadly. Researchers tracked nine released animals and found that only two survived, "
+        "published": "Thu, 05 Mar 2026 18:27:05 EST",
+        "description": "A sweeping new ALMA image has peeled back the veil on the Milky Way’s core, exposing a dense network of cold gas filaments near the central black hole. Stretching across 650 light-years, the survey ma"
       },
       {
         "title": "Scientists discover a hidden force that helps wire the brain",
@@ -550,18 +543,25 @@
         "description": "Tyrannosaurus rex may have taken far longer to grow up than scientists once thought. By analyzing growth rings in fossilized leg bones from 17 tyrannosaur specimens and using new statistical methods, "
       },
       {
-        "title": "Half of Amazon insects could face dangerous heat stress",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184224.htm",
+        "title": "Astronomers discover giant cosmic sheet around the Milky Way",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 00:47:53 EST",
-        "description": "A sweeping new study of more than 2,000 insect species reveals a troubling reality: many insects may be far less capable of coping with rising temperatures than scientists once hoped. Researchers foun"
+        "published": "Fri, 06 Mar 2026 01:55:55 EST",
+        "description": "For decades, astronomers wondered why most nearby galaxies are speeding away from the Milky Way instead of being pulled in by its gravity. New simulations reveal the answer: our galaxy sits in a gigan"
       },
       {
-        "title": "Scientists discover the protein that malaria parasites can’t live without",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+        "title": "Electrons catapult across solar materials in just 18 femtoseconds",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 00:03:04 EST",
-        "description": "Scientists have uncovered a crucial weakness in the malaria parasite that could open the door to new treatments. Researchers identified a protein called Aurora-related kinase 1 (ARK1) that acts like a"
+        "published": "Fri, 06 Mar 2026 00:49:18 EST",
+        "description": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecular catapult.” In experiments lasting just 18 femto"
+      },
+      {
+        "title": "AI blood test finds silent liver disease years before symptoms",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305223204.htm",
+        "source": "Science Daily",
+        "published": "Fri, 06 Mar 2026 00:20:31 EST",
+        "description": "Researchers created an AI-driven liquid biopsy that scans patterns in fragments of DNA circulating in the blood. The system detected early liver fibrosis and cirrhosis—conditions that often go unnotic"
       }
     ]
   },
@@ -571,73 +571,73 @@
   },
   "top10": [
     {
-      "title": "Singer Harry Styles' fans head in one direction: to star's home village",
-      "link": "https://www.channelnewsasia.com/entertainment/harry-styles-fans-visit-his-home-village-5975506",
+      "title": "Singapore arranges flight to Oman for visitors affected by Middle East airspace disruption",
+      "link": "https://www.channelnewsasia.com/singapore/tourists-middle-east-flight-muscat-oman-changi-airport-stb-5976346",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:54:37 +0800",
-      "description": "The quiet English village where Harry Styles grew up has become a year-round pilgrimage site for fans tracing the pop star’s humble beginnings."
+      "published": "Fri, 06 Mar 2026 15:28:00 +0800",
+      "description": "The Singapore Airlines flight, SQ8002, will depart Singapore’s Changi Airport at 5.30am local time on Mar 8."
     },
     {
-      "title": "Harry Potter stars Tom Felton and Daniel Radcliffe reunite on Broadway",
-      "link": "https://www.channelnewsasia.com/entertainment/tom-felton-daniel-radcliffe-harry-potter-broadway-reunion-5975606",
+      "title": "Malaysia says approved investments hit record high of US$108 billion in 2025",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-approved-investment-record-high-5976271",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:52:41 +0800",
-      "description": "From Hogwarts rivals to Broadway peers, the two English actors reunited in New York City as they were simultaneously performing in separate Broadway productions more than 10 years after the end of the"
+      "published": "Fri, 06 Mar 2026 15:15:00 +0800",
+      "description": "A total of 8,390 projects were approved, with the potential of creating nearly 245,000 jobs for Malaysians,&nbsp;Prime Minister Anwar Ibrahim said."
     },
     {
-      "title": "Hong Kong media tycoon Jimmy Lai will not appeal conviction, 20-year term, lawyer says",
-      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-jimmy-lai-appeal-conviction-apple-daily-5975811",
+      "title": "Two lawyers ordered to pay S$5,000 each in personal costs for citing AI-generated fictitious cases",
+      "link": "https://www.channelnewsasia.com/singapore/lawyers-personal-costs-5000-ai-fictitious-cases-5976126",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:50:00 +0800",
+      "published": "Fri, 06 Mar 2026 15:04:57 +0800",
+      "description": "The lead lawyer for a civil suit had roped in another solicitor to assist him, and this lawyer's paralegal purportedly inserted the fictitious cases into draft submissions."
+    },
+    {
+      "title": "Malaysia FA disappointed with CAS ruling to partially uphold player sanctions",
+      "link": "https://www.channelnewsasia.com/sport/malaysia-fa-disappointed-cas-ruling-partially-uphold-player-sanctions-5976336",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 15:01:56 +0800",
       "description": ""
     },
     {
-      "title": "US approves temporary sale of stranded Russian oil to India",
-      "link": "https://www.channelnewsasia.com/world/us-approves-temporary-sale-russia-oil-india-iran-5975796",
-      "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:40:00 +0800",
-      "description": "US Treasury Secretary Scott Bessent said the waiver was issued \"to enable oil to keep flowing into the global market\" after the Iran conflict raised supply concerns.&nbsp;"
-    },
-    {
-      "title": "Denso proposes to buy Rohm in deal that could reach $8.3 billion, Nikkei says",
-      "link": "https://www.channelnewsasia.com/business/denso-proposes-buy-rohm-in-deal-could-reach-83-billion-nikkei-says-5975786",
-      "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:30:49 +0800",
-      "description": ""
-    },
-    {
-      "title": "Ferrari's Leclerc fastest in first practice at Australian Grand Prix",
-      "link": "https://www.channelnewsasia.com/sport/ferraris-leclerc-fastest-in-first-practice-australian-grand-prix-5975776",
-      "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:26:13 +0800",
-      "description": ""
-    },
-    {
-      "title": "Taiwan's Foxconn says everyone will feel impact of prolonged Iran conflict",
-      "link": "https://www.channelnewsasia.com/business/taiwans-foxconn-says-everyone-will-feel-impact-prolonged-iran-conflict-5975741",
-      "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:03:45 +0800",
-      "description": ""
-    },
-    {
-      "title": "SIA, Scoot extend Middle East flight cancellations amid US-Israel war on Iran",
-      "link": "https://www.channelnewsasia.com/singapore/iran-war-sia-scoot-middle-east-dubai-jeddah-flight-cancellations-5975551",
-      "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 11:02:00 +0800",
-      "description": "\"As the situation remains fluid, other SIA flights may be affected,\" Singapore's flag carrier said."
-    },
-    {
-      "title": "Revisiting The Dogecoin Rally To $10: Where Is The Meme Coin This Cycle?",
-      "link": "https://bitcoinist.com/the-dogecoin-rally-to-10/",
+      "title": "Bitcoin Bears Lose The Lead: Negative Funding Is The Only Thing Stopping A Structural Breakout",
+      "link": "https://bitcoinist.com/bitcoin-bears-lose-lead-negative-funding-stopping/",
       "source": "Bitcoinist",
-      "published": "Fri, 06 Mar 2026 03:00:37 +0000",
-      "description": "Market analyst Dima Potts has released an ambitious Dogecoin (DOGE) price forecast, predicting that the popular dog-themed meme coin could set the stage for a massive rally toward $10. Supporting his "
+      "published": "Fri, 06 Mar 2026 07:00:34 +0000",
+      "description": "Bitcoin is showing renewed strength after reclaiming the $70,000 level, a move that has helped stabilize sentiment following weeks of heightened volatility and uncertain market direction. The recovery"
     },
     {
-      "title": "Oil falls as US may intervene in futures market, issues waiver for Russian purchases",
-      "link": "https://www.channelnewsasia.com/business/oil-falls-us-may-intervene-in-futures-market-issues-waiver-russian-purchases-5975711",
+      "title": "Foreign outflows from Indian IT stocks at 7-month high in February on AI shockwaves",
+      "link": "https://www.channelnewsasia.com/business/foreign-outflows-indian-it-stocks-7-month-high-in-february-ai-shockwaves-5976321",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 10:57:48 +0800",
+      "published": "Fri, 06 Mar 2026 14:57:15 +0800",
+      "description": ""
+    },
+    {
+      "title": "Atos hits yearly revenue target after restructuring slashed 19% of workforce",
+      "link": "https://www.channelnewsasia.com/business/atos-hits-yearly-revenue-target-after-restructuring-slashed-19-workforce-5976281",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 14:33:47 +0800",
+      "description": ""
+    },
+    {
+      "title": "India's tech state Karnataka bans social media for children under 16",
+      "link": "https://www.channelnewsasia.com/business/indias-tech-state-karnataka-bans-social-media-children-under-16-5976236",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 14:22:18 +0800",
+      "description": ""
+    },
+    {
+      "title": "Guns N’ Roses to perform at National Stadium in Singapore in November, ticket sales start Mar 16",
+      "link": "https://www.channelnewsasia.com/entertainment/guns-n-roses-singapore-november-2026-national-stadium-5976066",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 14:19:32 +0800",
+      "description": "Guns N' Roses will perform at the National Stadium on Nov 25. Ticket pre-sales begin Mar 16, with general sales from Mar 20."
+    },
+    {
+      "title": "BOJ will be vigilant to yen moves, impact on inflation, deputy governor says",
+      "link": "https://www.channelnewsasia.com/business/boj-will-be-vigilant-yen-moves-impact-inflation-deputy-governor-says-5976226",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 14:15:46 +0800",
       "description": ""
     }
   ]
