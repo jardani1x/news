@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-03-06 08:00 SGT",
-  "updated_iso": "2026-03-06T08:00:19.790497+08:00",
+  "updated_sgt": "2026-03-06 12:00 SGT",
+  "updated_iso": "2026-03-06T12:00:14.929671+08:00",
   "categories": {
     "World": [
       {
@@ -46,13 +46,6 @@
         "description": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences."
       },
       {
-        "title": "Texas lawmaker admits 'lapse in judgement' in affair with aide",
-        "link": "https://www.bbc.com/news/articles/cn5gg633qyzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 18:19:00 GMT",
-        "description": "The admission from the married Republican, Tony Gonzales, comes after a House panel launched an ethics investigation."
-      },
-      {
         "title": "Savannah Guthrie plans return to NBC as search for missing mother continues",
         "link": "https://www.bbc.com/news/articles/cx2gg22yepno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -67,28 +60,21 @@
         "description": "Ecuador's military says the drug-trafficking submersible was loaded with fuel and \"ready to go\"."
       },
       {
-        "title": "Britney Spears arrested on suspicion of driving under the influence",
+        "title": "Canadian teen died from drowning after dingo attack in Australia",
+        "link": "https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Mar 2026 01:47:32 GMT",
+        "description": "The body of Piper James was found in January surrounded by dingoes on the island of K'Gari."
+      },
+      {
+        "title": "Britney Spears arrested in California on suspicion of driving under the influence",
         "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 17:23:19 GMT",
+        "published": "Fri, 06 Mar 2026 00:51:38 GMT",
         "description": "The singer was arrested by the California Highway Patrol at around 21:30 PT (05:30 GMT) on Wednesday."
       }
     ],
     "Finance": [
-      {
-        "title": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
-        "link": "https://www.cnbc.com/2026/03/05/morgan-stanleys-david-chen-its-wartime-not-peacetime-for-software.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 23:17:52 GMT",
-        "description": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference."
-      },
-      {
-        "title": "Amazon online store suffers outage for some users",
-        "link": "https://www.cnbc.com/2026/03/05/amazon-online-store-suffers-outage-for-some-users.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 23:02:01 GMT",
-        "description": "Amazon users reported trouble accessing checkout and account information, as well as viewing product detail pages."
-      },
       {
         "title": "Trump hints U.S. will turn to Cuba after Iran: 'Just a question of time'",
         "link": "https://www.cnbc.com/2026/03/05/trump-cuba-iran-regime-change.html",
@@ -97,39 +83,11 @@
         "description": "The Cuba comments show Trump, less than a week into an escalating military conflict in Iran, is considering another major foreign policy move."
       },
       {
-        "title": "Noem firing doesn't break DHS funding impasse, Democrats say",
-        "link": "https://www.cnbc.com/2026/03/05/noem-firing-doesnt-break-dhs-funding-impasse-democrats-say.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 22:11:43 GMT",
-        "description": "Homeland Security Secretary Kristi Noem was fired by President Donald Trump on Thursday, as a DHS shutdown drags on."
-      },
-      {
-        "title": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
-        "link": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 22:08:17 GMT",
-        "description": "The formal declaration will require defense vendors and contractors to certify that they don’t use Anthropic’s models in their work with the Pentagon."
-      },
-      {
         "title": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
         "link": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
         "source": "CNBC Finance",
         "published": "Thu, 05 Mar 2026 22:08:13 GMT",
         "description": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
-      },
-      {
-        "title": "Trump taps Sen. Markwayne Mullin after firing Kristi Noem as DHS secretary",
-        "link": "https://www.cnbc.com/2026/03/05/trump-kristi-noem-markwayne-mullin-dhs.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 22:07:41 GMT",
-        "description": "Noem's chief adviser, Corey Lewandowski, will also leave his position at DHS, MS NOW reported."
-      },
-      {
-        "title": "OpenAI's Altman takes jabs at Anthropic, says government should be more powerful than companies",
-        "link": "https://www.cnbc.com/2026/03/05/open-ai-altman-anthropic-pentagon-war.html",
-        "source": "CNBC Finance",
-        "published": "Thu, 05 Mar 2026 19:53:47 GMT",
-        "description": "The startup landed a deal with the Department of Defense hours after Anthropic was blacklisted by Defense Secretary Pete Hegseth."
       },
       {
         "title": "The February jobs numbers are coming out Friday. Here's what to expect",
@@ -144,6 +102,48 @@
         "source": "CNBC Finance",
         "published": "Thu, 05 Mar 2026 12:49:07 GMT",
         "description": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
+      },
+      {
+        "title": "Asia markets trade mixed after Wall Street losses, oil prices dip after Thursday surge",
+        "link": "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 03:47:12 GMT",
+        "description": "Overnight, oil prices broke through the $80 per barrel mark, with Brent futures up 3.54% and last trading at $84.31."
+      },
+      {
+        "title": "China dials down growth ambitions with decades-low target. Here's why",
+        "link": "https://www.cnbc.com/2026/03/06/china-economy-gdp-growth-target-lowest-in-decades-tariffs-deflation-.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 03:09:11 GMT",
+        "description": "China has set its lowest growth target in decades, acknowledging domestic challenges and pointing to global uncertainty."
+      },
+      {
+        "title": "Iran's Shahed drone: How 'the poor man’s cruise missile’ is shaping Tehran’s retaliation",
+        "link": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 02:31:47 GMT",
+        "description": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes."
+      },
+      {
+        "title": "Why the world's top-performing stock market in 2025 is seeing historic volatility",
+        "link": "https://www.cnbc.com/2026/03/06/kospi-south-koreas-stock-market-volatility.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 01:59:49 GMT",
+        "description": "South Korea's stock market has swung wildly in recent days, underscoring how the world's best-performing equities market last year can also be among its most volatile."
+      },
+      {
+        "title": "Anthropic CEO says 'no choice' but to challenge Trump admin's supply chain risk designation in court",
+        "link": "https://www.cnbc.com/2026/03/05/anthropic-ceo-says-no-choice-but-to-challenge-trump-admins-supply-chain-risk-designation-in-court.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 01:38:07 GMT",
+        "description": "Anthropic said even with the designation, the government can't forbid it from working with companies in other capacities."
+      },
+      {
+        "title": "Trump taps Sen. Markwayne Mullin after firing Kristi Noem as DHS secretary",
+        "link": "https://www.cnbc.com/2026/03/05/trump-kristi-noem-markwayne-mullin-dhs.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 00:23:49 GMT",
+        "description": "Noem's chief advisor, Corey Lewandowski, will also leave his position at DHS, MS Now reported."
       }
     ],
     "Technology": [
@@ -211,11 +211,11 @@
         "description": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran"
       },
       {
-        "title": "X revamps Creator Subscriptions with new features, like exclusive threads and shareable cards",
-        "link": "https://techcrunch.com/2026/03/05/x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards/",
+        "title": "Anthropic to challenge DOD’s supply-chain label in court",
+        "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
         "source": "TechCrunch",
-        "published": "Thu, 05 Mar 2026 20:00:00 +0000",
-        "description": "X is rolling out a series of new features for creators, like the ability to offer paid threads and other marketing tools."
+        "published": "Fri, 06 Mar 2026 01:28:54 +0000",
+        "description": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label."
       }
     ],
     "Crypto": [
@@ -248,32 +248,32 @@
         "description": "Jake Chervinsky, CEO of the newly formed Hyperliquid Policy Center (HPC), has laid out a policy roadmap aimed at reshaping how decentralized finance (DeFi) is regulated in the United States. Hyperliqu"
       },
       {
-        "title": "Altcoin Season Explosion: What Happens If Bitcoin Dominance Starts To Cool Off?",
-        "link": "https://bitcoinist.com/altcoin-season-explosion/",
+        "title": "Revisiting The Dogecoin Rally To $10: Where Is The Meme Coin This Cycle?",
+        "link": "https://bitcoinist.com/the-dogecoin-rally-to-10/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 21:00:36 +0000",
-        "description": "Crypto analyst Cyril has predicted that altcoin season could be on the horizon as Bitcoin dominance cools off. Crypto analyst Mark also flagged that the business cycle remains in an expansion stage, w"
+        "published": "Fri, 06 Mar 2026 03:00:37 +0000",
+        "description": "Market analyst Dima Potts has released an ambitious Dogecoin (DOGE) price forecast, predicting that the popular dog-themed meme coin could set the stage for a massive rally toward $10. Supporting his "
       },
       {
-        "title": "Bitcoin Shows Recovery, But Fear & Greed Index Remains In Extreme Fear",
-        "link": "https://bitcoinist.com/bitcoin-recovery-fear-greed/",
+        "title": "Bitcoin Wins AI ‘Best Money’ Vote: Anthropic Leads, OpenAI Lags",
+        "link": "https://bitcoinist.com/bitcoin-wins-ai-best-money-vote/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 20:00:23 +0000",
-        "description": "Data shows the Bitcoin Fear &#38; Greed Index has remained inside the extreme fear zone despite the asset&#8217;s recovery back above $72,000. Bitcoin Fear &#38; Greed Index Still Has An Extremely Fea"
+        "published": "Fri, 06 Mar 2026 02:00:33 +0000",
+        "description": "Bitcoin emerged as the top “best money” choice in a new Bitcoin Policy Institute (BPI) experiment that asked frontier AI models to behave like autonomous economic agents and pick monetary instruments "
       },
       {
-        "title": "Eric Trump Goes to War With Big Banks Over ‘Anti‑American’ Crypto Lobbying",
-        "link": "https://bitcoinist.com/eric-trump-warbig-banks-anti-crypto-lobbying/",
+        "title": "Ethereum’s Price Dips, But Bitmine Immersion Is Buying More ETH Through Market Chaos",
+        "link": "https://bitcoinist.com/bitmine-is-buying-more-ethereum/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 19:00:13 +0000",
-        "description": "Eric Trump lashed out against Big Banks for targeting Crypto and stablecoins, essentially not letting Americans make as much money as they could be. An “Anti-American” Crypto Agenda In a post on socia"
+        "published": "Fri, 06 Mar 2026 01:00:03 +0000",
+        "description": "Ethereum may have bounced back above the $2,100 price level once again, but it is still far away from its recent all-time high of $4,900. Even with ETH falling this hard from its recent high, big comp"
       },
       {
-        "title": "Cardano Founder Shares What To Expect For XRP If The Clarity ACT Is Passed",
-        "link": "https://bitcoinist.com/cardano-founder-xrp-clarity-act/",
+        "title": "Why A Bitcoin Price Breakout Could Be A Negative Thing For Investors",
+        "link": "https://bitcoinist.com/a-bitcoin-price-breakout/",
         "source": "Bitcoinist",
-        "published": "Thu, 05 Mar 2026 18:00:11 +0000",
-        "description": "Cardano founder Charles Hoskinson says the Digital Asset Market CLARITY Act could end up giving established tokens like XRP a cleaner regulatory lane, although the bill would set a damaging default ru"
+        "published": "Fri, 06 Mar 2026 00:00:36 +0000",
+        "description": "Bitcoin’s price action around the $70,000 region is beginning to look like the start of a breakout. Bulls are watching closely for a close above the $70,000 resistance that could signal a new upward l"
       }
     ],
     "Markets": [
@@ -299,125 +299,125 @@
         "description": "Kroger’s stock stood out Thursday with healthy gains amid a broader stock market selloff, after the grocery giant reported quarterly profits that beat expectations and showed that it was earning more "
       },
       {
-        "title": "My mother will live in her second husband’s house if he dies before her. Will his kids be hopping mad?",
-        "link": "https://www.marketwatch.com/story/his-children-might-resent-her-my-widowed-mother-has-a-life-estate-does-that-override-a-prenup-and-will-0e217484?mod=mw_rss_topstories",
+        "title": "Anthropic has ‘no choice’ but to fight Pentagon’s ‘supply-chain risk’ designation in court, CEO says",
+        "link": "https://www.marketwatch.com/story/anthropic-has-no-choice-but-to-fight-pentagons-supply-chain-risk-designation-in-court-ceo-says-3375d7d1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 22:45:00 GMT",
-        "description": "“She chose a lovely man whose family has a history of remarkable longevity.”"
-      },
-      {
-        "title": "FIFA World Cup games in Massachusetts may be in danger amid funding fight. Here’s what fans can do.",
-        "link": "https://www.marketwatch.com/story/fifa-world-cup-games-in-massachusetts-may-in-danger-amid-funding-fight-heres-what-fans-can-do-be9b47db?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 22:38:00 GMT",
-        "description": "Are World Cup games in jeopardy? Here is what happens to your $885 ticket if games move."
-      },
-      {
-        "title": "The scary numbers on retirement healthcare: You’ll need up to $469,000 saved",
-        "link": "https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 22:38:00 GMT",
-        "description": "These healthcare estimates don’t even include everything you might need."
-      },
-      {
-        "title": "This Gap brand continues to be an underperformer, and it is dragging the retailer’s stock",
-        "link": "https://www.marketwatch.com/story/this-gap-brand-continues-to-be-an-underperformer-and-it-is-dragging-the-retailers-stock-579397c9?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 22:28:00 GMT",
-        "description": "The smallest of Gap’s brands continues to be a flash point for investors."
-      },
-      {
-        "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
-        "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 22:24:00 GMT",
-        "description": "“I live in a state with no inheritance tax. I assume I can make this deposit legally.”"
-      },
-      {
-        "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
-        "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 22:20:00 GMT",
-        "description": "“He has no loyalty to me or our vows.”"
+        "published": "Fri, 06 Mar 2026 03:49:00 GMT",
+        "description": "Anthropic CEO Dario Amodei said Thursday that the AI company has “no choice” but to legally challenge the Pentagon’s move to declare it a supply-chain risk."
       },
       {
         "title": "Costco’s stock chart sees first bullish ‘golden cross’ in 3 years as earnings are released",
         "link": "https://www.marketwatch.com/story/costcos-stock-chart-sees-a-bullish-golden-cross-just-before-earnings-are-released-1784c6f1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 05 Mar 2026 22:08:00 GMT",
+        "published": "Fri, 06 Mar 2026 01:27:00 GMT",
         "description": "A bullish “golden cross” pattern appears in Costco’s stock chart for the first time in nearly three years, on the same day the latest quarterly report is slated to be released."
+      },
+      {
+        "title": "This Gap brand continues to be an underperformer, and it is dragging the retailer’s stock",
+        "link": "https://www.marketwatch.com/story/this-gap-brand-continues-to-be-an-underperformer-and-it-is-dragging-the-retailers-stock-579397c9?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 06 Mar 2026 01:21:00 GMT",
+        "description": "The smallest of Gap’s brands continues to be a flash point for investors."
+      },
+      {
+        "title": "Marvell’s stock soars as robust AI-driven demand drives an earnings beat",
+        "link": "https://www.marketwatch.com/story/marvells-stock-soars-as-robust-ai-driven-demand-drives-an-earnings-beat-51574cc0?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 06 Mar 2026 01:19:00 GMT",
+        "description": "Marvell’s stock was up in after-hours trading on Thursday after an upbeat earnings report and full-year guidance."
+      },
+      {
+        "title": "Seven REIT stocks pass a strict financial screen, with dividends as high as 6.27%",
+        "link": "https://www.marketwatch.com/story/seven-reit-stocks-pass-a-strict-financial-screen-with-dividends-as-high-as-6-27-fdd57ab8?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 06 Mar 2026 00:41:00 GMT",
+        "description": "Bally’s Casino in Blackhawk, Colo., is among the facilities owned by Gaming & Leisure Properties, which passed a financial screen of real-estate investment trusts."
+      },
+      {
+        "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
+        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 06 Mar 2026 00:30:00 GMT",
+        "description": "Shows like HBO’s ‘DTF St. Louis’ and ‘Rooster,’ Paramount’s ‘The Madison’ and Netflix’s ‘Peaky Blinders’ movie jump out of the gate as Emmy season gets underway"
+      },
+      {
+        "title": "Why Broadcom’s earnings report has Wall Street so upbeat on a bad day for chip stocks",
+        "link": "https://www.marketwatch.com/story/why-broadcoms-earnings-report-has-wall-street-so-upbeat-on-a-bad-day-for-chip-stocks-8ff9306e?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Fri, 06 Mar 2026 00:19:00 GMT",
+        "description": "The chip maker said it has visibility into more than $100 billion in AI chip revenue in 2027, and some analysts see even more upside."
       }
     ],
     "Singapore": [
       {
-        "title": "When fathers don’t pay child maintenance – what women can do to protect their children",
-        "link": "https://www.channelnewsasia.com/women/child-maintenance-not-paid-singapore-5969541",
+        "title": "Singer Harry Styles' fans head in one direction: to star's home village",
+        "link": "https://www.channelnewsasia.com/entertainment/harry-styles-fans-visit-his-home-village-5975506",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 07:26:48 +0800",
-        "description": "When her ex-husband stopped paying maintenance overnight, one mother was left scrambling to cover her son’s expenses while navigating Singapore’s family courts alone – a situation many divorced women "
+        "published": "Fri, 06 Mar 2026 11:54:37 +0800",
+        "description": "The quiet English village where Harry Styles grew up has become a year-round pilgrimage site for fans tracing the pop star’s humble beginnings."
       },
       {
-        "title": "Wearing hats, helmets and hijabs – what’s the real impact on your hair and scalp?",
-        "link": "https://www.channelnewsasia.com/style-beauty/hats-helmets-hijab-scalp-health-hair-damage-tips-5948531",
+        "title": "Harry Potter stars Tom Felton and Daniel Radcliffe reunite on Broadway",
+        "link": "https://www.channelnewsasia.com/entertainment/tom-felton-daniel-radcliffe-harry-potter-broadway-reunion-5975606",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 07:15:53 +0800",
-        "description": "Can wearing hats, helmets or hijabs cause hair loss? A trichologist explains the myth, the real risks like traction alopecia and scalp buildup, and how to protect your hair if you wear headgear daily."
+        "published": "Fri, 06 Mar 2026 11:52:41 +0800",
+        "description": "From Hogwarts rivals to Broadway peers, the two English actors reunited in New York City as they were simultaneously performing in separate Broadway productions more than 10 years after the end of the"
       },
       {
-        "title": "Tottenham relegation fears deepen with home loss to Crystal Palace",
-        "link": "https://www.channelnewsasia.com/sport/tottenham-relegation-fears-deepen-home-loss-crystal-palace-5975166",
+        "title": "Hong Kong media tycoon Jimmy Lai will not appeal conviction, 20-year term, lawyer says",
+        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-jimmy-lai-appeal-conviction-apple-daily-5975811",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 06:10:48 +0800",
+        "published": "Fri, 06 Mar 2026 11:50:00 +0800",
         "description": ""
       },
       {
-        "title": "Can Gucci’s new creative director Demna save the brand?",
-        "link": "https://www.channelnewsasia.com/obsessions/can-guccis-new-creative-director-demna-save-brand-5970231",
+        "title": "US approves temporary sale of stranded Russian oil to India",
+        "link": "https://www.channelnewsasia.com/world/us-approves-temporary-sale-russia-oil-india-iran-5975796",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 06:09:37 +0800",
-        "description": "The star designer delivered his debut for the brand in Milan, with heavy doses of nostalgia and questionable taste."
+        "published": "Fri, 06 Mar 2026 11:40:00 +0800",
+        "description": "US Treasury Secretary Scott Bessent said the waiver was issued \"to enable oil to keep flowing into the global market\" after the Iran conflict raised supply concerns.&nbsp;"
       },
       {
-        "title": "Iran's World Cup uncertainty leaves Tucson training facility in limbo",
-        "link": "https://www.channelnewsasia.com/sport/irans-world-cup-uncertainty-leaves-tucson-training-facility-in-limbo-5975146",
+        "title": "Denso proposes to buy Rohm in deal that could reach $8.3 billion, Nikkei says",
+        "link": "https://www.channelnewsasia.com/business/denso-proposes-buy-rohm-in-deal-could-reach-83-billion-nikkei-says-5975786",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 06:08:05 +0800",
+        "published": "Fri, 06 Mar 2026 11:30:49 +0800",
         "description": ""
       },
       {
-        "title": "Rights groups welcome ban on caged lorries for worker transport, but say more can be done",
-        "link": "https://www.channelnewsasia.com/singapore/migrant-worker-rights-groups-welcome-caged-lorry-ban-say-more-can-be-done-home-twc2-mwc-irr-5973586",
+        "title": "Ferrari's Leclerc fastest in first practice at Australian Grand Prix",
+        "link": "https://www.channelnewsasia.com/sport/ferraris-leclerc-fastest-in-first-practice-australian-grand-prix-5975776",
         "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 06:00:00 +0800",
-        "description": "Singapore will ban the use of caged lorries to transport workers from next year."
-      },
-      {
-        "title": "Commentary: How the war in Iran could impact global economy, including Singapore",
-        "link": "https://www.channelnewsasia.com/commentary/iran-us-israel-war-global-economic-impact-singapore-5972956",
-        "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 06:00:00 +0800",
-        "description": "The economic fallout from the war in Iran will go beyond oil markets, says Coface chief APAC economist Bernard Aw."
-      },
-      {
-        "title": "Pressure mounts on Indonesia to review, exit Board of Peace amid US-Israel conflict with Iran",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-board-peace-us-iran-israel-gaza-5970521",
-        "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 06:00:00 +0800",
-        "description": "Calls for Indonesia to leave the Board of Peace tasked to oversee Gaza reconstruction efforts are being made by the country’s religious groups, academics and former diplomats."
-      },
-      {
-        "title": "Commentary: As US wades into Iran, its pivot to Asia lies in tatters",
-        "link": "https://www.channelnewsasia.com/commentary/iran-us-china-competition-deter-asia-indo-pacific-5973696",
-        "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 05:59:00 +0800",
-        "description": "A long war in Iran will hurt America’s ability to deter China, says Kevin Chen from the S Rajaratnam School of International Studies."
-      },
-      {
-        "title": "Justin Sun settles SEC fraud case for $10 million",
-        "link": "https://www.channelnewsasia.com/business/justin-sun-settles-sec-fraud-case-10-million-5975131",
-        "source": "CNA Singapore",
-        "published": "Fri, 06 Mar 2026 05:56:36 +0800",
+        "published": "Fri, 06 Mar 2026 11:26:13 +0800",
         "description": ""
+      },
+      {
+        "title": "Taiwan's Foxconn says everyone will feel impact of prolonged Iran conflict",
+        "link": "https://www.channelnewsasia.com/business/taiwans-foxconn-says-everyone-will-feel-impact-prolonged-iran-conflict-5975741",
+        "source": "CNA Singapore",
+        "published": "Fri, 06 Mar 2026 11:03:45 +0800",
+        "description": ""
+      },
+      {
+        "title": "SIA, Scoot extend Middle East flight cancellations amid US-Israel war on Iran",
+        "link": "https://www.channelnewsasia.com/singapore/iran-war-sia-scoot-middle-east-dubai-jeddah-flight-cancellations-5975551",
+        "source": "CNA Singapore",
+        "published": "Fri, 06 Mar 2026 11:02:00 +0800",
+        "description": "\"As the situation remains fluid, other SIA flights may be affected,\" Singapore's flag carrier said."
+      },
+      {
+        "title": "Oil falls as US may intervene in futures market, issues waiver for Russian purchases",
+        "link": "https://www.channelnewsasia.com/business/oil-falls-us-may-intervene-in-futures-market-issues-waiver-russian-purchases-5975711",
+        "source": "CNA Singapore",
+        "published": "Fri, 06 Mar 2026 10:57:48 +0800",
+        "description": ""
+      },
+      {
+        "title": "Eligible lower-wage adults returning to school can get S$500 per quarter under new ComLink+ pilot",
+        "link": "https://www.channelnewsasia.com/singapore/lower-income-young-adults-comlink-500-return-school-5973576",
+        "source": "CNA Singapore",
+        "published": "Fri, 06 Mar 2026 10:55:00 +0800",
+        "description": "The support can be given for up to three years, depending on the course duration. &nbsp;"
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "When fathers don’t pay child maintenance – what women can do to protect their children",
-      "link": "https://www.channelnewsasia.com/women/child-maintenance-not-paid-singapore-5969541",
+      "title": "Singer Harry Styles' fans head in one direction: to star's home village",
+      "link": "https://www.channelnewsasia.com/entertainment/harry-styles-fans-visit-his-home-village-5975506",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 07:26:48 +0800",
-      "description": "When her ex-husband stopped paying maintenance overnight, one mother was left scrambling to cover her son’s expenses while navigating Singapore’s family courts alone – a situation many divorced women "
+      "published": "Fri, 06 Mar 2026 11:54:37 +0800",
+      "description": "The quiet English village where Harry Styles grew up has become a year-round pilgrimage site for fans tracing the pop star’s humble beginnings."
     },
     {
-      "title": "Wearing hats, helmets and hijabs – what’s the real impact on your hair and scalp?",
-      "link": "https://www.channelnewsasia.com/style-beauty/hats-helmets-hijab-scalp-health-hair-damage-tips-5948531",
+      "title": "Harry Potter stars Tom Felton and Daniel Radcliffe reunite on Broadway",
+      "link": "https://www.channelnewsasia.com/entertainment/tom-felton-daniel-radcliffe-harry-potter-broadway-reunion-5975606",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 07:15:53 +0800",
-      "description": "Can wearing hats, helmets or hijabs cause hair loss? A trichologist explains the myth, the real risks like traction alopecia and scalp buildup, and how to protect your hair if you wear headgear daily."
+      "published": "Fri, 06 Mar 2026 11:52:41 +0800",
+      "description": "From Hogwarts rivals to Broadway peers, the two English actors reunited in New York City as they were simultaneously performing in separate Broadway productions more than 10 years after the end of the"
     },
     {
-      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-      "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-      "source": "TechCrunch",
-      "published": "Thu, 05 Mar 2026 23:14:04 +0000",
-      "description": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying."
-    },
-    {
-      "title": "Bitwise Backs Bitcoin Devs With Over $380K In Donations",
-      "link": "https://bitcoinist.com/bitwise-backs-bitcoin-devs-with-over-380k-in-donations/",
-      "source": "Bitcoinist",
-      "published": "Thu, 05 Mar 2026 23:00:34 +0000",
-      "description": "When Bitwise Asset Management launched its Bitcoin ETF in January 2024, it made a promise: hand over 10% of gross profits every year to the people who keep Bitcoin running. Fourteen months later, that"
-    },
-    {
-      "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
-      "link": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
-      "source": "TechCrunch",
-      "published": "Thu, 05 Mar 2026 22:38:26 +0000",
-      "description": "The $7 million in annual recurring revenue that Cluely CEO Roy Lee shared last summer was a lie, its founder and CEO Roy Lee admitted on Thursday on X."
-    },
-    {
-      "title": "Justin Sun, Tron Entities Reach Settlement With US SEC, $10M Fine Imposed",
-      "link": "https://bitcoinist.com/justin-sun-tron-entities-reach-settlement-with-sec/",
-      "source": "Bitcoinist",
-      "published": "Thu, 05 Mar 2026 22:34:02 +0000",
-      "description": "The US Securities and Exchange Commission (SEC) has settled its civil fraud case against Tron (TRX) blockchain founder Justin Sun, bringing an end to the legal proceedings that began in 2023. As part "
-    },
-    {
-      "title": "Tottenham relegation fears deepen with home loss to Crystal Palace",
-      "link": "https://www.channelnewsasia.com/sport/tottenham-relegation-fears-deepen-home-loss-crystal-palace-5975166",
+      "title": "Hong Kong media tycoon Jimmy Lai will not appeal conviction, 20-year term, lawyer says",
+      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-jimmy-lai-appeal-conviction-apple-daily-5975811",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 06:10:48 +0800",
+      "published": "Fri, 06 Mar 2026 11:50:00 +0800",
       "description": ""
     },
     {
-      "title": "Can Gucci’s new creative director Demna save the brand?",
-      "link": "https://www.channelnewsasia.com/obsessions/can-guccis-new-creative-director-demna-save-brand-5970231",
+      "title": "US approves temporary sale of stranded Russian oil to India",
+      "link": "https://www.channelnewsasia.com/world/us-approves-temporary-sale-russia-oil-india-iran-5975796",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 06:09:37 +0800",
-      "description": "The star designer delivered his debut for the brand in Milan, with heavy doses of nostalgia and questionable taste."
+      "published": "Fri, 06 Mar 2026 11:40:00 +0800",
+      "description": "US Treasury Secretary Scott Bessent said the waiver was issued \"to enable oil to keep flowing into the global market\" after the Iran conflict raised supply concerns.&nbsp;"
     },
     {
-      "title": "Iran's World Cup uncertainty leaves Tucson training facility in limbo",
-      "link": "https://www.channelnewsasia.com/sport/irans-world-cup-uncertainty-leaves-tucson-training-facility-in-limbo-5975146",
+      "title": "Denso proposes to buy Rohm in deal that could reach $8.3 billion, Nikkei says",
+      "link": "https://www.channelnewsasia.com/business/denso-proposes-buy-rohm-in-deal-could-reach-83-billion-nikkei-says-5975786",
       "source": "CNA Singapore",
-      "published": "Fri, 06 Mar 2026 06:08:05 +0800",
+      "published": "Fri, 06 Mar 2026 11:30:49 +0800",
       "description": ""
     },
     {
-      "title": "Bitcoin Supply Shift: 212,000 BTC Moves Into Long-Term Holder Hands, Price Nearing A Bounce?",
-      "link": "https://bitcoinist.com/bitcoin-supply-shift-212000-btc/",
+      "title": "Ferrari's Leclerc fastest in first practice at Australian Grand Prix",
+      "link": "https://www.channelnewsasia.com/sport/ferraris-leclerc-fastest-in-first-practice-australian-grand-prix-5975776",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 11:26:13 +0800",
+      "description": ""
+    },
+    {
+      "title": "Taiwan's Foxconn says everyone will feel impact of prolonged Iran conflict",
+      "link": "https://www.channelnewsasia.com/business/taiwans-foxconn-says-everyone-will-feel-impact-prolonged-iran-conflict-5975741",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 11:03:45 +0800",
+      "description": ""
+    },
+    {
+      "title": "SIA, Scoot extend Middle East flight cancellations amid US-Israel war on Iran",
+      "link": "https://www.channelnewsasia.com/singapore/iran-war-sia-scoot-middle-east-dubai-jeddah-flight-cancellations-5975551",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 11:02:00 +0800",
+      "description": "\"As the situation remains fluid, other SIA flights may be affected,\" Singapore's flag carrier said."
+    },
+    {
+      "title": "Revisiting The Dogecoin Rally To $10: Where Is The Meme Coin This Cycle?",
+      "link": "https://bitcoinist.com/the-dogecoin-rally-to-10/",
       "source": "Bitcoinist",
-      "published": "Thu, 05 Mar 2026 22:00:01 +0000",
-      "description": "The price of Bitcoin has been struggling with heightened volatility across the broader cryptocurrency sector, but investors’ action is telling a different and interesting story. In present times, ther"
+      "published": "Fri, 06 Mar 2026 03:00:37 +0000",
+      "description": "Market analyst Dima Potts has released an ambitious Dogecoin (DOGE) price forecast, predicting that the popular dog-themed meme coin could set the stage for a massive rally toward $10. Supporting his "
+    },
+    {
+      "title": "Oil falls as US may intervene in futures market, issues waiver for Russian purchases",
+      "link": "https://www.channelnewsasia.com/business/oil-falls-us-may-intervene-in-futures-market-issues-waiver-russian-purchases-5975711",
+      "source": "CNA Singapore",
+      "published": "Fri, 06 Mar 2026 10:57:48 +0800",
+      "description": ""
     }
   ]
 }
