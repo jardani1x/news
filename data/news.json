@@ -1,21 +1,35 @@
 {
-  "updated_sgt": "2026-03-07 08:00 SGT",
-  "updated_iso": "2026-03-07T08:00:16.204320+08:00",
+  "updated_sgt": "2026-03-07 12:00 SGT",
+  "updated_iso": "2026-03-07T12:00:21.768322+08:00",
   "categories": {
     "World": [
       {
-        "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
-        "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+        "title": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
+        "link": "https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 23:13:57 GMT",
-        "description": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples."
+        "published": "Sat, 07 Mar 2026 02:04:23 GMT",
+        "description": "The move is backed by the right-wing Swiss People's Party, which says the current fee is unjustified because of the high cost of living."
       },
       {
-        "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
-        "link": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
+        "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 05 Mar 2026 18:19:34 GMT",
-        "description": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences."
+        "published": "Sat, 07 Mar 2026 02:04:06 GMT",
+        "description": "The president also calls on Tehran to pick new leaders who are \"acceptable\" to the White House after six days of war."
+      },
+      {
+        "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
+        "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 01:56:20 GMT",
+        "description": "US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region."
+      },
+      {
+        "title": "Armed robots take to the battlefield in Ukraine war",
+        "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 00:36:19 GMT",
+        "description": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces."
       },
       {
         "title": "Ukrainian bank workers released after detention in Hungary",
@@ -25,18 +39,18 @@
         "description": "Kyiv has reacted furiously after officials in Budapest accused staff transporting cash to Ukraine of money laundering."
       },
       {
+        "title": "Flight paths squeezed as Iran conflict closes more airspace",
+        "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Mar 2026 18:09:19 GMT",
+        "description": "A drone attack on Azerbaijan has narrowed choices for airlines scrambling to respond to disruption in the Gulf."
+      },
+      {
         "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
         "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Fri, 06 Mar 2026 17:06:14 GMT",
         "description": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes."
-      },
-      {
-        "title": "US economy unexpectedly sheds 92,000 jobs in February",
-        "link": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 14:50:36 GMT",
-        "description": "The contraction came as a surprise with payrolls down in nearly every sector."
       },
       {
         "title": "Indonesia to ban social media and other online platforms for under 16s",
@@ -58,23 +72,16 @@
         "source": "BBC World",
         "published": "Fri, 06 Mar 2026 04:08:48 GMT",
         "description": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across Lebanon."
-      },
-      {
-        "title": "Anthropic vows to sue Pentagon over supply chain risk label",
-        "link": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 02:46:30 GMT",
-        "description": "The supply chain risk designation of the artificial intelligence firm is a first for a US company."
-      },
-      {
-        "title": "Canadian teen died from drowning after dingo attack in Australia",
-        "link": "https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 01:47:32 GMT",
-        "description": "The body of Piper James was found in January surrounded by dingoes on the island of K'Gari."
       }
     ],
     "Finance": [
+      {
+        "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+        "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 00:07:18 GMT",
+        "description": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran."
+      },
       {
         "title": "Trump vows executive order to 'fix' college sports NIL payments 'mess'",
         "link": "https://www.cnbc.com/2026/03/06/trump-college-football-sports-congress.html",
@@ -102,13 +109,6 @@
         "source": "CNBC Finance",
         "published": "Fri, 06 Mar 2026 23:08:08 GMT",
         "description": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions."
-      },
-      {
-        "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-        "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 22:26:20 GMT",
-        "description": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran."
       },
       {
         "title": "Average IRS tax refund is up 10.6%, early filing data shows",
@@ -147,6 +147,13 @@
       }
     ],
     "Technology": [
+      {
+        "title": "Robinhood’s startup fund stumbles in NYSE debut",
+        "link": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
+        "source": "TechCrunch",
+        "published": "Sat, 07 Mar 2026 02:04:43 +0000",
+        "description": "The fund currently offers retail investors exposure to eight startups, including Mercor, Ramp, and Stripe, with plans to expand its portfolio."
+      },
       {
         "title": "X is testing a new ad format that connects posts with products",
         "link": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/",
@@ -209,16 +216,44 @@
         "source": "TechCrunch",
         "published": "Fri, 06 Mar 2026 17:56:07 +0000",
         "description": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users."
-      },
-      {
-        "title": "India PC shipments surpass pandemic peak as first-time users upgrade",
-        "link": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 17:51:49 +0000",
-        "description": "Pandemic-driven lockdowns exposed many people in India to PCs for the first time, expanding the country's PC userbase and creating demand for upgrades as those devices age."
       }
     ],
     "Crypto": [
+      {
+        "title": "Bitcoin Rally Likely A Relief Bounce, Not New Bull Phase: CryptoQuant",
+        "link": "https://bitcoinist.com/bitcoin-rally-relief-bounce-bull-phase-cryptoquant/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 03:00:00 +0000",
+        "description": "On-chain analytics firm CryptoQuant has highlighted how its Bull Score Index is deep inside the bearish territory despite the latest Bitcoin price rally. Bitcoin Bull Score Index Has A Value Of Just 1"
+      },
+      {
+        "title": "Expert Says There Will Be No Altcoin Season In 2026, Here’s Why",
+        "link": "https://bitcoinist.com/no-altcoin-season-in-2026/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 02:00:18 +0000",
+        "description": "The timing of the next altcoin season is one of the most debated topics in the cryptocurrency market as traders search for signs that capital could soon rotate away from Bitcoin into smaller assets. H"
+      },
+      {
+        "title": "XRP 200EMA Sweep To Trigger Rally? Analyst Shows Path To $8.5",
+        "link": "https://bitcoinist.com/xrp-200ema-sweep-rally-8-5/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 01:00:40 +0000",
+        "description": "Despite XRP’s continued decline and its struggle to regain the $2 level, one analyst believes the asset is approaching a decisive technical zone that could determine the next rally. A chart breakdown "
+      },
+      {
+        "title": "XRP Leaves Crypto Exchanges In Large Volumes During Turbulent Market Conditions",
+        "link": "https://bitcoinist.com/xrp-leaves-crypto-exchanges/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 00:00:28 +0000",
+        "description": "Even with the price of XRP displaying bearish action, bullish sentiment remains strong underneath the surface. On-chain data is signaling a strong desire among investors and traders to hold on to the "
+      },
+      {
+        "title": "Bitcoin Strategist Shares 8-Figure BTC Price Prediction, But The Reason Is Even More Interesting",
+        "link": "https://bitcoinist.com/shares-8-figure-bitcoin-price/",
+        "source": "Bitcoinist",
+        "published": "Fri, 06 Mar 2026 23:00:54 +0000",
+        "description": "Bitcoin Strategist Joe Burnett has shared an ambitious long-term outlook for the BTC price that puts the world’s largest cryptocurrency in the eight-figure range. The projection comes from a research "
+      },
       {
         "title": "Dogecoin Price Could See A Major Spike To $10 If This Trend Repeats",
         "link": "https://bitcoinist.com/dogecoin-price-could-rally-10/",
@@ -239,41 +274,6 @@
         "source": "Bitcoinist",
         "published": "Fri, 06 Mar 2026 18:30:54 +0000",
         "description": "Crypto pundit X Finance Bull has drawn attention to Ripple’s new whitepaper, which highlights plans to use XRP for its prime brokerage offering. Ripple also recently announced plans to offer its insti"
-      },
-      {
-        "title": "Solana ETFs Are Beating Bitcoin On Relative Flows Despite SOL Crash",
-        "link": "https://bitcoinist.com/solana-etfs-beating-bitcoin-relative-flows/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 17:00:15 +0000",
-        "description": "Spot Solana ETFs have pulled in roughly $1.45 billion since launching in July even as SOL fell 57% over the same stretch, a combination Bloomberg ETF analyst Eric Balchunas called “about as unlucky ti"
-      },
-      {
-        "title": "Vancouver Mayor’s Bitcoin Reserve Dream Hits Legal Wall",
-        "link": "https://bitcoinist.com/vancouver-mayors-bitcoin-reserve-dream-hits-wall/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 15:30:34 +0000",
-        "description": "Vancouver city staff have recommended that councillors drop Mayor Ken Sim’s Bitcoin motion, which ordered work on accepting payments in BTC and exploring a Bitcoin reserve for part of the city’s funds"
-      },
-      {
-        "title": "Lummis Says Lawmakers Eye Bitcoin Payments Without Capital Gains Tax",
-        "link": "https://bitcoinist.com/lummis-bitcoin-payments-without-capital-gains-tax/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 14:00:29 +0000",
-        "description": "Sen. Cynthia Lummis said US lawmakers are actively exploring how Bitcoin can be used for everyday payments without automatically triggering capital gains tax, framing the issue as a key obstacle to tr"
-      },
-      {
-        "title": "Bitcoin Generational Buying Opportunity: The Most Bullish Time To Get In",
-        "link": "https://bitcoinist.com/bitcoin-generational-buying/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 12:30:24 +0000",
-        "description": "The Bitcoin price has been trending sideways for a few weeks now, with no clear direction of where the digital asset might be headed next. During this time, there have been some buyers, but mostly, th"
-      },
-      {
-        "title": "FBI Arrests Suspect In $46 Million Bitcoin Theft From US Marshals",
-        "link": "https://bitcoinist.com/fbi-arrests-suspect-in-46-million-bitcoin-theft/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 11:00:39 +0000",
-        "description": "John Daghita, a former US government contractor accused of stealing more than $46 million in Bitcoin (BTC) from the US Marshals Service (USMS), was arrested late Wednesday on the Caribbean island of S"
       }
     ],
     "Markets": [
@@ -350,74 +350,74 @@
     ],
     "Singapore": [
       {
-        "title": "Binance, Zhao win dismissal of lawsuit by victims of 64 attacks",
-        "link": "https://www.channelnewsasia.com/business/binance-zhao-win-dismissal-lawsuit-victims-64-attacks-5978051",
+        "title": "Cuba 'next' on agenda, after Iran: Trump",
+        "link": "https://www.channelnewsasia.com/world/cuba-trump-energy-blockade-5978366",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 07:03:22 +0800",
+        "published": "Sat, 07 Mar 2026 11:44:39 +0800",
         "description": ""
       },
       {
-        "title": "Between cooking impressive dishes, Culinary Class Wars chefs ate instant cup noodles, Jung Ho-young reveals",
-        "link": "https://www.channelnewsasia.com/entertainment/jung-ho-young-chef-culinary-class-wars-in-singapore-5976841",
+        "title": "Prabowo’s proposed trip to Iran hinges on acceptance of mediation offer by all parties: Foreign ministry",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-iran-united-states-israel-prabowo-subianto-mediator-5978356",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 07:01:00 +0800",
-        "description": "In Singapore for a collaboration with Korean restaurant Bulgogi Syo, the chef and popular TV personality spilled some beans about what it was really like behind the scenes of the reality cooking compe"
+        "published": "Sat, 07 Mar 2026 11:40:00 +0800",
+        "description": "A minister in Prabowo Subianto’s Cabinet said separately that the president has received the backing from several Middle Eastern and other Islamic countries for the undertaking."
       },
       {
-        "title": "We’re asking the wrong question about exercise – it’s not about what’s best, but what sticks",
-        "link": "https://www.channelnewsasia.com/wellness/exercise-data-routine-optimization-5962561",
+        "title": "Monfils bids emotional farewell to Indian Wells",
+        "link": "https://www.channelnewsasia.com/sport/monfils-bids-emotional-farewell-indian-wells-5978346",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:56:51 +0800",
-        "description": "We will probably never get good data to answer the question of which exercise routine is best."
-      },
-      {
-        "title": "Why this Singapore fashion label is rescuing Japan’s discarded kimonos and giving them a second life",
-        "link": "https://www.channelnewsasia.com/style-beauty/syne-studio-kimono-singapore-japan-5949536",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:56:00 +0800",
-        "description": "The entrepreneurs behind Syne Studio are making a stand for the environment by breathing new life into discarded kimonos from Japan."
-      },
-      {
-        "title": "Former US trade chief Lighthizer resigns from Trump Media board",
-        "link": "https://www.channelnewsasia.com/business/former-us-trade-chief-lighthizer-resigns-trump-media-board-5978036",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:43:24 +0800",
+        "published": "Sat, 07 Mar 2026 11:28:27 +0800",
         "description": ""
       },
       {
-        "title": "Valverde strikes late as Real Madrid snatch 2-1 win at Celta",
-        "link": "https://www.channelnewsasia.com/sport/valverde-strikes-late-real-madrid-snatch-2-1-win-celta-5978026",
+        "title": "Israel announces new wave of 'broad-scale' strikes on Tehran, airport hit",
+        "link": "https://www.channelnewsasia.com/world/iran-war-tehran-airport-israel-strikes-new-wave-5978331",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:33:07 +0800",
+        "published": "Sat, 07 Mar 2026 11:27:08 +0800",
+        "description": "US Central Command says more than 3,000 Iranian targets have been struck over the past week."
+      },
+      {
+        "title": "Hungarian Udvardy says she received threatening messages to lose match",
+        "link": "https://www.channelnewsasia.com/sport/hungarian-udvardy-says-she-received-threatening-messages-lose-match-5978351",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 11:24:24 +0800",
         "description": ""
       },
       {
-        "title": "PSG lose at home to open Ligue 1 title race",
-        "link": "https://www.channelnewsasia.com/sport/psg-lose-home-open-ligue-1-title-race-5978011",
+        "title": "Russell fastest in final practice as Mercedes teammate crashes out",
+        "link": "https://www.channelnewsasia.com/sport/russell-fastest-in-final-practice-mercedes-teammate-crashes-out-5978341",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:18:09 +0800",
+        "published": "Sat, 07 Mar 2026 11:20:12 +0800",
         "description": ""
       },
       {
-        "title": "An architect was inspired by a Ginza landmark for this house’s facade",
-        "link": "https://www.channelnewsasia.com/obsessions/ginza-inspired-glass-block-facade-terrace-house-singapore-5969911",
+        "title": "Mercedes driver Antonelli wrecks car in final practice",
+        "link": "https://www.channelnewsasia.com/sport/mercedes-driver-antonelli-wrecks-car-in-final-practice-5978301",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:18:00 +0800",
-        "description": "The owners wanted a home that could host, but also survive spills, scrapes and constant movement. Smart storage, hardwearing surfaces and kid-friendly detailing do the heavy lifting behind a polished "
-      },
-      {
-        "title": "Ireland made to work for 27-17 win by improved Wales",
-        "link": "https://www.channelnewsasia.com/sport/ireland-made-work-27-17-win-improved-wales-5977996",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:10:20 +0800",
+        "published": "Sat, 07 Mar 2026 10:48:32 +0800",
         "description": ""
       },
       {
-        "title": "Liverpool into FA Cup quarter-finals after 3-1 win over Wolves",
-        "link": "https://www.channelnewsasia.com/sport/liverpool-fa-cup-quarter-finals-after-3-1-win-over-wolves-5977981",
+        "title": "US 'not concerned' by reports Russia aiding Iran's targeting",
+        "link": "https://www.channelnewsasia.com/world/iran-war-russia-intelligence-us-military-bases-5978251",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 06:07:41 +0800",
+        "published": "Sat, 07 Mar 2026 10:05:09 +0800",
+        "description": "The Washington Post, citing officials familiar with the intelligence, said Russia has provided Iran with the locations of US military assets, including ships and aircraft."
+      },
+      {
+        "title": "US judge allows time for new tariff refund system to be set up",
+        "link": "https://www.channelnewsasia.com/world/us-judge-allows-time-new-tariff-refund-system-be-set-up-5978241",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 09:37:00 +0800",
         "description": ""
+      },
+      {
+        "title": "Britain 'ready to support' Saudi defence: PM Starmer",
+        "link": "https://www.channelnewsasia.com/world/iran-war-britain-ready-support-saudi-defence-5978236",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 09:34:08 +0800",
+        "description": "Saudi Arabia - a longstanding rival of Iran - reported that it had intercepted a cruise missile and three drones on Friday."
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Binance, Zhao win dismissal of lawsuit by victims of 64 attacks",
-      "link": "https://www.channelnewsasia.com/business/binance-zhao-win-dismissal-lawsuit-victims-64-attacks-5978051",
+      "title": "Cuba 'next' on agenda, after Iran: Trump",
+      "link": "https://www.channelnewsasia.com/world/cuba-trump-energy-blockade-5978366",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 07:03:22 +0800",
+      "published": "Sat, 07 Mar 2026 11:44:39 +0800",
       "description": ""
     },
     {
-      "title": "Between cooking impressive dishes, Culinary Class Wars chefs ate instant cup noodles, Jung Ho-young reveals",
-      "link": "https://www.channelnewsasia.com/entertainment/jung-ho-young-chef-culinary-class-wars-in-singapore-5976841",
+      "title": "Prabowo’s proposed trip to Iran hinges on acceptance of mediation offer by all parties: Foreign ministry",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-iran-united-states-israel-prabowo-subianto-mediator-5978356",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 07:01:00 +0800",
-      "description": "In Singapore for a collaboration with Korean restaurant Bulgogi Syo, the chef and popular TV personality spilled some beans about what it was really like behind the scenes of the reality cooking compe"
+      "published": "Sat, 07 Mar 2026 11:40:00 +0800",
+      "description": "A minister in Prabowo Subianto’s Cabinet said separately that the president has received the backing from several Middle Eastern and other Islamic countries for the undertaking."
     },
     {
-      "title": "We’re asking the wrong question about exercise – it’s not about what’s best, but what sticks",
-      "link": "https://www.channelnewsasia.com/wellness/exercise-data-routine-optimization-5962561",
+      "title": "Monfils bids emotional farewell to Indian Wells",
+      "link": "https://www.channelnewsasia.com/sport/monfils-bids-emotional-farewell-indian-wells-5978346",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 06:56:51 +0800",
-      "description": "We will probably never get good data to answer the question of which exercise routine is best."
-    },
-    {
-      "title": "Why this Singapore fashion label is rescuing Japan’s discarded kimonos and giving them a second life",
-      "link": "https://www.channelnewsasia.com/style-beauty/syne-studio-kimono-singapore-japan-5949536",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 06:56:00 +0800",
-      "description": "The entrepreneurs behind Syne Studio are making a stand for the environment by breathing new life into discarded kimonos from Japan."
-    },
-    {
-      "title": "Former US trade chief Lighthizer resigns from Trump Media board",
-      "link": "https://www.channelnewsasia.com/business/former-us-trade-chief-lighthizer-resigns-trump-media-board-5978036",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 06:43:24 +0800",
+      "published": "Sat, 07 Mar 2026 11:28:27 +0800",
       "description": ""
     },
     {
-      "title": "X is testing a new ad format that connects posts with products",
-      "link": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/",
+      "title": "Israel announces new wave of 'broad-scale' strikes on Tehran, airport hit",
+      "link": "https://www.channelnewsasia.com/world/iran-war-tehran-airport-israel-strikes-new-wave-5978331",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 11:27:08 +0800",
+      "description": "US Central Command says more than 3,000 Iranian targets have been struck over the past week."
+    },
+    {
+      "title": "Hungarian Udvardy says she received threatening messages to lose match",
+      "link": "https://www.channelnewsasia.com/sport/hungarian-udvardy-says-she-received-threatening-messages-lose-match-5978351",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 11:24:24 +0800",
+      "description": ""
+    },
+    {
+      "title": "Russell fastest in final practice as Mercedes teammate crashes out",
+      "link": "https://www.channelnewsasia.com/sport/russell-fastest-in-final-practice-mercedes-teammate-crashes-out-5978341",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 11:20:12 +0800",
+      "description": ""
+    },
+    {
+      "title": "Bitcoin Rally Likely A Relief Bounce, Not New Bull Phase: CryptoQuant",
+      "link": "https://bitcoinist.com/bitcoin-rally-relief-bounce-bull-phase-cryptoquant/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 03:00:00 +0000",
+      "description": "On-chain analytics firm CryptoQuant has highlighted how its Bull Score Index is deep inside the bearish territory despite the latest Bitcoin price rally. Bitcoin Bull Score Index Has A Value Of Just 1"
+    },
+    {
+      "title": "Mercedes driver Antonelli wrecks car in final practice",
+      "link": "https://www.channelnewsasia.com/sport/mercedes-driver-antonelli-wrecks-car-in-final-practice-5978301",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 10:48:32 +0800",
+      "description": ""
+    },
+    {
+      "title": "US 'not concerned' by reports Russia aiding Iran's targeting",
+      "link": "https://www.channelnewsasia.com/world/iran-war-russia-intelligence-us-military-bases-5978251",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 10:05:09 +0800",
+      "description": "The Washington Post, citing officials familiar with the intelligence, said Russia has provided Iran with the locations of US military assets, including ships and aircraft."
+    },
+    {
+      "title": "Robinhood’s startup fund stumbles in NYSE debut",
+      "link": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
       "source": "TechCrunch",
-      "published": "Fri, 06 Mar 2026 22:41:26 +0000",
-      "description": "An ad test on X promotes Musk's Starlink beneath original content."
-    },
-    {
-      "title": "Nintendo sues the US government for a refund on tariffs",
-      "link": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
-      "source": "TechCrunch",
-      "published": "Fri, 06 Mar 2026 22:35:35 +0000",
-      "description": "This lawsuit comes after a Supreme Court decision struck down some of the president's sweeping tariffs, which had impacted Nintendo and thousands of other companies."
-    },
-    {
-      "title": "Valverde strikes late as Real Madrid snatch 2-1 win at Celta",
-      "link": "https://www.channelnewsasia.com/sport/valverde-strikes-late-real-madrid-snatch-2-1-win-celta-5978026",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 06:33:07 +0800",
-      "description": ""
-    },
-    {
-      "title": "PSG lose at home to open Ligue 1 title race",
-      "link": "https://www.channelnewsasia.com/sport/psg-lose-home-open-ligue-1-title-race-5978011",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 06:18:09 +0800",
-      "description": ""
-    },
-    {
-      "title": "An architect was inspired by a Ginza landmark for this house’s facade",
-      "link": "https://www.channelnewsasia.com/obsessions/ginza-inspired-glass-block-facade-terrace-house-singapore-5969911",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 06:18:00 +0800",
-      "description": "The owners wanted a home that could host, but also survive spills, scrapes and constant movement. Smart storage, hardwearing surfaces and kid-friendly detailing do the heavy lifting behind a polished "
+      "published": "Sat, 07 Mar 2026 02:04:43 +0000",
+      "description": "The fund currently offers retail investors exposure to eight startups, including Mercor, Ramp, and Stripe, with plans to expand its portfolio."
     }
   ]
 }
