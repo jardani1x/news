@@ -1,14 +1,28 @@
 {
-  "updated_sgt": "2026-03-07 20:00 SGT",
-  "updated_iso": "2026-03-07T20:00:17.843470+08:00",
+  "updated_sgt": "2026-03-08 00:00 SGT",
+  "updated_iso": "2026-03-08T00:00:27.850390+08:00",
   "categories": {
     "World": [
       {
-        "title": "Russian strike on Kharkiv apartment block kills seven",
+        "title": "Iran will continue to defend itself against aggression, ambassador to UK says",
+        "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 14:11:37 GMT",
+        "description": "Seyed Ali Mousavi tells Laura Kuenssberg Iran's response depends on the actions of the US and Israel."
+      },
+      {
+        "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+        "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 12:21:40 GMT",
+        "description": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged."
+      },
+      {
+        "title": "Russian strike on Kharkiv apartment block kills ten",
         "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Sat, 07 Mar 2026 07:54:22 GMT",
-        "description": "Ukraine President Volodymyr Zelensky says ten other people - including children - are injured as rescuers continue to search through rubble."
+        "description": "Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble."
       },
       {
         "title": "We've been speaking to Iranians during one week of war. Here's what they said",
@@ -25,13 +39,6 @@
         "description": "The move is backed by the right-wing Swiss People's Party, which says the current fee is unjustified because of the high cost of living."
       },
       {
-        "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
-        "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 07 Mar 2026 02:04:06 GMT",
-        "description": "The president also calls on Tehran to pick new leaders who are \"acceptable\" to the White House after six days of war."
-      },
-      {
         "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
         "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -44,13 +51,6 @@
         "source": "BBC World",
         "published": "Sat, 07 Mar 2026 00:36:19 GMT",
         "description": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces."
-      },
-      {
-        "title": "Flight paths squeezed as Iran conflict closes more airspace",
-        "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 18:09:19 GMT",
-        "description": "A drone attack on Azerbaijan has narrowed choices for airlines scrambling to respond to disruption in the Gulf."
       },
       {
         "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
@@ -76,46 +76,67 @@
     ],
     "Finance": [
       {
+        "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+        "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 15:58:58 GMT",
+        "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order."
+      },
+      {
+        "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
+        "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 15:56:05 GMT",
+        "description": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
+      },
+      {
+        "title": "Middle-income homebuyers have $30,000 more buying power than a year ago, research finds. It's still not enough",
+        "link": "https://www.cnbc.com/2026/03/07/median-income-households-buying-power.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 14:30:02 GMT",
+        "description": "While the amount that a median-income household can afford is higher than it was a year ago, it is still below the median price for a single-family home."
+      },
+      {
         "title": "Iran says it struck UAE air base shortly after Iranian president's vow not to hit neighbors",
         "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 11:56:05 GMT",
+        "published": "Sat, 07 Mar 2026 14:13:38 GMT",
         "description": "The U.S. says it has hit more than 3,000 Iranian targets in the first week of the war, as Iran's president vows to halt attacks on neighbors."
       },
       {
-        "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-        "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+        "title": "Berkshire CEO Greg Abel on working with Buffett, Kraft Heinz and using all his salary to buy the stock",
+        "link": "https://www.cnbc.com/2026/03/07/berkshire-ceo-greg-abel-on-working-with-buffett-kraft-heinz-and-using-all-his-salary-to-buy-the-stock.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 00:07:18 GMT",
-        "description": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran."
+        "published": "Sat, 07 Mar 2026 13:31:42 GMT",
+        "description": "Berkshire Hathaway's new CEO, Greg Abel, generated some significant headlines during a roughly half-hour live interview on CNBC's \"Squawk Box.\""
       },
       {
-        "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
-        "link": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
+        "title": "Iran war threatens to scramble the 'affordability' midterm",
+        "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
         "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 23:41:32 GMT",
-        "description": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment."
+        "published": "Sat, 07 Mar 2026 13:00:01 GMT",
+        "description": "Midterm election messaging on affordability could be undercut by the Iran war and related uncertainty."
       },
       {
-        "title": "FDA vaccine head will step down in April after string of controversial decisions",
-        "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
+        "title": "How China is challenging the U.S. to become the next great space power",
+        "link": "https://www.cnbc.com/2026/03/07/china-us-space-race-rockets.html",
         "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 23:23:33 GMT",
-        "description": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research."
+        "published": "Sat, 07 Mar 2026 13:00:01 GMT",
+        "description": "A new report warns that the U.S. could lose its dominance in space to China in the next few years."
       },
       {
-        "title": "Average IRS tax refund is up 10.6%, early filing data shows",
-        "link": "https://www.cnbc.com/2026/03/06/average-irs-tax-refund.html",
+        "title": "Inside the booming business of wellness third spaces and membership clubs",
+        "link": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
         "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 22:04:12 GMT",
-        "description": "The average IRS tax refund is up 10.6%, based on early filing data. Here's what you can expect."
+        "published": "Sat, 07 Mar 2026 13:00:01 GMT",
+        "description": "A growing number of consumers are seeking out third spaces and membership clubs surrounding wellness, to improve their health while also socializing."
       },
       {
-        "title": "Trump tariffs: Customs and Border Protection tells judge it can't comply with refund order",
-        "link": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
+        "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
+        "link": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
         "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 21:16:15 GMT",
-        "description": "CBP told Judge Richard Eaton that the technology upgrades it plans would save more than 4 million man-hours in processing refunds for Trump's tariffs."
+        "published": "Sat, 07 Mar 2026 04:34:33 GMT",
+        "description": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis."
       },
       {
         "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
@@ -123,27 +144,6 @@
         "source": "CNBC Finance",
         "published": "Fri, 06 Mar 2026 20:23:08 GMT",
         "description": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz."
-      },
-      {
-        "title": "Trump admin announces $20 billion reinsurance program for oil tankers during Iran war",
-        "link": "https://www.cnbc.com/2026/03/06/trump-reinsurance-oil-iran-war.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 19:35:07 GMT",
-        "description": "Tanker traffic through the Strait of Hormuz remains at a standstill as the Iran war engulfs the region."
-      },
-      {
-        "title": "Trump says no deal with Iran to end war without 'unconditional surrender'",
-        "link": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 19:23:17 GMT",
-        "description": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war."
-      },
-      {
-        "title": "GOP 'big beautiful bill' poised to deliver 'shock' to ACA marketplace, health policy experts say",
-        "link": "https://www.cnbc.com/2026/03/06/gop-big-beautiful-bill-to-deal-shock-to-the-aca-marketplace.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 18:24:01 GMT",
-        "description": "The GOP's \"big beautiful bill\" made administrative tweaks expected to reduce enrollment in the Affordable Care Act marketplace by millions of people."
       }
     ],
     "Technology": [
@@ -220,6 +220,34 @@
     ],
     "Crypto": [
       {
+        "title": "Elon Musk Cosigns X Money Post, But Does It Have Anything To Do With Dogecoin?",
+        "link": "https://bitcoinist.com/elon-musk-x-money-dogecoin/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 15:00:03 +0000",
+        "description": "Elon Musk’s intentions to launch a financial services app have not been a secret, but the question mostly has been how Dogecoin fits into that dream. Musk was the primary reason for Dogecoin’s legenda"
+      },
+      {
+        "title": "Binance Claps Back At Senator Blumenthal’s Allegations, Denouncing False Claims",
+        "link": "https://bitcoinist.com/binance-claps-back-senator-blumenthals-allegations/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 14:00:20 +0000",
+        "description": "Binance has formally responded to US Senator Richard Blumenthal (D-CT) following a congressional letter in which the lawmaker cited media reports alleging the company enabled large-scale violations of"
+      },
+      {
+        "title": "Bitcoin Difficulty Holds Flat As Hashrate Moves Sideways",
+        "link": "https://bitcoinist.com/bitcoin-difficulty-flat-hashrate-moves-sideways/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 13:00:34 +0000",
+        "description": "On-chain data shows the Bitcoin Difficulty has seen little change in the latest adjustment as a result of the recent sideways trend in the Hashrate. Bitcoin Difficulty Has Only Seen A Change Of 0.45% "
+      },
+      {
+        "title": "KuCoin Blocked In UAE As Authorities Mandate Immediate Service Stop",
+        "link": "https://bitcoinist.com/kucoin-blocked-in-uae-immediate-service-stop/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 12:00:26 +0000",
+        "description": "Seychelles-based cryptocurrency exchange KuCoin has been ordered to halt its operations in Dubai after regulators determined the platform was operating without the required authorization. The action w"
+      },
+      {
         "title": "Kazakhstan’s Crypto Bet: Central Bank To Begin $350M Digital Assets Investment In Q2",
         "link": "https://bitcoinist.com/kazakhstans-crypto-bet-350m-investment-in-q2/",
         "source": "Bitcoinist",
@@ -234,13 +262,6 @@
         "description": "Despite strong backing from President Donald Trump and ongoing discussions at the White House, the CLARITY Act — the Senate’s long-debated crypto market structure bill — remains stalled as political d"
       },
       {
-        "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
-        "link": "https://bitcoinist.com/ethereum-under-pressure/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 09:30:36 +0000",
-        "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
-      },
-      {
         "title": "The Hormuz Standoff: Why Bitcoin’s Liquidity Drain Is Defying The Global Energy Shock",
         "link": "https://bitcoinist.com/the-hormuz-standoff-why-bitcoins-liquidity-drain/",
         "source": "Bitcoinist",
@@ -253,171 +274,150 @@
         "source": "Bitcoinist",
         "published": "Sat, 07 Mar 2026 08:00:28 +0000",
         "description": "Just over 10,000 Bitcoin — out of nearly 20 million in circulation — sits in wallets actually exposed to a quantum attack. Related Reading: US Moves Bitcoin During Iran Strikes — Market Watches Closel"
-      },
-      {
-        "title": "The 24/7 Takeover: How Crypto’s $130B TradFi Surge Is Absorbing The Global Commodities Trade",
-        "link": "https://bitcoinist.com/the-24-7-takeover-how-cryptos-130b-tradfi-surge/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 07:00:48 +0000",
-        "description": "Cryptocurrency exchanges are increasingly evolving beyond digital asset trading platforms, gradually becoming global venues for traditional financial derivatives. A recent CryptoQuant report highlight"
-      },
-      {
-        "title": "Buterin Says Ethereum Must Rethink Its Future: Here’s Why",
-        "link": "https://bitcoinist.com/buterin-ethereum-must-rethink-its-future/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 06:00:24 +0000",
-        "description": "Vitalik Buterin is urging the Ethereum ecosystem to get bolder about what it builds on top of the chain—while drawing a hard line around the base layer’s core guarantees—arguing that a first-principle"
-      },
-      {
-        "title": "Bitcoin Could Outshine Gold Through 2029, Macroeconomist Predicts",
-        "link": "https://bitcoinist.com/bitcoin-could-outshine-gold-through-2029-macroeconomist-predicts/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 05:00:21 +0000",
-        "description": "The gap between how investors feel about gold and Bitcoin has rarely been this wide. Gold&#8217;s fear and greed index sat at 72 out of 100 — deep in greed territory — while the top crypto&#8217;s equ"
       }
     ],
     "Markets": [
       {
-        "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
-        "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
+        "title": "These 8 drugs could help fight dementia — and they’re already on the market",
+        "link": "https://www.marketwatch.com/story/these-8-drugs-could-help-fight-dementia-and-theyre-already-on-the-market-f19aed04?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 11:58:00 GMT",
-        "description": "“We are the first generation on either side of our families to experience this level of success.”"
+        "published": "Sat, 07 Mar 2026 15:00:00 GMT",
+        "description": "The findings have been tested in the real world."
       },
       {
-        "title": "‘I find this very worrying’: A friend’s home fell into foreclosure. What on earth is going on?",
-        "link": "https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories",
+        "title": "Paramount says its Warner Bros. deal can work without big layoffs. Hollywood isn’t buying it.",
+        "link": "https://www.marketwatch.com/story/paramount-says-its-warner-bros-deal-can-work-without-big-layoffs-hollywood-isnt-buying-it-c3f083d5?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 11:45:00 GMT",
-        "description": "Federal Housing Authority and Veterans Affairs home loans are seeing higher delinquency rates than conventional loans."
+        "published": "Sat, 07 Mar 2026 14:30:00 GMT",
+        "description": "Hollywood is bracing for big job cuts at Warner Bros. Discovery when its merger with Paramount closes, even as Paramount has insisted it can make the deal work without many layoffs."
       },
       {
-        "title": "Four companies, including AI and data-center plays, are joining the S&P 500 index",
-        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories",
+        "title": "Stagflation? $150 oil? That doesn’t mean everyone’s 401(k) is losing money.",
+        "link": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 23:01:00 GMT",
-        "description": "Vertiv, Lumentum, Coherent and EchoStar are the newest entrants to the S&P 500."
+        "published": "Sat, 07 Mar 2026 14:20:00 GMT",
+        "description": "The problem with crises like this is that stocks and bonds can both fail."
       },
       {
-        "title": "These stocks in the S&P 500 have dropped the most since the U.S. and Israel attacked Iran",
-        "link": "https://www.marketwatch.com/story/these-stocks-in-the-s-p-500-have-dropped-the-most-since-the-u-s-and-israel-attacked-iran-ee7d67da?mod=mw_rss_topstories",
+        "title": "Here’s what finfluencers like Dave Ramsey and Vivian Tu really think of ‘Trump accounts’",
+        "link": "https://www.marketwatch.com/story/heres-what-finfluencers-like-dave-ramsey-and-vivian-tu-really-think-of-trump-accounts-1ce6a94c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 22:16:00 GMT",
-        "description": "A disappointing Friday employment report helped send stocks down further, with cruise operators hammered"
+        "published": "Sat, 07 Mar 2026 14:00:00 GMT",
+        "description": "After opening a “Trump account” to receive any “free” money you’re eligible for, personal-finance experts say parents may be better off directing their own dollars toward other account types for kids."
       },
       {
-        "title": "That viral Big Arch burger video could be worth at least $18 million to McDonald’s in free publicity",
-        "link": "https://www.marketwatch.com/story/that-viral-big-arch-burger-video-could-be-worth-at-least-18-million-to-mcdonalds-in-free-publicity-87a3d882?mod=mw_rss_topstories",
+        "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
+        "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 22:09:00 GMT",
-        "description": "Rivals like Burger King and Wendy’s have also been biting off that McDonald’s CEO video — and industry experts say it’s good for business for everybody."
+        "published": "Sat, 07 Mar 2026 13:58:00 GMT",
+        "description": "“He has no loyalty to me or our vows.”"
       },
       {
-        "title": "Defense-tech stocks are the hot trade as Iran conflict widens",
-        "link": "https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c?mod=mw_rss_topstories",
+        "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
+        "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 22:04:00 GMT",
-        "description": "In a week when conflict in Iran sent the U.S. equity market into a tailspin, technology stocks tied to cybersecurity and artificial intelligence have proved more resilient than sectors investors have "
+        "published": "Sat, 07 Mar 2026 13:30:00 GMT",
+        "description": "“She is reading alarmist headlines about Iran in the newspapers.”"
       },
       {
-        "title": "Oil surge sparks Treasury market’s worst weekly rout since ‘liberation day’ chaos",
-        "link": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories",
+        "title": "Spike in oil prices triggers talk of an economic doomsday scenario",
+        "link": "https://www.marketwatch.com/story/spike-in-oil-prices-triggers-talk-of-an-economic-doomsday-scenario-86860a98?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 21:53:00 GMT",
-        "description": "Government bonds globally were hit hard by surging oil prices as the Iran conflict extends into the weekend"
+        "published": "Sat, 07 Mar 2026 13:30:00 GMT",
+        "description": "Another week of record gains could lift oil prices close to their all-time highs — levels that invite talk of an economic doomsday."
       },
       {
-        "title": "Defense companies agree to ramp up output after meeting with Trump",
-        "link": "https://www.marketwatch.com/story/defense-companies-are-meeting-trump-today-heres-what-hell-ask-for-after-demanding-irans-surrender-c84d34d3?mod=mw_rss_topstories",
+        "title": "These 6 stocks could be major winners of an upcoming optics ‘supercycle’",
+        "link": "https://www.marketwatch.com/story/these-6-stocks-could-be-major-winners-of-an-upcoming-optics-supercycle-3aee252e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 21:47:00 GMT",
-        "description": "The meeting came shortly after a Trump social-media post appearing to rule out talks with Iran as the conflict drags down stocks and as oil prices shoot up."
+        "published": "Sat, 07 Mar 2026 13:00:00 GMT",
+        "description": "Optical components are becoming a critical chokepoint in AI infrastructure, as the data-center buildout drives strong demand for more efficient data-transfer methods."
       },
       {
-        "title": "‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?",
-        "link": "https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories",
+        "title": "Trump is offering $20 billion in reinsurance for oil tankers stuck in the Strait of Hormuz. Here’s why it might not be enough.",
+        "link": "https://www.marketwatch.com/story/trump-is-offering-20-billion-in-reinsurance-for-oil-tankers-stuck-in-the-strait-of-hormuz-heres-why-it-might-not-be-enough-3e9090a4?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 21:21:00 GMT",
-        "description": "“After the divorce was finalized, he and his partner moved out of state to a place where there would be no child-support enforcement.”"
+        "published": "Sat, 07 Mar 2026 13:00:00 GMT",
+        "description": "Supply disruptions in the Persian Gulf “are accelerating faster than expected” as storage options dwindle and force production shut-ins as early as next week, J.P. Morgan analysts said."
       },
       {
-        "title": "Oil prices are surging. Will that help Tesla and others sell more EVs?",
-        "link": "https://www.marketwatch.com/story/oil-prices-are-surging-will-that-help-tesla-and-others-sell-more-evs-1f2f3856?mod=mw_rss_topstories",
+        "title": "‘He has been emotionally abusive’: My father, 75, is on oxygen and destitute. What do I owe him?",
+        "link": "https://www.marketwatch.com/story/he-has-been-emotionally-abusive-my-father-75-is-on-oxygen-and-destitute-what-do-i-owe-him-eb21e873?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 21:09:00 GMT",
-        "description": "A 9% jump in gasoline prices in a week could make electric vehicles look more affordable to consumers."
+        "published": "Sat, 07 Mar 2026 12:58:00 GMT",
+        "description": "“He has less than $20,000 to his name and no income besides Social Security.”"
       }
     ],
     "Singapore": [
       {
-        "title": "Alpine skiing-Pirovano takes downhill double to end Vonn's run at the top",
-        "link": "https://www.channelnewsasia.com/sport/alpine-skiing-pirovano-takes-downhill-double-end-vonns-run-top-5978791",
+        "title": "Russian flag returns to Games podium with two downhill bronzes",
+        "link": "https://www.channelnewsasia.com/sport/russian-flag-returns-games-podium-two-downhill-bronzes-5979006",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 19:56:14 +0800",
+        "published": "Sat, 07 Mar 2026 23:51:03 +0800",
         "description": ""
       },
       {
-        "title": "New Zealand ready to break hearts and silence India's crowd in T20 final, says Santner",
-        "link": "https://www.channelnewsasia.com/sport/new-zealand-ready-break-hearts-and-silence-indias-crowd-in-t20-final-says-santner-5978731",
+        "title": "US starts using UK bases for 'defensive' Iran operations",
+        "link": "https://www.channelnewsasia.com/world/us-using-uk-military-bases-defensive-iran-operations-middle-east-war-5978966",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 18:50:01 +0800",
+        "published": "Sat, 07 Mar 2026 23:03:00 +0800",
         "description": ""
       },
       {
-        "title": "Israel carries out rare airborne raid in Lebanon; 16 killed in strikes",
-        "link": "https://www.channelnewsasia.com/world/israel-airborne-raid-lebanon-strikes-middle-east-iran-hezbollah-5978721",
+        "title": "Hugs and tears of joy as Singaporeans in the Middle East return home on repatriation flight",
+        "link": "https://www.channelnewsasia.com/singapore/middle-east-war-repatriation-flight-singapore-muscat-5976816",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 18:36:00 +0800",
+        "published": "Sat, 07 Mar 2026 23:01:00 +0800",
+        "description": "More than 150 Singaporeans and their dependents touched down on Saturday night (Mar 7) on the first repatriation flight from Muscat, Oman."
+      },
+      {
+        "title": "Baseball-Suzuki, Ohtani homers help Japan outlast South Korea",
+        "link": "https://www.channelnewsasia.com/sport/baseball-suzuki-ohtani-homers-help-japan-outlast-south-korea-5978946",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 22:40:29 +0800",
         "description": ""
       },
       {
-        "title": "India let Iran warship dock the day US sank another off Sri Lanka, officials say",
-        "link": "https://www.channelnewsasia.com/asia/india-iran-warship-dock-sri-lanka-5978671",
+        "title": "Türkiye mulls sending F-16s to northern Cyprus amid Middle East war",
+        "link": "https://www.channelnewsasia.com/world/turkey-f16-fighter-jet-cyprus-middle-east-war-iran-5978921",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 18:11:29 +0800",
-        "description": "India received the docking request for the Lavan on Feb 28, the day the Iran war started"
-      },
-      {
-        "title": "Defending champion Norris slams 'worst' F1 cars",
-        "link": "https://www.channelnewsasia.com/sport/defending-champion-norris-slams-worst-f1-cars-5978706",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 18:02:53 +0800",
+        "published": "Sat, 07 Mar 2026 22:30:00 +0800",
         "description": ""
       },
       {
-        "title": "Singapore planning repatriation flight for citizens, dependents from Saudi Arabia",
-        "link": "https://www.channelnewsasia.com/singapore/repatriation-flight-citizens-dependents-saudi-arabia-mfa-5978676",
+        "title": "No pressure, no fun for India captain Suryakumar ahead of T20 World Cup final",
+        "link": "https://www.channelnewsasia.com/sport/no-pressure-no-fun-india-captain-suryakumar-ahead-t20-world-cup-final-5978911",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 17:26:00 +0800",
-        "description": "The flight is expected to take place between Mar 10 and Mar 12.&nbsp;"
-      },
-      {
-        "title": "China vows to safeguard jobs and boost hiring as AI reshapes labour market",
-        "link": "https://www.channelnewsasia.com/east-asia/china-livelihood-presser-jobs-ai-labour-market-5977236",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 16:53:03 +0800",
-        "description": "With a record 12.7 million graduates entering the workforce this year amid slowing growth and AI disruption, youth employment took centre stage at a Two Sessions press conference."
-      },
-      {
-        "title": "Russell surprised by 'amazing' Mercedes car after taking pole in Australia",
-        "link": "https://www.channelnewsasia.com/sport/russell-surprised-amazing-mercedes-car-after-taking-pole-in-australia-5978666",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 16:35:30 +0800",
+        "published": "Sat, 07 Mar 2026 22:23:33 +0800",
         "description": ""
       },
       {
-        "title": "Dubai airport partially resumes operations after temporary suspension",
-        "link": "https://www.channelnewsasia.com/world/dubai-international-airport-suspend-operations-emirates-5978641",
+        "title": "Eze thunderbolt guides Arsenal past Mansfield into FA Cup quarter-finals",
+        "link": "https://www.channelnewsasia.com/sport/eze-thunderbolt-guides-arsenal-past-mansfield-fa-cup-quarter-finals-5978916",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 16:30:00 +0800",
-        "description": "The Dubai government said in a post that there had been \"a minor incident resulting from the fall of debris after an interception\", which caused no injuries."
+        "published": "Sat, 07 Mar 2026 22:21:28 +0800",
+        "description": ""
       },
       {
-        "title": "Iran president says country will not surrender to Israel, US",
-        "link": "https://www.channelnewsasia.com/world/iran-president-not-surrender-israel-us-middle-east-war-5978646",
+        "title": "Eating 200-year-old rice — inside a centuries-old farming tradition in Indonesia",
+        "link": "https://www.channelnewsasia.com/today/in-pixels/eating-200-year-old-rice-inside-centuries-old-farming-tradition-in-indonesia-5970386",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 16:02:00 +0800",
-        "description": "During the speech, Iran's President Masoud Pezeshkian apologised to neighbouring countries for Iran's attacks across the region, saying that they would not be targeted unless attacks originated from t"
+        "published": "Sat, 07 Mar 2026 21:30:00 +0800",
+        "description": ""
+      },
+      {
+        "title": "The ex-Singapore national youth coach now building up women's football in Africa's tiniest nation",
+        "link": "https://www.channelnewsasia.com/today/up-close/singapore-football-coach-women-national-sports-athlete-seychelles-5966106",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 21:30:00 +0800",
+        "description": "From shifting goal posts in 30°C&nbsp;heat to securing professional contracts for her players in Europe, 32-year-old Chris Yip-Au is a one-woman engine room driving the beautiful game in one of the wo"
+      },
+      {
+        "title": "Should you let AI manage your money? Here's why I'm not convinced",
+        "link": "https://www.channelnewsasia.com/today/voices/ai-artificial-intelligence-give-financial-advice-human-judgement-money-5966026",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 21:30:00 +0800",
+        "description": "Are you feeding your financial data to AI, hoping it'll come up with groundbreaking insights? Financial blogger Dawn Cher says that while you can use AI to support your thinking, it should never repla"
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Alpine skiing-Pirovano takes downhill double to end Vonn's run at the top",
-      "link": "https://www.channelnewsasia.com/sport/alpine-skiing-pirovano-takes-downhill-double-end-vonns-run-top-5978791",
+      "title": "Russian flag returns to Games podium with two downhill bronzes",
+      "link": "https://www.channelnewsasia.com/sport/russian-flag-returns-games-podium-two-downhill-bronzes-5979006",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 19:56:14 +0800",
+      "published": "Sat, 07 Mar 2026 23:51:03 +0800",
       "description": ""
     },
     {
-      "title": "Kazakhstan’s Crypto Bet: Central Bank To Begin $350M Digital Assets Investment In Q2",
-      "link": "https://bitcoinist.com/kazakhstans-crypto-bet-350m-investment-in-q2/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 11:00:10 +0000",
-      "description": "Kazakhstan’s central bank will soon begin investing up to $350 million from its gold and foreign exchange reserves into cryptocurrency assets and related companies, as part of its broader digital asse"
-    },
-    {
-      "title": "New Zealand ready to break hearts and silence India's crowd in T20 final, says Santner",
-      "link": "https://www.channelnewsasia.com/sport/new-zealand-ready-break-hearts-and-silence-indias-crowd-in-t20-final-says-santner-5978731",
+      "title": "US starts using UK bases for 'defensive' Iran operations",
+      "link": "https://www.channelnewsasia.com/world/us-using-uk-military-bases-defensive-iran-operations-middle-east-war-5978966",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 18:50:01 +0800",
+      "published": "Sat, 07 Mar 2026 23:03:00 +0800",
       "description": ""
     },
     {
-      "title": "Israel carries out rare airborne raid in Lebanon; 16 killed in strikes",
-      "link": "https://www.channelnewsasia.com/world/israel-airborne-raid-lebanon-strikes-middle-east-iran-hezbollah-5978721",
+      "title": "Hugs and tears of joy as Singaporeans in the Middle East return home on repatriation flight",
+      "link": "https://www.channelnewsasia.com/singapore/middle-east-war-repatriation-flight-singapore-muscat-5976816",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 18:36:00 +0800",
+      "published": "Sat, 07 Mar 2026 23:01:00 +0800",
+      "description": "More than 150 Singaporeans and their dependents touched down on Saturday night (Mar 7) on the first repatriation flight from Muscat, Oman."
+    },
+    {
+      "title": "Elon Musk Cosigns X Money Post, But Does It Have Anything To Do With Dogecoin?",
+      "link": "https://bitcoinist.com/elon-musk-x-money-dogecoin/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 15:00:03 +0000",
+      "description": "Elon Musk’s intentions to launch a financial services app have not been a secret, but the question mostly has been how Dogecoin fits into that dream. Musk was the primary reason for Dogecoin’s legenda"
+    },
+    {
+      "title": "Baseball-Suzuki, Ohtani homers help Japan outlast South Korea",
+      "link": "https://www.channelnewsasia.com/sport/baseball-suzuki-ohtani-homers-help-japan-outlast-south-korea-5978946",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 22:40:29 +0800",
       "description": ""
     },
     {
-      "title": "India let Iran warship dock the day US sank another off Sri Lanka, officials say",
-      "link": "https://www.channelnewsasia.com/asia/india-iran-warship-dock-sri-lanka-5978671",
+      "title": "Türkiye mulls sending F-16s to northern Cyprus amid Middle East war",
+      "link": "https://www.channelnewsasia.com/world/turkey-f16-fighter-jet-cyprus-middle-east-war-iran-5978921",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 18:11:29 +0800",
-      "description": "India received the docking request for the Lavan on Feb 28, the day the Iran war started"
-    },
-    {
-      "title": "Defending champion Norris slams 'worst' F1 cars",
-      "link": "https://www.channelnewsasia.com/sport/defending-champion-norris-slams-worst-f1-cars-5978706",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 18:02:53 +0800",
+      "published": "Sat, 07 Mar 2026 22:30:00 +0800",
       "description": ""
     },
     {
-      "title": "Single Swing Vote May Determine Fate Of The CLARITY Act In Banking Committee",
-      "link": "https://bitcoinist.com/single-swing-vote-fate-of-the-clarity-act/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 10:00:32 +0000",
-      "description": "Despite strong backing from President Donald Trump and ongoing discussions at the White House, the CLARITY Act — the Senate’s long-debated crypto market structure bill — remains stalled as political d"
-    },
-    {
-      "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
-      "link": "https://bitcoinist.com/ethereum-under-pressure/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 09:30:36 +0000",
-      "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
-    },
-    {
-      "title": "Singapore planning repatriation flight for citizens, dependents from Saudi Arabia",
-      "link": "https://www.channelnewsasia.com/singapore/repatriation-flight-citizens-dependents-saudi-arabia-mfa-5978676",
+      "title": "No pressure, no fun for India captain Suryakumar ahead of T20 World Cup final",
+      "link": "https://www.channelnewsasia.com/sport/no-pressure-no-fun-india-captain-suryakumar-ahead-t20-world-cup-final-5978911",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 17:26:00 +0800",
-      "description": "The flight is expected to take place between Mar 10 and Mar 12.&nbsp;"
+      "published": "Sat, 07 Mar 2026 22:23:33 +0800",
+      "description": ""
     },
     {
-      "title": "The Hormuz Standoff: Why Bitcoin’s Liquidity Drain Is Defying The Global Energy Shock",
-      "link": "https://bitcoinist.com/the-hormuz-standoff-why-bitcoins-liquidity-drain/",
+      "title": "Eze thunderbolt guides Arsenal past Mansfield into FA Cup quarter-finals",
+      "link": "https://www.channelnewsasia.com/sport/eze-thunderbolt-guides-arsenal-past-mansfield-fa-cup-quarter-finals-5978916",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 22:21:28 +0800",
+      "description": ""
+    },
+    {
+      "title": "Binance Claps Back At Senator Blumenthal’s Allegations, Denouncing False Claims",
+      "link": "https://bitcoinist.com/binance-claps-back-senator-blumenthals-allegations/",
       "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 09:00:52 +0000",
-      "description": "Bitcoin is attempting to hold the $70,000 level as geopolitical tensions in the Middle East intensify, injecting fresh uncertainty into global financial markets. The asset began the week trading above"
+      "published": "Sat, 07 Mar 2026 14:00:20 +0000",
+      "description": "Binance has formally responded to US Senator Richard Blumenthal (D-CT) following a congressional letter in which the lawmaker cited media reports alleging the company enabled large-scale violations of"
+    },
+    {
+      "title": "Eating 200-year-old rice — inside a centuries-old farming tradition in Indonesia",
+      "link": "https://www.channelnewsasia.com/today/in-pixels/eating-200-year-old-rice-inside-centuries-old-farming-tradition-in-indonesia-5970386",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 21:30:00 +0800",
+      "description": ""
     }
   ]
 }
