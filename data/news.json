@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-03-07 16:00 SGT",
-  "updated_iso": "2026-03-07T16:00:28.773552+08:00",
+  "updated_sgt": "2026-03-07 20:00 SGT",
+  "updated_iso": "2026-03-07T20:00:17.843470+08:00",
   "categories": {
     "World": [
       {
@@ -76,11 +76,11 @@
     ],
     "Finance": [
       {
-        "title": "'Not slowing down': One week on, U.S.-Israeli strikes on Iran continue",
+        "title": "Iran says it struck UAE air base shortly after Iranian president's vow not to hit neighbors",
         "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 07:49:47 GMT",
-        "description": "The U.S. says it has hit more than 3,000 Iranian targets in the first week of the war, as the Gulf remains on high alert for retaliatory strikes."
+        "published": "Sat, 07 Mar 2026 11:56:05 GMT",
+        "description": "The U.S. says it has hit more than 3,000 Iranian targets in the first week of the war, as Iran's president vows to halt attacks on neighbors."
       },
       {
         "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
@@ -220,6 +220,41 @@
     ],
     "Crypto": [
       {
+        "title": "Kazakhstan’s Crypto Bet: Central Bank To Begin $350M Digital Assets Investment In Q2",
+        "link": "https://bitcoinist.com/kazakhstans-crypto-bet-350m-investment-in-q2/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 11:00:10 +0000",
+        "description": "Kazakhstan’s central bank will soon begin investing up to $350 million from its gold and foreign exchange reserves into cryptocurrency assets and related companies, as part of its broader digital asse"
+      },
+      {
+        "title": "Single Swing Vote May Determine Fate Of The CLARITY Act In Banking Committee",
+        "link": "https://bitcoinist.com/single-swing-vote-fate-of-the-clarity-act/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 10:00:32 +0000",
+        "description": "Despite strong backing from President Donald Trump and ongoing discussions at the White House, the CLARITY Act — the Senate’s long-debated crypto market structure bill — remains stalled as political d"
+      },
+      {
+        "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
+        "link": "https://bitcoinist.com/ethereum-under-pressure/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 09:30:36 +0000",
+        "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
+      },
+      {
+        "title": "The Hormuz Standoff: Why Bitcoin’s Liquidity Drain Is Defying The Global Energy Shock",
+        "link": "https://bitcoinist.com/the-hormuz-standoff-why-bitcoins-liquidity-drain/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 09:00:52 +0000",
+        "description": "Bitcoin is attempting to hold the $70,000 level as geopolitical tensions in the Middle East intensify, injecting fresh uncertainty into global financial markets. The asset began the week trading above"
+      },
+      {
+        "title": "Bitcoin Faces A New Quantum Era As Giant Computing Facility Breaks Ground",
+        "link": "https://bitcoinist.com/bitcoin-faces-a-new-quantum-era-as-giant-computing-facility-breaks-ground/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 08:00:28 +0000",
+        "description": "Just over 10,000 Bitcoin — out of nearly 20 million in circulation — sits in wallets actually exposed to a quantum attack. Related Reading: US Moves Bitcoin During Iran Strikes — Market Watches Closel"
+      },
+      {
         "title": "The 24/7 Takeover: How Crypto’s $130B TradFi Surge Is Absorbing The Global Commodities Trade",
         "link": "https://bitcoinist.com/the-24-7-takeover-how-cryptos-130b-tradfi-surge/",
         "source": "Bitcoinist",
@@ -239,44 +274,23 @@
         "source": "Bitcoinist",
         "published": "Sat, 07 Mar 2026 05:00:21 +0000",
         "description": "The gap between how investors feel about gold and Bitcoin has rarely been this wide. Gold&#8217;s fear and greed index sat at 72 out of 100 — deep in greed territory — while the top crypto&#8217;s equ"
-      },
-      {
-        "title": "From Ban Threats To Bank Licenses: Russia’s New Crypto Play",
-        "link": "https://bitcoinist.com/ban-threats-to-bank-licenses-russias-crypto-play/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 04:00:41 +0000",
-        "description": "The Bank of Russia has proposed letting banks and brokerage firms obtain licenses to operate crypto exchanges. A New Crypto Play A report published by Interfax on March 5 states that The Central Bank "
-      },
-      {
-        "title": "Bitcoin Rally Likely A Relief Bounce, Not New Bull Phase: CryptoQuant",
-        "link": "https://bitcoinist.com/bitcoin-rally-relief-bounce-bull-phase-cryptoquant/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 03:00:00 +0000",
-        "description": "On-chain analytics firm CryptoQuant has highlighted how its Bull Score Index is deep inside the bearish territory despite the latest Bitcoin price rally. Bitcoin Bull Score Index Has A Value Of Just 1"
-      },
-      {
-        "title": "Expert Says There Will Be No Altcoin Season In 2026, Here’s Why",
-        "link": "https://bitcoinist.com/no-altcoin-season-in-2026/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 02:00:18 +0000",
-        "description": "The timing of the next altcoin season is one of the most debated topics in the cryptocurrency market as traders search for signs that capital could soon rotate away from Bitcoin into smaller assets. H"
-      },
-      {
-        "title": "XRP 200EMA Sweep To Trigger Rally? Analyst Shows Path To $8.5",
-        "link": "https://bitcoinist.com/xrp-200ema-sweep-rally-8-5/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 01:00:40 +0000",
-        "description": "Despite XRP’s continued decline and its struggle to regain the $2 level, one analyst believes the asset is approaching a decisive technical zone that could determine the next rally. A chart breakdown "
-      },
-      {
-        "title": "XRP Leaves Crypto Exchanges In Large Volumes During Turbulent Market Conditions",
-        "link": "https://bitcoinist.com/xrp-leaves-crypto-exchanges/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 00:00:28 +0000",
-        "description": "Even with the price of XRP displaying bearish action, bullish sentiment remains strong underneath the surface. On-chain data is signaling a strong desire among investors and traders to hold on to the "
       }
     ],
     "Markets": [
+      {
+        "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 07 Mar 2026 11:58:00 GMT",
+        "description": "“We are the first generation on either side of our families to experience this level of success.”"
+      },
+      {
+        "title": "‘I find this very worrying’: A friend’s home fell into foreclosure. What on earth is going on?",
+        "link": "https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 07 Mar 2026 11:45:00 GMT",
+        "description": "Federal Housing Authority and Veterans Affairs home loans are seeing higher delinquency rates than conventional loans."
+      },
       {
         "title": "Four companies, including AI and data-center plays, are joining the S&P 500 index",
         "link": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories",
@@ -332,92 +346,78 @@
         "source": "MarketWatch",
         "published": "Fri, 06 Mar 2026 21:09:00 GMT",
         "description": "A 9% jump in gasoline prices in a week could make electric vehicles look more affordable to consumers."
-      },
-      {
-        "title": "Crude-oil futures haven’t been this overbought since 1990. That doesn’t mean the rally is over.",
-        "link": "https://www.marketwatch.com/story/crude-oil-futures-havent-been-this-overbought-since-1990-that-doesnt-mean-the-rally-is-over-1550e567?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 20:45:00 GMT",
-        "description": "A momentum indicator for a crude futures chart has soared to its highest level in 36 years, but as the Wall Street saying goes, overbought doesn’t mean over."
-      },
-      {
-        "title": "U.S. oil prices notch record weekly gain of nearly 36%, as Middle East conflict spurs worries over production cuts",
-        "link": "https://www.marketwatch.com/story/oil-at-20-month-high-as-qatar-minister-warns-of-halt-to-energy-shipments-ffd3f8f9?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 06 Mar 2026 20:35:00 GMT",
-        "description": "Oil prices rallied Friday to set a record weekly gain, with the Middle East starting to feel a squeeze in production and storage capacity as the Iran conflict ran through a seventh day."
       }
     ],
     "Singapore": [
       {
-        "title": "Russell takes pole for Mercedes at Australian Grand Prix",
-        "link": "https://www.channelnewsasia.com/sport/russell-takes-pole-mercedes-australian-grand-prix-5978571",
+        "title": "Alpine skiing-Pirovano takes downhill double to end Vonn's run at the top",
+        "link": "https://www.channelnewsasia.com/sport/alpine-skiing-pirovano-takes-downhill-double-end-vonns-run-top-5978791",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 14:43:53 +0800",
+        "published": "Sat, 07 Mar 2026 19:56:14 +0800",
         "description": ""
       },
       {
-        "title": "Malaysia detains 6 locals aged 16 to 21 in Islamic State-linked extremism probe; warns of more arrests",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-islamic-state-six-youths-arrested-terrorism-sosma-5978561",
+        "title": "New Zealand ready to break hearts and silence India's crowd in T20 final, says Santner",
+        "link": "https://www.channelnewsasia.com/sport/new-zealand-ready-break-hearts-and-silence-indias-crowd-in-t20-final-says-santner-5978731",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 14:40:00 +0800",
-        "description": "Arrested in February across several states, the youths were part of messaging groups that discussed plans to target police stations, government installations and places of worship in Malaysia, said th"
-      },
-      {
-        "title": "Verstappen crashes out in first qualifying session",
-        "link": "https://www.channelnewsasia.com/sport/verstappen-crashes-out-in-first-qualifying-session-5978486",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 13:20:36 +0800",
+        "published": "Sat, 07 Mar 2026 18:50:01 +0800",
         "description": ""
       },
       {
-        "title": "US State Department approves 'emergency' weapons sale to Israel",
-        "link": "https://www.channelnewsasia.com/world/us-emergency-weapons-sale-israel-5978401",
+        "title": "Israel carries out rare airborne raid in Lebanon; 16 killed in strikes",
+        "link": "https://www.channelnewsasia.com/world/israel-airborne-raid-lebanon-strikes-middle-east-iran-hezbollah-5978721",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 13:05:14 +0800",
-        "description": "The sale will include US government and contract engineering, logistics and technical support services."
-      },
-      {
-        "title": "Japan asked US not to disadvantage Tokyo under new tariff rules",
-        "link": "https://www.channelnewsasia.com/asia/japan-us-tariffs-5978171",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 12:07:51 +0800",
+        "published": "Sat, 07 Mar 2026 18:36:00 +0800",
         "description": ""
       },
       {
-        "title": "Cuba 'next' on agenda, after Iran: Trump",
-        "link": "https://www.channelnewsasia.com/world/cuba-trump-energy-blockade-5978366",
+        "title": "India let Iran warship dock the day US sank another off Sri Lanka, officials say",
+        "link": "https://www.channelnewsasia.com/asia/india-iran-warship-dock-sri-lanka-5978671",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 11:44:39 +0800",
+        "published": "Sat, 07 Mar 2026 18:11:29 +0800",
+        "description": "India received the docking request for the Lavan on Feb 28, the day the Iran war started"
+      },
+      {
+        "title": "Defending champion Norris slams 'worst' F1 cars",
+        "link": "https://www.channelnewsasia.com/sport/defending-champion-norris-slams-worst-f1-cars-5978706",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 18:02:53 +0800",
         "description": ""
       },
       {
-        "title": "Prabowo’s proposed trip to Iran hinges on acceptance of mediation offer by all parties: Foreign ministry",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-iran-united-states-israel-prabowo-subianto-mediator-5978356",
+        "title": "Singapore planning repatriation flight for citizens, dependents from Saudi Arabia",
+        "link": "https://www.channelnewsasia.com/singapore/repatriation-flight-citizens-dependents-saudi-arabia-mfa-5978676",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 11:40:00 +0800",
-        "description": "A minister in Prabowo Subianto’s Cabinet said separately that the president has received the backing from several Middle Eastern and other Islamic countries for the undertaking."
+        "published": "Sat, 07 Mar 2026 17:26:00 +0800",
+        "description": "The flight is expected to take place between Mar 10 and Mar 12.&nbsp;"
       },
       {
-        "title": "Monfils bids emotional farewell to Indian Wells",
-        "link": "https://www.channelnewsasia.com/sport/monfils-bids-emotional-farewell-indian-wells-5978346",
+        "title": "China vows to safeguard jobs and boost hiring as AI reshapes labour market",
+        "link": "https://www.channelnewsasia.com/east-asia/china-livelihood-presser-jobs-ai-labour-market-5977236",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 11:28:27 +0800",
+        "published": "Sat, 07 Mar 2026 16:53:03 +0800",
+        "description": "With a record 12.7 million graduates entering the workforce this year amid slowing growth and AI disruption, youth employment took centre stage at a Two Sessions press conference."
+      },
+      {
+        "title": "Russell surprised by 'amazing' Mercedes car after taking pole in Australia",
+        "link": "https://www.channelnewsasia.com/sport/russell-surprised-amazing-mercedes-car-after-taking-pole-in-australia-5978666",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 16:35:30 +0800",
         "description": ""
       },
       {
-        "title": "Israel fires new wave of 'broad-scale' strikes on Tehran, hitting airport, as war enters second week",
-        "link": "https://www.channelnewsasia.com/world/iran-war-tehran-airport-israel-strikes-new-wave-5978331",
+        "title": "Dubai airport partially resumes operations after temporary suspension",
+        "link": "https://www.channelnewsasia.com/world/dubai-international-airport-suspend-operations-emirates-5978641",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 11:27:00 +0800",
-        "description": "US Central Command says more than 3,000 Iranian targets have been struck over the past week."
+        "published": "Sat, 07 Mar 2026 16:30:00 +0800",
+        "description": "The Dubai government said in a post that there had been \"a minor incident resulting from the fall of debris after an interception\", which caused no injuries."
       },
       {
-        "title": "Hungarian Udvardy says she received threatening messages to lose match",
-        "link": "https://www.channelnewsasia.com/sport/hungarian-udvardy-says-she-received-threatening-messages-lose-match-5978351",
+        "title": "Iran president says country will not surrender to Israel, US",
+        "link": "https://www.channelnewsasia.com/world/iran-president-not-surrender-israel-us-middle-east-war-5978646",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 11:24:24 +0800",
-        "description": ""
+        "published": "Sat, 07 Mar 2026 16:02:00 +0800",
+        "description": "During the speech, Iran's President Masoud Pezeshkian apologised to neighbouring countries for Iran's attacks across the region, saying that they would not be targeted unless attacks originated from t"
       }
     ],
     "US Politics": [
@@ -494,53 +494,67 @@
     ],
     "Science": [
       {
-        "title": "Scientists discover the switch that revives exhausted cancer-fighting T cells",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184235.htm",
+        "title": "Mayo Clinic discovers rare gene mutation that causes fatty liver disease",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224238.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 22:19:10 EST",
-        "description": "Scientists have uncovered new genetic rules that determine whether the immune system’s “killer” T cells remain powerful long-term defenders or become worn out and ineffective. By building a detailed g"
+        "published": "Sat, 07 Mar 2026 06:04:29 EST",
+        "description": "Mayo Clinic researchers have identified a rare mutation in the MET gene that can directly cause metabolic dysfunction-associated steatotic liver disease. The mutation disrupts the liver’s ability to p"
       },
       {
-        "title": "Humpback whale recovery is changing who fathers the calves",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260305182700.htm",
+        "title": "Scientists discover protein that triggers diabetic blindness",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224225.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 20:19:42 EST",
-        "description": "A new study shows that as humpback whale populations recover from past whaling, older males are gaining a major advantage in reproduction. Early in the recovery, breeding groups were dominated by youn"
+        "published": "Sat, 07 Mar 2026 04:48:42 EST",
+        "description": "A newly identified protein may hold the key to preventing diabetic blindness. Researchers discovered that LRG1 triggers the earliest damage in diabetic retinopathy by constricting tiny retinal blood v"
       },
       {
-        "title": "Scientists finally see the atomic flaws hiding inside computer chips",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260305182657.htm",
+        "title": "A 4,000-year-old sheep reveals the secret of an ancient plague",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224232.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 19:42:42 EST",
-        "description": "Researchers at Cornell University have developed a powerful imaging technique that reveals atomic scale defects inside computer chips for the first time. Using an advanced electron microscopy method, "
+        "published": "Sat, 07 Mar 2026 03:41:28 EST",
+        "description": "A mysterious form of plague that spread across Eurasia thousands of years before the Black Death has finally revealed a crucial clue. Scientists analyzing ancient DNA discovered the bacterium Yersinia"
       },
       {
-        "title": "ALMA captures the most detailed image ever of the Milky Way’s turbulent core",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
+        "title": "Antarctica has a strange gravity hole and scientists finally know why",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224213.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 18:27:05 EST",
-        "description": "A sweeping new ALMA image has peeled back the veil on the Milky Way’s core, exposing a dense network of cold gas filaments near the central black hole. Stretching across 650 light-years, the survey ma"
+        "published": "Sat, 07 Mar 2026 00:45:53 EST",
+        "description": "Gravity may seem constant, but it actually varies across the planet—and one of the strangest places is Antarctica, where gravity is slightly weaker than expected. Scientists have traced this “gravity "
       },
       {
-        "title": "Scientists discover a hidden force that helps wire the brain",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
+        "title": "Physicists finally see strange magnetic vortices predicted 50 years ago",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224223.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 18:26:24 EST",
-        "description": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigg"
+        "published": "Sat, 07 Mar 2026 00:36:21 EST",
+        "description": "A team of physicists has experimentally confirmed a long-predicted sequence of exotic magnetic phases in an atomically thin material. When cooled, the material forms tiny magnetic vortices before tran"
       },
       {
-        "title": "Ocean temperatures may be protecting Earth from a planet-wide drought",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184229.htm",
+        "title": "Boosting a key brain protein could help treat Rett syndrome",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306145621.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 15:51:47 EST",
-        "description": "Ocean temperatures may be quietly protecting the world from a global drought catastrophe. By analyzing more than a century of climate data, researchers discovered that droughts rarely spread across th"
+        "published": "Fri, 06 Mar 2026 21:18:09 EST",
+        "description": "Researchers have discovered a new way to increase a key brain protein damaged in Rett syndrome, a rare genetic disorder that affects thousands of children worldwide. Early studies in mice and patient-"
       },
       {
-        "title": "T. rex took 40 years to reach full size, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184226.htm",
+        "title": "Koalas survived a devastating population crash and their DNA is bouncing back",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306145610.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Mar 2026 15:10:22 EST",
-        "description": "Tyrannosaurus rex may have taken far longer to grow up than scientists once thought. By analyzing growth rings in fossilized leg bones from 17 tyrannosaur specimens and using new statistical methods, "
+        "published": "Fri, 06 Mar 2026 19:19:07 EST",
+        "description": "Koalas suffered a massive population decline that left them with dangerously low genetic diversity. However, new genomic research suggests their rapid rebound may be helping reverse some of that genet"
+      },
+      {
+        "title": "Cannabis compounds CBD and CBG may help reverse fatty liver disease, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306145616.htm",
+        "source": "Science Daily",
+        "published": "Fri, 06 Mar 2026 15:17:26 EST",
+        "description": "CBD and CBG, two non-intoxicating cannabis compounds, may help combat fatty liver disease by boosting liver energy reserves and restoring cellular cleanup systems. In the study, both compounds improve"
+      },
+      {
+        "title": "Eating less protein may slow liver cancer growth, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260305223240.htm",
+        "source": "Science Daily",
+        "published": "Fri, 06 Mar 2026 05:17:57 EST",
+        "description": "A Rutgers-led study found that eating less protein may help slow liver cancer in people with impaired liver function. When damaged livers can’t properly clear toxic ammonia from protein metabolism, th"
       },
       {
         "title": "Astronomers discover giant cosmic sheet around the Milky Way",
@@ -548,20 +562,6 @@
         "source": "Science Daily",
         "published": "Fri, 06 Mar 2026 01:55:55 EST",
         "description": "For decades, astronomers wondered why most nearby galaxies are speeding away from the Milky Way instead of being pulled in by its gravity. New simulations reveal the answer: our galaxy sits in a gigan"
-      },
-      {
-        "title": "Electrons catapult across solar materials in just 18 femtoseconds",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Mar 2026 00:49:18 EST",
-        "description": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecular catapult.” In experiments lasting just 18 femto"
-      },
-      {
-        "title": "AI blood test finds silent liver disease years before symptoms",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260305223204.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Mar 2026 00:20:31 EST",
-        "description": "Researchers created an AI-driven liquid biopsy that scans patterns in fragments of DNA circulating in the blood. The system detected early liver fibrosis and cirrhosis—conditions that often go unnotic"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "The 24/7 Takeover: How Crypto’s $130B TradFi Surge Is Absorbing The Global Commodities Trade",
-      "link": "https://bitcoinist.com/the-24-7-takeover-how-cryptos-130b-tradfi-surge/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 07:00:48 +0000",
-      "description": "Cryptocurrency exchanges are increasingly evolving beyond digital asset trading platforms, gradually becoming global venues for traditional financial derivatives. A recent CryptoQuant report highlight"
-    },
-    {
-      "title": "Russell takes pole for Mercedes at Australian Grand Prix",
-      "link": "https://www.channelnewsasia.com/sport/russell-takes-pole-mercedes-australian-grand-prix-5978571",
+      "title": "Alpine skiing-Pirovano takes downhill double to end Vonn's run at the top",
+      "link": "https://www.channelnewsasia.com/sport/alpine-skiing-pirovano-takes-downhill-double-end-vonns-run-top-5978791",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 14:43:53 +0800",
+      "published": "Sat, 07 Mar 2026 19:56:14 +0800",
       "description": ""
     },
     {
-      "title": "Malaysia detains 6 locals aged 16 to 21 in Islamic State-linked extremism probe; warns of more arrests",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-islamic-state-six-youths-arrested-terrorism-sosma-5978561",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 14:40:00 +0800",
-      "description": "Arrested in February across several states, the youths were part of messaging groups that discussed plans to target police stations, government installations and places of worship in Malaysia, said th"
-    },
-    {
-      "title": "Buterin Says Ethereum Must Rethink Its Future: Here’s Why",
-      "link": "https://bitcoinist.com/buterin-ethereum-must-rethink-its-future/",
+      "title": "Kazakhstan’s Crypto Bet: Central Bank To Begin $350M Digital Assets Investment In Q2",
+      "link": "https://bitcoinist.com/kazakhstans-crypto-bet-350m-investment-in-q2/",
       "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 06:00:24 +0000",
-      "description": "Vitalik Buterin is urging the Ethereum ecosystem to get bolder about what it builds on top of the chain—while drawing a hard line around the base layer’s core guarantees—arguing that a first-principle"
+      "published": "Sat, 07 Mar 2026 11:00:10 +0000",
+      "description": "Kazakhstan’s central bank will soon begin investing up to $350 million from its gold and foreign exchange reserves into cryptocurrency assets and related companies, as part of its broader digital asse"
     },
     {
-      "title": "Verstappen crashes out in first qualifying session",
-      "link": "https://www.channelnewsasia.com/sport/verstappen-crashes-out-in-first-qualifying-session-5978486",
+      "title": "New Zealand ready to break hearts and silence India's crowd in T20 final, says Santner",
+      "link": "https://www.channelnewsasia.com/sport/new-zealand-ready-break-hearts-and-silence-indias-crowd-in-t20-final-says-santner-5978731",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 13:20:36 +0800",
+      "published": "Sat, 07 Mar 2026 18:50:01 +0800",
       "description": ""
     },
     {
-      "title": "US State Department approves 'emergency' weapons sale to Israel",
-      "link": "https://www.channelnewsasia.com/world/us-emergency-weapons-sale-israel-5978401",
+      "title": "Israel carries out rare airborne raid in Lebanon; 16 killed in strikes",
+      "link": "https://www.channelnewsasia.com/world/israel-airborne-raid-lebanon-strikes-middle-east-iran-hezbollah-5978721",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 13:05:14 +0800",
-      "description": "The sale will include US government and contract engineering, logistics and technical support services."
-    },
-    {
-      "title": "Bitcoin Could Outshine Gold Through 2029, Macroeconomist Predicts",
-      "link": "https://bitcoinist.com/bitcoin-could-outshine-gold-through-2029-macroeconomist-predicts/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 05:00:21 +0000",
-      "description": "The gap between how investors feel about gold and Bitcoin has rarely been this wide. Gold&#8217;s fear and greed index sat at 72 out of 100 — deep in greed territory — while the top crypto&#8217;s equ"
-    },
-    {
-      "title": "Japan asked US not to disadvantage Tokyo under new tariff rules",
-      "link": "https://www.channelnewsasia.com/asia/japan-us-tariffs-5978171",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 12:07:51 +0800",
+      "published": "Sat, 07 Mar 2026 18:36:00 +0800",
       "description": ""
     },
     {
-      "title": "From Ban Threats To Bank Licenses: Russia’s New Crypto Play",
-      "link": "https://bitcoinist.com/ban-threats-to-bank-licenses-russias-crypto-play/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 04:00:41 +0000",
-      "description": "The Bank of Russia has proposed letting banks and brokerage firms obtain licenses to operate crypto exchanges. A New Crypto Play A report published by Interfax on March 5 states that The Central Bank "
+      "title": "India let Iran warship dock the day US sank another off Sri Lanka, officials say",
+      "link": "https://www.channelnewsasia.com/asia/india-iran-warship-dock-sri-lanka-5978671",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 18:11:29 +0800",
+      "description": "India received the docking request for the Lavan on Feb 28, the day the Iran war started"
     },
     {
-      "title": "Cuba 'next' on agenda, after Iran: Trump",
-      "link": "https://www.channelnewsasia.com/world/cuba-trump-energy-blockade-5978366",
+      "title": "Defending champion Norris slams 'worst' F1 cars",
+      "link": "https://www.channelnewsasia.com/sport/defending-champion-norris-slams-worst-f1-cars-5978706",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 11:44:39 +0800",
+      "published": "Sat, 07 Mar 2026 18:02:53 +0800",
       "description": ""
+    },
+    {
+      "title": "Single Swing Vote May Determine Fate Of The CLARITY Act In Banking Committee",
+      "link": "https://bitcoinist.com/single-swing-vote-fate-of-the-clarity-act/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 10:00:32 +0000",
+      "description": "Despite strong backing from President Donald Trump and ongoing discussions at the White House, the CLARITY Act — the Senate’s long-debated crypto market structure bill — remains stalled as political d"
+    },
+    {
+      "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
+      "link": "https://bitcoinist.com/ethereum-under-pressure/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 09:30:36 +0000",
+      "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
+    },
+    {
+      "title": "Singapore planning repatriation flight for citizens, dependents from Saudi Arabia",
+      "link": "https://www.channelnewsasia.com/singapore/repatriation-flight-citizens-dependents-saudi-arabia-mfa-5978676",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 17:26:00 +0800",
+      "description": "The flight is expected to take place between Mar 10 and Mar 12.&nbsp;"
+    },
+    {
+      "title": "The Hormuz Standoff: Why Bitcoin’s Liquidity Drain Is Defying The Global Energy Shock",
+      "link": "https://bitcoinist.com/the-hormuz-standoff-why-bitcoins-liquidity-drain/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 09:00:52 +0000",
+      "description": "Bitcoin is attempting to hold the $70,000 level as geopolitical tensions in the Middle East intensify, injecting fresh uncertainty into global financial markets. The asset began the week trading above"
     }
   ]
 }
