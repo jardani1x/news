@@ -1,8 +1,22 @@
 {
-  "updated_sgt": "2026-03-07 12:00 SGT",
-  "updated_iso": "2026-03-07T12:00:21.768322+08:00",
+  "updated_sgt": "2026-03-07 16:00 SGT",
+  "updated_iso": "2026-03-07T16:00:28.773552+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Russian strike on Kharkiv apartment block kills seven",
+        "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 07:54:22 GMT",
+        "description": "Ukraine President Volodymyr Zelensky says ten other people - including children - are injured as rescuers continue to search through rubble."
+      },
+      {
+        "title": "We've been speaking to Iranians during one week of war. Here's what they said",
+        "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 06:00:32 GMT",
+        "description": "Ordinary Iranians reflect on seven days of conflict and where they see their country going next."
+      },
       {
         "title": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
         "link": "https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss",
@@ -32,13 +46,6 @@
         "description": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces."
       },
       {
-        "title": "Ukrainian bank workers released after detention in Hungary",
-        "link": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 18:37:58 GMT",
-        "description": "Kyiv has reacted furiously after officials in Budapest accused staff transporting cash to Ukraine of money laundering."
-      },
-      {
         "title": "Flight paths squeezed as Iran conflict closes more airspace",
         "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -53,41 +60,34 @@
         "description": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes."
       },
       {
+        "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
+        "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Mar 2026 16:16:05 GMT",
+        "description": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah."
+      },
+      {
         "title": "Indonesia to ban social media and other online platforms for under 16s",
         "link": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Fri, 06 Mar 2026 13:25:12 GMT",
         "description": "It is the latest country to curb young people's access to digital spaces to try and protect them from abuse."
-      },
-      {
-        "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-        "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 04:23:12 GMT",
-        "description": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife."
-      },
-      {
-        "title": "Israel strikes Beirut after evacuation warning sparks panic",
-        "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 04:08:48 GMT",
-        "description": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across Lebanon."
       }
     ],
     "Finance": [
+      {
+        "title": "'Not slowing down': One week on, U.S.-Israeli strikes on Iran continue",
+        "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 07:49:47 GMT",
+        "description": "The U.S. says it has hit more than 3,000 Iranian targets in the first week of the war, as the Gulf remains on high alert for retaliatory strikes."
+      },
       {
         "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
         "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
         "source": "CNBC Finance",
         "published": "Sat, 07 Mar 2026 00:07:18 GMT",
         "description": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran."
-      },
-      {
-        "title": "Trump vows executive order to 'fix' college sports NIL payments 'mess'",
-        "link": "https://www.cnbc.com/2026/03/06/trump-college-football-sports-congress.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 23:42:16 GMT",
-        "description": "Critics of paying college athletes say it undercuts schools' finances and their educational mandate."
       },
       {
         "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
@@ -102,13 +102,6 @@
         "source": "CNBC Finance",
         "published": "Fri, 06 Mar 2026 23:23:33 GMT",
         "description": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research."
-      },
-      {
-        "title": "Trump says defense CEOs agree to quadruple production of 'Exquisite Class' weaponry",
-        "link": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 23:08:08 GMT",
-        "description": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions."
       },
       {
         "title": "Average IRS tax refund is up 10.6%, early filing data shows",
@@ -132,6 +125,13 @@
         "description": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz."
       },
       {
+        "title": "Trump admin announces $20 billion reinsurance program for oil tankers during Iran war",
+        "link": "https://www.cnbc.com/2026/03/06/trump-reinsurance-oil-iran-war.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 19:35:07 GMT",
+        "description": "Tanker traffic through the Strait of Hormuz remains at a standstill as the Iran war engulfs the region."
+      },
+      {
         "title": "Trump says no deal with Iran to end war without 'unconditional surrender'",
         "link": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
         "source": "CNBC Finance",
@@ -139,11 +139,11 @@
         "description": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war."
       },
       {
-        "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
-        "link": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
+        "title": "GOP 'big beautiful bill' poised to deliver 'shock' to ACA marketplace, health policy experts say",
+        "link": "https://www.cnbc.com/2026/03/06/gop-big-beautiful-bill-to-deal-shock-to-the-aca-marketplace.html",
         "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 18:14:50 GMT",
-        "description": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation."
+        "published": "Fri, 06 Mar 2026 18:24:01 GMT",
+        "description": "The GOP's \"big beautiful bill\" made administrative tweaks expected to reduce enrollment in the Affordable Care Act marketplace by millions of people."
       }
     ],
     "Technology": [
@@ -220,6 +220,34 @@
     ],
     "Crypto": [
       {
+        "title": "The 24/7 Takeover: How Crypto’s $130B TradFi Surge Is Absorbing The Global Commodities Trade",
+        "link": "https://bitcoinist.com/the-24-7-takeover-how-cryptos-130b-tradfi-surge/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 07:00:48 +0000",
+        "description": "Cryptocurrency exchanges are increasingly evolving beyond digital asset trading platforms, gradually becoming global venues for traditional financial derivatives. A recent CryptoQuant report highlight"
+      },
+      {
+        "title": "Buterin Says Ethereum Must Rethink Its Future: Here’s Why",
+        "link": "https://bitcoinist.com/buterin-ethereum-must-rethink-its-future/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 06:00:24 +0000",
+        "description": "Vitalik Buterin is urging the Ethereum ecosystem to get bolder about what it builds on top of the chain—while drawing a hard line around the base layer’s core guarantees—arguing that a first-principle"
+      },
+      {
+        "title": "Bitcoin Could Outshine Gold Through 2029, Macroeconomist Predicts",
+        "link": "https://bitcoinist.com/bitcoin-could-outshine-gold-through-2029-macroeconomist-predicts/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 05:00:21 +0000",
+        "description": "The gap between how investors feel about gold and Bitcoin has rarely been this wide. Gold&#8217;s fear and greed index sat at 72 out of 100 — deep in greed territory — while the top crypto&#8217;s equ"
+      },
+      {
+        "title": "From Ban Threats To Bank Licenses: Russia’s New Crypto Play",
+        "link": "https://bitcoinist.com/ban-threats-to-bank-licenses-russias-crypto-play/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 04:00:41 +0000",
+        "description": "The Bank of Russia has proposed letting banks and brokerage firms obtain licenses to operate crypto exchanges. A New Crypto Play A report published by Interfax on March 5 states that The Central Bank "
+      },
+      {
         "title": "Bitcoin Rally Likely A Relief Bounce, Not New Bull Phase: CryptoQuant",
         "link": "https://bitcoinist.com/bitcoin-rally-relief-bounce-bull-phase-cryptoquant/",
         "source": "Bitcoinist",
@@ -246,34 +274,6 @@
         "source": "Bitcoinist",
         "published": "Sat, 07 Mar 2026 00:00:28 +0000",
         "description": "Even with the price of XRP displaying bearish action, bullish sentiment remains strong underneath the surface. On-chain data is signaling a strong desire among investors and traders to hold on to the "
-      },
-      {
-        "title": "Bitcoin Strategist Shares 8-Figure BTC Price Prediction, But The Reason Is Even More Interesting",
-        "link": "https://bitcoinist.com/shares-8-figure-bitcoin-price/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 23:00:54 +0000",
-        "description": "Bitcoin Strategist Joe Burnett has shared an ambitious long-term outlook for the BTC price that puts the world’s largest cryptocurrency in the eight-figure range. The projection comes from a research "
-      },
-      {
-        "title": "Dogecoin Price Could See A Major Spike To $10 If This Trend Repeats",
-        "link": "https://bitcoinist.com/dogecoin-price-could-rally-10/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 21:30:40 +0000",
-        "description": "The Dogecoin price may be on the verge of its most historic rally yet, as a crypto market analyst has boldly forecasted an explosive rally to $10. Pointing to historical chart patterns, the analyst be"
-      },
-      {
-        "title": "Bitcoin Bottom In? This Key Metric Signals BTC May Have Reached Its Floor",
-        "link": "https://bitcoinist.com/is-the-bitcoin-bottom-in-2/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 20:00:27 +0000",
-        "description": "A major narrative that is making serious waves in the entire cryptocurrency sector is the fact that the Bitcoin price may have reached a bottom. In the midst of this persistent speculation about the l"
-      },
-      {
-        "title": "Ripple’s New Whitepaper Shows What’s Coming For XRP",
-        "link": "https://bitcoinist.com/ripples-new-whitepaper-xrp/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Mar 2026 18:30:54 +0000",
-        "description": "Crypto pundit X Finance Bull has drawn attention to Ripple’s new whitepaper, which highlights plans to use XRP for its prime brokerage offering. Ripple also recently announced plans to offer its insti"
       }
     ],
     "Markets": [
@@ -350,6 +350,41 @@
     ],
     "Singapore": [
       {
+        "title": "Russell takes pole for Mercedes at Australian Grand Prix",
+        "link": "https://www.channelnewsasia.com/sport/russell-takes-pole-mercedes-australian-grand-prix-5978571",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 14:43:53 +0800",
+        "description": ""
+      },
+      {
+        "title": "Malaysia detains 6 locals aged 16 to 21 in Islamic State-linked extremism probe; warns of more arrests",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-islamic-state-six-youths-arrested-terrorism-sosma-5978561",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 14:40:00 +0800",
+        "description": "Arrested in February across several states, the youths were part of messaging groups that discussed plans to target police stations, government installations and places of worship in Malaysia, said th"
+      },
+      {
+        "title": "Verstappen crashes out in first qualifying session",
+        "link": "https://www.channelnewsasia.com/sport/verstappen-crashes-out-in-first-qualifying-session-5978486",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 13:20:36 +0800",
+        "description": ""
+      },
+      {
+        "title": "US State Department approves 'emergency' weapons sale to Israel",
+        "link": "https://www.channelnewsasia.com/world/us-emergency-weapons-sale-israel-5978401",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 13:05:14 +0800",
+        "description": "The sale will include US government and contract engineering, logistics and technical support services."
+      },
+      {
+        "title": "Japan asked US not to disadvantage Tokyo under new tariff rules",
+        "link": "https://www.channelnewsasia.com/asia/japan-us-tariffs-5978171",
+        "source": "CNA Singapore",
+        "published": "Sat, 07 Mar 2026 12:07:51 +0800",
+        "description": ""
+      },
+      {
         "title": "Cuba 'next' on agenda, after Iran: Trump",
         "link": "https://www.channelnewsasia.com/world/cuba-trump-energy-blockade-5978366",
         "source": "CNA Singapore",
@@ -371,10 +406,10 @@
         "description": ""
       },
       {
-        "title": "Israel announces new wave of 'broad-scale' strikes on Tehran, airport hit",
+        "title": "Israel fires new wave of 'broad-scale' strikes on Tehran, hitting airport, as war enters second week",
         "link": "https://www.channelnewsasia.com/world/iran-war-tehran-airport-israel-strikes-new-wave-5978331",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 11:27:08 +0800",
+        "published": "Sat, 07 Mar 2026 11:27:00 +0800",
         "description": "US Central Command says more than 3,000 Iranian targets have been struck over the past week."
       },
       {
@@ -383,41 +418,6 @@
         "source": "CNA Singapore",
         "published": "Sat, 07 Mar 2026 11:24:24 +0800",
         "description": ""
-      },
-      {
-        "title": "Russell fastest in final practice as Mercedes teammate crashes out",
-        "link": "https://www.channelnewsasia.com/sport/russell-fastest-in-final-practice-mercedes-teammate-crashes-out-5978341",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 11:20:12 +0800",
-        "description": ""
-      },
-      {
-        "title": "Mercedes driver Antonelli wrecks car in final practice",
-        "link": "https://www.channelnewsasia.com/sport/mercedes-driver-antonelli-wrecks-car-in-final-practice-5978301",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 10:48:32 +0800",
-        "description": ""
-      },
-      {
-        "title": "US 'not concerned' by reports Russia aiding Iran's targeting",
-        "link": "https://www.channelnewsasia.com/world/iran-war-russia-intelligence-us-military-bases-5978251",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 10:05:09 +0800",
-        "description": "The Washington Post, citing officials familiar with the intelligence, said Russia has provided Iran with the locations of US military assets, including ships and aircraft."
-      },
-      {
-        "title": "US judge allows time for new tariff refund system to be set up",
-        "link": "https://www.channelnewsasia.com/world/us-judge-allows-time-new-tariff-refund-system-be-set-up-5978241",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 09:37:00 +0800",
-        "description": ""
-      },
-      {
-        "title": "Britain 'ready to support' Saudi defence: PM Starmer",
-        "link": "https://www.channelnewsasia.com/world/iran-war-britain-ready-support-saudi-defence-5978236",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 09:34:08 +0800",
-        "description": "Saudi Arabia - a longstanding rival of Iran - reported that it had intercepted a cruise missile and three drones on Friday."
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
+      "title": "The 24/7 Takeover: How Crypto’s $130B TradFi Surge Is Absorbing The Global Commodities Trade",
+      "link": "https://bitcoinist.com/the-24-7-takeover-how-cryptos-130b-tradfi-surge/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 07:00:48 +0000",
+      "description": "Cryptocurrency exchanges are increasingly evolving beyond digital asset trading platforms, gradually becoming global venues for traditional financial derivatives. A recent CryptoQuant report highlight"
+    },
+    {
+      "title": "Russell takes pole for Mercedes at Australian Grand Prix",
+      "link": "https://www.channelnewsasia.com/sport/russell-takes-pole-mercedes-australian-grand-prix-5978571",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 14:43:53 +0800",
+      "description": ""
+    },
+    {
+      "title": "Malaysia detains 6 locals aged 16 to 21 in Islamic State-linked extremism probe; warns of more arrests",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-islamic-state-six-youths-arrested-terrorism-sosma-5978561",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 14:40:00 +0800",
+      "description": "Arrested in February across several states, the youths were part of messaging groups that discussed plans to target police stations, government installations and places of worship in Malaysia, said th"
+    },
+    {
+      "title": "Buterin Says Ethereum Must Rethink Its Future: Here’s Why",
+      "link": "https://bitcoinist.com/buterin-ethereum-must-rethink-its-future/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 06:00:24 +0000",
+      "description": "Vitalik Buterin is urging the Ethereum ecosystem to get bolder about what it builds on top of the chain—while drawing a hard line around the base layer’s core guarantees—arguing that a first-principle"
+    },
+    {
+      "title": "Verstappen crashes out in first qualifying session",
+      "link": "https://www.channelnewsasia.com/sport/verstappen-crashes-out-in-first-qualifying-session-5978486",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 13:20:36 +0800",
+      "description": ""
+    },
+    {
+      "title": "US State Department approves 'emergency' weapons sale to Israel",
+      "link": "https://www.channelnewsasia.com/world/us-emergency-weapons-sale-israel-5978401",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 13:05:14 +0800",
+      "description": "The sale will include US government and contract engineering, logistics and technical support services."
+    },
+    {
+      "title": "Bitcoin Could Outshine Gold Through 2029, Macroeconomist Predicts",
+      "link": "https://bitcoinist.com/bitcoin-could-outshine-gold-through-2029-macroeconomist-predicts/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 05:00:21 +0000",
+      "description": "The gap between how investors feel about gold and Bitcoin has rarely been this wide. Gold&#8217;s fear and greed index sat at 72 out of 100 — deep in greed territory — while the top crypto&#8217;s equ"
+    },
+    {
+      "title": "Japan asked US not to disadvantage Tokyo under new tariff rules",
+      "link": "https://www.channelnewsasia.com/asia/japan-us-tariffs-5978171",
+      "source": "CNA Singapore",
+      "published": "Sat, 07 Mar 2026 12:07:51 +0800",
+      "description": ""
+    },
+    {
+      "title": "From Ban Threats To Bank Licenses: Russia’s New Crypto Play",
+      "link": "https://bitcoinist.com/ban-threats-to-bank-licenses-russias-crypto-play/",
+      "source": "Bitcoinist",
+      "published": "Sat, 07 Mar 2026 04:00:41 +0000",
+      "description": "The Bank of Russia has proposed letting banks and brokerage firms obtain licenses to operate crypto exchanges. A New Crypto Play A report published by Interfax on March 5 states that The Central Bank "
+    },
+    {
       "title": "Cuba 'next' on agenda, after Iran: Trump",
       "link": "https://www.channelnewsasia.com/world/cuba-trump-energy-blockade-5978366",
       "source": "CNA Singapore",
       "published": "Sat, 07 Mar 2026 11:44:39 +0800",
       "description": ""
-    },
-    {
-      "title": "Prabowo’s proposed trip to Iran hinges on acceptance of mediation offer by all parties: Foreign ministry",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-iran-united-states-israel-prabowo-subianto-mediator-5978356",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 11:40:00 +0800",
-      "description": "A minister in Prabowo Subianto’s Cabinet said separately that the president has received the backing from several Middle Eastern and other Islamic countries for the undertaking."
-    },
-    {
-      "title": "Monfils bids emotional farewell to Indian Wells",
-      "link": "https://www.channelnewsasia.com/sport/monfils-bids-emotional-farewell-indian-wells-5978346",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 11:28:27 +0800",
-      "description": ""
-    },
-    {
-      "title": "Israel announces new wave of 'broad-scale' strikes on Tehran, airport hit",
-      "link": "https://www.channelnewsasia.com/world/iran-war-tehran-airport-israel-strikes-new-wave-5978331",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 11:27:08 +0800",
-      "description": "US Central Command says more than 3,000 Iranian targets have been struck over the past week."
-    },
-    {
-      "title": "Hungarian Udvardy says she received threatening messages to lose match",
-      "link": "https://www.channelnewsasia.com/sport/hungarian-udvardy-says-she-received-threatening-messages-lose-match-5978351",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 11:24:24 +0800",
-      "description": ""
-    },
-    {
-      "title": "Russell fastest in final practice as Mercedes teammate crashes out",
-      "link": "https://www.channelnewsasia.com/sport/russell-fastest-in-final-practice-mercedes-teammate-crashes-out-5978341",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 11:20:12 +0800",
-      "description": ""
-    },
-    {
-      "title": "Bitcoin Rally Likely A Relief Bounce, Not New Bull Phase: CryptoQuant",
-      "link": "https://bitcoinist.com/bitcoin-rally-relief-bounce-bull-phase-cryptoquant/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 03:00:00 +0000",
-      "description": "On-chain analytics firm CryptoQuant has highlighted how its Bull Score Index is deep inside the bearish territory despite the latest Bitcoin price rally. Bitcoin Bull Score Index Has A Value Of Just 1"
-    },
-    {
-      "title": "Mercedes driver Antonelli wrecks car in final practice",
-      "link": "https://www.channelnewsasia.com/sport/mercedes-driver-antonelli-wrecks-car-in-final-practice-5978301",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 10:48:32 +0800",
-      "description": ""
-    },
-    {
-      "title": "US 'not concerned' by reports Russia aiding Iran's targeting",
-      "link": "https://www.channelnewsasia.com/world/iran-war-russia-intelligence-us-military-bases-5978251",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 10:05:09 +0800",
-      "description": "The Washington Post, citing officials familiar with the intelligence, said Russia has provided Iran with the locations of US military assets, including ships and aircraft."
-    },
-    {
-      "title": "Robinhood’s startup fund stumbles in NYSE debut",
-      "link": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
-      "source": "TechCrunch",
-      "published": "Sat, 07 Mar 2026 02:04:43 +0000",
-      "description": "The fund currently offers retail investors exposure to eight startups, including Mercor, Ramp, and Stripe, with plans to expand its portfolio."
     }
   ]
 }
