@@ -1,14 +1,14 @@
 {
-  "updated_sgt": "2026-03-08 08:00 SGT",
-  "updated_iso": "2026-03-08T08:00:15.196326+08:00",
+  "updated_sgt": "2026-03-08 12:00 SGT",
+  "updated_iso": "2026-03-08T12:00:29.446374+08:00",
   "categories": {
     "World": [
       {
-        "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+        "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
         "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 07 Mar 2026 20:16:07 GMT",
-        "description": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US."
+        "published": "Sun, 08 Mar 2026 01:08:16 GMT",
+        "description": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses."
       },
       {
         "title": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister",
@@ -148,6 +148,13 @@
     ],
     "Technology": [
       {
+        "title": "Google just gave Sundar Pichai a $692M pay package",
+        "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Mar 2026 00:20:10 +0000",
+        "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture."
+      },
+      {
         "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
         "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
         "source": "TechCrunch",
@@ -209,16 +216,30 @@
         "source": "TechCrunch",
         "published": "Fri, 06 Mar 2026 20:23:08 +0000",
         "description": "A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock."
-      },
-      {
-        "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-        "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 19:50:10 +0000",
-        "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products."
       }
     ],
     "Crypto": [
+      {
+        "title": "Florida Passes First State-Level Stablecoin Bill — Crypto CLARITY Act Next?",
+        "link": "https://bitcoinist.com/florida-state-level-stablecoin-bill-crypto-next/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Mar 2026 03:30:13 +0000",
+        "description": "In a positive development for the crypto industry, the Florida State Senate has passed a bill to create a regulatory framework for stablecoins at the state level. This move comes amid the struggles to"
+      },
+      {
+        "title": "CBDC: Senator Pushes For Permanent Ban In Housing Act Amendment",
+        "link": "https://bitcoinist.com/cbdc-regulation-senator-ted-cruz-push-permanent-ban/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Mar 2026 02:00:01 +0000",
+        "description": "US Senator Ted Cruz is maintaining a firm campaign against a US central bank digital currency (CBDC). In the latest development, the junior senator representing Texas has pushed for a permanent CBDC b"
+      },
+      {
+        "title": "Solana’s 755% Surge Shows That Users Are Coming Back To The Table",
+        "link": "https://bitcoinist.com/solana-users-are-coming-back/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Mar 2026 00:30:05 +0000",
+        "description": "After months of bearish pressure and fading market enthusiasm, Solana (SOL) appears to be finding its footing again. A new report by Messari, a crypto market intelligence platform, shows the network’s"
+      },
       {
         "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
         "link": "https://bitcoinist.com/ethereum-under-pressure/",
@@ -253,27 +274,6 @@
         "source": "Bitcoinist",
         "published": "Sat, 07 Mar 2026 17:00:26 +0000",
         "description": "In their latest post on CryptoQuant, XWIN Research Japan explores how developing affairs in the United States could affect the trajectory of Bitcoin and other risk assets in the near-term. According t"
-      },
-      {
-        "title": "Elon Musk Cosigns X Money Post, But Does It Have Anything To Do With Dogecoin?",
-        "link": "https://bitcoinist.com/elon-musk-x-money-dogecoin/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 15:00:03 +0000",
-        "description": "Elon Musk’s intentions to launch a financial services app have not been a secret, but the question mostly has been how Dogecoin fits into that dream. Musk was the primary reason for Dogecoin’s legenda"
-      },
-      {
-        "title": "Binance Claps Back At Senator Blumenthal’s Allegations, Denouncing False Claims",
-        "link": "https://bitcoinist.com/binance-claps-back-senator-blumenthals-allegations/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 14:00:20 +0000",
-        "description": "Binance has formally responded to US Senator Richard Blumenthal (D-CT) following a congressional letter in which the lawmaker cited media reports alleging the company enabled large-scale violations of"
-      },
-      {
-        "title": "Bitcoin Difficulty Holds Flat As Hashrate Moves Sideways",
-        "link": "https://bitcoinist.com/bitcoin-difficulty-flat-hashrate-moves-sideways/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 13:00:34 +0000",
-        "description": "On-chain data shows the Bitcoin Difficulty has seen little change in the latest adjustment as a result of the recent sideways trend in the Hashrate. Bitcoin Difficulty Has Only Seen A Change Of 0.45% "
       }
     ],
     "Markets": [
@@ -350,6 +350,55 @@
     ],
     "Singapore": [
       {
+        "title": "McLaren's Piastri crashes out before Australian Grand Prix",
+        "link": "https://www.channelnewsasia.com/sport/mclarens-piastri-crashes-out-australian-grand-prix-5979476",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 11:32:41 +0800",
+        "description": ""
+      },
+      {
+        "title": "Pietersen says he is open to England coaching role",
+        "link": "https://www.channelnewsasia.com/sport/pietersen-says-he-open-england-coaching-role-5979456",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 11:13:13 +0800",
+        "description": ""
+      },
+      {
+        "title": "Watch: China's top diplomat Wang Yi fields questions on foreign policy",
+        "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-press-conference-watch-live-5975561",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 10:02:00 +0800",
+        "description": "The press conference at the Two Sessions comes at a time of heightened global tensions, with an escalating Iran war."
+      },
+      {
+        "title": "Meta ordered to disable access to social media posts showing video of man stepping on Quran: MHA",
+        "link": "https://www.channelnewsasia.com/singapore/meta-disable-access-video-man-step-quran-public-bus-5979401",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 09:10:00 +0800",
+        "description": "The Ministry of Home Affairs said it takes a strong stance against threats to Singapore's racial and religious harmony."
+      },
+      {
+        "title": "Trump tells Britain he does not need its help to win Iran war",
+        "link": "https://www.channelnewsasia.com/world/iran-war-trump-britain-starmer-help-5979356",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 08:40:14 +0800",
+        "description": "\"We don’t need people that join Wars after we’ve already won!\" said the US president.&nbsp;"
+      },
+      {
+        "title": "Harry Styles wows Manchester fans at intimate album launch show",
+        "link": "https://www.channelnewsasia.com/entertainment/harry-styles-5979381",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 08:40:00 +0800",
+        "description": "Harry Styles thrilled thousands in Manchester with a special one-night-only concert celebrating his new album, delivering a phone-free, hit-filled performance ahead of his upcoming world tour."
+      },
+      {
+        "title": "Paris fashion week: Hermes channels twilight mood in lush runway show for fall/winter 2026",
+        "link": "https://www.channelnewsasia.com/style-beauty/hermes-fw26-5979061",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 08:24:00 +0800",
+        "description": "Hermes creative director Nadege Vanhee unveiled a twilight-inspired fall/winter collection at Paris Fashion Week, featuring fluid leather coats, ostrich biker looks and moss-covered staging at the Gar"
+      },
+      {
         "title": "Should I worry about the microplastics in my floss and toothbrush?",
         "link": "https://www.channelnewsasia.com/wellness/microplastics-dental-products-5953406",
         "source": "CNA Singapore",
@@ -368,56 +417,7 @@
         "link": "https://www.channelnewsasia.com/world/iran-war-tehran-strikes-trump-israel-lebanon-5979306",
         "source": "CNA Singapore",
         "published": "Sun, 08 Mar 2026 06:54:00 +0800",
-        "description": "US President Donald Trump has threatened that Iran would be \"hit very hard\" and more \"areas and groups of people\" would become targets."
-      },
-      {
-        "title": "Why Singapore-based designer Robert Cheng won’t copy your Pinterest board",
-        "link": "https://www.channelnewsasia.com/people/robert-cheng-brewin-design-office-craft-machine-made-5975331",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:23:36 +0800",
-        "description": "The Brewin Design Office founder explains why originality matters more than mood boards – and how craft and machine-made solutions can coexist in his luxury hotel projects."
-      },
-      {
-        "title": "Sumptuous Yamal strike gives Barca win in Bilbao and four-point lead",
-        "link": "https://www.channelnewsasia.com/sport/sumptuous-yamal-strike-gives-barca-win-in-bilbao-and-four-point-lead-5979336",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:23:32 +0800",
-        "description": ""
-      },
-      {
-        "title": "Marmoush double helps Man City to 3-1 win at Newcastle and place in FA Cup quarters",
-        "link": "https://www.channelnewsasia.com/sport/marmoush-double-helps-man-city-3-1-win-newcastle-and-place-in-fa-cup-quarters-5979326",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:10:10 +0800",
-        "description": ""
-      },
-      {
-        "title": "Friend, coach or girlfriend: Can virtual companions replace human bonds?",
-        "link": "https://www.channelnewsasia.com/cna-insider/artificial-intelligence-AI-chatbots-companions-digital-partner-emotional-relationship-5976696",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
-        "description": "Programmable according to your preferences, AI chatbots may seem appealing — particularly in a country where one in 10 people report not having a close friend. CNA series Besties puts AI-human friends"
-      },
-      {
-        "title": "Commentary: Singapore’s record low fertility rate is not all gloom and doom - it’s an opportunity",
-        "link": "https://www.channelnewsasia.com/commentary/singapore-fertility-rate-tfr-existential-doom-opportunity-5976676",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
-        "description": "Before pronouncing Singapore’s impending end, let’s re-examine whether a declining population will always result in economic catastrophe, says veteran newspaper editor Han Fook Kwang."
-      },
-      {
-        "title": "Anwar's 'perfect storm'? Anti-graft crisis, party fractures and coalition jitters cloud re-election gambit",
-        "link": "https://www.channelnewsasia.com/asia/anwar-faces-graft-crisis-pkr-party-fractures-ph-coalition-jitters-5976646",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
-        "description": "The premier is facing multiple challenges that may force him to call early elections, nearly two years ahead of the February 2028 deadline, say analysts and insiders. &nbsp;"
-      },
-      {
-        "title": "Turning away from extremism: How two self-radicalised youths shed their violent beliefs",
-        "link": "https://www.channelnewsasia.com/singapore/radicalised-youths-rehabilitation-isd-terrorism-israel-hamas-war-far-right-5972631",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
-        "description": "Youths are getting radicalised faster and subscribing to a more diverse range of extremist ideologies, the Internal Security Department said.&nbsp;"
+        "description": "Donald Trump described the ongoing US operations in Iran as an \"excursion\" and said issues such as rising gas prices and the safety of Americans would improve once the conflict ends."
       }
     ],
     "US Politics": [
@@ -494,6 +494,48 @@
     ],
     "Science": [
       {
+        "title": "Study finds phone use on the toilet may cause painful medical condition",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224216.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Mar 2026 21:53:04 EST",
+        "description": "Scrolling on your phone while sitting on the toilet might be doing more harm than you think. A new study found that people who use smartphones during bathroom visits had a 46% higher risk of hemorrhoi"
+      },
+      {
+        "title": "Scientists warn fake research is spreading faster than real science",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224235.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Mar 2026 21:23:23 EST",
+        "description": "A sweeping new study from Northwestern University reveals that scientific fraud is no longer just the work of a few rogue researchers—it has evolved into a global, organized enterprise. By analyzing m"
+      },
+      {
+        "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Mar 2026 20:28:40 EST",
+        "description": "Researchers have uncovered a surprising molecular chain reaction in the brain that may play a role in some forms of autism. The study suggests that nitric oxide, a tiny signaling molecule normally inv"
+      },
+      {
+        "title": "Bird droppings helped build one of ancient Peru’s most powerful kingdoms",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224219.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Mar 2026 19:02:30 EST",
+        "description": "New research suggests seabird guano helped transform the Chincha Kingdom into one of the most prosperous societies in ancient Peru. Chemical clues in centuries-old maize show farmers fertilized their "
+      },
+      {
+        "title": "AI discovers the hidden signal of liquid-like ion flow in solid-state batteries",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260307155938.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Mar 2026 16:59:56 EST",
+        "description": "Solid-state batteries could be safer and more energy-dense than today’s lithium-ion technology, but finding materials that allow ions to move quickly through solid electrolytes has been difficult. Res"
+      },
+      {
+        "title": "Golden Retriever genes linked to anxiety, aggression, and intelligence in humans",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224229.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Mar 2026 15:54:22 EST",
+        "description": "Scientists studying 1,300 golden retrievers have uncovered genetic clues explaining why some dogs are more anxious, energetic, or aggressive than others. Remarkably, several of the same genes linked t"
+      },
+      {
         "title": "Mayo Clinic discovers rare gene mutation that causes fatty liver disease",
         "link": "https://www.sciencedaily.com/releases/2026/03/260306224238.htm",
         "source": "Science Daily",
@@ -515,53 +557,11 @@
         "description": "A mysterious form of plague that spread across Eurasia thousands of years before the Black Death has finally revealed a crucial clue. Scientists analyzing ancient DNA discovered the bacterium Yersinia"
       },
       {
-        "title": "Antarctica has a strange gravity hole and scientists finally know why",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260306224213.htm",
-        "source": "Science Daily",
-        "published": "Sat, 07 Mar 2026 00:45:53 EST",
-        "description": "Gravity may seem constant, but it actually varies across the planet—and one of the strangest places is Antarctica, where gravity is slightly weaker than expected. Scientists have traced this “gravity "
-      },
-      {
         "title": "Physicists finally see strange magnetic vortices predicted 50 years ago",
         "link": "https://www.sciencedaily.com/releases/2026/03/260306224223.htm",
         "source": "Science Daily",
         "published": "Sat, 07 Mar 2026 00:36:21 EST",
         "description": "A team of physicists has experimentally confirmed a long-predicted sequence of exotic magnetic phases in an atomically thin material. When cooled, the material forms tiny magnetic vortices before tran"
-      },
-      {
-        "title": "Boosting a key brain protein could help treat Rett syndrome",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260306145621.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Mar 2026 21:18:09 EST",
-        "description": "Researchers have discovered a new way to increase a key brain protein damaged in Rett syndrome, a rare genetic disorder that affects thousands of children worldwide. Early studies in mice and patient-"
-      },
-      {
-        "title": "Koalas survived a devastating population crash and their DNA is bouncing back",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260306145610.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Mar 2026 19:19:07 EST",
-        "description": "Koalas suffered a massive population decline that left them with dangerously low genetic diversity. However, new genomic research suggests their rapid rebound may be helping reverse some of that genet"
-      },
-      {
-        "title": "Cannabis compounds CBD and CBG may help reverse fatty liver disease, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260306145616.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Mar 2026 15:17:26 EST",
-        "description": "CBD and CBG, two non-intoxicating cannabis compounds, may help combat fatty liver disease by boosting liver energy reserves and restoring cellular cleanup systems. In the study, both compounds improve"
-      },
-      {
-        "title": "Eating less protein may slow liver cancer growth, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260305223240.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Mar 2026 05:17:57 EST",
-        "description": "A Rutgers-led study found that eating less protein may help slow liver cancer in people with impaired liver function. When damaged livers can’t properly clear toxic ammonia from protein metabolism, th"
-      },
-      {
-        "title": "Astronomers discover giant cosmic sheet around the Milky Way",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Mar 2026 01:55:55 EST",
-        "description": "For decades, astronomers wondered why most nearby galaxies are speeding away from the Milky Way instead of being pulled in by its gravity. New simulations reveal the answer: our galaxy sits in a gigan"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Should I worry about the microplastics in my floss and toothbrush?",
-      "link": "https://www.channelnewsasia.com/wellness/microplastics-dental-products-5953406",
+      "title": "McLaren's Piastri crashes out before Australian Grand Prix",
+      "link": "https://www.channelnewsasia.com/sport/mclarens-piastri-crashes-out-australian-grand-prix-5979476",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 07:23:18 +0800",
-      "description": "There’s evidence that dental products can shed microplastics. Experts break down the potential risks."
+      "published": "Sun, 08 Mar 2026 11:32:41 +0800",
+      "description": ""
     },
     {
-      "title": "'I am a cautious and angry feminist': AWARE’s new leader on why the fight for gender equality is not over",
-      "link": "https://www.channelnewsasia.com/women/gender-equality-singapore-aware-lim-shoon-yin-feminism-5966751",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 07:22:21 +0800",
-      "description": "This International Women’s Day, AWARE’s new executive director Lim Shoon Yin reflects on the backlash against feminism and why work on gender equality in Singapore remains unfinished. The 50-year-old "
-    },
-    {
-      "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
-      "link": "https://bitcoinist.com/ethereum-under-pressure/",
+      "title": "Florida Passes First State-Level Stablecoin Bill — Crypto CLARITY Act Next?",
+      "link": "https://bitcoinist.com/florida-state-level-stablecoin-bill-crypto-next/",
       "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 23:00:36 +0000",
-      "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
+      "published": "Sun, 08 Mar 2026 03:30:13 +0000",
+      "description": "In a positive development for the crypto industry, the Florida State Senate has passed a bill to create a regulatory framework for stablecoins at the state level. This move comes amid the struggles to"
     },
     {
-      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-      "source": "TechCrunch",
-      "published": "Sat, 07 Mar 2026 22:56:31 +0000",
-      "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too."
-    },
-    {
-      "title": "New strikes light up Tehran as Israel vows 'many surprises'",
-      "link": "https://www.channelnewsasia.com/world/iran-war-tehran-strikes-trump-israel-lebanon-5979306",
+      "title": "Pietersen says he is open to England coaching role",
+      "link": "https://www.channelnewsasia.com/sport/pietersen-says-he-open-england-coaching-role-5979456",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 06:54:00 +0800",
-      "description": "US President Donald Trump has threatened that Iran would be \"hit very hard\" and more \"areas and groups of people\" would become targets."
-    },
-    {
-      "title": "Why Singapore-based designer Robert Cheng won’t copy your Pinterest board",
-      "link": "https://www.channelnewsasia.com/people/robert-cheng-brewin-design-office-craft-machine-made-5975331",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 06:23:36 +0800",
-      "description": "The Brewin Design Office founder explains why originality matters more than mood boards – and how craft and machine-made solutions can coexist in his luxury hotel projects."
-    },
-    {
-      "title": "Sumptuous Yamal strike gives Barca win in Bilbao and four-point lead",
-      "link": "https://www.channelnewsasia.com/sport/sumptuous-yamal-strike-gives-barca-win-in-bilbao-and-four-point-lead-5979336",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 06:23:32 +0800",
+      "published": "Sun, 08 Mar 2026 11:13:13 +0800",
       "description": ""
     },
     {
-      "title": "Marmoush double helps Man City to 3-1 win at Newcastle and place in FA Cup quarters",
-      "link": "https://www.channelnewsasia.com/sport/marmoush-double-helps-man-city-3-1-win-newcastle-and-place-in-fa-cup-quarters-5979326",
+      "title": "Watch: China's top diplomat Wang Yi fields questions on foreign policy",
+      "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-press-conference-watch-live-5975561",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 06:10:10 +0800",
-      "description": ""
+      "published": "Sun, 08 Mar 2026 10:02:00 +0800",
+      "description": "The press conference at the Two Sessions comes at a time of heightened global tensions, with an escalating Iran war."
     },
     {
-      "title": "Friend, coach or girlfriend: Can virtual companions replace human bonds?",
-      "link": "https://www.channelnewsasia.com/cna-insider/artificial-intelligence-AI-chatbots-companions-digital-partner-emotional-relationship-5976696",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 06:00:00 +0800",
-      "description": "Programmable according to your preferences, AI chatbots may seem appealing — particularly in a country where one in 10 people report not having a close friend. CNA series Besties puts AI-human friends"
+      "title": "CBDC: Senator Pushes For Permanent Ban In Housing Act Amendment",
+      "link": "https://bitcoinist.com/cbdc-regulation-senator-ted-cruz-push-permanent-ban/",
+      "source": "Bitcoinist",
+      "published": "Sun, 08 Mar 2026 02:00:01 +0000",
+      "description": "US Senator Ted Cruz is maintaining a firm campaign against a US central bank digital currency (CBDC). In the latest development, the junior senator representing Texas has pushed for a permanent CBDC b"
     },
     {
-      "title": "Commentary: Singapore’s record low fertility rate is not all gloom and doom - it’s an opportunity",
-      "link": "https://www.channelnewsasia.com/commentary/singapore-fertility-rate-tfr-existential-doom-opportunity-5976676",
+      "title": "Meta ordered to disable access to social media posts showing video of man stepping on Quran: MHA",
+      "link": "https://www.channelnewsasia.com/singapore/meta-disable-access-video-man-step-quran-public-bus-5979401",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 06:00:00 +0800",
-      "description": "Before pronouncing Singapore’s impending end, let’s re-examine whether a declining population will always result in economic catastrophe, says veteran newspaper editor Han Fook Kwang."
+      "published": "Sun, 08 Mar 2026 09:10:00 +0800",
+      "description": "The Ministry of Home Affairs said it takes a strong stance against threats to Singapore's racial and religious harmony."
+    },
+    {
+      "title": "Trump tells Britain he does not need its help to win Iran war",
+      "link": "https://www.channelnewsasia.com/world/iran-war-trump-britain-starmer-help-5979356",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 08:40:14 +0800",
+      "description": "\"We don’t need people that join Wars after we’ve already won!\" said the US president.&nbsp;"
+    },
+    {
+      "title": "Harry Styles wows Manchester fans at intimate album launch show",
+      "link": "https://www.channelnewsasia.com/entertainment/harry-styles-5979381",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 08:40:00 +0800",
+      "description": "Harry Styles thrilled thousands in Manchester with a special one-night-only concert celebrating his new album, delivering a phone-free, hit-filled performance ahead of his upcoming world tour."
+    },
+    {
+      "title": "Solana’s 755% Surge Shows That Users Are Coming Back To The Table",
+      "link": "https://bitcoinist.com/solana-users-are-coming-back/",
+      "source": "Bitcoinist",
+      "published": "Sun, 08 Mar 2026 00:30:05 +0000",
+      "description": "After months of bearish pressure and fading market enthusiasm, Solana (SOL) appears to be finding its footing again. A new report by Messari, a crypto market intelligence platform, shows the network’s"
+    },
+    {
+      "title": "Paris fashion week: Hermes channels twilight mood in lush runway show for fall/winter 2026",
+      "link": "https://www.channelnewsasia.com/style-beauty/hermes-fw26-5979061",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 08:24:00 +0800",
+      "description": "Hermes creative director Nadege Vanhee unveiled a twilight-inspired fall/winter collection at Paris Fashion Week, featuring fluid leather coats, ostrich biker looks and moss-covered staging at the Gar"
     }
   ]
 }
