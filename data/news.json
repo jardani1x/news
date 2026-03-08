@@ -1,14 +1,21 @@
 {
-  "updated_sgt": "2026-03-08 20:00 SGT",
-  "updated_iso": "2026-03-08T20:00:21.895457+08:00",
+  "updated_sgt": "2026-03-09 00:00 SGT",
+  "updated_iso": "2026-03-09T00:00:31.731541+08:00",
   "categories": {
     "World": [
       {
-        "title": "US embassy in Oslo hit by explosion, Norway police say",
+        "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
+        "link": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 08 Mar 2026 13:12:54 GMT",
+        "description": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show."
+      },
+      {
+        "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
         "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sun, 08 Mar 2026 10:52:29 GMT",
-        "description": "The embassy sustained minor damage but no injuries were reported after the blast in the Norwegian capital."
+        "published": "Sun, 08 Mar 2026 12:30:16 GMT",
+        "description": "Police say they are investigating other motives after the blast caused minor damage to the embassy building."
       },
       {
         "title": "War fuels debate in Cyprus over UK military bases",
@@ -60,13 +67,6 @@
         "description": "Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble."
       },
       {
-        "title": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
-        "link": "https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 07 Mar 2026 02:04:23 GMT",
-        "description": "The move is backed by the right-wing Swiss People's Party, which says the current fee is unjustified because of the high cost of living."
-      },
-      {
         "title": "Armed robots take to the battlefield in Ukraine war",
         "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -76,11 +76,39 @@
     ],
     "Finance": [
       {
-        "title": "Iranian projectiles continue to strike Gulf countries; Tehran says new leader appointed",
+        "title": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright",
+        "link": "https://www.cnbc.com/2026/03/08/iran-war-energy-prices-wright.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Mar 2026 15:46:03 GMT",
+        "description": "Gas prices have spiked in the U.S. as oil has jumped to over $90 since the war began in Iran."
+      },
+      {
+        "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
+        "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Mar 2026 14:45:10 GMT",
+        "description": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts."
+      },
+      {
+        "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
         "link": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
         "source": "CNBC Finance",
-        "published": "Sun, 08 Mar 2026 11:33:06 GMT",
+        "published": "Sun, 08 Mar 2026 14:26:49 GMT",
         "description": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue."
+      },
+      {
+        "title": "In a jobs apocalypse, look to ‘AI-proof’ skilled trades, career experts say",
+        "link": "https://www.cnbc.com/2026/03/08/jobs-apocalypse-ai-proof-skilled-trades.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Mar 2026 13:30:01 GMT",
+        "description": "The skilled trades are considered more insulated from AI-driven job cuts, experts say."
+      },
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility",
+        "link": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Mar 2026 12:56:07 GMT",
+        "description": "TipRanks compiles some of the best stocks to own amid the current volatility, according to the Street's top analysts."
       },
       {
         "title": "Global week ahead: Diplomacy in ruins as G7 meets on Iran",
@@ -97,32 +125,11 @@
         "description": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China."
       },
       {
-        "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
-        "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 20:09:03 GMT",
-        "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order."
-      },
-      {
-        "title": "FDA vaccine head will step down in April after string of controversial decisions",
-        "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 18:04:07 GMT",
-        "description": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research."
-      },
-      {
         "title": "Iran war could make affordability bigger issue in 2026 elections",
         "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
         "source": "CNBC Finance",
         "published": "Sat, 07 Mar 2026 17:27:55 GMT",
         "description": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies."
-      },
-      {
-        "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
-        "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 15:56:05 GMT",
-        "description": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
       },
       {
         "title": "Middle-income homebuyers have $30,000 more buying power than a year ago, research finds. It's still not enough",
@@ -137,13 +144,6 @@
         "source": "CNBC Finance",
         "published": "Sat, 07 Mar 2026 04:34:33 GMT",
         "description": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis."
-      },
-      {
-        "title": "GOP 'big beautiful bill' poised to deliver 'shock' to ACA marketplace, health policy experts say",
-        "link": "https://www.cnbc.com/2026/03/06/gop-big-beautiful-bill-to-deal-shock-to-the-aca-marketplace.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 18:24:01 GMT",
-        "description": "The GOP's \"big beautiful bill\" made administrative tweaks expected to reduce enrollment in the Affordable Care Act marketplace by millions of people."
       }
     ],
     "Technology": [
@@ -176,7 +176,7 @@
         "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too."
       },
       {
-        "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+        "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
         "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
         "source": "TechCrunch",
         "published": "Sat, 07 Mar 2026 20:44:25 +0000",
@@ -220,6 +220,20 @@
     ],
     "Crypto": [
       {
+        "title": "CBDC Fight Escalates As US Lawmakers Call For Permanent Ban",
+        "link": "https://bitcoinist.com/cbdc-fight-escalates-as-us-lawmakers-call-for-permanent-ban/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Mar 2026 15:00:25 +0000",
+        "description": "A standalone bill that went nowhere in the Senate is now at the center of a congressional fight over how far the government should go to block a digital dollar — and a group of 29 lawmakers wants the "
+      },
+      {
+        "title": "South Korean Authorities Exclude Stablecoins From Corporate Crypto Investments – Details",
+        "link": "https://bitcoinist.com/south-korean-stablecoins-corporate-investment/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Mar 2026 13:00:35 +0000",
+        "description": "South Korean authorities are reportedly moving to exclude stablecoins from an incoming framework that will allow listed companies to invest in cryptocurrencies. The decision is reportedly tied to exis"
+      },
+      {
         "title": "Binance And Founder CZ Cleared As Judge Tosses Terror Financing Case – Details",
         "link": "https://bitcoinist.com/binance-cz-wins-dismissal-terrorism-financing-case/",
         "source": "Bitcoinist",
@@ -260,23 +274,23 @@
         "source": "Bitcoinist",
         "published": "Sun, 08 Mar 2026 00:30:05 +0000",
         "description": "After months of bearish pressure and fading market enthusiasm, Solana (SOL) appears to be finding its footing again. A new report by Messari, a crypto market intelligence platform, shows the network’s"
-      },
-      {
-        "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
-        "link": "https://bitcoinist.com/ethereum-under-pressure/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 23:00:36 +0000",
-        "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
-      },
-      {
-        "title": "Crypto Gets A Boost In Trump’s New National Cyber Strategy",
-        "link": "https://bitcoinist.com/crypto-gets-a-boost-in-trumps-new-national-cyber-strategy/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 21:30:08 +0000",
-        "description": "US President Donald Trump’s new national cyber strategy names cryptocurrency and blockchain once and frames them as technologies the government must “protect and secure,” while also directing agencies"
       }
     ],
     "Markets": [
+      {
+        "title": "Oil prices are the No. 1 thing investors are watching right now. Here’s why.",
+        "link": "https://www.marketwatch.com/story/oil-prices-are-the-no-1-thing-investors-are-watching-right-now-heres-why-171942dc?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 08 Mar 2026 16:00:00 GMT",
+        "description": "Rising oil prices can affect the stock market in significant ways."
+      },
+      {
+        "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
+        "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 08 Mar 2026 13:17:00 GMT",
+        "description": "“He has no loyalty to me or our vows.”"
+      },
       {
         "title": "‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?",
         "link": "https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories",
@@ -297,13 +311,6 @@
         "source": "MarketWatch",
         "published": "Sun, 08 Mar 2026 10:55:00 GMT",
         "description": "“He has less than $20,000 to his name and no income besides Social Security.”"
-      },
-      {
-        "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
-        "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 22:15:00 GMT",
-        "description": "“He has no loyalty to me or our vows.”"
       },
       {
         "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
@@ -339,84 +346,77 @@
         "source": "MarketWatch",
         "published": "Sat, 07 Mar 2026 19:40:00 GMT",
         "description": "The cost of care for an aging parent, whether in their own home or in a nursing facility, varies greatly depending on where they live."
-      },
-      {
-        "title": "People taking money out of their 401(k)s isn’t necessarily the crisis everyone thinks it is",
-        "link": "https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 19:40:00 GMT",
-        "description": "Workers are taking hardship withdrawals from their 401(k) accounts, but people needing emergency access to funds can be helped in other ways."
       }
     ],
     "Singapore": [
       {
-        "title": "Man behind Quran-stepping video likely convicted for similar acts, may be mentally unwell: Shanmugam",
-        "link": "https://www.channelnewsasia.com/singapore/shanmugam-quran-step-mha-meta-video-disable-access-5979756",
+        "title": "Red-hot Samson powers India to 255-5 against NZ in T20 World Cup final",
+        "link": "https://www.channelnewsasia.com/sport/red-hot-samson-powers-india-255-5-against-nz-in-t20-world-cup-final-5980006",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 19:12:00 +0800",
-        "description": "The man is overseas now and the police will interview him when he returns, Home Affairs Minister K Shanmugam says.&nbsp;"
-      },
-      {
-        "title": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says",
-        "link": "https://www.channelnewsasia.com/business/tokyo-told-national-oil-reserve-site-prepare-release-amid-iran-crisis-japan-lawmaker-says-5979771",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 18:16:05 +0800",
+        "published": "Sun, 08 Mar 2026 23:24:03 +0800",
         "description": ""
       },
       {
-        "title": "Scotland locks could both miss key clash in Dublin",
-        "link": "https://www.channelnewsasia.com/sport/scotland-locks-could-both-miss-key-clash-in-dublin-5979766",
+        "title": "Stranded De Kock and Miller say England given priority for flight home",
+        "link": "https://www.channelnewsasia.com/sport/stranded-de-kock-and-miller-say-england-given-priority-flight-home-5979991",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 18:04:32 +0800",
+        "published": "Sun, 08 Mar 2026 22:51:39 +0800",
         "description": ""
       },
       {
-        "title": "France still in Six Nations driving seat despite Scots mauling",
-        "link": "https://www.channelnewsasia.com/sport/france-still-in-six-nations-driving-seat-despite-scots-mauling-5979751",
+        "title": "Southampton strike late to dump Fulham out of FA Cup",
+        "link": "https://www.channelnewsasia.com/sport/southampton-strike-late-dump-fulham-out-fa-cup-5979966",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 17:28:18 +0800",
+        "published": "Sun, 08 Mar 2026 22:22:29 +0800",
         "description": ""
       },
       {
-        "title": "Ferrari can reel Mercedes in, says Hamilton",
-        "link": "https://www.channelnewsasia.com/sport/ferrari-can-reel-mercedes-in-says-hamilton-5979746",
+        "title": "Bradbury fires final round 65 to claim second Joburg Open title",
+        "link": "https://www.channelnewsasia.com/sport/bradbury-fires-final-round-65-claim-second-joburg-open-title-5979961",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 17:05:42 +0800",
+        "published": "Sun, 08 Mar 2026 22:17:43 +0800",
         "description": ""
       },
       {
-        "title": "UAE tugboat sank in Strait of Hormuz; 3 Indonesians missing",
-        "link": "https://www.channelnewsasia.com/world/strait-hormuz-uae-tugboat-sink-indonesian-crew-missing-5979731",
+        "title": "X probes offensive posts by xAI’s Grok chatbot, Sky News reports",
+        "link": "https://www.channelnewsasia.com/business/x-probes-offensive-posts-xais-grok-chatbot-sky-news-reports-5979936",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 16:51:00 +0800",
+        "published": "Sun, 08 Mar 2026 21:51:27 +0800",
         "description": ""
       },
       {
-        "title": "Residents warned 'crocs everywhere' after north Australia floods",
-        "link": "https://www.channelnewsasia.com/world/australia-northern-territory-residents-warned-crocodiles-after-floods-5979716",
+        "title": "Alpine skiing-McGrath closing on slalom World Cup title after Olympic nightmare",
+        "link": "https://www.channelnewsasia.com/sport/alpine-skiing-mcgrath-closing-slalom-world-cup-title-after-olympic-nightmare-5979921",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 16:30:52 +0800",
+        "published": "Sun, 08 Mar 2026 21:37:35 +0800",
         "description": ""
       },
       {
-        "title": "Australian GP winner Russell says give new F1 era a chance",
-        "link": "https://www.channelnewsasia.com/sport/australian-gp-winner-russell-says-give-new-f1-era-chance-5979721",
+        "title": "Trump says will not sign other legislation until voter act Bill is passed by Congress",
+        "link": "https://www.channelnewsasia.com/world/trump-says-will-not-sign-other-legislation-until-voter-act-bill-passed-congress-5979911",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 16:24:53 +0800",
+        "published": "Sun, 08 Mar 2026 21:27:28 +0800",
         "description": ""
       },
       {
-        "title": "Sri Lanka hospital releases 22 rescued from torpedoed Iranian vessel",
-        "link": "https://www.channelnewsasia.com/asia/iran-warship-iris-dena-sri-lanka-release-22-hospital-5979686",
+        "title": "Israel expands Iran strikes as Tehran moves to name new supreme leader",
+        "link": "https://www.channelnewsasia.com/world/iran-us-israel-war-day-nine-5979896",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 15:24:00 +0800",
-        "description": "More than 60 people are still missing."
+        "published": "Sun, 08 Mar 2026 21:18:00 +0800",
+        "description": "Israel's military has threatened to kill any replacement for the late Ayatollah Ali Khamenei."
       },
       {
-        "title": "Djokovic aims for 2028 LA Olympics despite age hurdle",
-        "link": "https://www.channelnewsasia.com/sport/djokovic-aims-2028-la-olympics-despite-age-hurdle-5979676",
+        "title": "Uganda's Kiplimo regains world half marathon record in Lisbon",
+        "link": "https://www.channelnewsasia.com/sport/ugandas-kiplimo-regains-world-half-marathon-record-in-lisbon-5979891",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 15:09:55 +0800",
+        "published": "Sun, 08 Mar 2026 20:46:53 +0800",
+        "description": ""
+      },
+      {
+        "title": "Norway police says possible terror motive in US embassy blast",
+        "link": "https://www.channelnewsasia.com/world/norway-police-says-possible-terror-motive-in-us-embassy-blast-5979871",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 20:38:32 +0800",
         "description": ""
       }
     ],
@@ -433,7 +433,7 @@
         "link": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Sun, 08 Mar 2026 11:02:46 GMT",
-        "description": "The foreign secretary says the UK will not agree with the US \"on every issue\" after the US president attacks the PM's stance."
+        "description": "The foreign secretary says the UK will not agree with Trump \"on every issue\", after he attacks Starmer's response to the Iran conflict."
       },
       {
         "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Man behind Quran-stepping video likely convicted for similar acts, may be mentally unwell: Shanmugam",
-      "link": "https://www.channelnewsasia.com/singapore/shanmugam-quran-step-mha-meta-video-disable-access-5979756",
+      "title": "Red-hot Samson powers India to 255-5 against NZ in T20 World Cup final",
+      "link": "https://www.channelnewsasia.com/sport/red-hot-samson-powers-india-255-5-against-nz-in-t20-world-cup-final-5980006",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 19:12:00 +0800",
-      "description": "The man is overseas now and the police will interview him when he returns, Home Affairs Minister K Shanmugam says.&nbsp;"
-    },
-    {
-      "title": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says",
-      "link": "https://www.channelnewsasia.com/business/tokyo-told-national-oil-reserve-site-prepare-release-amid-iran-crisis-japan-lawmaker-says-5979771",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 18:16:05 +0800",
+      "published": "Sun, 08 Mar 2026 23:24:03 +0800",
       "description": ""
     },
     {
-      "title": "Scotland locks could both miss key clash in Dublin",
-      "link": "https://www.channelnewsasia.com/sport/scotland-locks-could-both-miss-key-clash-in-dublin-5979766",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 18:04:32 +0800",
-      "description": ""
-    },
-    {
-      "title": "France still in Six Nations driving seat despite Scots mauling",
-      "link": "https://www.channelnewsasia.com/sport/france-still-in-six-nations-driving-seat-despite-scots-mauling-5979751",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 17:28:18 +0800",
-      "description": ""
-    },
-    {
-      "title": "Ferrari can reel Mercedes in, says Hamilton",
-      "link": "https://www.channelnewsasia.com/sport/ferrari-can-reel-mercedes-in-says-hamilton-5979746",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 17:05:42 +0800",
-      "description": ""
-    },
-    {
-      "title": "Binance And Founder CZ Cleared As Judge Tosses Terror Financing Case – Details",
-      "link": "https://bitcoinist.com/binance-cz-wins-dismissal-terrorism-financing-case/",
+      "title": "CBDC Fight Escalates As US Lawmakers Call For Permanent Ban",
+      "link": "https://bitcoinist.com/cbdc-fight-escalates-as-us-lawmakers-call-for-permanent-ban/",
       "source": "Bitcoinist",
-      "published": "Sun, 08 Mar 2026 09:00:54 +0000",
-      "description": "A federal judge in Manhattan has thrown out a civil lawsuit accusing Binance, the world&#8217;s largest crypto exchange, and its founder Changpeng Zhao, popularly known as CZ, of facilitating financin"
+      "published": "Sun, 08 Mar 2026 15:00:25 +0000",
+      "description": "A standalone bill that went nowhere in the Senate is now at the center of a congressional fight over how far the government should go to block a digital dollar — and a group of 29 lawmakers wants the "
     },
     {
-      "title": "UAE tugboat sank in Strait of Hormuz; 3 Indonesians missing",
-      "link": "https://www.channelnewsasia.com/world/strait-hormuz-uae-tugboat-sink-indonesian-crew-missing-5979731",
+      "title": "Stranded De Kock and Miller say England given priority for flight home",
+      "link": "https://www.channelnewsasia.com/sport/stranded-de-kock-and-miller-say-england-given-priority-flight-home-5979991",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 16:51:00 +0800",
+      "published": "Sun, 08 Mar 2026 22:51:39 +0800",
       "description": ""
     },
     {
-      "title": "Residents warned 'crocs everywhere' after north Australia floods",
-      "link": "https://www.channelnewsasia.com/world/australia-northern-territory-residents-warned-crocodiles-after-floods-5979716",
+      "title": "Southampton strike late to dump Fulham out of FA Cup",
+      "link": "https://www.channelnewsasia.com/sport/southampton-strike-late-dump-fulham-out-fa-cup-5979966",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 16:30:52 +0800",
+      "published": "Sun, 08 Mar 2026 22:22:29 +0800",
       "description": ""
     },
     {
-      "title": "Australian GP winner Russell says give new F1 era a chance",
-      "link": "https://www.channelnewsasia.com/sport/australian-gp-winner-russell-says-give-new-f1-era-chance-5979721",
+      "title": "Bradbury fires final round 65 to claim second Joburg Open title",
+      "link": "https://www.channelnewsasia.com/sport/bradbury-fires-final-round-65-claim-second-joburg-open-title-5979961",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 16:24:53 +0800",
+      "published": "Sun, 08 Mar 2026 22:17:43 +0800",
       "description": ""
     },
     {
-      "title": "Sri Lanka hospital releases 22 rescued from torpedoed Iranian vessel",
-      "link": "https://www.channelnewsasia.com/asia/iran-warship-iris-dena-sri-lanka-release-22-hospital-5979686",
+      "title": "X probes offensive posts by xAI’s Grok chatbot, Sky News reports",
+      "link": "https://www.channelnewsasia.com/business/x-probes-offensive-posts-xais-grok-chatbot-sky-news-reports-5979936",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 15:24:00 +0800",
-      "description": "More than 60 people are still missing."
+      "published": "Sun, 08 Mar 2026 21:51:27 +0800",
+      "description": ""
+    },
+    {
+      "title": "Alpine skiing-McGrath closing on slalom World Cup title after Olympic nightmare",
+      "link": "https://www.channelnewsasia.com/sport/alpine-skiing-mcgrath-closing-slalom-world-cup-title-after-olympic-nightmare-5979921",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 21:37:35 +0800",
+      "description": ""
+    },
+    {
+      "title": "Trump says will not sign other legislation until voter act Bill is passed by Congress",
+      "link": "https://www.channelnewsasia.com/world/trump-says-will-not-sign-other-legislation-until-voter-act-bill-passed-congress-5979911",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 21:27:28 +0800",
+      "description": ""
+    },
+    {
+      "title": "Israel expands Iran strikes as Tehran moves to name new supreme leader",
+      "link": "https://www.channelnewsasia.com/world/iran-us-israel-war-day-nine-5979896",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 21:18:00 +0800",
+      "description": "Israel's military has threatened to kill any replacement for the late Ayatollah Ali Khamenei."
+    },
+    {
+      "title": "South Korean Authorities Exclude Stablecoins From Corporate Crypto Investments – Details",
+      "link": "https://bitcoinist.com/south-korean-stablecoins-corporate-investment/",
+      "source": "Bitcoinist",
+      "published": "Sun, 08 Mar 2026 13:00:35 +0000",
+      "description": "South Korean authorities are reportedly moving to exclude stablecoins from an incoming framework that will allow listed companies to invest in cryptocurrencies. The decision is reportedly tied to exis"
     }
   ]
 }
