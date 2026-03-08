@@ -1,14 +1,35 @@
 {
-  "updated_sgt": "2026-03-08 00:00 SGT",
-  "updated_iso": "2026-03-08T00:00:27.850390+08:00",
+  "updated_sgt": "2026-03-08 08:00 SGT",
+  "updated_iso": "2026-03-08T08:00:15.196326+08:00",
   "categories": {
     "World": [
       {
-        "title": "Iran will continue to defend itself against aggression, ambassador to UK says",
+        "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+        "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 20:16:07 GMT",
+        "description": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US."
+      },
+      {
+        "title": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister",
+        "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 19:45:09 GMT",
+        "description": "Thursday's general election was the first since violent youth-led protests toppled the government in September."
+      },
+      {
+        "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+        "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Mar 2026 19:16:44 GMT",
+        "description": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry."
+      },
+      {
+        "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
         "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 07 Mar 2026 14:11:37 GMT",
-        "description": "Seyed Ali Mousavi tells Laura Kuenssberg Iran's response depends on the actions of the US and Israel."
+        "published": "Sat, 07 Mar 2026 16:53:57 GMT",
+        "description": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks."
       },
       {
         "title": "Heavy rains and flooding kills at least 23 in Nairobi",
@@ -51,36 +72,36 @@
         "source": "BBC World",
         "published": "Sat, 07 Mar 2026 00:36:19 GMT",
         "description": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces."
-      },
-      {
-        "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-        "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 17:06:14 GMT",
-        "description": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes."
-      },
-      {
-        "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
-        "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 16:16:05 GMT",
-        "description": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah."
-      },
-      {
-        "title": "Indonesia to ban social media and other online platforms for under 16s",
-        "link": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Mar 2026 13:25:12 GMT",
-        "description": "It is the latest country to curb young people's access to digital spaces to try and protect them from abuse."
       }
     ],
     "Finance": [
       {
+        "title": "Iran vows it won't surrender as war with the U.S. and Israel enters second week",
+        "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 23:34:18 GMT",
+        "description": "The U.S. and Israel continued their campaign to rid Tehran of its nuclear and ballistic missile capabilities and push for regime change."
+      },
+      {
         "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
         "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 15:58:58 GMT",
+        "published": "Sat, 07 Mar 2026 20:09:03 GMT",
         "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order."
+      },
+      {
+        "title": "FDA vaccine head will step down in April after string of controversial decisions",
+        "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 18:04:07 GMT",
+        "description": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research."
+      },
+      {
+        "title": "Iran war could make affordability bigger issue in 2026 elections",
+        "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 07 Mar 2026 17:27:55 GMT",
+        "description": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies."
       },
       {
         "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
@@ -97,25 +118,11 @@
         "description": "While the amount that a median-income household can afford is higher than it was a year ago, it is still below the median price for a single-family home."
       },
       {
-        "title": "Iran says it struck UAE air base shortly after Iranian president's vow not to hit neighbors",
-        "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 14:13:38 GMT",
-        "description": "The U.S. says it has hit more than 3,000 Iranian targets in the first week of the war, as Iran's president vows to halt attacks on neighbors."
-      },
-      {
         "title": "Berkshire CEO Greg Abel on working with Buffett, Kraft Heinz and using all his salary to buy the stock",
         "link": "https://www.cnbc.com/2026/03/07/berkshire-ceo-greg-abel-on-working-with-buffett-kraft-heinz-and-using-all-his-salary-to-buy-the-stock.html",
         "source": "CNBC Finance",
         "published": "Sat, 07 Mar 2026 13:31:42 GMT",
         "description": "Berkshire Hathaway's new CEO, Greg Abel, generated some significant headlines during a roughly half-hour live interview on CNBC's \"Squawk Box.\""
-      },
-      {
-        "title": "Iran war threatens to scramble the 'affordability' midterm",
-        "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 13:00:01 GMT",
-        "description": "Midterm election messaging on affordability could be undercut by the Iran war and related uncertainty."
       },
       {
         "title": "How China is challenging the U.S. to become the next great space power",
@@ -125,13 +132,6 @@
         "description": "A new report warns that the U.S. could lose its dominance in space to China in the next few years."
       },
       {
-        "title": "Inside the booming business of wellness third spaces and membership clubs",
-        "link": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 13:00:01 GMT",
-        "description": "A growing number of consumers are seeking out third spaces and membership clubs surrounding wellness, to improve their health while also socializing."
-      },
-      {
         "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
         "link": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
         "source": "CNBC Finance",
@@ -139,14 +139,42 @@
         "description": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis."
       },
       {
-        "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
-        "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+        "title": "GOP 'big beautiful bill' poised to deliver 'shock' to ACA marketplace, health policy experts say",
+        "link": "https://www.cnbc.com/2026/03/06/gop-big-beautiful-bill-to-deal-shock-to-the-aca-marketplace.html",
         "source": "CNBC Finance",
-        "published": "Fri, 06 Mar 2026 20:23:08 GMT",
-        "description": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz."
+        "published": "Fri, 06 Mar 2026 18:24:01 GMT",
+        "description": "The GOP's \"big beautiful bill\" made administrative tweaks expected to reduce enrollment in the Affordable Care Act marketplace by millions of people."
       }
     ],
     "Technology": [
+      {
+        "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+        "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+        "source": "TechCrunch",
+        "published": "Sat, 07 Mar 2026 22:56:31 +0000",
+        "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too."
+      },
+      {
+        "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+        "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+        "source": "TechCrunch",
+        "published": "Sat, 07 Mar 2026 20:44:25 +0000",
+        "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t"
+      },
+      {
+        "title": "PopSockets founder David Barnett talks about building a viral business",
+        "link": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
+        "source": "TechCrunch",
+        "published": "Sat, 07 Mar 2026 18:40:00 +0000",
+        "description": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader."
+      },
+      {
+        "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+        "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+        "source": "TechCrunch",
+        "published": "Sat, 07 Mar 2026 17:28:41 +0000",
+        "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December."
+      },
       {
         "title": "Robinhood’s startup fund stumbles in NYSE debut",
         "link": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
@@ -188,37 +216,44 @@
         "source": "TechCrunch",
         "published": "Fri, 06 Mar 2026 19:50:10 +0000",
         "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products."
-      },
-      {
-        "title": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
-        "link": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 19:47:40 +0000",
-        "description": "It's the first permit to be issued by the Nuclear Regulatory Commission in nearly a decade."
-      },
-      {
-        "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-        "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 19:00:22 +0000",
-        "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\""
-      },
-      {
-        "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-        "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 18:09:11 +0000",
-        "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap"
-      },
-      {
-        "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
-        "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 17:56:07 +0000",
-        "description": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users."
       }
     ],
     "Crypto": [
+      {
+        "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
+        "link": "https://bitcoinist.com/ethereum-under-pressure/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 23:00:36 +0000",
+        "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
+      },
+      {
+        "title": "Crypto Gets A Boost In Trump’s New National Cyber Strategy",
+        "link": "https://bitcoinist.com/crypto-gets-a-boost-in-trumps-new-national-cyber-strategy/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 21:30:08 +0000",
+        "description": "US President Donald Trump’s new national cyber strategy names cryptocurrency and blockchain once and frames them as technologies the government must “protect and secure,” while also directing agencies"
+      },
+      {
+        "title": "What’s Driving Bitcoin And Ethereum Prices – And Why Investors Should Be Watchful",
+        "link": "https://bitcoinist.com/whats-driving-bitcoin-and-ethereum-prices-and-why-investors-should-be-watchful/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 20:00:20 +0000",
+        "description": "The crypto market has grown increasingly cautious as Bitcoin and Ethereum prices have crashed to former lows amid growing concerns about institutional flows and network fundamentals. Bitcoin’s recent "
+      },
+      {
+        "title": "$35M Diverted To Crypto: Ex-CFO Gets 2-Year Prison Term",
+        "link": "https://bitcoinist.com/35m-diverted-to-crypto-ex-cfo-gets-2-year-prison-term/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 18:30:47 +0000",
+        "description": "He told his colleagues only after the money was gone. Nevin Shetty, the former chief financial officer of a Seattle-based tech startup, was sentenced Thursday to two years in federal prison after secr"
+      },
+      {
+        "title": "Bitcoin Market At Uncertain Phase As Stagflation Fears In The US Rises — Details",
+        "link": "https://bitcoinist.com/bitcoin-market-uncertain-stagflation-fears-rises/",
+        "source": "Bitcoinist",
+        "published": "Sat, 07 Mar 2026 17:00:26 +0000",
+        "description": "In their latest post on CryptoQuant, XWIN Research Japan explores how developing affairs in the United States could affect the trajectory of Bitcoin and other risk assets in the near-term. According t"
+      },
       {
         "title": "Elon Musk Cosigns X Money Post, But Does It Have Anything To Do With Dogecoin?",
         "link": "https://bitcoinist.com/elon-musk-x-money-dogecoin/",
@@ -239,185 +274,150 @@
         "source": "Bitcoinist",
         "published": "Sat, 07 Mar 2026 13:00:34 +0000",
         "description": "On-chain data shows the Bitcoin Difficulty has seen little change in the latest adjustment as a result of the recent sideways trend in the Hashrate. Bitcoin Difficulty Has Only Seen A Change Of 0.45% "
-      },
-      {
-        "title": "KuCoin Blocked In UAE As Authorities Mandate Immediate Service Stop",
-        "link": "https://bitcoinist.com/kucoin-blocked-in-uae-immediate-service-stop/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 12:00:26 +0000",
-        "description": "Seychelles-based cryptocurrency exchange KuCoin has been ordered to halt its operations in Dubai after regulators determined the platform was operating without the required authorization. The action w"
-      },
-      {
-        "title": "Kazakhstan’s Crypto Bet: Central Bank To Begin $350M Digital Assets Investment In Q2",
-        "link": "https://bitcoinist.com/kazakhstans-crypto-bet-350m-investment-in-q2/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 11:00:10 +0000",
-        "description": "Kazakhstan’s central bank will soon begin investing up to $350 million from its gold and foreign exchange reserves into cryptocurrency assets and related companies, as part of its broader digital asse"
-      },
-      {
-        "title": "Single Swing Vote May Determine Fate Of The CLARITY Act In Banking Committee",
-        "link": "https://bitcoinist.com/single-swing-vote-fate-of-the-clarity-act/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 10:00:32 +0000",
-        "description": "Despite strong backing from President Donald Trump and ongoing discussions at the White House, the CLARITY Act — the Senate’s long-debated crypto market structure bill — remains stalled as political d"
-      },
-      {
-        "title": "The Hormuz Standoff: Why Bitcoin’s Liquidity Drain Is Defying The Global Energy Shock",
-        "link": "https://bitcoinist.com/the-hormuz-standoff-why-bitcoins-liquidity-drain/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 09:00:52 +0000",
-        "description": "Bitcoin is attempting to hold the $70,000 level as geopolitical tensions in the Middle East intensify, injecting fresh uncertainty into global financial markets. The asset began the week trading above"
-      },
-      {
-        "title": "Bitcoin Faces A New Quantum Era As Giant Computing Facility Breaks Ground",
-        "link": "https://bitcoinist.com/bitcoin-faces-a-new-quantum-era-as-giant-computing-facility-breaks-ground/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 08:00:28 +0000",
-        "description": "Just over 10,000 Bitcoin — out of nearly 20 million in circulation — sits in wallets actually exposed to a quantum attack. Related Reading: US Moves Bitcoin During Iran Strikes — Market Watches Closel"
       }
     ],
     "Markets": [
       {
-        "title": "These 8 drugs could help fight dementia — and they’re already on the market",
-        "link": "https://www.marketwatch.com/story/these-8-drugs-could-help-fight-dementia-and-theyre-already-on-the-market-f19aed04?mod=mw_rss_topstories",
+        "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
+        "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 15:00:00 GMT",
-        "description": "The findings have been tested in the real world."
+        "published": "Sat, 07 Mar 2026 22:15:00 GMT",
+        "description": "“He has no loyalty to me or our vows.”"
       },
       {
-        "title": "Paramount says its Warner Bros. deal can work without big layoffs. Hollywood isn’t buying it.",
-        "link": "https://www.marketwatch.com/story/paramount-says-its-warner-bros-deal-can-work-without-big-layoffs-hollywood-isnt-buying-it-c3f083d5?mod=mw_rss_topstories",
+        "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 14:30:00 GMT",
-        "description": "Hollywood is bracing for big job cuts at Warner Bros. Discovery when its merger with Paramount closes, even as Paramount has insisted it can make the deal work without many layoffs."
+        "published": "Sat, 07 Mar 2026 22:14:00 GMT",
+        "description": "“We are the first generation on either side of our families to experience this level of success.”"
       },
       {
         "title": "Stagflation? $150 oil? That doesn’t mean everyone’s 401(k) is losing money.",
         "link": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 14:20:00 GMT",
+        "published": "Sat, 07 Mar 2026 19:41:00 GMT",
         "description": "The problem with crises like this is that stocks and bonds can both fail."
       },
       {
-        "title": "Here’s what finfluencers like Dave Ramsey and Vivian Tu really think of ‘Trump accounts’",
-        "link": "https://www.marketwatch.com/story/heres-what-finfluencers-like-dave-ramsey-and-vivian-tu-really-think-of-trump-accounts-1ce6a94c?mod=mw_rss_topstories",
+        "title": "The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
+        "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 14:00:00 GMT",
-        "description": "After opening a “Trump account” to receive any “free” money you’re eligible for, personal-finance experts say parents may be better off directing their own dollars toward other account types for kids."
+        "published": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "description": "Here’s what financial planners know but many retirees discover too late."
       },
       {
-        "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
-        "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
+        "title": "There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline",
+        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 13:58:00 GMT",
-        "description": "“He has no loyalty to me or our vows.”"
+        "published": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "description": "The same financial habits that pushed the number of 401(k) millionaires to new highs should help retirement savers through the current global uncertainty"
       },
       {
-        "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
-        "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
+        "title": "The most expensive state for in-home caregiving may surprise you — and it costs almost $9,000 a month there",
+        "link": "https://www.marketwatch.com/story/the-most-expensive-state-for-in-home-caregiving-may-surprise-you-and-it-costs-almost-9-000-a-month-there-1cdc19d1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 13:30:00 GMT",
-        "description": "“She is reading alarmist headlines about Iran in the newspapers.”"
+        "published": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "description": "The cost of care for an aging parent, whether in their own home or in a nursing facility, varies greatly depending on where they live."
       },
       {
-        "title": "Spike in oil prices triggers talk of an economic doomsday scenario",
-        "link": "https://www.marketwatch.com/story/spike-in-oil-prices-triggers-talk-of-an-economic-doomsday-scenario-86860a98?mod=mw_rss_topstories",
+        "title": "People taking money out of their 401(k)s isn’t necessarily the crisis everyone thinks it is",
+        "link": "https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 13:30:00 GMT",
-        "description": "Another week of record gains could lift oil prices close to their all-time highs — levels that invite talk of an economic doomsday."
+        "published": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "description": "Workers are taking hardship withdrawals from their 401(k) accounts, but people needing emergency access to funds can be helped in other ways."
       },
       {
-        "title": "These 6 stocks could be major winners of an upcoming optics ‘supercycle’",
-        "link": "https://www.marketwatch.com/story/these-6-stocks-could-be-major-winners-of-an-upcoming-optics-supercycle-3aee252e?mod=mw_rss_topstories",
+        "title": "The cost of healthcare in retirement keeps getting scarier",
+        "link": "https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 13:00:00 GMT",
-        "description": "Optical components are becoming a critical chokepoint in AI infrastructure, as the data-center buildout drives strong demand for more efficient data-transfer methods."
+        "published": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "description": "These healthcare estimates don’t even include everything you might need."
       },
       {
-        "title": "Trump is offering $20 billion in reinsurance for oil tankers stuck in the Strait of Hormuz. Here’s why it might not be enough.",
-        "link": "https://www.marketwatch.com/story/trump-is-offering-20-billion-in-reinsurance-for-oil-tankers-stuck-in-the-strait-of-hormuz-heres-why-it-might-not-be-enough-3e9090a4?mod=mw_rss_topstories",
+        "title": "Blue Owl’s private-credit stumble revives fears of another Bear Stearns moment",
+        "link": "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 13:00:00 GMT",
-        "description": "Supply disruptions in the Persian Gulf “are accelerating faster than expected” as storage options dwindle and force production shut-ins as early as next week, J.P. Morgan analysts said."
+        "published": "Sat, 07 Mar 2026 19:37:00 GMT",
+        "description": "This is not yet a repeat of 2008. But dismissing it as a nonevent would be a mistake."
       },
       {
-        "title": "‘He has been emotionally abusive’: My father, 75, is on oxygen and destitute. What do I owe him?",
-        "link": "https://www.marketwatch.com/story/he-has-been-emotionally-abusive-my-father-75-is-on-oxygen-and-destitute-what-do-i-owe-him-eb21e873?mod=mw_rss_topstories",
+        "title": "I scrapped $70 million in sales to build a more profitable business. Here’s what I learned.",
+        "link": "https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Mar 2026 12:58:00 GMT",
-        "description": "“He has less than $20,000 to his name and no income besides Social Security.”"
+        "published": "Sat, 07 Mar 2026 19:37:00 GMT",
+        "description": "Tibi founder Amy Smilovic talks about building the fashion retail giant — her way — and answers the question every successful entrepreneur faces."
       }
     ],
     "Singapore": [
       {
-        "title": "Russian flag returns to Games podium with two downhill bronzes",
-        "link": "https://www.channelnewsasia.com/sport/russian-flag-returns-games-podium-two-downhill-bronzes-5979006",
+        "title": "Should I worry about the microplastics in my floss and toothbrush?",
+        "link": "https://www.channelnewsasia.com/wellness/microplastics-dental-products-5953406",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 23:51:03 +0800",
+        "published": "Sun, 08 Mar 2026 07:23:18 +0800",
+        "description": "There’s evidence that dental products can shed microplastics. Experts break down the potential risks."
+      },
+      {
+        "title": "'I am a cautious and angry feminist': AWARE’s new leader on why the fight for gender equality is not over",
+        "link": "https://www.channelnewsasia.com/women/gender-equality-singapore-aware-lim-shoon-yin-feminism-5966751",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 07:22:21 +0800",
+        "description": "This International Women’s Day, AWARE’s new executive director Lim Shoon Yin reflects on the backlash against feminism and why work on gender equality in Singapore remains unfinished. The 50-year-old "
+      },
+      {
+        "title": "New strikes light up Tehran as Israel vows 'many surprises'",
+        "link": "https://www.channelnewsasia.com/world/iran-war-tehran-strikes-trump-israel-lebanon-5979306",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 06:54:00 +0800",
+        "description": "US President Donald Trump has threatened that Iran would be \"hit very hard\" and more \"areas and groups of people\" would become targets."
+      },
+      {
+        "title": "Why Singapore-based designer Robert Cheng won’t copy your Pinterest board",
+        "link": "https://www.channelnewsasia.com/people/robert-cheng-brewin-design-office-craft-machine-made-5975331",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 06:23:36 +0800",
+        "description": "The Brewin Design Office founder explains why originality matters more than mood boards – and how craft and machine-made solutions can coexist in his luxury hotel projects."
+      },
+      {
+        "title": "Sumptuous Yamal strike gives Barca win in Bilbao and four-point lead",
+        "link": "https://www.channelnewsasia.com/sport/sumptuous-yamal-strike-gives-barca-win-in-bilbao-and-four-point-lead-5979336",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 06:23:32 +0800",
         "description": ""
       },
       {
-        "title": "US starts using UK bases for 'defensive' Iran operations",
-        "link": "https://www.channelnewsasia.com/world/us-using-uk-military-bases-defensive-iran-operations-middle-east-war-5978966",
+        "title": "Marmoush double helps Man City to 3-1 win at Newcastle and place in FA Cup quarters",
+        "link": "https://www.channelnewsasia.com/sport/marmoush-double-helps-man-city-3-1-win-newcastle-and-place-in-fa-cup-quarters-5979326",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 23:03:00 +0800",
+        "published": "Sun, 08 Mar 2026 06:10:10 +0800",
         "description": ""
       },
       {
-        "title": "Hugs and tears of joy as Singaporeans in the Middle East return home on repatriation flight",
-        "link": "https://www.channelnewsasia.com/singapore/middle-east-war-repatriation-flight-singapore-muscat-5976816",
+        "title": "Friend, coach or girlfriend: Can virtual companions replace human bonds?",
+        "link": "https://www.channelnewsasia.com/cna-insider/artificial-intelligence-AI-chatbots-companions-digital-partner-emotional-relationship-5976696",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 23:01:00 +0800",
-        "description": "More than 150 Singaporeans and their dependents touched down on Saturday night (Mar 7) on the first repatriation flight from Muscat, Oman."
+        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
+        "description": "Programmable according to your preferences, AI chatbots may seem appealing — particularly in a country where one in 10 people report not having a close friend. CNA series Besties puts AI-human friends"
       },
       {
-        "title": "Baseball-Suzuki, Ohtani homers help Japan outlast South Korea",
-        "link": "https://www.channelnewsasia.com/sport/baseball-suzuki-ohtani-homers-help-japan-outlast-south-korea-5978946",
+        "title": "Commentary: Singapore’s record low fertility rate is not all gloom and doom - it’s an opportunity",
+        "link": "https://www.channelnewsasia.com/commentary/singapore-fertility-rate-tfr-existential-doom-opportunity-5976676",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 22:40:29 +0800",
-        "description": ""
+        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
+        "description": "Before pronouncing Singapore’s impending end, let’s re-examine whether a declining population will always result in economic catastrophe, says veteran newspaper editor Han Fook Kwang."
       },
       {
-        "title": "Türkiye mulls sending F-16s to northern Cyprus amid Middle East war",
-        "link": "https://www.channelnewsasia.com/world/turkey-f16-fighter-jet-cyprus-middle-east-war-iran-5978921",
+        "title": "Anwar's 'perfect storm'? Anti-graft crisis, party fractures and coalition jitters cloud re-election gambit",
+        "link": "https://www.channelnewsasia.com/asia/anwar-faces-graft-crisis-pkr-party-fractures-ph-coalition-jitters-5976646",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 22:30:00 +0800",
-        "description": ""
+        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
+        "description": "The premier is facing multiple challenges that may force him to call early elections, nearly two years ahead of the February 2028 deadline, say analysts and insiders. &nbsp;"
       },
       {
-        "title": "No pressure, no fun for India captain Suryakumar ahead of T20 World Cup final",
-        "link": "https://www.channelnewsasia.com/sport/no-pressure-no-fun-india-captain-suryakumar-ahead-t20-world-cup-final-5978911",
+        "title": "Turning away from extremism: How two self-radicalised youths shed their violent beliefs",
+        "link": "https://www.channelnewsasia.com/singapore/radicalised-youths-rehabilitation-isd-terrorism-israel-hamas-war-far-right-5972631",
         "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 22:23:33 +0800",
-        "description": ""
-      },
-      {
-        "title": "Eze thunderbolt guides Arsenal past Mansfield into FA Cup quarter-finals",
-        "link": "https://www.channelnewsasia.com/sport/eze-thunderbolt-guides-arsenal-past-mansfield-fa-cup-quarter-finals-5978916",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 22:21:28 +0800",
-        "description": ""
-      },
-      {
-        "title": "Eating 200-year-old rice — inside a centuries-old farming tradition in Indonesia",
-        "link": "https://www.channelnewsasia.com/today/in-pixels/eating-200-year-old-rice-inside-centuries-old-farming-tradition-in-indonesia-5970386",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 21:30:00 +0800",
-        "description": ""
-      },
-      {
-        "title": "The ex-Singapore national youth coach now building up women's football in Africa's tiniest nation",
-        "link": "https://www.channelnewsasia.com/today/up-close/singapore-football-coach-women-national-sports-athlete-seychelles-5966106",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 21:30:00 +0800",
-        "description": "From shifting goal posts in 30°C&nbsp;heat to securing professional contracts for her players in Europe, 32-year-old Chris Yip-Au is a one-woman engine room driving the beautiful game in one of the wo"
-      },
-      {
-        "title": "Should you let AI manage your money? Here's why I'm not convinced",
-        "link": "https://www.channelnewsasia.com/today/voices/ai-artificial-intelligence-give-financial-advice-human-judgement-money-5966026",
-        "source": "CNA Singapore",
-        "published": "Sat, 07 Mar 2026 21:30:00 +0800",
-        "description": "Are you feeding your financial data to AI, hoping it'll come up with groundbreaking insights? Financial blogger Dawn Cher says that while you can use AI to support your thinking, it should never repla"
+        "published": "Sun, 08 Mar 2026 06:00:00 +0800",
+        "description": "Youths are getting radicalised faster and subscribing to a more diverse range of extremist ideologies, the Internal Security Department said.&nbsp;"
       }
     ],
     "US Politics": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Russian flag returns to Games podium with two downhill bronzes",
-      "link": "https://www.channelnewsasia.com/sport/russian-flag-returns-games-podium-two-downhill-bronzes-5979006",
+      "title": "Should I worry about the microplastics in my floss and toothbrush?",
+      "link": "https://www.channelnewsasia.com/wellness/microplastics-dental-products-5953406",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 23:51:03 +0800",
-      "description": ""
+      "published": "Sun, 08 Mar 2026 07:23:18 +0800",
+      "description": "There’s evidence that dental products can shed microplastics. Experts break down the potential risks."
     },
     {
-      "title": "US starts using UK bases for 'defensive' Iran operations",
-      "link": "https://www.channelnewsasia.com/world/us-using-uk-military-bases-defensive-iran-operations-middle-east-war-5978966",
+      "title": "'I am a cautious and angry feminist': AWARE’s new leader on why the fight for gender equality is not over",
+      "link": "https://www.channelnewsasia.com/women/gender-equality-singapore-aware-lim-shoon-yin-feminism-5966751",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 23:03:00 +0800",
-      "description": ""
+      "published": "Sun, 08 Mar 2026 07:22:21 +0800",
+      "description": "This International Women’s Day, AWARE’s new executive director Lim Shoon Yin reflects on the backlash against feminism and why work on gender equality in Singapore remains unfinished. The 50-year-old "
     },
     {
-      "title": "Hugs and tears of joy as Singaporeans in the Middle East return home on repatriation flight",
-      "link": "https://www.channelnewsasia.com/singapore/middle-east-war-repatriation-flight-singapore-muscat-5976816",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 23:01:00 +0800",
-      "description": "More than 150 Singaporeans and their dependents touched down on Saturday night (Mar 7) on the first repatriation flight from Muscat, Oman."
-    },
-    {
-      "title": "Elon Musk Cosigns X Money Post, But Does It Have Anything To Do With Dogecoin?",
-      "link": "https://bitcoinist.com/elon-musk-x-money-dogecoin/",
+      "title": "Ethereum Under Pressure As Researchers Issue Critical Report",
+      "link": "https://bitcoinist.com/ethereum-under-pressure/",
       "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 15:00:03 +0000",
-      "description": "Elon Musk’s intentions to launch a financial services app have not been a secret, but the question mostly has been how Dogecoin fits into that dream. Musk was the primary reason for Dogecoin’s legenda"
+      "published": "Sat, 07 Mar 2026 23:00:36 +0000",
+      "description": "Ethereum is facing renewed scrutiny after Culper Research released a sharply critical report outlining its bearish stance on the second-largest cryptocurrency by market capitalization. The reporter ar"
     },
     {
-      "title": "Baseball-Suzuki, Ohtani homers help Japan outlast South Korea",
-      "link": "https://www.channelnewsasia.com/sport/baseball-suzuki-ohtani-homers-help-japan-outlast-south-korea-5978946",
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "source": "TechCrunch",
+      "published": "Sat, 07 Mar 2026 22:56:31 +0000",
+      "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too."
+    },
+    {
+      "title": "New strikes light up Tehran as Israel vows 'many surprises'",
+      "link": "https://www.channelnewsasia.com/world/iran-war-tehran-strikes-trump-israel-lebanon-5979306",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 22:40:29 +0800",
+      "published": "Sun, 08 Mar 2026 06:54:00 +0800",
+      "description": "US President Donald Trump has threatened that Iran would be \"hit very hard\" and more \"areas and groups of people\" would become targets."
+    },
+    {
+      "title": "Why Singapore-based designer Robert Cheng won’t copy your Pinterest board",
+      "link": "https://www.channelnewsasia.com/people/robert-cheng-brewin-design-office-craft-machine-made-5975331",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 06:23:36 +0800",
+      "description": "The Brewin Design Office founder explains why originality matters more than mood boards – and how craft and machine-made solutions can coexist in his luxury hotel projects."
+    },
+    {
+      "title": "Sumptuous Yamal strike gives Barca win in Bilbao and four-point lead",
+      "link": "https://www.channelnewsasia.com/sport/sumptuous-yamal-strike-gives-barca-win-in-bilbao-and-four-point-lead-5979336",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 06:23:32 +0800",
       "description": ""
     },
     {
-      "title": "Türkiye mulls sending F-16s to northern Cyprus amid Middle East war",
-      "link": "https://www.channelnewsasia.com/world/turkey-f16-fighter-jet-cyprus-middle-east-war-iran-5978921",
+      "title": "Marmoush double helps Man City to 3-1 win at Newcastle and place in FA Cup quarters",
+      "link": "https://www.channelnewsasia.com/sport/marmoush-double-helps-man-city-3-1-win-newcastle-and-place-in-fa-cup-quarters-5979326",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 22:30:00 +0800",
+      "published": "Sun, 08 Mar 2026 06:10:10 +0800",
       "description": ""
     },
     {
-      "title": "No pressure, no fun for India captain Suryakumar ahead of T20 World Cup final",
-      "link": "https://www.channelnewsasia.com/sport/no-pressure-no-fun-india-captain-suryakumar-ahead-t20-world-cup-final-5978911",
+      "title": "Friend, coach or girlfriend: Can virtual companions replace human bonds?",
+      "link": "https://www.channelnewsasia.com/cna-insider/artificial-intelligence-AI-chatbots-companions-digital-partner-emotional-relationship-5976696",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 22:23:33 +0800",
-      "description": ""
+      "published": "Sun, 08 Mar 2026 06:00:00 +0800",
+      "description": "Programmable according to your preferences, AI chatbots may seem appealing — particularly in a country where one in 10 people report not having a close friend. CNA series Besties puts AI-human friends"
     },
     {
-      "title": "Eze thunderbolt guides Arsenal past Mansfield into FA Cup quarter-finals",
-      "link": "https://www.channelnewsasia.com/sport/eze-thunderbolt-guides-arsenal-past-mansfield-fa-cup-quarter-finals-5978916",
+      "title": "Commentary: Singapore’s record low fertility rate is not all gloom and doom - it’s an opportunity",
+      "link": "https://www.channelnewsasia.com/commentary/singapore-fertility-rate-tfr-existential-doom-opportunity-5976676",
       "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 22:21:28 +0800",
-      "description": ""
-    },
-    {
-      "title": "Binance Claps Back At Senator Blumenthal’s Allegations, Denouncing False Claims",
-      "link": "https://bitcoinist.com/binance-claps-back-senator-blumenthals-allegations/",
-      "source": "Bitcoinist",
-      "published": "Sat, 07 Mar 2026 14:00:20 +0000",
-      "description": "Binance has formally responded to US Senator Richard Blumenthal (D-CT) following a congressional letter in which the lawmaker cited media reports alleging the company enabled large-scale violations of"
-    },
-    {
-      "title": "Eating 200-year-old rice — inside a centuries-old farming tradition in Indonesia",
-      "link": "https://www.channelnewsasia.com/today/in-pixels/eating-200-year-old-rice-inside-centuries-old-farming-tradition-in-indonesia-5970386",
-      "source": "CNA Singapore",
-      "published": "Sat, 07 Mar 2026 21:30:00 +0800",
-      "description": ""
+      "published": "Sun, 08 Mar 2026 06:00:00 +0800",
+      "description": "Before pronouncing Singapore’s impending end, let’s re-examine whether a declining population will always result in economic catastrophe, says veteran newspaper editor Han Fook Kwang."
     }
   ]
 }
