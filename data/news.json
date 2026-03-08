@@ -1,21 +1,28 @@
 {
-  "updated_sgt": "2026-03-08 12:00 SGT",
-  "updated_iso": "2026-03-08T12:00:29.446374+08:00",
+  "updated_sgt": "2026-03-08 16:00 SGT",
+  "updated_iso": "2026-03-08T16:00:37.621927+08:00",
   "categories": {
     "World": [
+      {
+        "title": "US embassy in Oslo hit by explosion, Norway police say",
+        "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 08 Mar 2026 06:54:58 GMT",
+        "description": "No injuries are reported after the blast in the Norwegian capital in the early hours on Sunday."
+      },
+      {
+        "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
+        "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 08 Mar 2026 04:36:12 GMT",
+        "description": "Thursday's general election was the first since violent youth-led protests toppled the government in September."
+      },
       {
         "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
         "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Sun, 08 Mar 2026 01:08:16 GMT",
         "description": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses."
-      },
-      {
-        "title": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister",
-        "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 07 Mar 2026 19:45:09 GMT",
-        "description": "Thursday's general election was the first since violent youth-led protests toppled the government in September."
       },
       {
         "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
@@ -60,13 +67,6 @@
         "description": "The move is backed by the right-wing Swiss People's Party, which says the current fee is unjustified because of the high cost of living."
       },
       {
-        "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
-        "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 07 Mar 2026 01:56:20 GMT",
-        "description": "US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region."
-      },
-      {
         "title": "Armed robots take to the battlefield in Ukraine war",
         "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -75,6 +75,13 @@
       }
     ],
     "Finance": [
+      {
+        "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
+        "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Mar 2026 07:17:53 GMT",
+        "description": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China."
+      },
       {
         "title": "Iran vows it won't surrender as war with the U.S. and Israel enters second week",
         "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
@@ -118,25 +125,18 @@
         "description": "While the amount that a median-income household can afford is higher than it was a year ago, it is still below the median price for a single-family home."
       },
       {
-        "title": "Berkshire CEO Greg Abel on working with Buffett, Kraft Heinz and using all his salary to buy the stock",
-        "link": "https://www.cnbc.com/2026/03/07/berkshire-ceo-greg-abel-on-working-with-buffett-kraft-heinz-and-using-all-his-salary-to-buy-the-stock.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 13:31:42 GMT",
-        "description": "Berkshire Hathaway's new CEO, Greg Abel, generated some significant headlines during a roughly half-hour live interview on CNBC's \"Squawk Box.\""
-      },
-      {
-        "title": "How China is challenging the U.S. to become the next great space power",
-        "link": "https://www.cnbc.com/2026/03/07/china-us-space-race-rockets.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Mar 2026 13:00:01 GMT",
-        "description": "A new report warns that the U.S. could lose its dominance in space to China in the next few years."
-      },
-      {
         "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
         "link": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
         "source": "CNBC Finance",
         "published": "Sat, 07 Mar 2026 04:34:33 GMT",
         "description": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis."
+      },
+      {
+        "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
+        "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+        "source": "CNBC Finance",
+        "published": "Fri, 06 Mar 2026 20:23:08 GMT",
+        "description": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz."
       },
       {
         "title": "GOP 'big beautiful bill' poised to deliver 'shock' to ACA marketplace, health policy experts say",
@@ -147,6 +147,20 @@
       }
     ],
     "Technology": [
+      {
+        "title": "A roadmap for AI, if anyone will listen",
+        "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Mar 2026 06:05:26 +0000",
+        "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved."
+      },
+      {
+        "title": "Push for $40 smartphones builds momentum, but still faces cost hurdles",
+        "link": "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Mar 2026 05:00:00 +0000",
+        "description": "A coalition of telecom operators and device makers is pushing $40 smartphones to bring up to 20 million people online, but rising component costs threaten the plan."
+      },
       {
         "title": "Google just gave Sundar Pichai a $692M pay package",
         "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
@@ -202,23 +216,16 @@
         "source": "TechCrunch",
         "published": "Fri, 06 Mar 2026 22:35:35 +0000",
         "description": "This lawsuit comes after a Supreme Court decision struck down some of the president's sweeping tariffs, which had impacted Nintendo and thousands of other companies."
-      },
-      {
-        "title": "Life EV officially owns Rad Power Bikes now",
-        "link": "https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 21:56:35 +0000",
-        "description": "The Rad Power brand is expected to live on."
-      },
-      {
-        "title": "OSHA probing fatality at Rivian warehouse",
-        "link": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Mar 2026 20:23:08 +0000",
-        "description": "A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock."
       }
     ],
     "Crypto": [
+      {
+        "title": "Satoshi Nakamoto’s Bitcoin Could Get Stolen, But A BTC Dev Has Proprosed A Solution",
+        "link": "https://bitcoinist.com/satoshi-bitcoin-risk-stolen/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Mar 2026 05:00:06 +0000",
+        "description": "Satoshi Nakamoto’s Bitcoin holdings risk getting stolen as the quantum threat becomes more of a possibility. BTC developer Hunter Beast has notably proposed the Hourglass V2 proposal amid debates on t"
+      },
       {
         "title": "Florida Passes First State-Level Stablecoin Bill — Crypto CLARITY Act Next?",
         "link": "https://bitcoinist.com/florida-state-level-stablecoin-bill-crypto-next/",
@@ -267,13 +274,6 @@
         "source": "Bitcoinist",
         "published": "Sat, 07 Mar 2026 18:30:47 +0000",
         "description": "He told his colleagues only after the money was gone. Nevin Shetty, the former chief financial officer of a Seattle-based tech startup, was sentenced Thursday to two years in federal prison after secr"
-      },
-      {
-        "title": "Bitcoin Market At Uncertain Phase As Stagflation Fears In The US Rises — Details",
-        "link": "https://bitcoinist.com/bitcoin-market-uncertain-stagflation-fears-rises/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Mar 2026 17:00:26 +0000",
-        "description": "In their latest post on CryptoQuant, XWIN Research Japan explores how developing affairs in the United States could affect the trajectory of Bitcoin and other risk assets in the near-term. According t"
       }
     ],
     "Markets": [
@@ -350,74 +350,74 @@
     ],
     "Singapore": [
       {
-        "title": "McLaren's Piastri crashes out before Australian Grand Prix",
-        "link": "https://www.channelnewsasia.com/sport/mclarens-piastri-crashes-out-australian-grand-prix-5979476",
+        "title": "Sri Lanka hospital releases 22 rescued from torpedoed Iranian vessel",
+        "link": "https://www.channelnewsasia.com/asia/iran-warship-iris-dena-sri-lanka-release-22-hospital-5979686",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 11:32:41 +0800",
+        "published": "Sun, 08 Mar 2026 15:24:00 +0800",
+        "description": "More than 60 people are still missing."
+      },
+      {
+        "title": "Djokovic aims for 2028 LA Olympics despite age hurdle",
+        "link": "https://www.channelnewsasia.com/sport/djokovic-aims-2028-la-olympics-despite-age-hurdle-5979676",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 15:09:55 +0800",
         "description": ""
       },
       {
-        "title": "Pietersen says he is open to England coaching role",
-        "link": "https://www.channelnewsasia.com/sport/pietersen-says-he-open-england-coaching-role-5979456",
+        "title": "China rejects ‘major power co-governance’, warns against bypassing UN in veiled swipe at US",
+        "link": "https://www.channelnewsasia.com/east-asia/china-two-sessions-wang-yi-foreign-affairs-us-un-global-governance-5978831",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 11:13:13 +0800",
+        "published": "Sun, 08 Mar 2026 14:45:46 +0800",
+        "description": "“(China does not) subscribe to the logic of major power co-governance,” said Foreign Minister Wang Yi in a Sunday (Mar 8) press conference during the Two Sessions."
+      },
+      {
+        "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
+        "link": "https://www.channelnewsasia.com/asia/nepal-election-votes-ex-rapper-landslide-win-national-independent-party-5979626",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 14:21:00 +0800",
+        "description": "Balendra Shah emerged as a leading figure in the 2025 uprising that ousted former Prime Minister Khadga Prasad Oli."
+      },
+      {
+        "title": "Russell and Mercedes dominate Australian Grand Prix",
+        "link": "https://www.channelnewsasia.com/sport/russell-and-mercedes-dominate-australian-grand-prix-5979616",
+        "source": "CNA Singapore",
+        "published": "Sun, 08 Mar 2026 13:32:01 +0800",
         "description": ""
       },
       {
-        "title": "Watch: China's top diplomat Wang Yi fields questions on foreign policy",
-        "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-press-conference-watch-live-5975561",
+        "title": "War in Middle East ‘should never have happened’, says China’s top diplomat",
+        "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-condemn-middle-east-war-us-israel-iran-5979591",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 10:02:00 +0800",
-        "description": "The press conference at the Two Sessions comes at a time of heightened global tensions, with an escalating Iran war."
+        "published": "Sun, 08 Mar 2026 13:31:53 +0800",
+        "description": "At a press conference on Sunday (Mar 8), Wang Yi also renewed China’s call for an immediate ceasefire and said Beijing is ready to work with Middle Eastern countries to restore order in the region."
       },
       {
-        "title": "Meta ordered to disable access to social media posts showing video of man stepping on Quran: MHA",
-        "link": "https://www.channelnewsasia.com/singapore/meta-disable-access-video-man-step-quran-public-bus-5979401",
+        "title": "Wallabies back Suaalii out for 6-8 weeks with hamstring injury",
+        "link": "https://www.channelnewsasia.com/sport/wallabies-back-suaalii-out-6-8-weeks-hamstring-injury-5979601",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 09:10:00 +0800",
-        "description": "The Ministry of Home Affairs said it takes a strong stance against threats to Singapore's racial and religious harmony."
+        "published": "Sun, 08 Mar 2026 13:21:40 +0800",
+        "description": ""
       },
       {
-        "title": "Trump tells Britain he does not need its help to win Iran war",
-        "link": "https://www.channelnewsasia.com/world/iran-war-trump-britain-starmer-help-5979356",
+        "title": "Alcaraz rolls at Indian Wells as NBA's Butler cheers from sidelines",
+        "link": "https://www.channelnewsasia.com/sport/alcaraz-rolls-indian-wells-nbas-butler-cheers-sidelines-5979556",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 08:40:14 +0800",
-        "description": "\"We don’t need people that join Wars after we’ve already won!\" said the US president.&nbsp;"
+        "published": "Sun, 08 Mar 2026 12:55:49 +0800",
+        "description": ""
       },
       {
-        "title": "Harry Styles wows Manchester fans at intimate album launch show",
-        "link": "https://www.channelnewsasia.com/entertainment/harry-styles-5979381",
+        "title": "Gimenez swoops in after pigeon pauses Atletico match",
+        "link": "https://www.channelnewsasia.com/sport/gimenez-swoops-in-after-pigeon-pauses-atletico-match-5979551",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 08:40:00 +0800",
-        "description": "Harry Styles thrilled thousands in Manchester with a special one-night-only concert celebrating his new album, delivering a phone-free, hit-filled performance ahead of his upcoming world tour."
+        "published": "Sun, 08 Mar 2026 12:52:51 +0800",
+        "description": ""
       },
       {
-        "title": "Paris fashion week: Hermes channels twilight mood in lush runway show for fall/winter 2026",
-        "link": "https://www.channelnewsasia.com/style-beauty/hermes-fw26-5979061",
+        "title": "MOH to focus more on women's health, considering bone density tests under Healthier SG: Ong Ye Kung",
+        "link": "https://www.channelnewsasia.com/singapore/moh-women-health-ong-ye-kung-medisave-ai-5979526",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 08:24:00 +0800",
-        "description": "Hermes creative director Nadege Vanhee unveiled a twilight-inspired fall/winter collection at Paris Fashion Week, featuring fluid leather coats, ostrich biker looks and moss-covered staging at the Gar"
-      },
-      {
-        "title": "Should I worry about the microplastics in my floss and toothbrush?",
-        "link": "https://www.channelnewsasia.com/wellness/microplastics-dental-products-5953406",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 07:23:18 +0800",
-        "description": "There’s evidence that dental products can shed microplastics. Experts break down the potential risks."
-      },
-      {
-        "title": "'I am a cautious and angry feminist': AWARE’s new leader on why the fight for gender equality is not over",
-        "link": "https://www.channelnewsasia.com/women/gender-equality-singapore-aware-lim-shoon-yin-feminism-5966751",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 07:22:21 +0800",
-        "description": "This International Women’s Day, AWARE’s new executive director Lim Shoon Yin reflects on the backlash against feminism and why work on gender equality in Singapore remains unfinished. The 50-year-old "
-      },
-      {
-        "title": "New strikes light up Tehran as Israel vows 'many surprises'",
-        "link": "https://www.channelnewsasia.com/world/iran-war-tehran-strikes-trump-israel-lebanon-5979306",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Mar 2026 06:54:00 +0800",
-        "description": "Donald Trump described the ongoing US operations in Iran as an \"excursion\" and said issues such as rising gas prices and the safety of Americans would improve once the conflict ends."
+        "published": "Sun, 08 Mar 2026 12:45:00 +0800",
+        "description": "The health minister also described the recent announcements during the debate on his ministry’s budget as “breakthroughs” that relooked longstanding policy assumptions."
       }
     ],
     "US Politics": [
@@ -494,11 +494,18 @@
     ],
     "Science": [
       {
-        "title": "Study finds phone use on the toilet may cause painful medical condition",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260306224216.htm",
+        "title": "A perfectly balanced atom just broke one of nuclear physics’ biggest rules",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260307213241.htm",
         "source": "Science Daily",
-        "published": "Sat, 07 Mar 2026 21:53:04 EST",
-        "description": "Scrolling on your phone while sitting on the toilet might be doing more harm than you think. A new study found that people who use smartphones during bathroom visits had a 46% higher risk of hemorrhoi"
+        "published": "Sun, 08 Mar 2026 01:01:02 EST",
+        "description": "Physicists have discovered a surprising new “Island of Inversion” in a place no one expected: among nuclei where the number of protons equals the number of neutrons. For decades, these strange regions"
+      },
+      {
+        "title": "NASA DART mission reveals asteroids throw “cosmic snowballs” at each other",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260307213226.htm",
+        "source": "Science Daily",
+        "published": "Sun, 08 Mar 2026 00:07:30 EST",
+        "description": "Asteroids with tiny moons may be quietly trading material across space. Images from NASA’s DART mission revealed faint streaks on the moon Dimorphos—evidence of slow “cosmic snowballs” drifting from i"
       },
       {
         "title": "Scientists warn fake research is spreading faster than real science",
@@ -513,13 +520,6 @@
         "source": "Science Daily",
         "published": "Sat, 07 Mar 2026 20:28:40 EST",
         "description": "Researchers have uncovered a surprising molecular chain reaction in the brain that may play a role in some forms of autism. The study suggests that nitric oxide, a tiny signaling molecule normally inv"
-      },
-      {
-        "title": "Bird droppings helped build one of ancient Peru’s most powerful kingdoms",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260306224219.htm",
-        "source": "Science Daily",
-        "published": "Sat, 07 Mar 2026 19:02:30 EST",
-        "description": "New research suggests seabird guano helped transform the Chincha Kingdom into one of the most prosperous societies in ancient Peru. Chemical clues in centuries-old maize show farmers fertilized their "
       },
       {
         "title": "AI discovers the hidden signal of liquid-like ion flow in solid-state batteries",
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "McLaren's Piastri crashes out before Australian Grand Prix",
-      "link": "https://www.channelnewsasia.com/sport/mclarens-piastri-crashes-out-australian-grand-prix-5979476",
+      "title": "Sri Lanka hospital releases 22 rescued from torpedoed Iranian vessel",
+      "link": "https://www.channelnewsasia.com/asia/iran-warship-iris-dena-sri-lanka-release-22-hospital-5979686",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 11:32:41 +0800",
+      "published": "Sun, 08 Mar 2026 15:24:00 +0800",
+      "description": "More than 60 people are still missing."
+    },
+    {
+      "title": "Djokovic aims for 2028 LA Olympics despite age hurdle",
+      "link": "https://www.channelnewsasia.com/sport/djokovic-aims-2028-la-olympics-despite-age-hurdle-5979676",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 15:09:55 +0800",
       "description": ""
     },
     {
-      "title": "Florida Passes First State-Level Stablecoin Bill — Crypto CLARITY Act Next?",
-      "link": "https://bitcoinist.com/florida-state-level-stablecoin-bill-crypto-next/",
-      "source": "Bitcoinist",
-      "published": "Sun, 08 Mar 2026 03:30:13 +0000",
-      "description": "In a positive development for the crypto industry, the Florida State Senate has passed a bill to create a regulatory framework for stablecoins at the state level. This move comes amid the struggles to"
+      "title": "China rejects ‘major power co-governance’, warns against bypassing UN in veiled swipe at US",
+      "link": "https://www.channelnewsasia.com/east-asia/china-two-sessions-wang-yi-foreign-affairs-us-un-global-governance-5978831",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 14:45:46 +0800",
+      "description": "“(China does not) subscribe to the logic of major power co-governance,” said Foreign Minister Wang Yi in a Sunday (Mar 8) press conference during the Two Sessions."
     },
     {
-      "title": "Pietersen says he is open to England coaching role",
-      "link": "https://www.channelnewsasia.com/sport/pietersen-says-he-open-england-coaching-role-5979456",
+      "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
+      "link": "https://www.channelnewsasia.com/asia/nepal-election-votes-ex-rapper-landslide-win-national-independent-party-5979626",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 11:13:13 +0800",
+      "published": "Sun, 08 Mar 2026 14:21:00 +0800",
+      "description": "Balendra Shah emerged as a leading figure in the 2025 uprising that ousted former Prime Minister Khadga Prasad Oli."
+    },
+    {
+      "title": "A roadmap for AI, if anyone will listen",
+      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "source": "TechCrunch",
+      "published": "Sun, 08 Mar 2026 06:05:26 +0000",
+      "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved."
+    },
+    {
+      "title": "Russell and Mercedes dominate Australian Grand Prix",
+      "link": "https://www.channelnewsasia.com/sport/russell-and-mercedes-dominate-australian-grand-prix-5979616",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 13:32:01 +0800",
       "description": ""
     },
     {
-      "title": "Watch: China's top diplomat Wang Yi fields questions on foreign policy",
-      "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-press-conference-watch-live-5975561",
+      "title": "War in Middle East ‘should never have happened’, says China’s top diplomat",
+      "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-condemn-middle-east-war-us-israel-iran-5979591",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 10:02:00 +0800",
-      "description": "The press conference at the Two Sessions comes at a time of heightened global tensions, with an escalating Iran war."
+      "published": "Sun, 08 Mar 2026 13:31:53 +0800",
+      "description": "At a press conference on Sunday (Mar 8), Wang Yi also renewed China’s call for an immediate ceasefire and said Beijing is ready to work with Middle Eastern countries to restore order in the region."
     },
     {
-      "title": "CBDC: Senator Pushes For Permanent Ban In Housing Act Amendment",
-      "link": "https://bitcoinist.com/cbdc-regulation-senator-ted-cruz-push-permanent-ban/",
+      "title": "Wallabies back Suaalii out for 6-8 weeks with hamstring injury",
+      "link": "https://www.channelnewsasia.com/sport/wallabies-back-suaalii-out-6-8-weeks-hamstring-injury-5979601",
+      "source": "CNA Singapore",
+      "published": "Sun, 08 Mar 2026 13:21:40 +0800",
+      "description": ""
+    },
+    {
+      "title": "Satoshi Nakamoto’s Bitcoin Could Get Stolen, But A BTC Dev Has Proprosed A Solution",
+      "link": "https://bitcoinist.com/satoshi-bitcoin-risk-stolen/",
       "source": "Bitcoinist",
-      "published": "Sun, 08 Mar 2026 02:00:01 +0000",
-      "description": "US Senator Ted Cruz is maintaining a firm campaign against a US central bank digital currency (CBDC). In the latest development, the junior senator representing Texas has pushed for a permanent CBDC b"
+      "published": "Sun, 08 Mar 2026 05:00:06 +0000",
+      "description": "Satoshi Nakamoto’s Bitcoin holdings risk getting stolen as the quantum threat becomes more of a possibility. BTC developer Hunter Beast has notably proposed the Hourglass V2 proposal amid debates on t"
     },
     {
-      "title": "Meta ordered to disable access to social media posts showing video of man stepping on Quran: MHA",
-      "link": "https://www.channelnewsasia.com/singapore/meta-disable-access-video-man-step-quran-public-bus-5979401",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 09:10:00 +0800",
-      "description": "The Ministry of Home Affairs said it takes a strong stance against threats to Singapore's racial and religious harmony."
-    },
-    {
-      "title": "Trump tells Britain he does not need its help to win Iran war",
-      "link": "https://www.channelnewsasia.com/world/iran-war-trump-britain-starmer-help-5979356",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 08:40:14 +0800",
-      "description": "\"We don’t need people that join Wars after we’ve already won!\" said the US president.&nbsp;"
-    },
-    {
-      "title": "Harry Styles wows Manchester fans at intimate album launch show",
-      "link": "https://www.channelnewsasia.com/entertainment/harry-styles-5979381",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 08:40:00 +0800",
-      "description": "Harry Styles thrilled thousands in Manchester with a special one-night-only concert celebrating his new album, delivering a phone-free, hit-filled performance ahead of his upcoming world tour."
-    },
-    {
-      "title": "Solana’s 755% Surge Shows That Users Are Coming Back To The Table",
-      "link": "https://bitcoinist.com/solana-users-are-coming-back/",
-      "source": "Bitcoinist",
-      "published": "Sun, 08 Mar 2026 00:30:05 +0000",
-      "description": "After months of bearish pressure and fading market enthusiasm, Solana (SOL) appears to be finding its footing again. A new report by Messari, a crypto market intelligence platform, shows the network’s"
-    },
-    {
-      "title": "Paris fashion week: Hermes channels twilight mood in lush runway show for fall/winter 2026",
-      "link": "https://www.channelnewsasia.com/style-beauty/hermes-fw26-5979061",
-      "source": "CNA Singapore",
-      "published": "Sun, 08 Mar 2026 08:24:00 +0800",
-      "description": "Hermes creative director Nadege Vanhee unveiled a twilight-inspired fall/winter collection at Paris Fashion Week, featuring fluid leather coats, ostrich biker looks and moss-covered staging at the Gar"
+      "title": "Push for $40 smartphones builds momentum, but still faces cost hurdles",
+      "link": "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/",
+      "source": "TechCrunch",
+      "published": "Sun, 08 Mar 2026 05:00:00 +0000",
+      "description": "A coalition of telecom operators and device makers is pushing $40 smartphones to bring up to 20 million people online, but rising component costs threaten the plan."
     }
   ]
 }
