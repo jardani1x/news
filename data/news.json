@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-03-09 12:00 SGT",
-  "updated_iso": "2026-03-09T12:00:12.441961+08:00",
+  "updated_sgt": "2026-03-09 16:00 SGT",
+  "updated_iso": "2026-03-09T16:00:12.716733+08:00",
   "categories": {
     "World": [
       {
@@ -9,13 +9,6 @@
         "source": "BBC World",
         "published": "Sun, 08 Mar 2026 21:51:48 GMT",
         "description": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies."
-      },
-      {
-        "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
-        "link": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 08 Mar 2026 20:47:29 GMT",
-        "description": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show."
       },
       {
         "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
@@ -46,6 +39,27 @@
         "description": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses."
       },
       {
+        "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
+        "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 09 Mar 2026 07:47:31 GMT",
+        "description": "Chancellor Rachel Reeves with join talks with reports suggest could include releases oil reserves."
+      },
+      {
+        "title": "Australia urged to protect Iranian women's football team as they prepare to fly home",
+        "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 09 Mar 2026 06:51:18 GMT",
+        "description": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem."
+      },
+      {
+        "title": "Australians must prove they are over 18 to access porn under new laws",
+        "link": "https://www.bbc.com/news/articles/cwy92qpv424o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 09 Mar 2026 03:02:04 GMT",
+        "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines."
+      },
+      {
         "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
         "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -53,25 +67,11 @@
         "description": "A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say."
       },
       {
-        "title": "Oil prices surge above $110 and shares slide over Iran war",
-        "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 09 Mar 2026 02:19:19 GMT",
-        "description": "Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world."
-      },
-      {
         "title": "Spain's migrants welcome amnesty: 'It will help us in every way'",
         "link": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Mon, 09 Mar 2026 00:17:54 GMT",
         "description": "Madrid cites humanitarian and economic reasons to give undocumented workers legal status."
-      },
-      {
-        "title": "Masked fan unplugs VAR monitor in German match",
-        "link": "https://www.bbc.com/sport/football/articles/c0rj2kq978qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 09 Mar 2026 00:13:32 GMT",
-        "description": "A masked fan unplugged a VAR monitor in a German second division match as the referee was went to the pitchside screen to check a penalty award."
       }
     ],
     "Finance": [
@@ -83,25 +83,11 @@
         "description": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue."
       },
       {
-        "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed",
-        "link": "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html",
-        "source": "CNBC Finance",
-        "published": "Sun, 08 Mar 2026 19:42:47 GMT",
-        "description": "The SAVE America Act is all but certain to fail in the Senate, where Democrats will use the filibuster to sink it."
-      },
-      {
         "title": "War disruptions may send oil to $150 to $200 a barrel. Here's my advice for stock investors",
         "link": "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html",
         "source": "CNBC Finance",
         "published": "Sun, 08 Mar 2026 19:27:51 GMT",
         "description": "In his Sunday column for Investing Club subscribers, Jim Cramer explains how investors should navigate a continued surge in oil prices."
-      },
-      {
-        "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
-        "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
-        "source": "CNBC Finance",
-        "published": "Sun, 08 Mar 2026 07:17:53 GMT",
-        "description": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China."
       },
       {
         "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
@@ -111,32 +97,46 @@
         "description": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis."
       },
       {
-        "title": "China consumer inflation hits three-year high as producer deflation eases",
-        "link": "https://www.cnbc.com/2026/03/09/china-february-inflation-cpi-producer-prices-stimulus-economy-ppi-factory-consumer.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 03:44:35 GMT",
-        "description": "China's consumer inflation recorded the biggest jump in more than three years, as an extended holiday bolstered spending."
-      },
-      {
-        "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $110",
+        "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $100",
         "link": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 03:29:14 GMT",
-        "description": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled markets and sent oil prices surging above $110 per barrel."
+        "published": "Mon, 09 Mar 2026 07:54:24 GMT",
+        "description": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled markets and sent oil prices surging above $100 per barrel."
       },
       {
-        "title": "Asia markets tumble as oil nears $120; marks largest one day gain in almost 40 years",
-        "link": "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 02:54:24 GMT",
-        "description": "Brent futures spiked 23.38% to $114.30, while U.S. West Texas Intermediate crude futures rose 26.35% to $114.85."
-      },
-      {
-        "title": "Oil surges above $110 a barrel; Trump says 'small price to pay' for defeating Iran",
+        "title": "Oil prices pull back after breaching $110 as G7 nations consider tapping emergency reserves",
         "link": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 02:11:28 GMT",
+        "published": "Mon, 09 Mar 2026 07:51:33 GMT",
         "description": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
+      },
+      {
+        "title": "Asia markets moderate losses after reported Saudi oil release slightly ease prices",
+        "link": "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 09 Mar 2026 07:41:45 GMT",
+        "description": "Markets cut losses later in the session as a reported release of Saudi Arabian crude on the market eased oil prices."
+      },
+      {
+        "title": "CNBC Daily Open: Oil storms past $100 for first time since 2022",
+        "link": "https://www.cnbc.com/2026/03/09/cnbc-daily-open-oil-storms-past-100-for-first-time-since-2022.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 09 Mar 2026 07:36:48 GMT",
+        "description": "Shortly after the surge, U.S. President Donald Trump said on Truth Social that \"short term oil prices\" are \"a very small price to pay.\""
+      },
+      {
+        "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+        "link": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 09 Mar 2026 07:06:27 GMT",
+        "description": "The latest Middle East tensions sheds light on how the world's three largest oil consumers have taken different approaches to energy, with global consequences."
+      },
+      {
+        "title": "European markets set to slump on Middle East turmoil as oil price surges",
+        "link": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
+        "source": "CNBC Finance",
+        "published": "Mon, 09 Mar 2026 06:43:24 GMT",
+        "description": "European stocks are expected to start the new trading week heavily lower as traders track developments in the Middle East and a surge in oil prices."
       },
       {
         "title": "TSA staff shortages lead to hourslong security lines for travelers at some airports",
@@ -211,11 +211,11 @@
         "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t"
       },
       {
-        "title": "PopSockets founder David Barnett talks about building a viral business",
-        "link": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
+        "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
+        "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
         "source": "TechCrunch",
-        "published": "Sat, 07 Mar 2026 18:40:00 +0000",
-        "description": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader."
+        "published": "Mon, 09 Mar 2026 04:35:06 +0000",
+        "description": "The facial recognition question is where things get more tangled."
       }
     ],
     "Crypto": [
@@ -255,18 +255,18 @@
         "description": "A federal judge in Manhattan has thrown out a civil lawsuit accusing Binance, the world&#8217;s largest crypto exchange, and its founder Changpeng Zhao, popularly known as CZ, of facilitating financin"
       },
       {
-        "title": "Recent Bitcoin Correction Could Persist Due To Whale Activity — Santiment",
-        "link": "https://bitcoinist.com/bitcoin-correction-could-persist-to-whale-activity/",
+        "title": "Cardano Founder Says Pentad Faces $40 Million Shortfall After ADA Price Crash",
+        "link": "https://bitcoinist.com/cardano-pentad-40-million-shortfall/",
         "source": "Bitcoinist",
-        "published": "Sun, 08 Mar 2026 06:30:48 +0000",
-        "description": "The price of Bitcoin seemed to have broken into a fresh rally after making a run towards $75,000 during the week. However, the premier cryptocurrency has been on a steady decline since hitting a new o"
+        "published": "Mon, 09 Mar 2026 07:30:35 +0000",
+        "description": "Charles Hoskinson says Cardano’s Pentad initiative is dealing with a roughly $40 million funding gap after ADA fell from around $0.83 at the time of the original proposal to roughly $0.25. In a March "
       },
       {
-        "title": "Satoshi Nakamoto’s Bitcoin Could Get Stolen, But A BTC Dev Has Proposed A Solution",
-        "link": "https://bitcoinist.com/satoshi-bitcoin-risk-stolen/",
+        "title": "Samson Mow Calls Bitcoin ‘Exponential Gold’, Predicts What Will Happen",
+        "link": "https://bitcoinist.com/samson-mow-bitcoin-gold/",
         "source": "Bitcoinist",
-        "published": "Sun, 08 Mar 2026 05:00:06 +0000",
-        "description": "Satoshi Nakamoto’s Bitcoin holdings risk getting stolen as the quantum threat becomes more of a possibility. BTC developer Hunter Beast has notably proposed the Hourglass V2 proposal amid debates on t"
+        "published": "Mon, 09 Mar 2026 06:00:06 +0000",
+        "description": "Bitcoin, being referred to as digital gold, is nothing new, as proponents have, for the longest time, expected the digital asset to replicate gold’s growth. Currently, the market cap of gold is more t"
       },
       {
         "title": "Bitcoin MACD Drops To Bearish Level Not Seen Since 2022 — Crypto Winter Incoming?",
@@ -344,79 +344,79 @@
         "title": "Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Mar 2026 02:58:00 GMT",
+        "published": "Mon, 09 Mar 2026 05:57:00 GMT",
         "description": "U.S. stock-market futures fell on Sunday as crude futures surged above $100 a barrel for the first time since 2022 amid growing fears about the economic effects of the conflict with Iran."
       }
     ],
     "Singapore": [
       {
-        "title": "Japan says no contact with Taiwan PM during visit",
-        "link": "https://www.channelnewsasia.com/east-asia/japan-taiwan-pm-cho-jung-tai-baseball-game-5980811",
+        "title": "Players' union raises alarm over safety of Iran women's soccer team after Asian Cup exit",
+        "link": "https://www.channelnewsasia.com/sport/players-union-raises-alarm-over-safety-iran-womens-soccer-team-after-asian-cup-exit-5981221",
         "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 11:56:10 +0800",
+        "published": "Mon, 09 Mar 2026 15:55:06 +0800",
         "description": ""
       },
       {
-        "title": "Indonesian singer Vidi Aldiano dies of kidney cancer at 35",
-        "link": "https://www.channelnewsasia.com/entertainment/indonesian-singer-vidi-aldiano-death-kidney-cancer-5980766",
+        "title": "Apollo to close acquisition of Atletico Madrid stake this week, says Expansion",
+        "link": "https://www.channelnewsasia.com/sport/apollo-close-acquisition-atletico-madrid-stake-week-says-expansion-5981196",
         "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 11:52:33 +0800",
-        "description": "The late singer-songwriter is survived by his wife, actress&nbsp;Sheila Dara Aisha.&nbsp;"
-      },
-      {
-        "title": "'Virtually unbeatable' India win praise after third T20 World Cup crown",
-        "link": "https://www.channelnewsasia.com/sport/virtually-unbeatable-india-win-praise-after-third-t20-world-cup-crown-5980776",
-        "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 11:21:53 +0800",
+        "published": "Mon, 09 Mar 2026 15:40:11 +0800",
         "description": ""
       },
       {
-        "title": "Members of K-pop group Seventeen spotted around Singapore during concert weekend",
-        "link": "https://www.channelnewsasia.com/entertainment/kpop-seventeen-members-spotted-in-singapore-concert-weekend-5980601",
+        "title": "Garcia takes over at struggling Ajax after weekend setback",
+        "link": "https://www.channelnewsasia.com/sport/garcia-takes-over-struggling-ajax-after-weekend-setback-5981186",
         "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 11:09:00 +0800",
-        "description": "The8 was spotted at Marquee Singapore on Friday (Mar 6) ahead of the concert, while Mingyu and Vernon were seen at Bae's Cocktail Club after their show on Saturday."
-      },
-      {
-        "title": "CNA’s global reach doubles to over 180 million homes and connected devices",
-        "link": "https://www.channelnewsasia.com/singapore/cna-global-reach-doubles-berlin-germany-5980651",
-        "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 11:02:00 +0800",
-        "description": "The Asian news network's CNA Originals channel has expanded to viewers across Europe,&nbsp;including Germany, Italy, the Netherlands, the Nordics and the United Kingdom."
-      },
-      {
-        "title": "Gauff retires from Indian Wells match due to elbow pain",
-        "link": "https://www.channelnewsasia.com/sport/gauff-retires-indian-wells-match-due-elbow-pain-5980736",
-        "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 10:58:35 +0800",
+        "published": "Mon, 09 Mar 2026 15:37:34 +0800",
         "description": ""
       },
       {
-        "title": "Oil shoots higher, shares skid as Middle East conflict drags on",
-        "link": "https://www.channelnewsasia.com/world/oil-shoots-higher-shares-skid-middle-east-conflict-drags-5980731",
+        "title": "Blackpink’s Lisa meets Punch, the viral lonely monkey in Japan",
+        "link": "https://www.channelnewsasia.com/entertainment/blackpink-lisa-meets-lonely-monkey-punch-5980931",
         "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 10:50:54 +0800",
+        "published": "Mon, 09 Mar 2026 15:23:08 +0800",
+        "description": "The internet's favourite lonely monkey got a special visitor."
+      },
+      {
+        "title": "Singapore to deploy RSAF aircraft to evacuate Singaporeans from Saudi Arabia on Mar 10",
+        "link": "https://www.channelnewsasia.com/singapore/middle-east-war-riyadh-saudi-arabia-repatriation-flight-evacuation-rsaf-5981126",
+        "source": "CNA Singapore",
+        "published": "Mon, 09 Mar 2026 15:21:00 +0800",
+        "description": "A second repatriation flight from Saudi Arabia is being planned for Mar 12."
+      },
+      {
+        "title": "Samson rises from year of struggle to become India's World Cup hero",
+        "link": "https://www.channelnewsasia.com/sport/samson-rises-year-struggle-become-indias-world-cup-hero-5981096",
+        "source": "CNA Singapore",
+        "published": "Mon, 09 Mar 2026 14:43:21 +0800",
         "description": ""
       },
       {
-        "title": "Heavy traffic expected at Singapore's land checkpoints during March school holidays, Hari Raya Puasa weekend",
-        "link": "https://www.channelnewsasia.com/singapore/heavy-traffic-malaysia-checkpoints-march-school-holidays-hari-raya-puasa-5980646",
+        "title": "Singapore firms in Middle East say staff safe, operations largely unaffected by war",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-companies-staff-middle-east-iran-israel-war-5981016",
         "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 10:48:00 +0800",
-        "description": "Travellers should also expect longer waiting times to clear immigration due to stepped-up security checks on arriving travellers, cargo and vehicles, said the Immigration and Checkpoints Authority."
+        "published": "Mon, 09 Mar 2026 14:36:31 +0800",
+        "description": "Companies are maintaining regular contact with employees on the ground and have restricted business travel to and from the region."
       },
       {
-        "title": "South Korea to impose fuel price cap to shield economy from energy shock",
-        "link": "https://www.channelnewsasia.com/business/south-korea-impose-fuel-price-cap-shield-economy-energy-shock-5980726",
+        "title": "Singer Rihanna's Los Angeles mansion struck by gunfire: Reports",
+        "link": "https://www.channelnewsasia.com/entertainment/rihanna-los-angeles-home-shot-5981061",
         "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 10:46:06 +0800",
-        "description": ""
+        "published": "Mon, 09 Mar 2026 14:33:51 +0800",
+        "description": "The singer was reportedly inside when the shooting happened.&nbsp;"
       },
       {
-        "title": "Californian Tien relishes full-circle moment at Indian Wells",
-        "link": "https://www.channelnewsasia.com/sport/californian-tien-relishes-full-circle-moment-indian-wells-5980661",
+        "title": "From doxxing to rumour-mongering: China’s cybercrime cases jump 158.5% in five years",
+        "link": "https://www.channelnewsasia.com/east-asia/china-two-sessions-judicial-report-cybercrime-ai-driving-tech-5980526",
         "source": "CNA Singapore",
-        "published": "Mon, 09 Mar 2026 10:16:54 +0800",
+        "published": "Mon, 09 Mar 2026 14:24:39 +0800",
+        "description": "Authorities are targeting offences ranging from doxxing and online rumour-mongering to telecom fraud, according to reports released at the Two Sessions meetings on Monday (Mar 9)."
+      },
+      {
+        "title": "Analysis:Activist threat pushes Japanese companies to unwind cross-shareholdings",
+        "link": "https://www.channelnewsasia.com/business/analysisactivist-threat-pushes-japanese-companies-unwind-cross-shareholdings-5981051",
+        "source": "CNA Singapore",
+        "published": "Mon, 09 Mar 2026 14:08:58 +0800",
         "description": ""
       }
     ],
@@ -557,11 +557,11 @@
         "description": "Physicists have discovered a surprising new “Island of Inversion” in a place no one expected: among nuclei where the number of protons equals the number of neutrons. For decades, these strange regions"
       },
       {
-        "title": "NASA DART mission reveals asteroids throw “cosmic snowballs” at each other",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260307213226.htm",
+        "title": "Particles may not follow Einstein’s paths after all",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
         "source": "Science Daily",
-        "published": "Sun, 08 Mar 2026 00:07:30 EST",
-        "description": "Asteroids with tiny moons may be quietly trading material across space. Images from NASA’s DART mission revealed faint streaks on the moon Dimorphos—evidence of slow “cosmic snowballs” drifting from i"
+        "published": "Mon, 09 Mar 2026 00:16:40 EDT",
+        "description": "Physicists have long struggled to unite quantum mechanics—the theory governing tiny particles—with Einstein’s theory of gravity, which explains the behavior of stars, planets, and the structure of the"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Japan says no contact with Taiwan PM during visit",
-      "link": "https://www.channelnewsasia.com/east-asia/japan-taiwan-pm-cho-jung-tai-baseball-game-5980811",
+      "title": "Players' union raises alarm over safety of Iran women's soccer team after Asian Cup exit",
+      "link": "https://www.channelnewsasia.com/sport/players-union-raises-alarm-over-safety-iran-womens-soccer-team-after-asian-cup-exit-5981221",
       "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 11:56:10 +0800",
+      "published": "Mon, 09 Mar 2026 15:55:06 +0800",
       "description": ""
     },
     {
-      "title": "Indonesian singer Vidi Aldiano dies of kidney cancer at 35",
-      "link": "https://www.channelnewsasia.com/entertainment/indonesian-singer-vidi-aldiano-death-kidney-cancer-5980766",
+      "title": "Apollo to close acquisition of Atletico Madrid stake this week, says Expansion",
+      "link": "https://www.channelnewsasia.com/sport/apollo-close-acquisition-atletico-madrid-stake-week-says-expansion-5981196",
       "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 11:52:33 +0800",
-      "description": "The late singer-songwriter is survived by his wife, actress&nbsp;Sheila Dara Aisha.&nbsp;"
-    },
-    {
-      "title": "'Virtually unbeatable' India win praise after third T20 World Cup crown",
-      "link": "https://www.channelnewsasia.com/sport/virtually-unbeatable-india-win-praise-after-third-t20-world-cup-crown-5980776",
-      "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 11:21:53 +0800",
+      "published": "Mon, 09 Mar 2026 15:40:11 +0800",
       "description": ""
     },
     {
-      "title": "Members of K-pop group Seventeen spotted around Singapore during concert weekend",
-      "link": "https://www.channelnewsasia.com/entertainment/kpop-seventeen-members-spotted-in-singapore-concert-weekend-5980601",
+      "title": "Garcia takes over at struggling Ajax after weekend setback",
+      "link": "https://www.channelnewsasia.com/sport/garcia-takes-over-struggling-ajax-after-weekend-setback-5981186",
       "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 11:09:00 +0800",
-      "description": "The8 was spotted at Marquee Singapore on Friday (Mar 6) ahead of the concert, while Mingyu and Vernon were seen at Bae's Cocktail Club after their show on Saturday."
-    },
-    {
-      "title": "CNA’s global reach doubles to over 180 million homes and connected devices",
-      "link": "https://www.channelnewsasia.com/singapore/cna-global-reach-doubles-berlin-germany-5980651",
-      "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 11:02:00 +0800",
-      "description": "The Asian news network's CNA Originals channel has expanded to viewers across Europe,&nbsp;including Germany, Italy, the Netherlands, the Nordics and the United Kingdom."
-    },
-    {
-      "title": "Gauff retires from Indian Wells match due to elbow pain",
-      "link": "https://www.channelnewsasia.com/sport/gauff-retires-indian-wells-match-due-elbow-pain-5980736",
-      "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 10:58:35 +0800",
+      "published": "Mon, 09 Mar 2026 15:37:34 +0800",
       "description": ""
     },
     {
-      "title": "Oil shoots higher, shares skid as Middle East conflict drags on",
-      "link": "https://www.channelnewsasia.com/world/oil-shoots-higher-shares-skid-middle-east-conflict-drags-5980731",
+      "title": "Cardano Founder Says Pentad Faces $40 Million Shortfall After ADA Price Crash",
+      "link": "https://bitcoinist.com/cardano-pentad-40-million-shortfall/",
+      "source": "Bitcoinist",
+      "published": "Mon, 09 Mar 2026 07:30:35 +0000",
+      "description": "Charles Hoskinson says Cardano’s Pentad initiative is dealing with a roughly $40 million funding gap after ADA fell from around $0.83 at the time of the original proposal to roughly $0.25. In a March "
+    },
+    {
+      "title": "Blackpink’s Lisa meets Punch, the viral lonely monkey in Japan",
+      "link": "https://www.channelnewsasia.com/entertainment/blackpink-lisa-meets-lonely-monkey-punch-5980931",
       "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 10:50:54 +0800",
+      "published": "Mon, 09 Mar 2026 15:23:08 +0800",
+      "description": "The internet's favourite lonely monkey got a special visitor."
+    },
+    {
+      "title": "Singapore to deploy RSAF aircraft to evacuate Singaporeans from Saudi Arabia on Mar 10",
+      "link": "https://www.channelnewsasia.com/singapore/middle-east-war-riyadh-saudi-arabia-repatriation-flight-evacuation-rsaf-5981126",
+      "source": "CNA Singapore",
+      "published": "Mon, 09 Mar 2026 15:21:00 +0800",
+      "description": "A second repatriation flight from Saudi Arabia is being planned for Mar 12."
+    },
+    {
+      "title": "Samson rises from year of struggle to become India's World Cup hero",
+      "link": "https://www.channelnewsasia.com/sport/samson-rises-year-struggle-become-indias-world-cup-hero-5981096",
+      "source": "CNA Singapore",
+      "published": "Mon, 09 Mar 2026 14:43:21 +0800",
       "description": ""
     },
     {
-      "title": "Heavy traffic expected at Singapore's land checkpoints during March school holidays, Hari Raya Puasa weekend",
-      "link": "https://www.channelnewsasia.com/singapore/heavy-traffic-malaysia-checkpoints-march-school-holidays-hari-raya-puasa-5980646",
+      "title": "Singapore firms in Middle East say staff safe, operations largely unaffected by war",
+      "link": "https://www.channelnewsasia.com/singapore/singapore-companies-staff-middle-east-iran-israel-war-5981016",
       "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 10:48:00 +0800",
-      "description": "Travellers should also expect longer waiting times to clear immigration due to stepped-up security checks on arriving travellers, cargo and vehicles, said the Immigration and Checkpoints Authority."
+      "published": "Mon, 09 Mar 2026 14:36:31 +0800",
+      "description": "Companies are maintaining regular contact with employees on the ground and have restricted business travel to and from the region."
     },
     {
-      "title": "South Korea to impose fuel price cap to shield economy from energy shock",
-      "link": "https://www.channelnewsasia.com/business/south-korea-impose-fuel-price-cap-shield-economy-energy-shock-5980726",
+      "title": "Singer Rihanna's Los Angeles mansion struck by gunfire: Reports",
+      "link": "https://www.channelnewsasia.com/entertainment/rihanna-los-angeles-home-shot-5981061",
       "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 10:46:06 +0800",
-      "description": ""
+      "published": "Mon, 09 Mar 2026 14:33:51 +0800",
+      "description": "The singer was reportedly inside when the shooting happened.&nbsp;"
     },
     {
-      "title": "Californian Tien relishes full-circle moment at Indian Wells",
-      "link": "https://www.channelnewsasia.com/sport/californian-tien-relishes-full-circle-moment-indian-wells-5980661",
+      "title": "From doxxing to rumour-mongering: China’s cybercrime cases jump 158.5% in five years",
+      "link": "https://www.channelnewsasia.com/east-asia/china-two-sessions-judicial-report-cybercrime-ai-driving-tech-5980526",
       "source": "CNA Singapore",
-      "published": "Mon, 09 Mar 2026 10:16:54 +0800",
-      "description": ""
+      "published": "Mon, 09 Mar 2026 14:24:39 +0800",
+      "description": "Authorities are targeting offences ranging from doxxing and online rumour-mongering to telecom fraud, according to reports released at the Two Sessions meetings on Monday (Mar 9)."
     }
   ]
 }
