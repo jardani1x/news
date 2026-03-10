@@ -1,6 +1,6 @@
 {
-  "updated_sgt": "2026-03-10 08:00 SGT",
-  "updated_iso": "2026-03-10T08:00:16.561841+08:00",
+  "updated_sgt": "2026-03-10 12:01 SGT",
+  "updated_iso": "2026-03-10T12:01:25.535380+08:00",
   "categories": {
     "World": [
       {
@@ -22,7 +22,7 @@
         "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Mon, 09 Mar 2026 21:46:53 GMT",
-        "description": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem."
+        "description": "Concern has grown for team after one critic called them \"wartime traitors\" for failing to salute during the Iranian anthem."
       },
       {
         "title": "US teacher killed after toilet paper prank goes wrong",
@@ -76,10 +76,38 @@
     ],
     "Finance": [
       {
+        "title": "China exports sharply beat expectations in the first two months as trade surplus surges to highest on record",
+        "link": "https://www.cnbc.com/2026/03/10/china-trade-balance-surplus-record-exports-tariffs-imports.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 10 Mar 2026 03:57:35 GMT",
+        "description": "China typically combines January and February trade data to smooth distortions from the shifting Lunar New Year holiday."
+      },
+      {
+        "title": "Oil plunges 10% as Trump warns to hit Iran 'twenty times harder' if it blockades Strait of Hormuz",
+        "link": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 10 Mar 2026 03:09:05 GMT",
+        "description": "Oil prices plunged after Trump warned that Tehran would be hit \"twenty times harder\" if it attempted to halt oil flows through the Strait of Hormuz."
+      },
+      {
+        "title": "Asia markets rebound as oil plunges after Trump signals Iran war might end 'soon'",
+        "link": "https://www.cnbc.com/2026/03/10/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 10 Mar 2026 02:38:20 GMT",
+        "description": "Asia-Pacific markets rebounded from Monday's rout after oil prices fell and Wall Street bounced back."
+      },
+      {
+        "title": "Elon Musk's xAI wants to build a power plant in Mississippi. Regulators plan a key meeting on Election Day",
+        "link": "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 10 Mar 2026 00:30:53 GMT",
+        "description": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven."
+      },
+      {
         "title": "Trump says Iran war will end 'very soon,' predicts lower oil prices",
         "link": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 23:11:58 GMT",
+        "published": "Tue, 10 Mar 2026 00:17:17 GMT",
         "description": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finished."
       },
       {
@@ -90,20 +118,6 @@
         "description": "Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts."
       },
       {
-        "title": "FBI obtains records of Arizona Senate audit of 2020 Maricopa County election results, Republican says",
-        "link": "https://www.cnbc.com/2026/03/09/trump-arizona-election-grand-jury-maricopa-fbi.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 21:14:36 GMT",
-        "description": "President Donald Trump touted the fact that the records had been obtained by the FBI. He long has claimed he was cheated out of victory in the 2020 election."
-      },
-      {
-        "title": "Bluesky CEO Jay Graber stepping back, former WordPress parent chief Toni Schneider named interim boss",
-        "link": "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 20:52:49 GMT",
-        "description": "Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition."
-      },
-      {
         "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
         "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
         "source": "CNBC Finance",
@@ -111,25 +125,11 @@
         "description": "Roughly 20% of global liquefied natural gas flows through the Strait."
       },
       {
-        "title": "Oil prices decline after nearly hitting $120 as Trump says U.S. considering taking over Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 20:45:40 GMT",
-        "description": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
-      },
-      {
         "title": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
         "link": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html",
         "source": "CNBC Finance",
         "published": "Mon, 09 Mar 2026 18:11:12 GMT",
         "description": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation."
-      },
-      {
-        "title": "G7 energy ministers to meet Tuesday morning to discuss release of oil reserves, sources say",
-        "link": "https://www.cnbc.com/2026/03/09/iran-war-g7-energy-minister-oil-reserves.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 09 Mar 2026 18:01:41 GMT",
-        "description": "Oil prices surged above $100 per barrel as the critical Strait of Hormuz remains closed due to threats from Iran."
       },
       {
         "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns",
@@ -147,6 +147,27 @@
       }
     ],
     "Technology": [
+      {
+        "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+        "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+        "source": "TechCrunch",
+        "published": "Tue, 10 Mar 2026 01:56:01 +0000",
+        "description": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor said some of those hacking"
+      },
+      {
+        "title": "Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties",
+        "link": "https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/",
+        "source": "TechCrunch",
+        "published": "Tue, 10 Mar 2026 01:41:38 +0000",
+        "description": "Archer's countersuit comes four months after Joby sued its rival for alleged 'corporate espionage.'"
+      },
+      {
+        "title": "Founders Fund nears $6B close for latest growth fund, sources say",
+        "link": "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/",
+        "source": "TechCrunch",
+        "published": "Tue, 10 Mar 2026 01:03:48 +0000",
+        "description": "The fresh fundraise comes less than a year after Founders Fund closed its third growth fund, a $4.6 billion vehicle intended primarily for follow-on investments in its successful late-stage companies."
+      },
       {
         "title": "Electric air taxis are about to take flight in 26 states",
         "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
@@ -195,30 +216,23 @@
         "source": "TechCrunch",
         "published": "Mon, 09 Mar 2026 17:49:04 +0000",
         "description": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations."
-      },
-      {
-        "title": "GM figured out how to navigate EV uncertainty with the Chevy Bolt",
-        "link": "https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/",
-        "source": "TechCrunch",
-        "published": "Mon, 09 Mar 2026 17:29:58 +0000",
-        "description": "The 2027 Chevy Bolt might not be a groundbreaking new EV, but incremental improvements have made it better without inflating the price."
-      },
-      {
-        "title": "Anthropic sues Defense Department over supply-chain risk designation",
-        "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-        "source": "TechCrunch",
-        "published": "Mon, 09 Mar 2026 17:25:40 +0000",
-        "description": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\""
-      },
-      {
-        "title": "Slate Auto changes CEO months ahead of affordable EV launch",
-        "link": "https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/",
-        "source": "TechCrunch",
-        "published": "Mon, 09 Mar 2026 16:14:30 +0000",
-        "description": "Former Amazon Marketplace vice president Peter Faricy is the new person in charge of the company."
       }
     ],
     "Crypto": [
+      {
+        "title": "77% Of Bitcoin Treasury Firms Sitting Underwater—Highest Since 2023",
+        "link": "https://bitcoinist.com/77-of-bitcoin-treasury-underwater-highest-may-2022/",
+        "source": "Bitcoinist",
+        "published": "Tue, 10 Mar 2026 01:30:56 +0000",
+        "description": "Data shows the Bitcoin price decline has left the majority of treasury companies in a state of loss, with 65% sitting more than 20% below cost basis. Over 77% Of Bitcoin Treasury Firms Are Underwater "
+      },
+      {
+        "title": "Shiba Inu Whales Are On The Move Again, But In What Direction?",
+        "link": "https://bitcoinist.com/shiba-inu-whales-are-on-the-move/",
+        "source": "Bitcoinist",
+        "published": "Tue, 10 Mar 2026 00:00:26 +0000",
+        "description": "Shiba Inu (SHIB) whale activity has intensified as major token holders shift their assets away from centralized exchanges (CEXs). Exchange reserves have plummeted to record lows, while the SHIB burn r"
+      },
       {
         "title": "Analyst Flags ‘Suspicious’ $280 Million XRP Move By Ripple Outside Of Unlock Schedule",
         "link": "https://bitcoinist.com/suspicious-280-million-xrp-ripple/",
@@ -260,36 +274,43 @@
         "source": "Bitcoinist",
         "published": "Mon, 09 Mar 2026 16:16:17 +0000",
         "description": "The traditional banking sector in the United States is reportedly intensifying its opposition to crypto firms and considering a potential lawsuit against the Office of the Comptroller of the Currency "
-      },
-      {
-        "title": "XRP Ledger Is Rising Rapidly In This Main Metric That Could Change Its Course",
-        "link": "https://bitcoinist.com/xrp-ledger-is-rising-rapidly/",
-        "source": "Bitcoinist",
-        "published": "Mon, 09 Mar 2026 15:00:25 +0000",
-        "description": "Crypto pundit CW has noted that transactions on the XRP Ledger (XRPL) are rising rapidly, which presents a bullish outlook for XRP. The analyst noted how this is a positive signal and could indicate t"
-      },
-      {
-        "title": "Treasury’s GENIUS Act Report Backs Mixers, But Wants a New ‘Hold Law’ For Crypto",
-        "link": "https://bitcoinist.com/court-says-binance-not-liable-for-terrorist-crypto/",
-        "source": "Bitcoinist",
-        "published": "Mon, 09 Mar 2026 13:30:55 +0000",
-        "description": "Treasury sent Congress its GENIUS‑Act‑mandated report on “innovative tools” to fight crypto‑enabled illicit finance. A Crypto’s “Hold Law” And A Privacy Paradox In a 32-page report submitted to the US"
       }
     ],
     "Markets": [
+      {
+        "title": "Oracle faces a high bar for earnings as investors look for an AI payoff",
+        "link": "https://www.marketwatch.com/story/oracle-faces-a-high-bar-for-earnings-as-investors-look-for-an-ai-payoff-8ecd279e?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 10 Mar 2026 02:58:00 GMT",
+        "description": "Oracle’s stock has been pressured over concerns about whether its AI spending will yield the necessary returns."
+      },
+      {
+        "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
+        "link": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 10 Mar 2026 02:45:00 GMT",
+        "description": "President Donald Trump said the U.S. is waiving oil-related sanctions on certain countries in an effort to ease crude prices, as he estimated the war with Iran would end “very soon.”"
+      },
+      {
+        "title": "HPE’s stock rises as earnings benefit from two big AI trends",
+        "link": "https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 10 Mar 2026 00:18:00 GMT",
+        "description": "The company lifted its outlook for networking revenue and disclosed a big bump in orders for enterprise AI servers."
+      },
+      {
+        "title": "‘I find this very worrying’: A friend lost her home. Why are foreclosures in America on the rise?",
+        "link": "https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 10 Mar 2026 00:00:00 GMT",
+        "description": "“She is wondering if she will ever get her $100,000 in equity back.”"
+      },
       {
         "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
         "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
         "source": "MarketWatch",
         "published": "Mon, 09 Mar 2026 23:20:00 GMT",
         "description": "“He has no loyalty to me or our vows.”"
-      },
-      {
-        "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
-        "link": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 09 Mar 2026 22:44:00 GMT",
-        "description": "President Donald Trump said the U.S. is waiving oil-related sanctions on certain countries in an effort to ease crude prices, as he estimated the war with Iran would end “very soon.”"
       },
       {
         "title": "The NFL’s Dolphins are paying a record $99.2 million to get a player off their team",
@@ -313,13 +334,6 @@
         "description": "“My low salary requires me to have multiple other part-time jobs.”"
       },
       {
-        "title": "‘I find this very worrying’: A friend lost her home. Why are foreclosures on the rise?",
-        "link": "https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 09 Mar 2026 21:14:00 GMT",
-        "description": "“She is wondering if she will ever get her $100,000 in equity back.”"
-      },
-      {
         "title": "Treasury yields halt climb after Trump reportedly signals Iran war may end soon",
         "link": "https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories",
         "source": "MarketWatch",
@@ -332,92 +346,78 @@
         "source": "MarketWatch",
         "published": "Mon, 09 Mar 2026 20:41:00 GMT",
         "description": "Moving from job to job allows workers to trade up to higher-paying employers."
-      },
-      {
-        "title": "HPE’s stock rises as earnings benefit from two big AI trends",
-        "link": "https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 09 Mar 2026 20:40:00 GMT",
-        "description": "The company lifted its outlook for networking revenue and disclosed a big bump in orders for enterprise AI servers."
-      },
-      {
-        "title": "This biotech’s stock soared after a ‘polarizing’ FDA official is stepping down",
-        "link": "https://www.marketwatch.com/story/this-biotechs-stock-is-soaring-after-a-polarizing-fda-official-is-stepping-down-8a81d352?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 09 Mar 2026 20:37:00 GMT",
-        "description": "Vinay Prasad, an official for the Food and Drug Administration, is reportedly stepping down, which is welcome news for biotech companies."
       }
     ],
     "Singapore": [
       {
-        "title": "One Ok Rock in Singapore: Japanese rock icons ignite Indoor Stadium with powerhouse vocals and showmanship",
-        "link": "https://www.channelnewsasia.com/entertainment/one-ok-rock-detox-singapore-concert-2026-review-5981746",
+        "title": "Seoul activates large-scale security plan for BTS comeback concert, sparks mixed reactions",
+        "link": "https://www.channelnewsasia.com/entertainment/bts-comeback-concert-arirang-seoul-safety-plan-5983246",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 07:38:00 +0800",
-        "description": "Japanese rock band One Ok Rock performed at the Singapore Indoor Stadium on Sunday (Mar 8) as part of their Detox world tour."
+        "published": "Tue, 10 Mar 2026 11:47:00 +0800",
+        "description": "With more than 260,000 visitors expected, the Seoul government will deploy about 3,400 personnel for BTS' highly anticipated comeback in coordination with local districts and fire authorities."
       },
       {
-        "title": "Goldman pitches hedge funds product to bet against corporate loans, source says",
-        "link": "https://www.channelnewsasia.com/business/goldman-pitches-hedge-funds-product-bet-against-corporate-loans-source-says-5982916",
+        "title": "Mongolia urges Rio Tinto to rewrite terms of Oyu Tolgoi copper mine, FT reports",
+        "link": "https://www.channelnewsasia.com/business/mongolia-urges-rio-tinto-rewrite-terms-oyu-tolgoi-copper-mine-ft-reports-5983376",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 07:28:59 +0800",
+        "published": "Tue, 10 Mar 2026 11:38:06 +0800",
         "description": ""
       },
       {
-        "title": "From KL to K-pop: How Malaysian fashion label Joe Chia won over S.Coups, Felix and other global stars",
-        "link": "https://www.channelnewsasia.com/style-beauty/joe-chia-malaysian-fashion-designer-5946276",
+        "title": "Indonesia says it has entered agreement with India to procure BrahMos missiles",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-india-brahmos-missiles-deal-manila-5981481",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 07:14:00 +0800",
-        "description": "Once a tiny indie label tucked above a button shop in Kuala Lumpur, Joe Chia is now a global name worn by K-pop stars like Seventeen’s S.Coups and Stray Kids’ Felix. Founders Joe Chia and Melissa Deng"
+        "published": "Tue, 10 Mar 2026 11:19:00 +0800",
+        "description": "BrahMos is an Indian-Russian joint venture headquartered in New Delhi. Its missile system comes in land-based, air, ship-based, and submarine-based versions.&nbsp;"
       },
       {
-        "title": "South Korea revised Q4 2025 GDP -0.2% q/q, vs -0.3% seen earlier",
-        "link": "https://www.channelnewsasia.com/business/south-korea-revised-q4-2025-gdp-02-qq-vs-03-seen-earlier-5982851",
+        "title": "Southeast Asia’s energy system under strain from war on Iran",
+        "link": "https://www.channelnewsasia.com/asia/iran-war-us-oil-liquefied-natural-gas-prices-5983251",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 07:02:22 +0800",
+        "published": "Tue, 10 Mar 2026 11:11:00 +0800",
+        "description": "Rising tensions in the Middle East have exposed Southeast Asia’s growing reliance on imported energy and are testing the region’s economic resilience, say experts."
+      },
+      {
+        "title": "From saving pandas to forest conservation: Meet the 5 female laureates of the 2026 Rolex Awards",
+        "link": "https://www.channelnewsasia.com/people/rolex-awards-2026-female-laureates-conservation-5983211",
+        "source": "CNA Singapore",
+        "published": "Tue, 10 Mar 2026 11:06:00 +0800",
+        "description": "As the Rolex Awards marks its 50th anniversary, the Swiss watchmaker has unveiled an all-female line-up of Laureates whose ambitious projects are driving positive change in environmental protection, s"
+      },
+      {
+        "title": "EXO’s lead singer Chen to perform in Singapore on Apr 12",
+        "link": "https://www.channelnewsasia.com/entertainment/exo-chen-singapore-concert-apr-12-5983156",
+        "source": "CNA Singapore",
+        "published": "Tue, 10 Mar 2026 10:36:00 +0800",
+        "description": "Chen brings his Arcadia tour to our doorstep on Apr 12 at the Capitol Theatre."
+      },
+      {
+        "title": "RSAF aircraft departs for Riyadh to evacuate Singaporeans stranded in Middle East",
+        "link": "https://www.channelnewsasia.com/singapore/rsaf-a330-mrtt-aircraft-saudi-arabia-evacuate-singaporeans-5983166",
+        "source": "CNA Singapore",
+        "published": "Tue, 10 Mar 2026 10:32:35 +0800",
+        "description": "\"This is an important mission and we will do our utmost to ensure everyone returns safely,\" says Senior Minister of State for Defence Zaqy Mohamad."
+      },
+      {
+        "title": "Airlines start broader fare hikes on fuel price surge, shares stabilise",
+        "link": "https://www.channelnewsasia.com/business/airlines-start-broader-fare-hikes-fuel-price-surge-shares-stabilise-5983261",
+        "source": "CNA Singapore",
+        "published": "Tue, 10 Mar 2026 10:28:44 +0800",
         "description": ""
       },
       {
-        "title": "Neymar injury doubt casts shadow over Brazil recall hopes",
-        "link": "https://www.channelnewsasia.com/sport/neymar-injury-doubt-casts-shadow-over-brazil-recall-hopes-5982841",
+        "title": "Japan's Takaichi faces fresh scrutiny over BOJ policy stance",
+        "link": "https://www.channelnewsasia.com/business/japans-takaichi-faces-fresh-scrutiny-over-boj-policy-stance-5983231",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 06:54:45 +0800",
+        "published": "Tue, 10 Mar 2026 10:16:27 +0800",
         "description": ""
       },
       {
-        "title": "West Ham reach FA Cup quarter-finals with shootout win over Brentford",
-        "link": "https://www.channelnewsasia.com/sport/west-ham-reach-fa-cup-quarter-finals-shootout-win-over-brentford-5982811",
+        "title": "Taiwan will see US natural gas imports increase from June",
+        "link": "https://www.channelnewsasia.com/business/taiwan-will-see-us-natural-gas-imports-increase-june-5983236",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 06:42:41 +0800",
+        "published": "Tue, 10 Mar 2026 10:15:45 +0800",
         "description": ""
-      },
-      {
-        "title": "MLS bans Jones, Yeboah for life after gambling investigation",
-        "link": "https://www.channelnewsasia.com/sport/mls-bans-jones-yeboah-life-after-gambling-investigation-5982796",
-        "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 06:28:58 +0800",
-        "description": ""
-      },
-      {
-        "title": "Trump says Iran war will end 'very soon'",
-        "link": "https://www.channelnewsasia.com/world/iran-war-trump-oil-sanctions-5982776",
-        "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 06:27:00 +0800",
-        "description": "Speaking at a news conference in Florida, the US president also said he will waive some sanctions on oil to ensure an adequate supply and lower prices."
-      },
-      {
-        "title": "Can whisky taste like a place – or is terroir a myth?",
-        "link": "https://www.channelnewsasia.com/experiences/whisky-terroir-real-or-story-5978371",
-        "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 06:05:00 +0800",
-        "description": "From Islay-grown barley to Japan’s mizunara oak, producers are increasingly chasing a sense of place. But in a spirit shaped as much by craft as by climate – from fermentation to cask choice – the que"
-      },
-      {
-        "title": "Commentary: How do we escape the air-conditioning trap?",
-        "link": "https://www.channelnewsasia.com/commentary/singapore-hot-weather-air-conditioning-trap-sustainable-design-buildings-5981246",
-        "source": "CNA Singapore",
-        "published": "Tue, 10 Mar 2026 06:00:00 +0800",
-        "description": "Expecting people to give up air-conditioning is unrealistic, which means we must find ways to ensure that cooling our spaces does not warm the planet further, says NUS’ Khoo Teng Chye."
       }
     ],
     "US Politics": [
@@ -450,7 +450,7 @@
         "description": "The House of Lords had backed a move to ban under-16s in the UK from social media platforms in January."
       },
       {
-        "title": "Anti-Muslim hatred definition 'safeguards fundamental right to free speech', says Reed",
+        "title": "Anti-Muslim hatred definition safeguards free speech, says Reed",
         "link": "https://www.bbc.com/news/articles/cewzqxg17yzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Mon, 09 Mar 2026 22:49:51 GMT",
@@ -494,25 +494,25 @@
     ],
     "Science": [
       {
-        "title": "Astronomers create the largest 3D map of the early universe revealing hidden galaxies",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260308201557.htm",
+        "title": "Scientists detect a sudden acceleration in global warming",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260309183208.htm",
         "source": "Science Daily",
-        "published": "Sun, 08 Mar 2026 20:15:57 EDT",
-        "description": "Astronomers have created the largest and most detailed 3D map yet of a glowing signal from the early universe, revealing hidden galaxies and gas from 9-11 billion years ago. By analyzing faint “Lyman-"
+        "published": "Mon, 09 Mar 2026 20:26:55 EDT",
+        "description": "Global warming has picked up speed in the past decade, according to a new analysis from the Potsdam Institute for Climate Impact Research (PIK). By removing short term natural influences such as El Ni"
       },
       {
-        "title": "Scientists say this simple diet change could transform your gut health",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260307213252.htm",
+        "title": "Hidden metabolism found operating inside the cell nucleus",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
         "source": "Science Daily",
-        "published": "Sun, 08 Mar 2026 15:57:15 EDT",
-        "description": "A growing trend called “fibermaxxing” is putting dietary fiber in the spotlight—and for good reason. Fiber plays a powerful role in keeping the body healthy, from supporting digestion and feeding bene"
+        "published": "Mon, 09 Mar 2026 19:54:17 EDT",
+        "description": "Researchers have found hundreds of metabolic enzymes attached to human DNA inside the cell nucleus. Different tissues and cancers show unique patterns of these enzymes, forming a “nuclear metabolic fi"
       },
       {
-        "title": "Satellites are exposing weak bridges in America and around the world",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260307213350.htm",
+        "title": "Light-guided evolution creates proteins that can switch, sense, and compute",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
         "source": "Science Daily",
-        "published": "Sun, 08 Mar 2026 06:38:15 EDT",
-        "description": "Satellites are giving scientists a powerful new way to watch over the world’s bridges. Using radar imaging, researchers can detect millimeter-scale movements that may signal early structural problems "
+        "published": "Mon, 09 Mar 2026 19:05:48 EDT",
+        "description": "Researchers have created a method called optovolution that uses light to guide the evolution of proteins with dynamic behaviors. By engineering yeast cells so their survival depended on proteins switc"
       },
       {
         "title": "Scientists found a surprising way to make exercise work better",
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "One Ok Rock in Singapore: Japanese rock icons ignite Indoor Stadium with powerhouse vocals and showmanship",
-      "link": "https://www.channelnewsasia.com/entertainment/one-ok-rock-detox-singapore-concert-2026-review-5981746",
+      "title": "Seoul activates large-scale security plan for BTS comeback concert, sparks mixed reactions",
+      "link": "https://www.channelnewsasia.com/entertainment/bts-comeback-concert-arirang-seoul-safety-plan-5983246",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 07:38:00 +0800",
-      "description": "Japanese rock band One Ok Rock performed at the Singapore Indoor Stadium on Sunday (Mar 8) as part of their Detox world tour."
+      "published": "Tue, 10 Mar 2026 11:47:00 +0800",
+      "description": "With more than 260,000 visitors expected, the Seoul government will deploy about 3,400 personnel for BTS' highly anticipated comeback in coordination with local districts and fire authorities."
     },
     {
-      "title": "Goldman pitches hedge funds product to bet against corporate loans, source says",
-      "link": "https://www.channelnewsasia.com/business/goldman-pitches-hedge-funds-product-bet-against-corporate-loans-source-says-5982916",
+      "title": "Mongolia urges Rio Tinto to rewrite terms of Oyu Tolgoi copper mine, FT reports",
+      "link": "https://www.channelnewsasia.com/business/mongolia-urges-rio-tinto-rewrite-terms-oyu-tolgoi-copper-mine-ft-reports-5983376",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 07:28:59 +0800",
+      "published": "Tue, 10 Mar 2026 11:38:06 +0800",
       "description": ""
     },
     {
-      "title": "From KL to K-pop: How Malaysian fashion label Joe Chia won over S.Coups, Felix and other global stars",
-      "link": "https://www.channelnewsasia.com/style-beauty/joe-chia-malaysian-fashion-designer-5946276",
+      "title": "Indonesia says it has entered agreement with India to procure BrahMos missiles",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-india-brahmos-missiles-deal-manila-5981481",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 07:14:00 +0800",
-      "description": "Once a tiny indie label tucked above a button shop in Kuala Lumpur, Joe Chia is now a global name worn by K-pop stars like Seventeen’s S.Coups and Stray Kids’ Felix. Founders Joe Chia and Melissa Deng"
+      "published": "Tue, 10 Mar 2026 11:19:00 +0800",
+      "description": "BrahMos is an Indian-Russian joint venture headquartered in New Delhi. Its missile system comes in land-based, air, ship-based, and submarine-based versions.&nbsp;"
     },
     {
-      "title": "South Korea revised Q4 2025 GDP -0.2% q/q, vs -0.3% seen earlier",
-      "link": "https://www.channelnewsasia.com/business/south-korea-revised-q4-2025-gdp-02-qq-vs-03-seen-earlier-5982851",
+      "title": "Southeast Asia’s energy system under strain from war on Iran",
+      "link": "https://www.channelnewsasia.com/asia/iran-war-us-oil-liquefied-natural-gas-prices-5983251",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 07:02:22 +0800",
+      "published": "Tue, 10 Mar 2026 11:11:00 +0800",
+      "description": "Rising tensions in the Middle East have exposed Southeast Asia’s growing reliance on imported energy and are testing the region’s economic resilience, say experts."
+    },
+    {
+      "title": "From saving pandas to forest conservation: Meet the 5 female laureates of the 2026 Rolex Awards",
+      "link": "https://www.channelnewsasia.com/people/rolex-awards-2026-female-laureates-conservation-5983211",
+      "source": "CNA Singapore",
+      "published": "Tue, 10 Mar 2026 11:06:00 +0800",
+      "description": "As the Rolex Awards marks its 50th anniversary, the Swiss watchmaker has unveiled an all-female line-up of Laureates whose ambitious projects are driving positive change in environmental protection, s"
+    },
+    {
+      "title": "EXO’s lead singer Chen to perform in Singapore on Apr 12",
+      "link": "https://www.channelnewsasia.com/entertainment/exo-chen-singapore-concert-apr-12-5983156",
+      "source": "CNA Singapore",
+      "published": "Tue, 10 Mar 2026 10:36:00 +0800",
+      "description": "Chen brings his Arcadia tour to our doorstep on Apr 12 at the Capitol Theatre."
+    },
+    {
+      "title": "RSAF aircraft departs for Riyadh to evacuate Singaporeans stranded in Middle East",
+      "link": "https://www.channelnewsasia.com/singapore/rsaf-a330-mrtt-aircraft-saudi-arabia-evacuate-singaporeans-5983166",
+      "source": "CNA Singapore",
+      "published": "Tue, 10 Mar 2026 10:32:35 +0800",
+      "description": "\"This is an important mission and we will do our utmost to ensure everyone returns safely,\" says Senior Minister of State for Defence Zaqy Mohamad."
+    },
+    {
+      "title": "Airlines start broader fare hikes on fuel price surge, shares stabilise",
+      "link": "https://www.channelnewsasia.com/business/airlines-start-broader-fare-hikes-fuel-price-surge-shares-stabilise-5983261",
+      "source": "CNA Singapore",
+      "published": "Tue, 10 Mar 2026 10:28:44 +0800",
       "description": ""
     },
     {
-      "title": "Neymar injury doubt casts shadow over Brazil recall hopes",
-      "link": "https://www.channelnewsasia.com/sport/neymar-injury-doubt-casts-shadow-over-brazil-recall-hopes-5982841",
+      "title": "Japan's Takaichi faces fresh scrutiny over BOJ policy stance",
+      "link": "https://www.channelnewsasia.com/business/japans-takaichi-faces-fresh-scrutiny-over-boj-policy-stance-5983231",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 06:54:45 +0800",
+      "published": "Tue, 10 Mar 2026 10:16:27 +0800",
       "description": ""
     },
     {
-      "title": "West Ham reach FA Cup quarter-finals with shootout win over Brentford",
-      "link": "https://www.channelnewsasia.com/sport/west-ham-reach-fa-cup-quarter-finals-shootout-win-over-brentford-5982811",
+      "title": "Taiwan will see US natural gas imports increase from June",
+      "link": "https://www.channelnewsasia.com/business/taiwan-will-see-us-natural-gas-imports-increase-june-5983236",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 06:42:41 +0800",
+      "published": "Tue, 10 Mar 2026 10:15:45 +0800",
       "description": ""
-    },
-    {
-      "title": "Analyst Flags ‘Suspicious’ $280 Million XRP Move By Ripple Outside Of Unlock Schedule",
-      "link": "https://bitcoinist.com/suspicious-280-million-xrp-ripple/",
-      "source": "Bitcoinist",
-      "published": "Mon, 09 Mar 2026 22:30:36 +0000",
-      "description": "Ripple, a crypto payments company has found itself at the center of fresh speculation once again after a large XRP transfer surfaced on-chain, catching the attention of market watchers and community m"
-    },
-    {
-      "title": "Electric air taxis are about to take flight in 26 states",
-      "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
-      "source": "TechCrunch",
-      "published": "Mon, 09 Mar 2026 22:30:35 +0000",
-      "description": "The federal government has selected eight proposals to test electric aircraft across 26 states."
-    },
-    {
-      "title": "MLS bans Jones, Yeboah for life after gambling investigation",
-      "link": "https://www.channelnewsasia.com/sport/mls-bans-jones-yeboah-life-after-gambling-investigation-5982796",
-      "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 06:28:58 +0800",
-      "description": ""
-    },
-    {
-      "title": "Trump says Iran war will end 'very soon'",
-      "link": "https://www.channelnewsasia.com/world/iran-war-trump-oil-sanctions-5982776",
-      "source": "CNA Singapore",
-      "published": "Tue, 10 Mar 2026 06:27:00 +0800",
-      "description": "Speaking at a news conference in Florida, the US president also said he will waive some sanctions on oil to ensure an adequate supply and lower prices."
     }
   ]
 }
