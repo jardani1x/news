@@ -81,7 +81,7 @@ CRYPTO_TICKERS = {
     "ETH-USD": "Ethereum",
 }
 
-OUTPUT_DIR = "/media/ruska_roma/delta_llc/ops/news"
+OUTPUT_DIR = str(Path(__file__).parent)
 CHART_DIR = f"{OUTPUT_DIR}/charts"
 DATA_FILE = f"{OUTPUT_DIR}/data/news.json"
 CACHE_DIR = f"{OUTPUT_DIR}/cache"
