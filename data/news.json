@@ -1,14 +1,63 @@
 {
-  "updated_sgt": "2026-04-12 04:38 SGT",
-  "updated_iso": "2026-04-12T04:38:22.722658+08:00",
+  "updated_sgt": "2026-04-13 04:40 SGT",
+  "updated_iso": "2026-04-13T04:40:54.167266+08:00",
   "categories": {
     "World": [
       {
-        "title": "Irish cabinet meeting to be held to discuss ongoing fuel protests",
-        "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+        "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 20:12:22 GMT",
-        "description": "Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day."
+        "published": "Sun, 12 Apr 2026 18:48:57 GMT",
+        "description": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs."
+      },
+      {
+        "title": "Civilians feared killed after reports of air strike on Nigerian market",
+        "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 12 Apr 2026 18:11:04 GMT",
+        "description": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants."
+      },
+      {
+        "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+        "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 12 Apr 2026 16:56:08 GMT",
+        "description": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians."
+      },
+      {
+        "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+        "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 12 Apr 2026 15:00:09 GMT",
+        "description": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never."
+      },
+      {
+        "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+        "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 12 Apr 2026 11:53:37 GMT",
+        "description": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks."
+      },
+      {
+        "title": "At least 30 feared dead in crush at Haitian tourist site",
+        "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 12 Apr 2026 07:22:28 GMT",
+        "description": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says."
+      },
+      {
+        "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+        "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 12 Apr 2026 05:22:34 GMT",
+        "description": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations."
+      },
+      {
+        "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+        "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 12 Apr 2026 00:30:44 GMT",
+        "description": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files."
       },
       {
         "title": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
@@ -22,78 +71,36 @@
         "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Sat, 11 Apr 2026 18:08:46 GMT",
-        "description": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, said NYPD."
-      },
-      {
-        "title": "Coachella kicks off with Sabrina Carpenter and surprise guests",
-        "link": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 15:45:05 GMT",
-        "description": "The festival in California was also forced to cancel a set by DJ Anyma on Friday because of strong winds."
-      },
-      {
-        "title": "Trump unveils giant gold-accented victory arch design for US capital",
-        "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 15:38:30 GMT",
-        "description": "The new monument, if approved, would be taller than the US Capitol building and the Lincoln Memorial."
-      },
-      {
-        "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
-        "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 14:41:31 GMT",
-        "description": "Judges handed down sentences ranging from five years to life imprisonment following mass trials."
-      },
-      {
-        "title": "Frontrunner for California governor denies sexual assault allegations",
-        "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 14:24:24 GMT",
-        "description": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\"."
-      },
-      {
-        "title": "Artemis crew home safely after completing historic mission to the Moon",
-        "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 07:53:46 GMT",
-        "description": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans."
-      },
-      {
-        "title": "Concerns after satellite provider restricts Iran images following US pressure",
-        "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 05:40:51 GMT",
-        "description": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely."
-      },
-      {
-        "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
-        "link": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 11 Apr 2026 00:17:18 GMT",
-        "description": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest."
+        "description": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, NYPD says."
       }
     ],
     "Finance": [
       {
-        "title": "U.S.-Iran talks underway in Pakistani capital after delegations arrive",
-        "link": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
+        "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+        "link": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
         "source": "CNBC Finance",
-        "published": "Sat, 11 Apr 2026 18:57:49 GMT",
-        "description": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict."
+        "published": "Sun, 12 Apr 2026 18:36:29 GMT",
+        "description": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically while the rest of the world suffers from its closure."
       },
       {
-        "title": "Battles brew over in-state tuition for undocumented students",
-        "link": "https://www.cnbc.com/2026/04/11/battles-brew-over-in-state-tuition-for-undocumented-students.html",
+        "title": "Many Gen Z adults still get financial help from their parents",
+        "link": "https://www.cnbc.com/2026/04/12/many-gen-z-adults-still-get-financial-help-from-their-parents.html",
         "source": "CNBC Finance",
-        "published": "Sat, 11 Apr 2026 15:02:46 GMT",
-        "description": "In some states, undocumented students have access to in-state college tuition if they meet certain requirements. Now, many of those laws are being challenged."
+        "published": "Sun, 12 Apr 2026 13:00:01 GMT",
+        "description": "Financial support from your parents can help you to become independent. But that means treating the money \"as a plan, not a lifestyle,\" one advisor said."
+      },
+      {
+        "title": "Top Wall Street analysts prefer these dividend stocks for steady income",
+        "link": "https://www.cnbc.com/2026/04/12/top-street-analysts-prefer-these-dividend-stocks-for-steady-income-.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 12 Apr 2026 11:18:07 GMT",
+        "description": "Given ongoing uncertainty, investors may seek to add some stability to their portfolios by buying dividend stocks for steady income."
       },
       {
         "title": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
         "link": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
         "source": "CNBC Finance",
-        "published": "Sat, 11 Apr 2026 14:15:29 GMT",
+        "published": "Sat, 11 Apr 2026 21:37:12 GMT",
         "description": "Fears of a private credit crisis arrived just as the growing and less transparent bond market was being included in more fixed-income ETFs."
       },
       {
@@ -125,13 +132,6 @@
         "description": "Rep. Don Beyer said \"President Trump is focused on a taxpayer-funded vanity project that would choke traffic, block our skyline, and tower over sacred ground.\""
       },
       {
-        "title": "Man arrested after Sam Altman's house hit with Molotov cocktail, OpenAI headquarters threatened",
-        "link": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 10 Apr 2026 23:17:40 GMT",
-        "description": "Police arrested a suspect at OpenAI's headquarters for allegedly threatening arson after an attack on CEO Sam Altman's home."
-      },
-      {
         "title": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on",
         "link": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
         "source": "CNBC Finance",
@@ -148,6 +148,62 @@
     ],
     "Technology": [
       {
+        "title": "Apple reportedly testing four designs for upcoming smart glasses",
+        "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+        "source": "TechCrunch",
+        "published": "Sun, 12 Apr 2026 19:58:42 +0000",
+        "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
+      },
+      {
+        "title": "X says it’s reducing payments to clickbait accounts",
+        "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+        "source": "TechCrunch",
+        "published": "Sun, 12 Apr 2026 17:02:20 +0000",
+        "description": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier"
+      },
+      {
+        "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+        "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+        "source": "TechCrunch",
+        "published": "Sun, 12 Apr 2026 16:06:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      },
+      {
+        "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+        "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "source": "TechCrunch",
+        "published": "Sun, 12 Apr 2026 15:07:08 +0000",
+        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      },
+      {
+        "title": "At the HumanX conference, everyone was talking about Claude",
+        "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+        "source": "TechCrunch",
+        "published": "Sun, 12 Apr 2026 15:00:00 +0000",
+        "description": "Anthropic was the star of the show at San Francisco's AI-centric conference."
+      },
+      {
+        "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
+        "link": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
+        "source": "TechCrunch",
+        "published": "Sun, 12 Apr 2026 14:00:00 +0000",
+        "description": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details."
+      },
+      {
+        "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+        "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+        "source": "TechCrunch",
+        "published": "Sun, 12 Apr 2026 03:00:00 +0000",
+        "description": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say."
+      },
+      {
+        "title": "Kalshi wins temporary pause in Arizona criminal case",
+        "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+        "source": "TechCrunch",
+        "published": "Sat, 11 Apr 2026 21:20:24 +0000",
+        "description": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi."
+      },
+      {
         "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
         "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
         "source": "TechCrunch",
@@ -160,123 +216,88 @@
         "source": "TechCrunch",
         "published": "Sat, 11 Apr 2026 17:18:22 +0000",
         "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
-      },
-      {
-        "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-        "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
-        "source": "TechCrunch",
-        "published": "Sat, 11 Apr 2026 14:03:00 +0000",
-        "description": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM."
-      },
-      {
-        "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
-        "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
-        "source": "TechCrunch",
-        "published": "Sat, 11 Apr 2026 00:44:17 +0000",
-        "description": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time."
-      },
-      {
-        "title": "How to watch NASA’s Artemis II splash back down to Earth",
-        "link": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
-        "source": "TechCrunch",
-        "published": "Fri, 10 Apr 2026 21:18:09 +0000",
-        "description": "NASA's Artemis II mission has traveled farther from Earth than any mission before. Here's how to watch the crew's return landing in the Pacific Ocean."
-      },
-      {
-        "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-        "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-        "source": "TechCrunch",
-        "published": "Fri, 10 Apr 2026 20:27:52 +0000",
-        "description": "This ban took place after Claude's pricing changed for OpenClaw users last week."
-      },
-      {
-        "title": "Battery recycler Ascend Elements files for bankruptcy",
-        "link": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
-        "source": "TechCrunch",
-        "published": "Fri, 10 Apr 2026 19:16:52 +0000",
-        "description": "Ascend Elements said that it will be filing for Chapter 11 bankruptcy in the wake of a canceled government grant and a challenging market for lithium-ion batteries."
-      },
-      {
-        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-        "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-        "source": "TechCrunch",
-        "published": "Fri, 10 Apr 2026 16:41:34 +0000",
-        "description": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
-      },
-      {
-        "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-        "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-        "source": "TechCrunch",
-        "published": "Fri, 10 Apr 2026 16:38:43 +0000",
-        "description": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
-      },
-      {
-        "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-        "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-        "source": "TechCrunch",
-        "published": "Fri, 10 Apr 2026 14:39:32 +0000",
-        "description": "France's move to ditch Windows for Linux is its latest effort to reduce its reliance on American tech giants."
       }
     ],
     "Crypto": [
       {
-        "title": "Are Quantum Computers A Threat To XRP Holders? Pundit Breaks Down The Possibilities",
-        "link": "https://bitcoinist.com/quantum-computers-threat-xrp/",
+        "title": "Bitcoin Liquidity Rotation Turns Bullish Again As Stablecoin Shelter Starts To Unwind",
+        "link": "https://bitcoinist.com/bitcoin-liquidity-rotation-turns-bullish-again-as-stablecoin-shelter-starts-to-unwind/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 18:30:43 +0000",
-        "description": "The debate over quantum computers and their risks in the crypto space is gaining traction as new insights emerge about the safety of XRP holders. A crypto pundit has shared information examining how e"
+        "published": "Sun, 12 Apr 2026 19:00:54 +0000",
+        "description": "Bitcoin’s recent bounce above $70,000 is starting to look like more than a price bounce. An interesting on-chain analysis of on-chain data points to a change in how capital is moving across the market"
       },
       {
-        "title": "Data Puts Bitcoin At Critical Juncture Following $73,000 Reclaim",
-        "link": "https://bitcoinist.com/cop-data-bitcoin-critical-juncture-following-73000/",
+        "title": "User Activity On Binance Rising — What It Means For The Crypto Market",
+        "link": "https://bitcoinist.com/user-activity-binance-is-rising-the-crypto-market/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 17:00:22 +0000",
-        "description": "Prominent market analyst Sminston With shares data showing that Bitcoin is now at a pivotal decision point following a price rally last week. The premier cryptocurrency commenced April on a bullish no"
+        "published": "Sun, 12 Apr 2026 17:00:36 +0000",
+        "description": "Pseudonymous crypto analyst Crazzyblockk has pointed to a developing structural shift in the crypto market, while also noting a divergence on the Binance exchange. Related Reading: Bitcoin Bull Phase "
       },
       {
-        "title": "Ethereum Boom: 284K New Users Flood Network In Q1",
-        "link": "https://bitcoinist.com/ethereum-boom-284k-new-users-flood-network-in-q1/",
+        "title": "‘Last Chance’: US Crypto Policy Hits Critical Deadline, Senator Says",
+        "link": "https://bitcoinist.com/last-chance-us-crypto-policy-hits-critical-deadline-senator-says/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 15:30:34 +0000",
-        "description": "Ethereum processed more transactions in the first three months of 2026 than in any quarter in its history — 200 million in total, a 43% jump from the previous quarter. Related Reading: Global Authorit"
+        "published": "Sun, 12 Apr 2026 15:30:26 +0000",
+        "description": "Coinbase chief legal officer Paul Grewal said the CLARITY Act could be nearing a markup hearing in the Senate Banking Committee, but he tied that progress to one unresolved issue: the dispute over cry"
       },
       {
-        "title": "Bitcoin Millionaires Are Disappearing By The Thousands, And The Figures Are Shocking",
-        "link": "https://bitcoinist.com/bitcoin-millionaires-disappearing/",
+        "title": "Bitwise Submits Second Amended Hyperliquid ETF Filing — Launch Imminent?",
+        "link": "https://bitcoinist.com/bitwise-updates-hyperliquid-etf-application-launch/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 14:00:42 +0000",
-        "description": "The number of Bitcoin millionaires has significantly dropped amid the BTC downtrend since the start of the year. This comes as long-term holders (LTHs) remain underwater, with BTC well below its curre"
+        "published": "Sun, 12 Apr 2026 14:00:02 +0000",
+        "description": "According to the latest report, Bitwise has taken a step closer toward the launch of its proposed spot Hyperliquid (HYPE) exchange-traded fund (ETF) after filing a second amendment with the United Sta"
       },
       {
-        "title": "Japan’s Crypto Reform Could Reshape Bitcoin Market Structure – Here’s Why",
-        "link": "https://bitcoinist.com/japans-reform-reshape-bitcoin-market-structure/",
+        "title": "Bitcoin OTC Dominance Rises To 82% As Coinbase Leads CEX Flows – Details",
+        "link": "https://bitcoinist.com/bitcoin-otc-dominance-82-as-coinbase-leads-cex-flow/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 12:30:46 +0000",
-        "description": "The Bitcoin market could be facing another crucial event that would bolster its long-term integrity. This is highlighted in a recent evaluation of Japan&#8217;s Financial Instruments and Exchange Act "
+        "published": "Sun, 12 Apr 2026 11:00:07 +0000",
+        "description": "As April progresses, Bitcoin is experiencing renewed bullish momentum, after surging to around $73,300 after a 9% price increase over the past week. Underneath this price action, fresh on-chain and ma"
       },
       {
-        "title": "Android Flaw Leaves 30 Million Crypto Wallets Open To Attack: Microsoft Analysts",
-        "link": "https://bitcoinist.com/android-flaw-leaves-30-million-crypto-wallets-open-to-attack-microsoft-analysts/",
+        "title": "Bitcoin Capital Rotation Trend Shows Rare Signal For First Time This Bear Market",
+        "link": "https://bitcoinist.com/bitcoin-capital-rotation-trend-shows-rare-signal/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 11:00:21 +0000",
-        "description": "A patch has been available for nearly a year, but millions of Android users may still be running vulnerable crypto wallet apps — leaving their funds and private keys exposed to a known security flaw. "
+        "published": "Sun, 12 Apr 2026 06:00:58 +0000",
+        "description": "The Bitcoin price has somewhat slowed down over the weekend after a largely positive past few days, slipping below $73,000 in the early hours of Saturday, April 11th. According to an on-chain analyst,"
       },
       {
-        "title": "Analyst Predicts Ethereum Price Will Rise 400% To $8,000 In 6 Months, And There’s A Pattern Behind It",
-        "link": "https://bitcoinist.com/ethereum-price-400-to-8000/",
+        "title": "Ethereum Leads The Tokenization Race With Billions In Assets",
+        "link": "https://bitcoinist.com/ethereum-leads-tokenization/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 09:30:07 +0000",
-        "description": "The bullishness surrounding the Ethereum price has not waned despite its disappointing performance over the last few years. Investors and analysts alike continue to skew heavily toward the expectation"
+        "published": "Sun, 12 Apr 2026 02:00:26 +0000",
+        "description": "Ethereum is rapidly emerging as the dominant force in the race to tokenize real-world assets, with billions of dollars already flowing onto its network. From tokenized bonds and funds to real estate a"
       },
       {
-        "title": "European Central Bank Backs EU’s Plan For Centralized Crypto Firms Oversight",
-        "link": "https://bitcoinist.com/ecb-backs-eus-plan-for-centralized-crypto-oversight/",
+        "title": "Crypto Market Structure Bill Enters Crucial Stage, Coinbase CEO Says “It’s Time”",
+        "link": "https://bitcoinist.com/crypto-bill-crucial-as-coinbase-ceo-says-its-time/",
         "source": "Bitcoinist",
-        "published": "Sat, 11 Apr 2026 08:00:01 +0000",
-        "description": "The European Central Bank (ECB) has reportedly endorsed the European Union’s (EU) plan to shift oversight of key financial markets, including crypto, from national authorities to a centralized supervi"
+        "published": "Sun, 12 Apr 2026 00:30:36 +0000",
+        "description": "One of the major talking points in the digital assets industry so far this year has been regulation, with the crypto market structure bill in the United States drawing the majority of the attention. T"
       }
     ],
     "Markets": [
+      {
+        "title": "April’s stock-market rebound is about to face its first major test as earnings season swings into gear",
+        "link": "https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 12 Apr 2026 20:00:00 GMT",
+        "description": "The recovery in the U.S. stock market since the beginning of April could soon face its first critical test, as the first-quarter corporate earnings season is about to get underway."
+      },
+      {
+        "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
+        "link": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 12 Apr 2026 19:39:00 GMT",
+        "description": "As U.S.-Iran talks in Pakistan ended without a deal, U.S. stock futures were sliding and oil was climbing, based on trading via a crypto-based trading platform."
+      },
+      {
+        "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock",
+        "link": "https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 12 Apr 2026 13:00:00 GMT",
+        "description": "There’s a lot more to Beyond Meat’s fall from grace than just falling sales and mounting losses."
+      },
       {
         "title": "Here are some bargain bank stocks heading into earnings season",
         "link": "https://www.marketwatch.com/story/here-are-some-bargain-bank-stocks-heading-into-earnings-season-d0e6b3da?mod=mw_rss_topstories",
@@ -325,98 +346,77 @@
         "source": "MarketWatch",
         "published": "Sat, 11 Apr 2026 18:03:00 GMT",
         "description": "Stock markets were rallying on Wednesday, but drivers shouldn’t hold their breath waiting for a return to prewar gas prices."
-      },
-      {
-        "title": "We asked our wedding guests to give money to St. Jude’s Children’s Hospital. Can we write off their donations?",
-        "link": "https://www.marketwatch.com/story/we-asked-our-wedding-guests-to-give-money-to-st-judes-childrens-hospital-can-we-write-off-their-donations-0a326156?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 11 Apr 2026 18:00:00 GMT",
-        "description": "“There were substantial donations made.”"
-      },
-      {
-        "title": "Interest rates are headed lower — real yields suggest a half-point Fed cut is coming",
-        "link": "https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 11 Apr 2026 17:53:00 GMT",
-        "description": "The Iran cease-fire may be the ‘green light’ the Fed needs."
-      },
-      {
-        "title": "Here’s how much weight-loss drugs Wegovy, Zepbound and Foundayo cost — and how to pick the best GLP-1 for you",
-        "link": "https://www.marketwatch.com/story/heres-how-much-weight-loss-drugs-wegovy-zepbound-and-foundayo-cost-and-how-to-pick-the-best-glp-1-for-you-48598e2f?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 11 Apr 2026 17:40:00 GMT",
-        "description": "The GLP-1 market is growing fast. Here’s how much the most popular medications will cost you."
       }
     ],
     "Singapore": [
       {
-        "title": "Liverpool boss Slot hopes Fulham win can build momentum for PSG showdown",
-        "link": "https://www.channelnewsasia.com/sport/liverpool-boss-slot-hopes-fulham-win-can-build-momentum-psg-showdown-6051106",
+        "title": "Nigerian airstrike leaves 200 feared dead in Yobe, councillor and residents say",
+        "link": "https://www.channelnewsasia.com/world/nigerian-airstrike-leaves-200-feared-dead-in-yobe-councillor-and-residents-say-6051801",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 04:09:05 +0800",
+        "published": "Mon, 13 Apr 2026 04:11:22 +0800",
+        "description": "Africa's most populous country has been fighting a jihadist insurgency for 17 years, since Boko Haram's 2009 uprising, and civilians have been caught in the crossfire and killed in military air strike"
+      },
+      {
+        "title": "Man City get into gear for another season finale run",
+        "link": "https://www.channelnewsasia.com/sport/man-city-get-gear-another-season-finale-run-6052076",
+        "source": "CNA Singapore",
+        "published": "Mon, 13 Apr 2026 03:44:07 +0800",
         "description": ""
       },
       {
-        "title": "Barca beat Espanyol 4-1 to move nine points clear in LaLiga",
-        "link": "https://www.channelnewsasia.com/sport/barca-beat-espanyol-4-1-move-nine-points-clear-in-laliga-6051051",
+        "title": "Magyar says Orban has conceded defeat in Hungary election",
+        "link": "https://www.channelnewsasia.com/world/early-results-in-hungarys-election-show-opposition-party-leading-over-pm-orbans-6052041",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 03:08:02 +0800",
+        "published": "Mon, 13 Apr 2026 03:43:44 +0800",
+        "description": "Partial results on Sunday show the opposition party ending Viktor Orban's 16-year stretch as Hungary's prime minister."
+      },
+      {
+        "title": "McIlroy and Young hold steady as Masters chasers strike early",
+        "link": "https://www.channelnewsasia.com/sport/mcilroy-and-young-hold-steady-masters-chasers-strike-early-6051986",
+        "source": "CNA Singapore",
+        "published": "Mon, 13 Apr 2026 03:02:26 +0800",
         "description": ""
       },
       {
-        "title": "Five-star Bayern shatter league goal record to stretch lead at the top",
-        "link": "https://www.channelnewsasia.com/sport/five-star-bayern-shatter-league-goal-record-stretch-lead-top-6051041",
+        "title": "Rampant Man City send message to Arsenal, Tottenham relegation fears deepen",
+        "link": "https://www.channelnewsasia.com/sport/rampant-man-city-send-message-arsenal-tottenham-relegation-fears-deepen-6052036",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 02:50:06 +0800",
+        "published": "Mon, 13 Apr 2026 02:43:25 +0800",
         "description": ""
       },
       {
-        "title": "In fiery speech, Pope Leo says 'Enough to war!'",
-        "link": "https://www.channelnewsasia.com/world/in-fiery-speech-pope-leo-says-enough-war-6051031",
+        "title": "Israeli strike kills infant girl in south Lebanon during father's funeral",
+        "link": "https://www.channelnewsasia.com/asia/israeli-strike-kills-infant-girl-in-south-lebanon-during-fathers-funeral-6051701",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 02:49:00 +0800",
-        "description": "In one of his most passionate entreaties yet to end the raging conflict in the Middle East, the American pope said faith was needed \"in order to face this dramatic hour in history together\".&nbsp;"
-      },
-      {
-        "title": "Ngumoha makes Anfield history, Salah seals Liverpool win over Fulham",
-        "link": "https://www.channelnewsasia.com/sport/ngumoha-makes-anfield-history-salah-seals-liverpool-win-over-fulham-6051036",
-        "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 02:45:27 +0800",
+        "published": "Mon, 13 Apr 2026 01:48:04 +0800",
         "description": ""
       },
       {
-        "title": "Russian regional officials say Ukraine attacked Kursk, Belgorod regions",
-        "link": "https://www.channelnewsasia.com/world/russian-regional-officials-say-ukraine-attacked-kursk-belgorod-regions-6051016",
+        "title": "Manchester City blow Chelsea away 3-0 to move closer to Arsenal",
+        "link": "https://www.channelnewsasia.com/sport/manchester-city-blow-chelsea-away-3-0-move-closer-arsenal-6052001",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 02:38:47 +0800",
+        "published": "Mon, 13 Apr 2026 01:37:52 +0800",
         "description": ""
       },
       {
-        "title": "Stuttering Arsenal given title jolt, Liverpool end losing run",
-        "link": "https://www.channelnewsasia.com/sport/stuttering-arsenal-given-title-jolt-liverpool-end-losing-run-6051011",
+        "title": "Mentality must change to avoid drop, says Tottenham's De Zerbi",
+        "link": "https://www.channelnewsasia.com/sport/mentality-must-change-avoid-drop-says-tottenhams-de-zerbi-6051991",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 02:00:24 +0800",
+        "published": "Mon, 13 Apr 2026 01:22:59 +0800",
         "description": ""
       },
       {
-        "title": "Thiago on Cloud Nine after goals for Brentford and Brazil",
-        "link": "https://www.channelnewsasia.com/sport/thiago-cloud-nine-after-goals-brentford-and-brazil-6051006",
+        "title": "NASA already has next Artemis flight in sights following astronauts' triumphant moon flyby",
+        "link": "https://www.channelnewsasia.com/world/nasa-already-has-next-artemis-flight-in-sights-following-astronauts-triumphant-moon-flyby-6051866",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 01:55:01 +0800",
-        "description": ""
+        "published": "Mon, 13 Apr 2026 01:16:25 +0800",
+        "description": "Now that the first lunar travellers in more than half a century are safely back in Houston with their families, NASA has Artemis III planned for next year."
       },
       {
-        "title": "Bayern break all-time Bundesliga season goal record with 105",
-        "link": "https://www.channelnewsasia.com/sport/bayern-break-all-time-bundesliga-season-goal-record-105-6050961",
+        "title": "Pope says he is 'closer than ever' to Lebanese people",
+        "link": "https://www.channelnewsasia.com/world/pope-says-he-closer-ever-lebanese-people-6051941",
         "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 01:06:47 +0800",
-        "description": ""
-      },
-      {
-        "title": "Brighton's red-hot form has club dreaming of return to European football",
-        "link": "https://www.channelnewsasia.com/sport/brightons-red-hot-form-has-club-dreaming-return-european-football-6050931",
-        "source": "CNA Singapore",
-        "published": "Sun, 12 Apr 2026 00:43:04 +0800",
+        "published": "Mon, 13 Apr 2026 00:30:25 +0800",
         "description": ""
       }
     ],
@@ -443,18 +443,25 @@
         "description": "Party leader Zack Polanski accuses Labour of failing to build enough social and affordable homes."
       },
       {
-        "title": "Payments for children and 100 new GPs in Plaid election manifesto",
-        "link": "https://www.bbc.com/news/articles/c5y70z1q0k3o?at_medium=RSS&at_campaign=rss",
+        "title": "Tice £91,000 tax row is 'minor administrative error', party claims",
+        "link": "https://www.bbc.com/news/articles/c8x7yj99jrwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 09 Apr 2026 14:36:34 GMT",
-        "description": "Rhun ap Iorwerth said a Plaid government would cut waiting times, help with childcare costs and grow economy."
+        "published": "Sun, 12 Apr 2026 16:34:31 GMT",
+        "description": "A property company owned by the Reform UK deputy leader failed to pay £91,000 in tax on dividends, according to the Sunday Times."
       },
       {
-        "title": "Four people die trying to board boat in Channel crossing attempt",
-        "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss",
+        "title": "Welsh election not about independence, Plaid Cymru candidate says",
+        "link": "https://www.bbc.com/news/articles/cwyd87y97ewo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 09 Apr 2026 13:56:14 GMT",
-        "description": "Authorities say 37 people are being treated in hospital, but around 30 others continued their journeys to the UK."
+        "published": "Sun, 12 Apr 2026 14:05:45 GMT",
+        "description": "Plaid has promised not to hold a referendum if it gets into government, but would commission research into independence."
+      },
+      {
+        "title": "Starmer urges US and Iran to 'find way through' after peace talks falter",
+        "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 12 Apr 2026 10:39:51 GMT",
+        "description": "The prime minister warns the US and Iran against \"escalation\", as negotiations end without agreement."
       },
       {
         "title": "UK shelves Chagos deal after Trump opposition",
@@ -483,29 +490,50 @@
         "source": "BBC Politics",
         "published": "Fri, 10 Apr 2026 13:20:08 GMT",
         "description": "Speaking during a three-day visit to the Middle East, the prime minister says the current ceasefire is \"fragile\"."
-      },
-      {
-        "title": "SNP pledges 'first refusal' for tenants to buy private rental homes",
-        "link": "https://www.bbc.com/news/articles/cx2e54vk0jvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 10 Apr 2026 10:21:10 GMT",
-        "description": "John Swinney says it would help renters get on the housing ladder but other parties say the SNP is to blame for the housing emergency."
       }
     ],
     "Science": [
       {
-        "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
+        "title": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022029.htm",
         "source": "Science Daily",
-        "published": "Thu, 09 Apr 2026 22:23:41 EDT",
-        "description": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subt"
+        "published": "Sun, 12 Apr 2026 08:58:54 EDT",
+        "description": "A new study reveals that popular diabetes and weight-loss drugs like Ozempic and Wegovy may not work as effectively for about 10% of people due to specific genetic variants. These individuals appear t"
       },
       {
-        "title": "Early weight gain is linked to lifelong health consequences",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260411022023.htm",
+        "title": "Neandertals may have hunted and eaten outsiders, chilling cannibalism study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022044.htm",
         "source": "Science Daily",
-        "published": "Sat, 11 Apr 2026 09:54:18 EDT",
-        "description": "Putting on weight earlier in life may be more dangerous than previously thought. Researchers found that early adulthood obesity significantly raises the risk of premature death, especially from major "
+        "published": "Sun, 12 Apr 2026 07:59:30 EDT",
+        "description": "A cave in Belgium has revealed unsettling evidence that Neandertals selectively cannibalized outsiders, focusing on women and children. The victims weren’t from the local group and appear to have been"
+      },
+      {
+        "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+        "source": "Science Daily",
+        "published": "Sun, 12 Apr 2026 07:32:05 EDT",
+        "description": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, life"
+      },
+      {
+        "title": "How aggressive breast cancer turns off the immune system",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+        "source": "Science Daily",
+        "published": "Sun, 12 Apr 2026 07:03:28 EDT",
+        "description": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress"
+      },
+      {
+        "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
+        "source": "Science Daily",
+        "published": "Sun, 12 Apr 2026 06:42:12 EDT",
+        "description": "A new nanodisc-based platform lets scientists study viral proteins in a form that closely mimics real viruses, revealing how antibodies truly recognize them. This approach uncovered hidden interaction"
+      },
+      {
+        "title": "Life on Mars? Tiny cells just survived shock waves and toxic soil",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260411022033.htm",
+        "source": "Science Daily",
+        "published": "Sun, 12 Apr 2026 03:00:48 EDT",
+        "description": "Mars may be hostile, but it might not be entirely unlivable. In lab experiments, yeast cells survived simulated Martian shock waves and toxic perchlorate salts—two major environmental threats on the R"
       },
       {
         "title": "Two simple eating habits linked to lower weight, study finds",
@@ -534,34 +562,6 @@
         "source": "Science Daily",
         "published": "Sat, 11 Apr 2026 08:13:19 EDT",
         "description": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal sign"
-      },
-      {
-        "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
-        "source": "Science Daily",
-        "published": "Fri, 10 Apr 2026 10:12:15 EDT",
-        "description": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. "
-      },
-      {
-        "title": "A common nutrient could supercharge cancer treatment",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260410083114.htm",
-        "source": "Science Daily",
-        "published": "Fri, 10 Apr 2026 09:55:45 EDT",
-        "description": "A common eye-health nutrient, zeaxanthin, may also help the body fight cancer more effectively. Scientists discovered it strengthens T cells and enhances the impact of immunotherapy treatments. Found "
-      },
-      {
-        "title": "Gravitational waves may be hidden in the light atoms emit",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
-        "source": "Science Daily",
-        "published": "Fri, 10 Apr 2026 09:43:52 EDT",
-        "description": "Scientists have proposed a surprising new way to detect gravitational waves—by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different direct"
-      },
-      {
-        "title": "This superconductivity dies then comes back to life",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260409101108.htm",
-        "source": "Science Daily",
-        "published": "Fri, 10 Apr 2026 09:36:49 EDT",
-        "description": "A strange new kind of superconductivity has been uncovered in uranium ditelluride (UTe2), where electricity flows with zero resistance—but only under extremely strong magnetic fields that should norma"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
-      "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+      "title": "Nigerian airstrike leaves 200 feared dead in Yobe, councillor and residents say",
+      "link": "https://www.channelnewsasia.com/world/nigerian-airstrike-leaves-200-feared-dead-in-yobe-councillor-and-residents-say-6051801",
+      "source": "CNA Singapore",
+      "published": "Mon, 13 Apr 2026 04:11:22 +0800",
+      "description": "Africa's most populous country has been fighting a jihadist insurgency for 17 years, since Boko Haram's 2009 uprising, and civilians have been caught in the crossfire and killed in military air strike"
+    },
+    {
+      "title": "April’s stock-market rebound is about to face its first major test as earnings season swings into gear",
+      "link": "https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 12 Apr 2026 20:00:00 GMT",
+      "description": "The recovery in the U.S. stock market since the beginning of April could soon face its first critical test, as the first-quarter corporate earnings season is about to get underway."
+    },
+    {
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
       "source": "TechCrunch",
-      "published": "Sat, 11 Apr 2026 20:32:23 +0000",
-      "description": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?"
+      "published": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
     },
     {
-      "title": "Irish cabinet meeting to be held to discuss ongoing fuel protests",
-      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 11 Apr 2026 20:12:22 GMT",
-      "description": "Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day."
-    },
-    {
-      "title": "Liverpool boss Slot hopes Fulham win can build momentum for PSG showdown",
-      "link": "https://www.channelnewsasia.com/sport/liverpool-boss-slot-hopes-fulham-win-can-build-momentum-psg-showdown-6051106",
+      "title": "Man City get into gear for another season finale run",
+      "link": "https://www.channelnewsasia.com/sport/man-city-get-gear-another-season-finale-run-6052076",
       "source": "CNA Singapore",
-      "published": "Sun, 12 Apr 2026 04:09:05 +0800",
+      "published": "Mon, 13 Apr 2026 03:44:07 +0800",
       "description": ""
     },
     {
-      "title": "Barca beat Espanyol 4-1 to move nine points clear in LaLiga",
-      "link": "https://www.channelnewsasia.com/sport/barca-beat-espanyol-4-1-move-nine-points-clear-in-laliga-6051051",
+      "title": "Magyar says Orban has conceded defeat in Hungary election",
+      "link": "https://www.channelnewsasia.com/world/early-results-in-hungarys-election-show-opposition-party-leading-over-pm-orbans-6052041",
       "source": "CNA Singapore",
-      "published": "Sun, 12 Apr 2026 03:08:02 +0800",
-      "description": ""
+      "published": "Mon, 13 Apr 2026 03:43:44 +0800",
+      "description": "Partial results on Sunday show the opposition party ending Viktor Orban's 16-year stretch as Hungary's prime minister."
     },
     {
-      "title": "U.S.-Iran talks underway in Pakistani capital after delegations arrive",
-      "link": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
-      "source": "CNBC Finance",
-      "published": "Sat, 11 Apr 2026 18:57:49 GMT",
-      "description": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict."
-    },
-    {
-      "title": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
-      "link": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 11 Apr 2026 18:55:40 GMT",
-      "description": "The far-right party is riding high in the opinion polls in the eastern state of Saxony-Anhalt."
-    },
-    {
-      "title": "Here are some bargain bank stocks heading into earnings season",
-      "link": "https://www.marketwatch.com/story/here-are-some-bargain-bank-stocks-heading-into-earnings-season-d0e6b3da?mod=mw_rss_topstories",
+      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
+      "link": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Sat, 11 Apr 2026 18:55:00 GMT",
-      "description": "A close look at valuations for the largest U.S. banks highlights opportunities for long-term investors."
+      "published": "Sun, 12 Apr 2026 19:39:00 GMT",
+      "description": "As U.S.-Iran talks in Pakistan ended without a deal, U.S. stock futures were sliding and oil was climbing, based on trading via a crypto-based trading platform."
     },
     {
-      "title": "There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling.",
-      "link": "https://www.marketwatch.com/story/there-are-years-long-waiting-lists-to-retire-on-college-campuses-6-steps-to-take-before-enrolling-d7bd2d2d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Sat, 11 Apr 2026 18:51:00 GMT",
-      "description": "Retiring to a college community can be great — if you can afford it."
-    },
-    {
-      "title": "Five-star Bayern shatter league goal record to stretch lead at the top",
-      "link": "https://www.channelnewsasia.com/sport/five-star-bayern-shatter-league-goal-record-stretch-lead-top-6051041",
+      "title": "McIlroy and Young hold steady as Masters chasers strike early",
+      "link": "https://www.channelnewsasia.com/sport/mcilroy-and-young-hold-steady-masters-chasers-strike-early-6051986",
       "source": "CNA Singapore",
-      "published": "Sun, 12 Apr 2026 02:50:06 +0800",
+      "published": "Mon, 13 Apr 2026 03:02:26 +0800",
       "description": ""
     },
     {
-      "title": "In fiery speech, Pope Leo says 'Enough to war!'",
-      "link": "https://www.channelnewsasia.com/world/in-fiery-speech-pope-leo-says-enough-war-6051031",
+      "title": "Bitcoin Liquidity Rotation Turns Bullish Again As Stablecoin Shelter Starts To Unwind",
+      "link": "https://bitcoinist.com/bitcoin-liquidity-rotation-turns-bullish-again-as-stablecoin-shelter-starts-to-unwind/",
+      "source": "Bitcoinist",
+      "published": "Sun, 12 Apr 2026 19:00:54 +0000",
+      "description": "Bitcoin’s recent bounce above $70,000 is starting to look like more than a price bounce. An interesting on-chain analysis of on-chain data points to a change in how capital is moving across the market"
+    },
+    {
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+      "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sun, 12 Apr 2026 18:48:57 GMT",
+      "description": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs."
+    },
+    {
+      "title": "Rampant Man City send message to Arsenal, Tottenham relegation fears deepen",
+      "link": "https://www.channelnewsasia.com/sport/rampant-man-city-send-message-arsenal-tottenham-relegation-fears-deepen-6052036",
       "source": "CNA Singapore",
-      "published": "Sun, 12 Apr 2026 02:49:00 +0800",
-      "description": "In one of his most passionate entreaties yet to end the raging conflict in the Middle East, the American pope said faith was needed \"in order to face this dramatic hour in history together\".&nbsp;"
+      "published": "Mon, 13 Apr 2026 02:43:25 +0800",
+      "description": ""
     }
   ]
 }
