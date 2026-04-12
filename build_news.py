@@ -22,6 +22,8 @@ import yfinance as yf
 import warnings
 warnings.filterwarnings('ignore')
 
+from notifier import notify
+
 # ============================================================================
 # CONFIG
 # ============================================================================
@@ -680,7 +682,10 @@ def build():
     
     # Fetch news
     news = fetch_news()
-    
+
+    # Send webhook notifications (Discord / Telegram)
+    notify(news)
+
     print("=" * 60)
     print("Build complete!")
     print(f"Charts: {CHART_DIR}")
