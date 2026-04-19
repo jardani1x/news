@@ -1,107 +1,135 @@
 {
-  "updated_sgt": "2026-04-19 04:41 SGT",
-  "updated_iso": "2026-04-19T04:41:10.922690+08:00",
+  "updated_sgt": "2026-04-20 04:42 SGT",
+  "updated_iso": "2026-04-20T04:42:08.984038+08:00",
   "categories": {
     "World": [
       {
-        "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
-        "link": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+        "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
+        "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 19:18:40 GMT",
-        "description": "Construction at the White House is expected to continue until the next hearing, due in June."
+        "published": "Sun, 19 Apr 2026 19:25:22 GMT",
+        "description": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\"."
       },
       {
-        "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
-        "link": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+        "title": "Eight children killed in Louisiana shooting, police say",
+        "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 18:58:26 GMT",
-        "description": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue."
+        "published": "Sun, 19 Apr 2026 19:22:44 GMT",
+        "description": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\"."
       },
       {
-        "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-        "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+        "link": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 18:09:57 GMT",
-        "description": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say."
+        "published": "Sun, 19 Apr 2026 17:48:41 GMT",
+        "description": "Authorities say the officers have been suspended and an investigation into their actions is under way."
       },
       {
-        "title": "HiPP recalls jarred baby food in Austria over contamination fears",
-        "link": "https://www.bbc.com/news/articles/c4gly4qkx1go?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+        "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 16:54:22 GMT",
-        "description": "Police are investigating whether jars sold in Spar shops were criminally interfered with."
+        "published": "Sun, 19 Apr 2026 15:50:48 GMT",
+        "description": "Residents within a 450m radius of the device were told to leave their homes while it was neutralised."
+      },
+      {
+        "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+        "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 19 Apr 2026 12:52:26 GMT",
+        "description": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\"."
+      },
+      {
+        "title": "Zelensky condemns US extension of Russian sanctions waiver",
+        "link": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 19 Apr 2026 09:55:22 GMT",
+        "description": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran."
+      },
+      {
+        "title": "Bodies of 50 infants dumped at Trinidad graveyard",
+        "link": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 19 Apr 2026 07:49:45 GMT",
+        "description": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\"."
       },
       {
         "title": "Pope says 'tyrants' speech was not aimed at Trump",
         "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 16:44:39 GMT",
+        "published": "Sun, 19 Apr 2026 07:47:35 GMT",
         "description": "The pontiff says his remarks have been misinterpreted after a spat with the US president."
       },
       {
-        "title": "French peacekeeper killed in southern Lebanon",
-        "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+        "title": "Australia's most-decorated soldier vows to fight war crime charges",
+        "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 14:53:17 GMT",
-        "description": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident."
+        "published": "Sun, 19 Apr 2026 05:12:40 GMT",
+        "description": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week."
       },
       {
-        "title": "French film star Nathalie Baye dies aged 77, media report",
-        "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+        "title": "Alec Baldwin to face civil trial over Rust film set shooting",
+        "link": "https://www.bbc.com/news/articles/cp86rrld6dyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 14:52:15 GMT",
-        "description": "President Emmanuel Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema."
-      },
-      {
-        "title": "Millions listen to Ethiopian star's song taking swipe at government",
-        "link": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 13:13:21 GMT",
-        "description": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track."
-      },
-      {
-        "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
-        "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 10:32:54 GMT",
-        "description": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set."
-      },
-      {
-        "title": "DR Congo accepts first set of deportees from the US",
-        "link": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 18 Apr 2026 09:18:16 GMT",
-        "description": "The Congolese government stresses those expelled from the US are only in the country temporarily."
+        "published": "Sat, 18 Apr 2026 23:08:23 GMT",
+        "description": "The criminal case against the actor was dismissed in 2024."
       }
     ],
     "Finance": [
       {
-        "title": "No escape: U.S.-Iran war, $4 gas, has taken all the fun out of consumer spending",
-        "link": "https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html",
+        "title": "Trump says U.S. struck and seized Iranian-flagged cargo ship in Gulf of Oman",
+        "link": "https://www.cnbc.com/2026/04/19/trump-navy-iran-ship-gulf-of-oman.html",
         "source": "CNBC Finance",
-        "published": "Sat, 18 Apr 2026 20:22:54 GMT",
-        "description": "Consumers are still spending amid U.S.-Iran war and $4 gas prices, but there's a pullback at entertainment and dining venues hitting local economies hard."
+        "published": "Sun, 19 Apr 2026 20:28:24 GMT",
+        "description": "The seizure is an apparent escalation of a U.S. naval blockade, and comes after Iran fired upon commercial vessels transiting the Strait of Hormuz earlier on Sunday."
       },
       {
-        "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire",
-        "link": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
+        "title": "FBI Director Kash Patel vows to sue The Atlantic over alcohol abuse claims",
+        "link": "https://www.cnbc.com/2026/04/19/kash-patel-atlantic-lawsuit-alcohol.html",
         "source": "CNBC Finance",
-        "published": "Sat, 18 Apr 2026 19:58:19 GMT",
-        "description": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports."
+        "published": "Sun, 19 Apr 2026 19:56:11 GMT",
+        "description": "Kash Patel recently made headlines for chugging a beer after Team USA won the gold medal in ice hockey in the 2026 Olympic Games."
       },
       {
-        "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
-        "link": "https://www.cnbc.com/2026/04/17/section-702-fisa-congress-surveillance.html",
+        "title": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
+        "link": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
         "source": "CNBC Finance",
-        "published": "Sat, 18 Apr 2026 18:09:53 GMT",
-        "description": "The law allows the U.S. government to surveil people outside the U.S., including when they're communicating with American citizens."
+        "published": "Sun, 19 Apr 2026 18:38:11 GMT",
+        "description": "In a 2026 market that had Microsoft down close to 20%, looking for opportunities to buy after big drawdowns is coming to more tech and software stocks."
       },
       {
-        "title": "There's an 'art' to writing AI prompts for personal finance, MIT professor says",
-        "link": "https://www.cnbc.com/2026/04/18/ai-prompts-personal-finance-advice.html",
+        "title": "Amazon, USPS and the risk of a widening delivery divide in rural America",
+        "link": "https://www.cnbc.com/2026/04/19/amazon-usps-package-delivery-costs-rural-america.html",
         "source": "CNBC Finance",
-        "published": "Sat, 18 Apr 2026 14:30:01 GMT",
-        "description": "There's a good and bad way to write effective artificial intelligence prompts for personal finance advice."
+        "published": "Sun, 19 Apr 2026 14:16:12 GMT",
+        "description": "The new deal between Amazon and the U.S. Postal Service has many implications, maybe none greater than what it means for package delivery to rural Americans."
+      },
+      {
+        "title": "Gas prices may not drop below $3 a gallon until next year: Energy Secretary Wright",
+        "link": "https://www.cnbc.com/2026/04/19/gas-prices-drop-until-next-year-wright.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 19 Apr 2026 14:00:35 GMT",
+        "description": "Gas prices are more than $4 per gallon on average in the U.S. right now, a massive spike from just months ago."
+      },
+      {
+        "title": "This year's college graduates face a changed student loan landscape",
+        "link": "https://www.cnbc.com/2026/04/19/college-graduates-face-federal-student-loan-changes.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 19 Apr 2026 13:30:01 GMT",
+        "description": "Student loan borrowers graduating college in May will face different repayment options than in prior years. Here's what to know."
+      },
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+        "link": "https://www.cnbc.com/2026/04/19/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 19 Apr 2026 12:26:04 GMT",
+        "description": "Picking stocks can be challenging due to the vast universe of equities. Investors can follow the ratings of top Street analysts and make informed decisions."
+      },
+      {
+        "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
+        "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 19 Apr 2026 12:00:01 GMT",
+        "description": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are \"definitely the next ChatGPT.\""
       },
       {
         "title": "AI fears drive some young adults to grad school — 'people shelter in higher education,' expert says",
@@ -111,42 +139,70 @@
         "description": "Experts say going back to school for a graduate degree is one way to hedge against a rapidly changing labor market."
       },
       {
-        "title": "Berkshire shares left behind as S&P 500 rallies to record high",
-        "link": "https://www.cnbc.com/2026/04/18/berkshire-shares-left-behind-as-sp-500-rallies-to-record-high.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 18 Apr 2026 12:56:03 GMT",
-        "description": "While the overall market was soaring over the past two weeks, Berkshire wasn't doing much of anything, as its shares slipped to MTD drops of just under 1%."
-      },
-      {
-        "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
-        "link": "https://www.cnbc.com/2026/04/18/car-dealerships-auto-retail.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 18 Apr 2026 12:00:01 GMT",
-        "description": "Multibillion-dollar dealerships have been on the rise amid a decadeslong consolidation that has led to a grow-or-die mentality for many U.S. auto retailers."
-      },
-      {
-        "title": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'",
-        "link": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 18 Apr 2026 12:00:01 GMT",
-        "description": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design."
-      },
-      {
         "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
         "link": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html",
         "source": "CNBC Finance",
         "published": "Sat, 18 Apr 2026 10:24:36 GMT",
         "description": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war."
-      },
-      {
-        "title": "Bessent says to adjust your paycheck withholding — but mistakes could trigger a tax bill, experts caution",
-        "link": "https://www.cnbc.com/2026/04/17/tax-withholding-2026.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 17 Apr 2026 15:01:15 GMT",
-        "description": "Treasury Secretary Scott Bessent told workers to update their paycheck withholding. But mistakes could trigger a tax bill next season."
       }
     ],
     "Technology": [
+      {
+        "title": "The 12-month window",
+        "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+        "source": "TechCrunch",
+        "published": "Sun, 19 Apr 2026 19:30:00 +0000",
+        "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
+      },
+      {
+        "title": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
+        "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+        "source": "TechCrunch",
+        "published": "Sun, 19 Apr 2026 19:02:09 +0000",
+        "description": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon."
+      },
+      {
+        "title": "Robots beat human records at Beijing half-marathon",
+        "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+        "source": "TechCrunch",
+        "published": "Sun, 19 Apr 2026 18:44:00 +0000",
+        "description": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes."
+      },
+      {
+        "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+        "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+        "source": "TechCrunch",
+        "published": "Sun, 19 Apr 2026 16:30:00 +0000",
+        "description": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\""
+      },
+      {
+        "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+        "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+        "source": "TechCrunch",
+        "published": "Sun, 19 Apr 2026 16:01:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      },
+      {
+        "title": "Cracks are starting to form on fusion energy’s funding boom",
+        "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+        "source": "TechCrunch",
+        "published": "Sun, 19 Apr 2026 12:51:10 +0000",
+        "description": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably."
+      },
+      {
+        "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+        "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+        "source": "TechCrunch",
+        "published": "Sun, 19 Apr 2026 11:45:38 +0000",
+        "description": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market."
+      },
+      {
+        "title": "Tesla brings its robotaxi service to Dallas and Houston",
+        "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "source": "TechCrunch",
+        "published": "Sat, 18 Apr 2026 21:37:15 +0000",
+        "description": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026."
+      },
       {
         "title": "VC Ron Conway says he has a ‘rare form of cancer’",
         "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
@@ -160,123 +216,123 @@
         "source": "TechCrunch",
         "published": "Sat, 18 Apr 2026 19:19:11 +0000",
         "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
-      },
-      {
-        "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-        "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-        "source": "TechCrunch",
-        "published": "Sat, 18 Apr 2026 14:56:48 +0000",
-        "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
-      },
-      {
-        "title": "The App Store is booming again, and AI may be why",
-        "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-        "source": "TechCrunch",
-        "published": "Sat, 18 Apr 2026 13:00:00 +0000",
-        "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
-      },
-      {
-        "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
-        "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
-        "source": "TechCrunch",
-        "published": "Sat, 18 Apr 2026 05:20:11 +0000",
-        "description": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing."
-      },
-      {
-        "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-        "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-        "source": "TechCrunch",
-        "published": "Fri, 17 Apr 2026 22:34:02 +0000",
-        "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
-      },
-      {
-        "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-        "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-        "source": "TechCrunch",
-        "published": "Fri, 17 Apr 2026 20:38:17 +0000",
-        "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
-      },
-      {
-        "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-        "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
-        "source": "TechCrunch",
-        "published": "Fri, 17 Apr 2026 20:16:13 +0000",
-        "description": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment."
-      },
-      {
-        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-        "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-        "source": "TechCrunch",
-        "published": "Fri, 17 Apr 2026 19:17:26 +0000",
-        "description": "Returning backers a16z and Thrive are expected to lead the round."
-      },
-      {
-        "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-        "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-        "source": "TechCrunch",
-        "published": "Fri, 17 Apr 2026 18:42:45 +0000",
-        "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting."
       }
     ],
     "Crypto": [
       {
-        "title": "What Is The XLS-66 And What Does It Mean For XRP Holders?",
-        "link": "https://bitcoinist.com/xls-66-mean-for-xrp-holders/",
+        "title": "Ceasefire Drama Escalates—Trump Points Finger At Iran, Bitcoin In Focus",
+        "link": "https://bitcoinist.com/ceasefire-drama-escalates-trump-points-finger-at-iran-bitcoin-in-focus/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 19:00:27 +0000",
-        "description": "Crypto pundit James has highlighted what the XLS-66 amendment is about and what it would mean for XRP holders in terms of earning yields. This comes as the XRP Ledger validators prepare to vote on the"
+        "published": "Sun, 19 Apr 2026 20:00:05 +0000",
+        "description": "Iran&#8217;s Foreign Ministry came out swinging on Sunday, accusing the United States of committing war crimes through what it described as an unlawful naval blockade — a charge that landed just hours"
       },
       {
-        "title": "Stablecoins Adoption: French Finance Minister Pushes For More Euro-Backed Tokens",
-        "link": "https://bitcoinist.com/french-minister-support-euro-based-stablecoins/",
+        "title": "US-Based Bitcoin ETFs Post Roughly $1B Inflows In Past Week: Report",
+        "link": "https://bitcoinist.com/us-based-bitcoin-etfs-post-roughly-1b-inflows/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 17:30:39 +0000",
-        "description": "France&#8217;s Finance Minister Roland Lescure has called for the development of more Euro-pegged stablecoins. This comes amid rising tensions between the European Union and the US, as the EU seeks to"
+        "published": "Sun, 19 Apr 2026 18:00:03 +0000",
+        "description": "The price of Bitcoin saw a rise in bullish momentum over the past week, as the initially improving situation in the Middle East served as a significant catalyst. This optimism seems to have spread acr"
       },
       {
-        "title": "Bold Call: Ripple Tipped To Become Payments Giant By 2040",
-        "link": "https://bitcoinist.com/bold-call-ripple-tipped-to-become-payments-giant-by-2040/",
+        "title": "Kelp DAO Suffers $292 Million rsETH Exploit – Details",
+        "link": "https://bitcoinist.com/kelp-dao-suffers-292-million-rseth-exploit-details/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 16:00:37 +0000",
-        "description": "Between 30% and 50% of retail XRP holders with significant positions are expected to sell at least part of their holdings if the token hits $10 — a threshold that would represent life-changing money f"
+        "published": "Sun, 19 Apr 2026 14:00:09 +0000",
+        "description": "Wu Blockchain reports that Kelp DAO has suffered a massive cross-chain exploit that drained approximately 116,500 rsETH, valued at nearly $292 million. The incident raises fresh concerns about the pro"
       },
       {
-        "title": "Analyst Reveals Why He Doesn’t See XRP Price Crashing Below $1",
-        "link": "https://bitcoinist.com/xrp-price-not-crashing-below-1/",
+        "title": "From Aluminum To Bitcoin: Alcoa To Sell Dormant Plant To NYDIG",
+        "link": "https://bitcoinist.com/from-aluminum-to-bitcoin-alcoa-to-sell-dormant-plant-to-nydig/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 14:30:37 +0000",
-        "description": "XRP price had begun crashing after hitting a cycle peak of $3.6 back in July 2025. Since then, the digital asset’s price has crashed by more than 50%, naturally leading to a rapid decline in investor "
+        "published": "Sun, 19 Apr 2026 12:00:41 +0000",
+        "description": "Bitcoin mining firm NYDIG already has skin in the game at the Massena, New York site — it holds a stake in Coinmint, which runs mining hardware there under a long-term lease. Now the company wants the"
       },
       {
-        "title": "Bitcoin Miners Selling Nears Exhaustion – What Comes Next",
-        "link": "https://bitcoinist.com/bitcoin-miners-selling-near-exhaustion-uptrend-next/",
+        "title": "Crypto Regulation: Polish Parliament Fails To Overturn Presidential Veto Again",
+        "link": "https://bitcoinist.com/crypto-polish-parliament-fail-overturn-veto-agian/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 13:00:48 +0000",
-        "description": "Recent on-chain data shows that Bitcoin miner selling pressure may be approaching exhaustion, potentially setting the stage for the market’s next upward phase. This development comes amid a resilient "
+        "published": "Sun, 19 Apr 2026 10:00:18 +0000",
+        "description": "Once again, Poland’s Parliament has failed to override the presidential veto of a controversial piece of cryptocurrency legislation, deepening tensions between the country’s legislative branch and its"
       },
       {
-        "title": "SEC’s New Podcast Outlines Crypto As Top Priority In Pro-Innovation Agenda",
-        "link": "https://bitcoinist.com/secs-crypto-top-priority-pro-innovation-agenda/",
+        "title": "Iran Ceasefire Drives Bitcoin Above $75,000, But Can It Push BTC To $100,000?",
+        "link": "https://bitcoinist.com/iran-ceasefire-drives-bitcoin-above-75000-but-can-it-push-btc-to-100000/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 11:00:12 +0000",
-        "description": "The US Securities and Exchange Commission (SEC) chairman and two Commissioners have highlighted the crypto industry as one of the top priorities in the regulatory agency’s pivot toward clearer and pro"
+        "published": "Sun, 19 Apr 2026 06:00:44 +0000",
+        "description": "Bitcoin has climbed back above $75,000 as easing Middle East tensions helped reduce risk appetite and led to inflows into the crypto industry. A 10-day ceasefire linked to the Israel-Lebanon front and"
       },
       {
-        "title": "Dogecoin Gold Plans Revealed As DOGE Jumps Past $0.10—Here’s What To Know",
-        "link": "https://bitcoinist.com/dogecoin-gold-plans-revealed-doge-jumps-past-0-10/",
+        "title": "Hong Kong Crypto Scam Shock: Woman Loses Nearly $1 Million As AI Fraud Surges",
+        "link": "https://bitcoinist.com/hong-kong-crypto-scam-shock-woman-loses-nearly-1-million-as-ai-fraud-surges/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 10:00:31 +0000",
-        "description": "Nevada-based Dogecoin Cash Inc. has unveiled a new proposal for “Dogecoin Gold,” a blockchain-based project designed to link digital tokens to physical gold reserves. The announcement arrived on Frida"
+        "published": "Sun, 19 Apr 2026 05:00:45 +0000",
+        "description": "Her withdrawal requests kept getting denied. That was the moment a Hong Kong woman realized the crypto investment platform she had been using for weeks was fake — and that her money was gone. Related "
       },
       {
-        "title": "$20M Crypto Scam Lands Texas Man 23-Year Prison Sentence",
-        "link": "https://bitcoinist.com/20m-crypto-scam-lands-texas-man-23-year-prison-sentence/",
+        "title": "XRP Funding Rates Stay Negative On Binance Throughout 2026 — What This Means",
+        "link": "https://bitcoinist.com/xrp-funding-rates-stay-negative/",
         "source": "Bitcoinist",
-        "published": "Sat, 18 Apr 2026 09:00:01 +0000",
-        "description": "Robert Dunlap will spend the next two decades in federal prison after a judge handed down a 276-month sentence for his role in a massive crypto fraud. A federal court in Florida issued the ruling foll"
+        "published": "Sun, 19 Apr 2026 04:00:02 +0000",
+        "description": "Since the start of 2026, one of the clearest signals shaping market sentiment around XRP hasn’t come from price alone but from the derivatives market. On Binance, XRP funding rates have remained predo"
       }
     ],
     "Markets": [
+      {
+        "title": "These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.",
+        "link": "https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 19 Apr 2026 20:13:00 GMT",
+        "description": "A scientific report has raised questions about how much Leqimbi and Kisunla — the “breakthrough” Alzheimer’s drugs that have hit the market in the last few years — really help slow the disease."
+      },
+      {
+        "title": "Investors brace for renewed volatility after this weekend’s Iran developments",
+        "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 19 Apr 2026 19:49:00 GMT",
+        "description": "After a three-week-long rally that’s brought the S&P 500 to new record highs, investors are again bracing for uncertainty following a whirlwind of weekend developments concerning the war with Iran."
+      },
+      {
+        "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going.",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 19 Apr 2026 16:57:00 GMT",
+        "description": "The Iran war may or may not be nearing a conclusion. But as far as the stock market is concerned, it’s no longer been worth worrying about."
+      },
+      {
+        "title": "I’m planning to retire at 60. Should I sell my house and invest the $500,000?",
+        "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 19 Apr 2026 12:36:00 GMT",
+        "description": "“Renting improves cash flow by about $1,300 a month.”"
+      },
+      {
+        "title": "‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?",
+        "link": "https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 19 Apr 2026 11:00:00 GMT",
+        "description": "“Another option would be for me to purchase the condo myself and have him pay me rent.”"
+      },
+      {
+        "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
+        "link": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 19 Apr 2026 10:30:00 GMT",
+        "description": "“I buy clothes at thrift stores.”"
+      },
+      {
+        "title": "‘It is their fault’: My condo board forgot to bill for storage fees. Must I pay retroactively?",
+        "link": "https://www.marketwatch.com/story/it-is-their-fault-my-condo-board-forgot-to-bill-for-storage-fees-must-i-pay-retroactively-e5f6246b?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 19 Apr 2026 08:35:00 GMT",
+        "description": "“They now intend to bill us for seven to eight months of storage fees.”"
+      },
+      {
+        "title": "New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs",
+        "link": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 18 Apr 2026 22:42:00 GMT",
+        "description": "Surcharge on luxury units is a gamble that the ultrawealthy won’t leave for low-tax states."
+      },
       {
         "title": "Caregiving has become so crazy expensive that it’s financially devastating to most families",
         "link": "https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories",
@@ -290,134 +346,78 @@
         "source": "MarketWatch",
         "published": "Sat, 18 Apr 2026 20:29:00 GMT",
         "description": "Benefit limits could do a lot to solve Social Security’s fiscal problems, CRFB suggests. But check the fine print."
-      },
-      {
-        "title": "Planning to age in place? Watch out for these hidden costs.",
-        "link": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 20:29:00 GMT",
-        "description": "Most retirees want to stay in their homes as they age. It might not be worth it."
-      },
-      {
-        "title": "2 expensive mistakes most retirees make — and how to avoid them",
-        "link": "https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 20:29:00 GMT",
-        "description": "“We call them ‘King Tut’ subjects — they’re buried with their gold.”"
-      },
-      {
-        "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
-        "link": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 19:46:00 GMT",
-        "description": "With 65% equity cushions and 10-year lockups, Wall Street’s ‘anti-banks’ won’t face a ‘Lehman moment.’"
-      },
-      {
-        "title": "This is the defense sector’s fastest grower — and a $20 billion trade most investors are missing",
-        "link": "https://www.marketwatch.com/story/the-20-billion-drone-killer-trade-most-investors-are-missing-7fff2293?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 19:44:00 GMT",
-        "description": "‘Drone-killing’ technology is now a must-have for government agencies — from Washington to Riyadh."
-      },
-      {
-        "title": "Big Tech’s giant headache: billions in AI capital spending and investors demanding quick results",
-        "link": "https://www.marketwatch.com/story/big-techs-giant-headache-billions-in-ai-capital-spending-means-investors-demand-results-451fd572?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 19:43:00 GMT",
-        "description": "Implementing AI carries plenty of risks — most of which stem from its tremendous potential."
-      },
-      {
-        "title": "This ‘hidden’ price of oil is going to hit your electric bill next",
-        "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 19:16:00 GMT",
-        "description": "Investors are betting on peace — but they’re not looking at the whole picture."
-      },
-      {
-        "title": "These stocks and ETFs can beat the ‘sell in May’ slump — and dodge the 2026 midterm blues",
-        "link": "https://www.marketwatch.com/story/these-stocks-and-etfs-can-beat-the-sell-in-may-slump-and-dodge-the-2026-midterm-blues-6295b0c2?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 19:14:00 GMT",
-        "description": "You don’t have to exit the market to survive a summer lull. Here’s your ‘stay and play’ strategy for the 2026 election cycle."
-      },
-      {
-        "title": "The world’s most stable asset is losing its grip — leaving your paycheck and retirement vulnerable to inflation",
-        "link": "https://www.marketwatch.com/story/the-worlds-most-stable-asset-is-losing-its-grip-leaving-your-paycheck-and-retirement-vulnerable-to-inflation-9c177b96?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 18 Apr 2026 19:11:00 GMT",
-        "description": "Treasury bonds are no longer guaranteed safe havens — and your spending power is on the line."
       }
     ],
     "Singapore": [
       {
-        "title": "Two Indian-flagged ships attacked crossing Strait of Hormuz",
-        "link": "https://www.channelnewsasia.com/asia/two-indian-flagged-ships-attacked-crossing-strait-hormuz-6065526",
+        "title": "Title race starts now, says defiant Arsenal boss Arteta",
+        "link": "https://www.channelnewsasia.com/sport/title-race-starts-now-says-defiant-arsenal-boss-arteta-6066766",
         "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 04:22:23 +0800",
-        "description": "Iran said on Saturday (Apr 18) it would continue to block transit through the strait as long as the US blockade of Iranian ports remains in effect."
-      },
-      {
-        "title": "Bayern's Gnabry suffers adductor muscle injury",
-        "link": "https://www.channelnewsasia.com/sport/bayerns-gnabry-suffers-adductor-muscle-injury-6065761",
-        "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 04:16:15 +0800",
+        "published": "Mon, 20 Apr 2026 03:41:42 +0800",
         "description": ""
       },
       {
-        "title": "Israel army says established Gaza-style 'Yellow Line' in Lebanon",
-        "link": "https://www.channelnewsasia.com/world/israel-army-says-established-gaza-style-yellow-line-in-lebanon-6065696",
+        "title": "Season far from over for treble-chasing Bayern, warns coach Kompany",
+        "link": "https://www.channelnewsasia.com/sport/season-far-over-treble-chasing-bayern-warns-coach-kompany-6066741",
         "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 03:45:23 +0800",
-        "description": "The Israeli army said Saturday that its troops in the south \"identified terrorists who violated the ceasefire understandings and approached the forces from north of the Yellow Line\"."
-      },
-      {
-        "title": "Six die in Kyiv shooting, hostage situation; being investigated as a terrorist act",
-        "link": "https://www.channelnewsasia.com/asia/six-die-in-kyiv-shooting-hostage-situation-being-investigated-terrorist-act-6065521",
-        "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 03:31:08 +0800",
-        "description": "A man alleged to have opened fire on Saturday (Apr 18) at passersby barricading himself into a supermarket with hostages and refusing to negotiate."
-      },
-      {
-        "title": "Crowd trouble mars northern derby between Werder and Hamburg SV",
-        "link": "https://www.channelnewsasia.com/sport/crowd-trouble-mars-northern-derby-between-werder-and-hamburg-sv-6065726",
-        "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 03:08:36 +0800",
+        "published": "Mon, 20 Apr 2026 03:30:38 +0800",
         "description": ""
       },
       {
-        "title": "Tesla rolls out robotaxis in Dallas and Houston",
-        "link": "https://www.channelnewsasia.com/business/tesla-rolls-out-robotaxis-in-dallas-and-houston-6065716",
+        "title": "Iran rebuffs Trump announcement of new peace talks, state news agency reports",
+        "link": "https://www.channelnewsasia.com/world/iran-rebuffs-trump-announcement-new-peace-talks-state-news-agency-reports-6066731",
         "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 03:02:31 +0800",
+        "published": "Mon, 20 Apr 2026 03:30:12 +0800",
+        "description": "Hours after US President Trump sent envoys to Islamabad for negotiations, Iran's state news agency said the government would reject the talks."
+      },
+      {
+        "title": "Guardiola says Arsenal still in control, but victory gives them hope",
+        "link": "https://www.channelnewsasia.com/sport/guardiola-says-arsenal-still-in-control-victory-gives-them-hope-6066746",
+        "source": "CNA Singapore",
+        "published": "Mon, 20 Apr 2026 03:29:41 +0800",
         "description": ""
       },
       {
-        "title": "Brighton's Rutter denies Tottenham crucial victory with last-gasp strike",
-        "link": "https://www.channelnewsasia.com/sport/brightons-rutter-denies-tottenham-crucial-victory-last-gasp-strike-6065701",
+        "title": "Porcelain cockatoo steals show at Bayern's title celebrations",
+        "link": "https://www.channelnewsasia.com/sport/porcelain-cockatoo-steals-show-bayerns-title-celebrations-6066711",
         "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 02:47:03 +0800",
+        "published": "Mon, 20 Apr 2026 02:35:20 +0800",
         "description": ""
       },
       {
-        "title": "Napoli's title defence all but over after home loss to Lazio",
-        "link": "https://www.channelnewsasia.com/sport/napolis-title-defence-all-over-after-home-loss-lazio-6065656",
+        "title": "Zelenskyy slams oil sanctions relief for Russia",
+        "link": "https://www.channelnewsasia.com/world/zelenskyy-slams-oil-sanctions-relief-russia-6066691",
         "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 02:03:14 +0800",
+        "published": "Mon, 20 Apr 2026 02:25:22 +0800",
+        "description": "The US extended it's waive on Russian oil sanctions as conflict in the Middle East has caused oil prices to rise world wide."
+      },
+      {
+        "title": "US security agency is using Anthropic's Mythos despite blacklist, Axios reports",
+        "link": "https://www.channelnewsasia.com/business/us-security-agency-using-anthropics-mythos-despite-blacklist-axios-reports-6066681",
+        "source": "CNA Singapore",
+        "published": "Mon, 20 Apr 2026 02:12:18 +0800",
         "description": ""
       },
       {
-        "title": "Trump signs order to accelerate access to psychedelic drug treatments",
-        "link": "https://www.channelnewsasia.com/world/trump-signs-order-accelerate-access-psychedelic-drug-treatments-6065606",
+        "title": "List of Bundesliga champions",
+        "link": "https://www.channelnewsasia.com/sport/list-bundesliga-champions-6066661",
         "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 01:48:09 +0800",
-        "description": "Health Secretary ​Robert F. Kennedy Jr. has championed the idea of using drugs such as ibogaine as an alternative treatment for mental health conditions such as depression."
+        "published": "Mon, 20 Apr 2026 01:54:27 +0800",
+        "description": ""
       },
       {
-        "title": "Pope arrives in Angola on Africa tour overshadowed by Trump",
-        "link": "https://www.channelnewsasia.com/world/pope-arrives-in-angola-africa-tour-overshadowed-trump-6065581",
+        "title": "Advantage Man City as Haaland seals crucial win over Arsenal",
+        "link": "https://www.channelnewsasia.com/sport/advantage-man-city-haaland-seals-crucial-win-over-arsenal-6066646",
         "source": "CNA Singapore",
-        "published": "Sun, 19 Apr 2026 01:35:00 +0800",
-        "description": "Pope Leo told journalists he regretted that the remarks he had made during his tour had been interpreted as a response to criticism from Trump, insisting he had no interest in debating the US leader."
+        "published": "Mon, 20 Apr 2026 01:42:44 +0800",
+        "description": ""
+      },
+      {
+        "title": "Bayern Munich win Bundesliga title with victory against VfB Stuttgart",
+        "link": "https://www.channelnewsasia.com/sport/bayern-munich-win-bundesliga-title-victory-against-vfb-stuttgart-6066651",
+        "source": "CNA Singapore",
+        "published": "Mon, 20 Apr 2026 01:39:15 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
@@ -429,18 +429,18 @@
         "description": "The UK is adopting a \"ruthlessly pragmatic\" approach to becoming closer to its European neighbours, the UK's EU minister tells the BBC."
       },
       {
-        "title": "Home Office investigating after BBC finds migrants making false claims to stay in UK",
-        "link": "https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-Scottish Labour leader Dugdale appointed as Stonewall chairwoman",
+        "link": "https://www.bbc.com/news/articles/ckgrvz5nxlno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 16 Apr 2026 14:02:49 GMT",
-        "description": "No 10 says the government is working to ensure \"anyone potentially abusing our immigration system is held accountable\"."
+        "published": "Sun, 19 Apr 2026 11:58:16 GMT",
+        "description": "Dugdale, who is currently chairwoman of Shelter in Scotland, said she was \"thrilled and honoured\" to secure the post."
       },
       {
-        "title": "Senior official ousted over Mandelson security row to face MPs",
-        "link": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss",
+        "title": "Starmer would have blocked Mandelson over vetting failure, ministers say",
+        "link": "https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 18 Apr 2026 18:51:40 GMT",
-        "description": "Former Foreign Office chief Sir Olly Robbins is expected to be grilled by the Foreign Affairs Committee on Tuesday."
+        "published": "Sun, 19 Apr 2026 09:44:41 GMT",
+        "description": "The prime minister says he only learned of security concerns around the ex-US ambassador earlier this week."
       },
       {
         "title": "Starmer accused of 'skulking' and shunning Sarwar in Scotland",
@@ -494,18 +494,46 @@
     ],
     "Science": [
       {
-        "title": "It doesn’t matter how much you sit — walking more could lower your risk of death and disease",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260417085409.htm",
+        "title": "A new force of nature is reshaping the planet, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260419054825.htm",
         "source": "Science Daily",
-        "published": "Sat, 18 Apr 2026 10:08:55 EDT",
-        "description": "Sitting all day might not be as damaging as once feared—if you’re willing to move more. A massive study tracking over 72,000 people found that simply increasing daily steps can significantly reduce th"
+        "published": "Sun, 19 Apr 2026 09:18:25 EDT",
+        "description": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power t"
       },
       {
-        "title": "Common cleaning sponge found to release trillions of microplastic fibers",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260417085404.htm",
+        "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
         "source": "Science Daily",
-        "published": "Sat, 18 Apr 2026 09:53:03 EDT",
-        "description": "That “magic” sponge under your sink may be hiding an environmental downside. While melamine sponges are famous for effortlessly scrubbing away stubborn stains, they slowly break down as you use them—s"
+        "published": "Sun, 19 Apr 2026 08:57:46 EDT",
+        "description": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing"
+      },
+      {
+        "title": "Scientists just found a way to control electrons without magnets",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417224509.htm",
+        "source": "Science Daily",
+        "published": "Sun, 19 Apr 2026 08:31:29 EDT",
+        "description": "A surprising breakthrough in physics could reshape the future of computing by tapping into a strange, previously untapped property of matter. Scientists have shown that tiny atomic vibrations—called c"
+      },
+      {
+        "title": "Why two-sun planets keep disappearing scientists blame Einstein",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417224507.htm",
+        "source": "Science Daily",
+        "published": "Sun, 19 Apr 2026 06:17:19 EDT",
+        "description": "Astronomers have long been puzzled by a cosmic mystery: planets orbiting two stars—like Star Wars’ Tatooine—are surprisingly rare, even though they should be common. New research suggests the culprit "
+      },
+      {
+        "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
+        "source": "Science Daily",
+        "published": "Sun, 19 Apr 2026 04:02:23 EDT",
+        "description": "Calling AI things like “smart” or saying it “knows” something might sound harmless, but it can quietly mislead people about what AI actually does. A new study shows that news writers are more careful "
+      },
+      {
+        "title": "Scientists say this type of olive oil could boost brain power",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+        "source": "Science Daily",
+        "published": "Sat, 18 Apr 2026 23:45:14 EDT",
+        "description": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than"
       },
       {
         "title": "What caffeine does to ants could change pest control",
@@ -534,34 +562,6 @@
         "source": "Science Daily",
         "published": "Sat, 18 Apr 2026 01:10:25 EDT",
         "description": "Some of the ocean’s fastest and most fearsome predators—like great white sharks and tuna—are running hotter than expected, and it’s costing them dearly. New research shows these warm-bodied fish burn "
-      },
-      {
-        "title": "Total solar eclipse led to seismic quiet for cities within its path",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260417224457.htm",
-        "source": "Science Daily",
-        "published": "Sat, 18 Apr 2026 00:18:52 EDT",
-        "description": "As the Moon swallowed the Sun during the April 8, 2024, total solar eclipse, something remarkable happened on the ground—cities went eerily quiet. Scientists analyzing seismic data found that human-ge"
-      },
-      {
-        "title": "Quantum AI just got shockingly good at predicting chaos",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
-        "source": "Science Daily",
-        "published": "Fri, 17 Apr 2026 23:51:09 EDT",
-        "description": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI "
-      },
-      {
-        "title": "Eating more fruits and vegetables tied to unexpected lung cancer risk",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260417224454.htm",
-        "source": "Science Daily",
-        "published": "Fri, 17 Apr 2026 23:27:27 EDT",
-        "description": "A surprising new study suggests that eating a very healthy diet—packed with fruits, vegetables, and whole grains—might be linked to a higher risk of lung cancer in younger non-smokers. Researchers fou"
-      },
-      {
-        "title": "Can sparkling water boost metabolism and help with weight loss?",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
-        "source": "Science Daily",
-        "published": "Fri, 17 Apr 2026 03:17:58 EDT",
-        "description": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, th"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Caregiving has become so crazy expensive that it’s financially devastating to most families",
-      "link": "https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Sat, 18 Apr 2026 20:29:00 GMT",
-      "description": "Only the wealthiest Americans can bear the costs of long-term care, new research found"
-    },
-    {
-      "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
-      "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Sat, 18 Apr 2026 20:29:00 GMT",
-      "description": "Benefit limits could do a lot to solve Social Security’s fiscal problems, CRFB suggests. But check the fine print."
-    },
-    {
-      "title": "Planning to age in place? Watch out for these hidden costs.",
-      "link": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Sat, 18 Apr 2026 20:29:00 GMT",
-      "description": "Most retirees want to stay in their homes as they age. It might not be worth it."
-    },
-    {
-      "title": "2 expensive mistakes most retirees make — and how to avoid them",
-      "link": "https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Sat, 18 Apr 2026 20:29:00 GMT",
-      "description": "“We call them ‘King Tut’ subjects — they’re buried with their gold.”"
-    },
-    {
-      "title": "No escape: U.S.-Iran war, $4 gas, has taken all the fun out of consumer spending",
-      "link": "https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html",
+      "title": "Trump says U.S. struck and seized Iranian-flagged cargo ship in Gulf of Oman",
+      "link": "https://www.cnbc.com/2026/04/19/trump-navy-iran-ship-gulf-of-oman.html",
       "source": "CNBC Finance",
-      "published": "Sat, 18 Apr 2026 20:22:54 GMT",
-      "description": "Consumers are still spending amid U.S.-Iran war and $4 gas prices, but there's a pullback at entertainment and dining venues hitting local economies hard."
+      "published": "Sun, 19 Apr 2026 20:28:24 GMT",
+      "description": "The seizure is an apparent escalation of a U.S. naval blockade, and comes after Iran fired upon commercial vessels transiting the Strait of Hormuz earlier on Sunday."
     },
     {
-      "title": "Two Indian-flagged ships attacked crossing Strait of Hormuz",
-      "link": "https://www.channelnewsasia.com/asia/two-indian-flagged-ships-attacked-crossing-strait-hormuz-6065526",
-      "source": "CNA Singapore",
-      "published": "Sun, 19 Apr 2026 04:22:23 +0800",
-      "description": "Iran said on Saturday (Apr 18) it would continue to block transit through the strait as long as the US blockade of Iranian ports remains in effect."
+      "title": "These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.",
+      "link": "https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 19 Apr 2026 20:13:00 GMT",
+      "description": "A scientific report has raised questions about how much Leqimbi and Kisunla — the “breakthrough” Alzheimer’s drugs that have hit the market in the last few years — really help slow the disease."
     },
     {
-      "title": "Bayern's Gnabry suffers adductor muscle injury",
-      "link": "https://www.channelnewsasia.com/sport/bayerns-gnabry-suffers-adductor-muscle-injury-6065761",
+      "title": "Ceasefire Drama Escalates—Trump Points Finger At Iran, Bitcoin In Focus",
+      "link": "https://bitcoinist.com/ceasefire-drama-escalates-trump-points-finger-at-iran-bitcoin-in-focus/",
+      "source": "Bitcoinist",
+      "published": "Sun, 19 Apr 2026 20:00:05 +0000",
+      "description": "Iran&#8217;s Foreign Ministry came out swinging on Sunday, accusing the United States of committing war crimes through what it described as an unlawful naval blockade — a charge that landed just hours"
+    },
+    {
+      "title": "FBI Director Kash Patel vows to sue The Atlantic over alcohol abuse claims",
+      "link": "https://www.cnbc.com/2026/04/19/kash-patel-atlantic-lawsuit-alcohol.html",
+      "source": "CNBC Finance",
+      "published": "Sun, 19 Apr 2026 19:56:11 GMT",
+      "description": "Kash Patel recently made headlines for chugging a beer after Team USA won the gold medal in ice hockey in the 2026 Olympic Games."
+    },
+    {
+      "title": "Investors brace for renewed volatility after this weekend’s Iran developments",
+      "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 19 Apr 2026 19:49:00 GMT",
+      "description": "After a three-week-long rally that’s brought the S&P 500 to new record highs, investors are again bracing for uncertainty following a whirlwind of weekend developments concerning the war with Iran."
+    },
+    {
+      "title": "Title race starts now, says defiant Arsenal boss Arteta",
+      "link": "https://www.channelnewsasia.com/sport/title-race-starts-now-says-defiant-arsenal-boss-arteta-6066766",
       "source": "CNA Singapore",
-      "published": "Sun, 19 Apr 2026 04:16:15 +0800",
+      "published": "Mon, 20 Apr 2026 03:41:42 +0800",
       "description": ""
     },
     {
-      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
-      "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "title": "Season far from over for treble-chasing Bayern, warns coach Kompany",
+      "link": "https://www.channelnewsasia.com/sport/season-far-over-treble-chasing-bayern-warns-coach-kompany-6066741",
+      "source": "CNA Singapore",
+      "published": "Mon, 20 Apr 2026 03:30:38 +0800",
+      "description": ""
+    },
+    {
+      "title": "Iran rebuffs Trump announcement of new peace talks, state news agency reports",
+      "link": "https://www.channelnewsasia.com/world/iran-rebuffs-trump-announcement-new-peace-talks-state-news-agency-reports-6066731",
+      "source": "CNA Singapore",
+      "published": "Mon, 20 Apr 2026 03:30:12 +0800",
+      "description": "Hours after US President Trump sent envoys to Islamabad for negotiations, Iran's state news agency said the government would reject the talks."
+    },
+    {
+      "title": "The 12-month window",
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "source": "TechCrunch",
-      "published": "Sat, 18 Apr 2026 20:00:00 +0000",
-      "description": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel."
+      "published": "Sun, 19 Apr 2026 19:30:00 +0000",
+      "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
     },
     {
-      "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire",
-      "link": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
-      "source": "CNBC Finance",
-      "published": "Sat, 18 Apr 2026 19:58:19 GMT",
-      "description": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports."
-    },
-    {
-      "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
-      "link": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Sat, 18 Apr 2026 19:46:00 GMT",
-      "description": "With 65% equity cushions and 10-year lockups, Wall Street’s ‘anti-banks’ won’t face a ‘Lehman moment.’"
+      "title": "Guardiola says Arsenal still in control, but victory gives them hope",
+      "link": "https://www.channelnewsasia.com/sport/guardiola-says-arsenal-still-in-control-victory-gives-them-hope-6066746",
+      "source": "CNA Singapore",
+      "published": "Mon, 20 Apr 2026 03:29:41 +0800",
+      "description": ""
     }
   ]
 }
