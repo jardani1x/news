@@ -1,8 +1,43 @@
 {
-  "updated_sgt": "2026-04-26 04:42 SGT",
-  "updated_iso": "2026-04-26T04:42:40.105696+08:00",
+  "updated_sgt": "2026-04-27 04:42 SGT",
+  "updated_iso": "2026-04-27T04:42:58.625937+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+        "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 26 Apr 2026 20:36:07 GMT",
+        "description": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country."
+      },
+      {
+        "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+        "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 26 Apr 2026 18:37:26 GMT",
+        "description": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said."
+      },
+      {
+        "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+        "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 26 Apr 2026 04:22:59 GMT",
+        "description": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue."
+      },
+      {
+        "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+        "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 26 Apr 2026 00:34:21 GMT",
+        "description": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks."
+      },
+      {
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 25 Apr 2026 21:34:12 GMT",
+        "description": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner."
+      },
       {
         "title": "Orbán steps down from Hungarian parliament after landslide defeat",
         "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
@@ -32,62 +67,55 @@
         "description": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part."
       },
       {
-        "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-        "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 25 Apr 2026 15:32:50 GMT",
-        "description": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years."
-      },
-      {
-        "title": "Seven dead in major Russian attack on Ukraine",
-        "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 25 Apr 2026 12:29:37 GMT",
-        "description": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building."
-      },
-      {
         "title": "Thirty-one sloths die in Florida before opening of attraction",
         "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Sat, 25 Apr 2026 04:02:47 GMT",
         "description": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say."
-      },
-      {
-        "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-        "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 25 Apr 2026 01:18:33 GMT",
-        "description": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West."
-      },
-      {
-        "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-        "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 24 Apr 2026 23:28:09 GMT",
-        "description": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC."
-      },
-      {
-        "title": "US to allow firing squads, gas and electrocution for federal executions",
-        "link": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 24 Apr 2026 22:15:15 GMT",
-        "description": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime."
       }
     ],
     "Finance": [
       {
-        "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
-        "link": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
+        "title": "Trump presses his case for White House ballroom following press dinner shooting",
+        "link": "https://www.cnbc.com/2026/04/26/trump-presses-case-for-white-house-ballroom-following-shooting.html",
         "source": "CNBC Finance",
-        "published": "Sat, 25 Apr 2026 19:33:33 GMT",
-        "description": "U.S. special envoy Steve Witkoff and Jared Kushner had been expected to arrive in Islamabad on Saturday."
+        "published": "Sun, 26 Apr 2026 20:25:51 GMT",
+        "description": "The President took to social media to reiterate his case that White House ballroom is a matter of national security in the wake of the press dinner shooting."
       },
       {
-        "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
-        "link": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
+        "title": "Everything we know about Cole Allen, the D.C. correspondents dinner shooter",
+        "link": "https://www.cnbc.com/2026/04/26/cole-allen-dc-correspondents-dinner-shooter.html",
         "source": "CNBC Finance",
-        "published": "Sat, 25 Apr 2026 14:17:59 GMT",
-        "description": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging."
+        "published": "Sun, 26 Apr 2026 19:19:15 GMT",
+        "description": "Allen was a guest at the Washington Hilton, where the dinner was held, and officials said he checked in on Friday."
+      },
+      {
+        "title": "Tillis ends block of Fed chair nominee Warsh, clears way for Trump pick",
+        "link": "https://www.cnbc.com/2026/04/26/thom-tillis-kevin-warsh-federal-reserve.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 26 Apr 2026 15:29:32 GMT",
+        "description": ""
+      },
+      {
+        "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
+        "link": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 26 Apr 2026 14:02:54 GMT",
+        "description": "Trump, seated next to first lady Melania Trump, was quickly surrounded by Secret Service agents, while many attendees ducked under their tables."
+      },
+      {
+        "title": "Purple ube’s viral rise is turning a Filipino staple into a global trend — but supplies are tightening",
+        "link": "https://www.cnbc.com/2026/04/26/ube-purple-yam-viral-trend-philippines-supply-crunch.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 26 Apr 2026 13:36:39 GMT",
+        "description": "Ube, a naturally sweet, starchy vegetable grown in the Philippines, has transcended Filipino culture and become a social media sensation."
+      },
+      {
+        "title": "Top Wall Street analysts pick these 3 dividend stocks for reliable income",
+        "link": "https://www.cnbc.com/2026/04/26/top-wall-street-analysts-pick-these-3-stocks-for-reliable-income.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 26 Apr 2026 12:41:47 GMT",
+        "description": "Those looking for a stable stream of passive income amid uncertainty can add stocks of some well-established dividend-paying companies to their portfolios."
       },
       {
         "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
@@ -95,20 +123,6 @@
         "source": "CNBC Finance",
         "published": "Sat, 25 Apr 2026 12:43:39 GMT",
         "description": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem."
-      },
-      {
-        "title": "Berkshire attracts interest as it slips further behind the S&P 500",
-        "link": "https://www.cnbc.com/2026/04/25/berkshire-attracts-interest-as-it-slips-further-behind-the-sp-500.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 25 Apr 2026 12:35:30 GMT",
-        "description": "As Berkshire Hathaway shares fall, the stock is drawing attention from some investors."
-      },
-      {
-        "title": "Forgotten no more: Generation X is driving beauty sales",
-        "link": "https://www.cnbc.com/2026/04/25/generation-x-beauty-sales.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 25 Apr 2026 12:00:01 GMT",
-        "description": "Generation X is one of the biggest beauty spenders, and brands are paying attention."
       },
       {
         "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
@@ -125,28 +139,56 @@
         "description": "The Breakwave Tanker Shipping ETF (BWET) has surged more than 600% since the beginning of the year, vastly outperforming crude oil and energy stocks."
       },
       {
-        "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
-        "link": "https://www.cnbc.com/2026/04/24/fed-powell-pirro-elizabeth-warren-durbin.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 24 Apr 2026 22:02:04 GMT",
-        "description": "Sens. Elizabeth Warren and Dick Durbin, in a letter obtained first by CNBC, question Jeanine Pirro's mention of reopening a probe of Fed Chair Jerome Powell."
-      },
-      {
         "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
         "link": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html",
         "source": "CNBC Finance",
         "published": "Fri, 24 Apr 2026 19:19:00 GMT",
         "description": "The decision could have important ramifications for policymaking at an especially delicate time."
-      },
-      {
-        "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
-        "link": "https://www.cnbc.com/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 24 Apr 2026 18:46:27 GMT",
-        "description": "Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history."
       }
     ],
     "Technology": [
+      {
+        "title": "What Tim Cook built",
+        "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+        "source": "TechCrunch",
+        "published": "Sun, 26 Apr 2026 20:22:51 +0000",
+        "description": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing."
+      },
+      {
+        "title": "TechCrunch Mobility: Elon’s admission",
+        "link": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
+        "source": "TechCrunch",
+        "published": "Sun, 26 Apr 2026 16:03:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      },
+      {
+        "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+        "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+        "source": "TechCrunch",
+        "published": "Sun, 26 Apr 2026 15:30:00 +0000",
+        "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+      },
+      {
+        "title": "SpeakOn’s dictation device is a good idea marred by platform limitations",
+        "link": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+        "source": "TechCrunch",
+        "published": "Sun, 26 Apr 2026 15:00:00 +0000",
+        "description": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps"
+      },
+      {
+        "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+        "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+        "source": "TechCrunch",
+        "published": "Sat, 25 Apr 2026 21:43:37 +0000",
+        "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+      },
+      {
+        "title": "Maine’s governor vetoes data center moratorium",
+        "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+        "source": "TechCrunch",
+        "published": "Sat, 25 Apr 2026 20:57:08 +0000",
+        "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
+      },
       {
         "title": "OpenAI CEO apologizes to Tumbler Ridge community",
         "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
@@ -174,259 +216,231 @@
         "source": "TechCrunch",
         "published": "Sat, 25 Apr 2026 15:03:00 +0000",
         "description": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t"
-      },
-      {
-        "title": "Apps to distract you from the endless cycle of doomscrolling",
-        "link": "https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-        "source": "TechCrunch",
-        "published": "Sat, 25 Apr 2026 15:00:07 +0000",
-        "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
-      },
-      {
-        "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-        "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-        "source": "TechCrunch",
-        "published": "Sat, 25 Apr 2026 15:00:00 +0000",
-        "description": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
-      },
-      {
-        "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
-        "link": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-        "source": "TechCrunch",
-        "published": "Sat, 25 Apr 2026 14:57:26 +0000",
-        "description": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest."
-      },
-      {
-        "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-        "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-        "source": "TechCrunch",
-        "published": "Sat, 25 Apr 2026 03:30:00 +0000",
-        "description": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks."
-      },
-      {
-        "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-        "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-        "source": "TechCrunch",
-        "published": "Fri, 24 Apr 2026 23:32:11 +0000",
-        "description": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor."
-      },
-      {
-        "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-        "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-        "source": "TechCrunch",
-        "published": "Fri, 24 Apr 2026 21:53:44 +0000",
-        "description": "The IRS has used Palantir's software since at least 2018, The Intercept reports."
       }
     ],
     "Crypto": [
+      {
+        "title": "Bitcoin Community Questions US Military’s Role In The Network",
+        "link": "https://bitcoinist.com/bitcoin-community-questions-us-militarys-role-in-the-network/",
+        "source": "Bitcoinist",
+        "published": "Sun, 26 Apr 2026 20:00:14 +0000",
+        "description": "Iran&#8217;s decision to accept Bitcoin as payment for oil shipping tolls through the Strait of Hormuz gave fresh weight to a question already circulating in Washington: does the US military actually "
+      },
+      {
+        "title": "Bitcoin Derivatives Buying Pressure Continues To Rise — Is $80K Inevitable?",
+        "link": "https://bitcoinist.com/bitcoin-derivatives-buying-pressure-continues-rise/",
+        "source": "Bitcoinist",
+        "published": "Sun, 26 Apr 2026 18:00:30 +0000",
+        "description": "The price of Bitcoin has been enjoying significant bullish momentum over the past few weeks, with last week delivering the largest gains in over three months. According to different pundits, the flags"
+      },
+      {
+        "title": "Crypto Kidnappings Surge In France As 88 Suspects Hauled To Court – Details",
+        "link": "https://bitcoinist.com/cryptocurrency-kidnapping-france-official-charge-88/",
+        "source": "Bitcoinist",
+        "published": "Sun, 26 Apr 2026 14:00:30 +0000",
+        "description": "Crypto-related kidnappings in France continue to be a major issue following recent information shared by the National Prosecutor&#8217;s Office for Anti-Organized Crime. In the last three years, autho"
+      },
+      {
+        "title": "Countdown To Clarity: Key US Crypto Bill Nears May Approval: CEO",
+        "link": "https://bitcoinist.com/countdown-to-clarity-key-us-crypto-bill-nears-may-approval-ceo/",
+        "source": "Bitcoinist",
+        "published": "Sun, 26 Apr 2026 12:00:28 +0000",
+        "description": "The odds of a landmark US crypto bill passing this year stand at 50-50, according to one of the industry&#8217;s own analysts — even as his CEO boss says the deal is all but done. Related Reading: Ira"
+      },
+      {
+        "title": "Bitcoin Reclaims Key MVRV Support At $73.7K — What Comes Next?",
+        "link": "https://bitcoinist.com/bitcoin-recovers-key-mvrv-support-73700-where-next/",
+        "source": "Bitcoinist",
+        "published": "Sun, 26 Apr 2026 10:00:13 +0000",
+        "description": "Bitcoin (BTC) has staged a notable recovery in April, rebounding from around $67,000 to as high as $78,000. A key highlight of this move is BTC’s successful reclaim of the $73,700 level, a zone now ac"
+      },
+      {
+        "title": "Historical Data Shows Bitcoin Price Has Never Breached This Level – Will It Start Now?",
+        "link": "https://bitcoinist.com/historical-data-shows-bitcoin-price-has-never-breached-this-level-will-it-start-now/",
+        "source": "Bitcoinist",
+        "published": "Sat, 25 Apr 2026 22:30:03 +0000",
+        "description": "Bitcoin&#8217;s price action has been climbing steadily off its February low around $61,300, but what stands directly ahead is not just another resistance zone. It is a statistical threshold that has "
+      },
+      {
+        "title": "Why Bitcoin Still Acts Like A Risk Asset Despite Safe-Haven Claims",
+        "link": "https://bitcoinist.com/bitcoin-safe-haven-promise/",
+        "source": "Bitcoinist",
+        "published": "Sat, 25 Apr 2026 21:00:07 +0000",
+        "description": "Bitcoin was built with many of the qualities typically associated with a safe-haven asset: it is portable, censorship-resistant, and independent of traditional financial systems. In theory, those char"
+      },
       {
         "title": "Iran’s Crypto Lifeline Hit As US Freezes $344 Million In Funds",
         "link": "https://bitcoinist.com/irans-crypto-lifeline-hit-as-us-freezes-344-million-in-funds/",
         "source": "Bitcoinist",
         "published": "Sat, 25 Apr 2026 19:30:43 +0000",
         "description": "Iran had already begun collecting crypto payments from ships crossing the Strait of Hormuz when US authorities moved to cut off the money. Related Reading: Crypto Crime Hit Hard: $700 Million Frozen B"
-      },
-      {
-        "title": "Ethereum Foundation Sells 10,000 ETH To BitMine In $24M OTC Deal",
-        "link": "https://bitcoinist.com/ethereum-foundation-sell-10000-eth-to-bitmine-otc/",
-        "source": "Bitcoinist",
-        "published": "Sat, 25 Apr 2026 18:00:56 +0000",
-        "description": "Barely a month after its first transaction with BitMine, the Ethereum Foundation has announced another sale of significant amounts of Ether tokens to the digital asset treasury (DAT) company. BitMine "
-      },
-      {
-        "title": "Memecoin Millionaires Line Up For Trump’s Exclusive Luncheon",
-        "link": "https://bitcoinist.com/memecoin-millionaires-line-up-for-trumps-exclusive-luncheon/",
-        "source": "Bitcoinist",
-        "published": "Sat, 25 Apr 2026 16:30:13 +0000",
-        "description": "A crypto investor who paid just $500 got a seat at the table. That detail alone tells you something about the crowd gathering at Mar-a-Lago on Saturday. Related Reading: Crypto Crime Hit Hard: $700 Mi"
-      },
-      {
-        "title": "Why Bitcoin Price Failed To Breach $80K: An On-Chain Deep Dive",
-        "link": "https://bitcoinist.com/why-bitcoin-price-failed-to-breach-80k-deep-dive/",
-        "source": "Bitcoinist",
-        "published": "Sat, 25 Apr 2026 15:00:25 +0000",
-        "description": "After the early-week jitters, the Bitcoin price eventually mustered the bullish momentum that has become a mainstay of its weekly performance. Rising from its sub-$74,000 ashes, the premier cryptocurr"
-      },
-      {
-        "title": "XRP And Bitcoin Investors Are ‘Trapped’, But Is There A Way Out?",
-        "link": "https://bitcoinist.com/xrp-bitcoin-investors-trapped/",
-        "source": "Bitcoinist",
-        "published": "Sat, 25 Apr 2026 13:30:22 +0000",
-        "description": "Crypto pundit RWA Investor said that XRP traders going short on the altcoin are trapped, just like Bitcoin bears. This came as he revealed the roadmap for XRP&#8217;s rally to a new all-time high (ATH"
-      },
-      {
-        "title": "Traders Bet Against XRP, Yet Accumulation Persists – Details",
-        "link": "https://bitcoinist.com/traders-bets-against-xrp-yet-accumulation-persists/",
-        "source": "Bitcoinist",
-        "published": "Sat, 25 Apr 2026 12:00:59 +0000",
-        "description": "Over the last week, XRP prices have dropped by almost 3%, returning to settle in a consolidation around the $1.43 zone. Notably, this performance aligns with a broader negative sentiment among traders"
-      },
-      {
-        "title": "Kelp DAO Hack: Aave DAO Proposes To Contribute 25,000 ETH To Recovery Efforts",
-        "link": "https://bitcoinist.com/kelp-dao-hack-aave-dao-contribute-25000-eth-recover/",
-        "source": "Bitcoinist",
-        "published": "Sat, 25 Apr 2026 09:00:46 +0000",
-        "description": "Aave DAO has unveiled a proposal to deploy 25,000 ETH from its treasury to support a coordinated recovery effort following the recent Kelp DAO exploit. The move forms part of a broader “DeFi United” i"
-      },
-      {
-        "title": "When Is The Next FOMC Meeting And What Are The Expectations For Crypto?",
-        "link": "https://bitcoinist.com/next-fomc-meeting-crypto/",
-        "source": "Bitcoinist",
-        "published": "Sat, 25 Apr 2026 07:30:06 +0000",
-        "description": "The Federal Open Market Committee (FOMC) meets a total of eight times a year, where members of the committee review economic and financial conditions in the US, and this usually has serious implicatio"
       }
     ],
     "Markets": [
       {
-        "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
-        "link": "https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories",
+        "title": "‘The Lord has taken care of me’: I’m 74. I went from earning $14 an hour to retiring with $3.4 million. Here’s how I did it.",
+        "link": "https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 19:05:00 GMT",
-        "description": "President Donald Trump will be on hand for this weekend’s festivities. So will dozens of media and companies throwing events that can cost $300,000."
+        "published": "Sun, 26 Apr 2026 20:30:00 GMT",
+        "description": "“I have always thought that I did not have any real talents or skills.”"
       },
       {
-        "title": "These investments promise high yield with bond-like safety. But what looks too good to be true often is.",
-        "link": "https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories",
+        "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
+        "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 18:44:00 GMT",
-        "description": "When dentists start getting cold calls about private credit, you know the fad has peaked."
+        "published": "Sun, 26 Apr 2026 20:22:00 GMT",
+        "description": "“Renting improves cash flow by about $1,300 a month.”"
       },
       {
-        "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
-        "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
+        "title": "‘My child requires lifelong support’: I’m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?",
+        "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 18:28:00 GMT",
-        "description": "Record bond-fund inflows are a warning sign that lower returns are ahead."
+        "published": "Sun, 26 Apr 2026 20:11:00 GMT",
+        "description": "“The portfolio has grown, but I can’t help feeling that it hasn’t grown as much as it could have.”"
       },
       {
-        "title": "What Apple investors need to know about the next steps for the company and its new CEO",
-        "link": "https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories",
+        "title": "Sen. Thom Tillis drops opposition, says he’ll back Kevin Warsh’s Fed confirmation",
+        "link": "https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 18:27:00 GMT",
-        "description": "Tim Cook built a $4 trillion powerhouse. Now John Ternus must fix Apple’s glaring AI gap."
+        "published": "Sun, 26 Apr 2026 19:56:00 GMT",
+        "description": "Sen. Thom Tills said Sunday he’s ready to support the confirmation of Kevin Warsh as the new chair of the Federal Reserve, now that the Justice Department has dropped its criminal case against outgoin"
+      },
+      {
+        "title": "Michael Jackson biopic’s massive box-office success proves his staying power despite controversy",
+        "link": "https://www.marketwatch.com/story/michael-jackson-biopics-mega-box-office-proves-his-staying-power-despite-controversy-9546f5ac?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 26 Apr 2026 19:15:00 GMT",
+        "description": "Despite years of controversy surrounding allegations of child sexual abuse, the King of Pop’s legions of fans turned out in droves to see a new biopic on his life and music."
+      },
+      {
+        "title": "‘AI genuinely freaks me out’: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position — with a 50-minute commute?",
+        "link": "https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 26 Apr 2026 19:03:00 GMT",
+        "description": "“Between layoffs and AI taking over lower-level data work, I’m not sure jumping ship for a big raise makes sense.”"
       },
       {
         "title": "‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?",
         "link": "https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 18:25:00 GMT",
+        "published": "Sun, 26 Apr 2026 19:02:00 GMT",
         "description": "“He had a medical power of attorney since my mom was in a nursing home.”"
       },
       {
-        "title": "From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy",
-        "link": "https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories",
+        "title": "Teen gambling is turbocharged thanks to sports-betting and prediction markets. Parents often have no idea.",
+        "link": "https://www.marketwatch.com/story/its-ridiculously-easy-for-kids-to-get-hooked-on-online-gambling-heres-how-parents-can-help-a242ac1b?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 17:56:00 GMT",
-        "description": "Airlines are pouring money into flashy premium-class upgrades to keep attracting big spenders."
+        "published": "Sun, 26 Apr 2026 15:08:00 GMT",
+        "description": "It’s ridiculously easy for kids to get hooked on gambling. Here’s how parents can help."
       },
       {
-        "title": "ChatGPT is so 2025 — here are the real AI gold mines for investors in 2026",
-        "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
+        "title": "As mass layoffs threaten jobs, here are 4 smart moves to protect yourself",
+        "link": "https://www.marketwatch.com/story/as-mass-layoffs-threaten-jobs-here-are-4-smart-moves-to-protect-yourself-2b7544a2?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 17:41:00 GMT",
-        "description": "Money is flooding into AI. Defense, healthcare and agentics are the big winners, writes Mark Minevich."
+        "published": "Sun, 26 Apr 2026 14:53:00 GMT",
+        "description": "Do this now, even if you have a job."
       },
       {
-        "title": "Market chaos gives money managers a chance to beat index funds — just like they’re supposed to do",
-        "link": "https://www.marketwatch.com/story/market-chaos-gives-skilled-managers-a-chance-to-beat-index-funds-just-like-theyre-supposed-to-do-b85cfd52?mod=mw_rss_topstories",
+        "title": "Planning to age in place? Watch out for these hidden costs.",
+        "link": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 17:13:00 GMT",
-        "description": "The “set it and forget it” strategy is at risk in volatile markets. Savvy managers can dodge sectors your index fund is forced to own."
-      },
-      {
-        "title": "Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.",
-        "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 16:25:00 GMT",
-        "description": "The top three picks in the draft — Fernando Mendoza, David Bailey and Jeremiyah Love — will each be eligible to sign deals worth $50 million"
-      },
-      {
-        "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
-        "link": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 25 Apr 2026 16:17:00 GMT",
-        "description": "While the majority of home buyers are married couples, 21% today are single women, compared to just 9% of single men."
+        "published": "Sun, 26 Apr 2026 14:52:00 GMT",
+        "description": "Most retirees want to stay in their homes as they age. It might not be worth it."
       }
     ],
     "Singapore": [
       {
-        "title": "One down four to go, says Rice, as Arsenal reignite title charge",
-        "link": "https://www.channelnewsasia.com/sport/one-down-four-go-says-rice-arsenal-reignite-title-charge-6081171",
+        "title": "King Charles' visit to US to proceed after Washington shooting",
+        "link": "https://www.channelnewsasia.com/world/king-charles-visit-us-proceed-after-washington-shooting-6082401",
         "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 04:01:38 +0800",
+        "published": "Mon, 27 Apr 2026 04:05:49 +0800",
+        "description": "Security for the Royal Family say they are cooperating with United States Secret Service during the visit."
+      },
+      {
+        "title": "Kolkata beat Lucknow in IPL's shortest Super Over",
+        "link": "https://www.channelnewsasia.com/sport/kolkata-beat-lucknow-in-ipls-shortest-super-over-6082381",
+        "source": "CNA Singapore",
+        "published": "Mon, 27 Apr 2026 03:06:48 +0800",
         "description": ""
       },
       {
-        "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon",
-        "link": "https://www.channelnewsasia.com/world/israel-says-it-will-attack-hezbollah-forcefully-four-killed-in-strikes-southern-lebanon-6080986",
+        "title": "Netanyahu's biggest rivals join forces for Israel's next election",
+        "link": "https://www.channelnewsasia.com/world/netanyahus-biggest-rivals-join-forces-israels-next-election-6082166",
         "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 03:29:00 +0800",
+        "published": "Mon, 27 Apr 2026 02:54:35 +0800",
+        "description": "\"Together,\" a merger between former right-wing Prime Minister Naftali Bennett's party and centrist \"There is a Future,\" poses threat to Netanyahu's government in the upcoming Israeli election."
+      },
+      {
+        "title": "Gunman sought to kill Trump, cabinet at gala dinner",
+        "link": "https://www.channelnewsasia.com/world/gunman-sought-kill-trump-cabinet-gala-dinner-6082331",
+        "source": "CNA Singapore",
+        "published": "Mon, 27 Apr 2026 02:08:43 +0800",
+        "description": "Publications have shared a note written by suspect Cole Allen that ranked potential targets from highest to lowest priority."
+      },
+      {
+        "title": "Champions-in-waiting Inter held to 2-2 draw as Torino fight back",
+        "link": "https://www.channelnewsasia.com/sport/champions-in-waiting-inter-held-2-2-draw-torino-fight-back-6082341",
+        "source": "CNA Singapore",
+        "published": "Mon, 27 Apr 2026 02:07:20 +0800",
         "description": ""
       },
       {
-        "title": "Hungary's Orban will not sit in parliament after election loss",
-        "link": "https://www.channelnewsasia.com/world/hungarys-orban-will-not-sit-in-parliament-after-election-loss-6081096",
+        "title": "Chelsea steady the ship by booking spot in FA Cup final",
+        "link": "https://www.channelnewsasia.com/sport/chelsea-steady-ship-booking-spot-in-fa-cup-final-6082321",
         "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 03:06:23 +0800",
+        "published": "Mon, 27 Apr 2026 01:36:18 +0800",
         "description": ""
       },
       {
-        "title": "Al Brikan strikes in extra time as Al-Ahli retain Asian Champions League title",
-        "link": "https://www.channelnewsasia.com/sport/al-brikan-strikes-in-extra-time-al-ahli-retain-asian-champions-league-title-6081131",
+        "title": "Arsenal beat Lyonnes 2-1 in Women's Champions League semi-final first leg",
+        "link": "https://www.channelnewsasia.com/sport/arsenal-beat-lyonnes-2-1-in-womens-champions-league-semi-final-first-leg-6082276",
         "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 03:04:25 +0800",
+        "published": "Mon, 27 Apr 2026 01:03:57 +0800",
         "description": ""
       },
       {
-        "title": "Sooryavanshi fastest to reach 1,000 runs in T20s as teenager smashes 36-ball ton in IPL",
-        "link": "https://www.channelnewsasia.com/sport/sooryavanshi-fastest-reach-1000-runs-in-t20s-teenager-smashes-36-ball-ton-in-ipl-6081121",
+        "title": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
+        "link": "https://www.channelnewsasia.com/world/trump-says-iran-can-call-if-it-wants-talk-iranian-envoy-returns-pakistan-6082246",
         "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 02:55:42 +0800",
+        "published": "Mon, 27 Apr 2026 00:55:22 +0800",
+        "description": "The US President said Iran \"can come to us, or they can call us,\" after calling off planned negotiations in Islamabad this weekend."
+      },
+      {
+        "title": "Rallying-Jos Verstappen unhurt after crash at Rallye de Wallonie",
+        "link": "https://www.channelnewsasia.com/sport/rallying-jos-verstappen-unhurt-after-crash-rallye-de-wallonie-6082266",
+        "source": "CNA Singapore",
+        "published": "Mon, 27 Apr 2026 00:54:05 +0800",
         "description": ""
       },
       {
-        "title": "Nervy Arsenal go back to top as Eze seals vital win over Newcastle",
-        "link": "https://www.channelnewsasia.com/sport/nervy-arsenal-go-back-top-eze-seals-vital-win-over-newcastle-6081101",
+        "title": "FIFA set to increase 2026 World Cup prize money",
+        "link": "https://www.channelnewsasia.com/sport/fifa-set-increase-2026-world-cup-prize-money-6082241",
         "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 02:34:30 +0800",
-        "description": ""
-      },
-      {
-        "title": "Man City fight back to beat Southampton and reach fourth straight FA Cup final",
-        "link": "https://www.channelnewsasia.com/sport/man-city-fight-back-beat-southampton-and-reach-fourth-straight-fa-cup-final-6081076",
-        "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 02:27:30 +0800",
-        "description": ""
-      },
-      {
-        "title": "Swiatek retires from Madrid Open due to illness",
-        "link": "https://www.channelnewsasia.com/sport/swiatek-retires-madrid-open-due-illness-6081061",
-        "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 02:16:56 +0800",
-        "description": ""
-      },
-      {
-        "title": "Trump cancels envoys' Pakistan trip, in blow to hopes for Iran war breakthrough",
-        "link": "https://www.channelnewsasia.com/world/trump-cancels-envoys-pakistan-trip-in-blow-hopes-iran-war-breakthrough-6080981",
-        "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 01:57:00 +0800",
-        "description": "Iranian Foreign Minister Abbas Araqchi earlier left Islamabad without any sign of a breakthrough in talks."
-      },
-      {
-        "title": "Liverpool edge closer to Champions League but Salah injury clouds Palace win",
-        "link": "https://www.channelnewsasia.com/sport/liverpool-edge-closer-champions-league-salah-injury-clouds-palace-win-6081046",
-        "source": "CNA Singapore",
-        "published": "Sun, 26 Apr 2026 01:31:54 +0800",
+        "published": "Mon, 27 Apr 2026 00:29:08 +0800",
         "description": ""
       }
     ],
     "US Politics": [
       {
-        "title": "Starmer says he's acting in national interest after Trump criticism",
-        "link": "https://www.bbc.com/news/articles/c77mpknd6lpo?at_medium=RSS&at_campaign=rss",
+        "title": "King's US visit will go ahead as planned, Buckingham Palace says",
+        "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 23 Apr 2026 18:36:57 GMT",
-        "description": "The US president earlier told the BBC the UK should have given more support to the US over the Iran war."
+        "published": "Sun, 26 Apr 2026 18:33:04 GMT",
+        "description": "The decision was made \"after discussions on both sides of the Atlantic through the day\", the Palace says."
+      },
+      {
+        "title": "Starmer insists 'majority' of Labour MPs back his leadership",
+        "link": "https://www.bbc.com/news/articles/c705228kpx9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 26 Apr 2026 15:50:31 GMT",
+        "description": "This week has seen increasing speculation among Labour MPs about Sir Keir's judgement and leadership."
+      },
+      {
+        "title": "Higher prices could last for eight months after Iran war, minister says",
+        "link": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 26 Apr 2026 13:58:54 GMT",
+        "description": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain."
       },
       {
         "title": "Key figure in Mandelson vetting row will not give evidence before MPs",
@@ -448,13 +462,6 @@
         "source": "BBC Politics",
         "published": "Fri, 24 Apr 2026 22:55:05 GMT",
         "description": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war."
-      },
-      {
-        "title": "Zack Polanski calls for Trump to be 'kicked out' of his Scottish golf courses",
-        "link": "https://www.bbc.com/news/articles/c8954xe8yjpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 24 Apr 2026 18:22:38 GMT",
-        "description": "Trump International responded calling the Greens leader an \"imbecile\" after he shared his personal opinion on the Holyrood campaign trail."
       },
       {
         "title": "Chris Mason: A grim week for Starmer – but things could be about to get worse",
@@ -483,22 +490,50 @@
         "source": "BBC Politics",
         "published": "Fri, 24 Apr 2026 15:45:51 GMT",
         "description": "In June 2025 MPs backed the legislation but now it has run out of time to become law."
-      },
-      {
-        "title": "Conservatives pledge to scrap 24-hour bus lanes",
-        "link": "https://www.bbc.com/news/articles/c14564m22mzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 24 Apr 2026 09:38:41 GMT",
-        "description": "The party promises \"bus lanes that make sense\" as part of a plan for drivers ahead of local elections."
       }
     ],
     "Science": [
       {
-        "title": "Scientists just discovered Africa is closer to breaking apart than we thought",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260424233204.htm",
+        "title": "Panama’s ocean lifeline vanishes for the first time in 40 years",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260426012253.htm",
         "source": "Science Daily",
-        "published": "Sat, 25 Apr 2026 12:26:15 EDT",
-        "description": "Beneath East Africa’s Turkana Rift, scientists have found the crust is thinning to a critical point, suggesting the continent is gradually breaking apart. This “necking” process marks an advanced stag"
+        "published": "Sun, 26 Apr 2026 10:21:57 EDT",
+        "description": "For decades, the Gulf of Panama has relied on strong seasonal winds to trigger upwelling, bringing cool, nutrient-packed water to the surface. But in 2025, this dependable event didn’t happen. Researc"
+      },
+      {
+        "title": "Mezcal worm in a bottle DNA test reveals a surprise",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260426012250.htm",
+        "source": "Science Daily",
+        "published": "Sun, 26 Apr 2026 09:34:14 EDT",
+        "description": "The famous mezcal “worm” has long puzzled scientists, but DNA testing has finally cracked the case. Researchers found that all sampled larvae were actually agave redworm moth caterpillars—not a mix of"
+      },
+      {
+        "title": "Blood vessels found in T. rex bones are rewriting dinosaur science",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260426012259.htm",
+        "source": "Science Daily",
+        "published": "Sun, 26 Apr 2026 07:44:57 EDT",
+        "description": "Dinosaur DNA may still be out of reach, but scientists are uncovering something almost as exciting—ancient blood vessels hidden inside fossilized bones. In a massive Tyrannosaurus rex nicknamed Scotty"
+      },
+      {
+        "title": "DNA research just rewrote the origin of human species",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260426012255.htm",
+        "source": "Science Daily",
+        "published": "Sun, 26 Apr 2026 06:53:10 EDT",
+        "description": "Scientists have uncovered a surprising new picture of human origins that challenges the long-held idea of a single ancestral population in Africa. By analyzing genetic data from diverse modern African"
+      },
+      {
+        "title": "Fish oil may be hurting your brain, new study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+        "source": "Science Daily",
+        "published": "Sun, 26 Apr 2026 01:57:51 EDT",
+        "description": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty aci"
+      },
+      {
+        "title": "Warming waters are supercharging an invasive salmon predator in Alaska",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260424233219.htm",
+        "source": "Science Daily",
+        "published": "Sat, 25 Apr 2026 23:24:06 EDT",
+        "description": "As Alaska’s rivers warm, invasive northern pike are becoming noticeably more voracious. Scientists discovered that pike of all ages are eating more fish, with young pike increasing consumption by over"
       },
       {
         "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
@@ -527,41 +562,6 @@
         "source": "Science Daily",
         "published": "Sat, 25 Apr 2026 10:16:00 EDT",
         "description": "In the chaotic first moments after the Big Bang, ripples in spacetime may have done more than just echo through the cosmos—they could have helped create dark matter itself. New research suggests that "
-      },
-      {
-        "title": "Giant octopuses may have ruled the oceans 100 million years ago",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
-        "source": "Science Daily",
-        "published": "Sat, 25 Apr 2026 08:59:34 EDT",
-        "description": "Giant, fearsome octopuses may have once ruled the ancient seas, according to new research that flips the script on their evolutionary past. By uncovering exquisitely preserved fossil jaws hidden insid"
-      },
-      {
-        "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260424233208.htm",
-        "source": "Science Daily",
-        "published": "Sat, 25 Apr 2026 00:38:17 EDT",
-        "description": "Ancient Earth once buzzed with enormous dragonfly-like insects, and scientists long thought high oxygen levels made their size possible. A new study overturns that idea, revealing insect flight muscle"
-      },
-      {
-        "title": "Scientists just found what keeps plant cells from growing out of control",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260424233201.htm",
-        "source": "Science Daily",
-        "published": "Sat, 25 Apr 2026 00:13:45 EDT",
-        "description": "Before seedlings can photosynthesize, they depend on fatty acids—and on peroxisomes to process them. Researchers discovered that the protein PEX11 not only helps these structures divide but also contr"
-      },
-      {
-        "title": "Scientists just uncovered a 3 million-year climate mystery in Antarctic ice",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260423031552.htm",
-        "source": "Science Daily",
-        "published": "Fri, 24 Apr 2026 08:12:58 EDT",
-        "description": "Ancient Antarctic ice is revealing a surprising new chapter in Earth’s climate story, stretching back 3 million years. By analyzing tiny pockets of trapped air and rare gases, scientists have discover"
-      },
-      {
-        "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
-        "source": "Science Daily",
-        "published": "Fri, 24 Apr 2026 04:36:51 EDT",
-        "description": "Nearly 100 million years ago, snakes weren’t the sleek, limbless creatures we know today—they still had hind legs and even a cheekbone that has almost vanished in modern species. A remarkably preserve"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Key figure in Mandelson vetting row will not give evidence before MPs",
-      "link": "https://www.bbc.com/news/articles/cvg32z7jv7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Politics",
-      "published": "Sat, 25 Apr 2026 20:27:40 GMT",
-      "description": "The Foreign Affairs Committee says Ian Collard will only be giving evidence in writing."
-    },
-    {
-      "title": "One down four to go, says Rice, as Arsenal reignite title charge",
-      "link": "https://www.channelnewsasia.com/sport/one-down-four-go-says-rice-arsenal-reignite-title-charge-6081171",
-      "source": "CNA Singapore",
-      "published": "Sun, 26 Apr 2026 04:01:38 +0800",
-      "description": ""
-    },
-    {
-      "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
-      "link": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
-      "source": "CNBC Finance",
-      "published": "Sat, 25 Apr 2026 19:33:33 GMT",
-      "description": "U.S. special envoy Steve Witkoff and Jared Kushner had been expected to arrive in Islamabad on Saturday."
-    },
-    {
-      "title": "Iran’s Crypto Lifeline Hit As US Freezes $344 Million In Funds",
-      "link": "https://bitcoinist.com/irans-crypto-lifeline-hit-as-us-freezes-344-million-in-funds/",
-      "source": "Bitcoinist",
-      "published": "Sat, 25 Apr 2026 19:30:43 +0000",
-      "description": "Iran had already begun collecting crypto payments from ships crossing the Strait of Hormuz when US authorities moved to cut off the money. Related Reading: Crypto Crime Hit Hard: $700 Million Frozen B"
-    },
-    {
-      "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon",
-      "link": "https://www.channelnewsasia.com/world/israel-says-it-will-attack-hezbollah-forcefully-four-killed-in-strikes-southern-lebanon-6080986",
-      "source": "CNA Singapore",
-      "published": "Sun, 26 Apr 2026 03:29:00 +0800",
-      "description": ""
-    },
-    {
-      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
-      "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Sat, 25 Apr 2026 19:22:31 GMT",
-      "description": "The outgoing prime minister will not take up his seat after leading his party back into opposition."
+      "published": "Sun, 26 Apr 2026 20:36:07 GMT",
+      "description": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country."
     },
     {
-      "title": "Hungary's Orban will not sit in parliament after election loss",
-      "link": "https://www.channelnewsasia.com/world/hungarys-orban-will-not-sit-in-parliament-after-election-loss-6081096",
-      "source": "CNA Singapore",
-      "published": "Sun, 26 Apr 2026 03:06:23 +0800",
-      "description": ""
-    },
-    {
-      "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
-      "link": "https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories",
+      "title": "‘The Lord has taken care of me’: I’m 74. I went from earning $14 an hour to retiring with $3.4 million. Here’s how I did it.",
+      "link": "https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Sat, 25 Apr 2026 19:05:00 GMT",
-      "description": "President Donald Trump will be on hand for this weekend’s festivities. So will dozens of media and companies throwing events that can cost $300,000."
+      "published": "Sun, 26 Apr 2026 20:30:00 GMT",
+      "description": "“I have always thought that I did not have any real talents or skills.”"
     },
     {
-      "title": "Al Brikan strikes in extra time as Al-Ahli retain Asian Champions League title",
-      "link": "https://www.channelnewsasia.com/sport/al-brikan-strikes-in-extra-time-al-ahli-retain-asian-champions-league-title-6081131",
-      "source": "CNA Singapore",
-      "published": "Sun, 26 Apr 2026 03:04:25 +0800",
-      "description": ""
+      "title": "Trump presses his case for White House ballroom following press dinner shooting",
+      "link": "https://www.cnbc.com/2026/04/26/trump-presses-case-for-white-house-ballroom-following-shooting.html",
+      "source": "CNBC Finance",
+      "published": "Sun, 26 Apr 2026 20:25:51 GMT",
+      "description": "The President took to social media to reiterate his case that White House ballroom is a matter of national security in the wake of the press dinner shooting."
     },
     {
-      "title": "Sooryavanshi fastest to reach 1,000 runs in T20s as teenager smashes 36-ball ton in IPL",
-      "link": "https://www.channelnewsasia.com/sport/sooryavanshi-fastest-reach-1000-runs-in-t20s-teenager-smashes-36-ball-ton-in-ipl-6081121",
+      "title": "What Tim Cook built",
+      "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+      "source": "TechCrunch",
+      "published": "Sun, 26 Apr 2026 20:22:51 +0000",
+      "description": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing."
+    },
+    {
+      "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
+      "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 26 Apr 2026 20:22:00 GMT",
+      "description": "“Renting improves cash flow by about $1,300 a month.”"
+    },
+    {
+      "title": "‘My child requires lifelong support’: I’m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?",
+      "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 26 Apr 2026 20:11:00 GMT",
+      "description": "“The portfolio has grown, but I can’t help feeling that it hasn’t grown as much as it could have.”"
+    },
+    {
+      "title": "King Charles' visit to US to proceed after Washington shooting",
+      "link": "https://www.channelnewsasia.com/world/king-charles-visit-us-proceed-after-washington-shooting-6082401",
       "source": "CNA Singapore",
-      "published": "Sun, 26 Apr 2026 02:55:42 +0800",
-      "description": ""
+      "published": "Mon, 27 Apr 2026 04:05:49 +0800",
+      "description": "Security for the Royal Family say they are cooperating with United States Secret Service during the visit."
+    },
+    {
+      "title": "Bitcoin Community Questions US Military’s Role In The Network",
+      "link": "https://bitcoinist.com/bitcoin-community-questions-us-militarys-role-in-the-network/",
+      "source": "Bitcoinist",
+      "published": "Sun, 26 Apr 2026 20:00:14 +0000",
+      "description": "Iran&#8217;s decision to accept Bitcoin as payment for oil shipping tolls through the Strait of Hormuz gave fresh weight to a question already circulating in Washington: does the US military actually "
+    },
+    {
+      "title": "Sen. Thom Tillis drops opposition, says he’ll back Kevin Warsh’s Fed confirmation",
+      "link": "https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 26 Apr 2026 19:56:00 GMT",
+      "description": "Sen. Thom Tills said Sunday he’s ready to support the confirmation of Kevin Warsh as the new chair of the Federal Reserve, now that the Justice Department has dropped its criminal case against outgoin"
+    },
+    {
+      "title": "Everything we know about Cole Allen, the D.C. correspondents dinner shooter",
+      "link": "https://www.cnbc.com/2026/04/26/cole-allen-dc-correspondents-dinner-shooter.html",
+      "source": "CNBC Finance",
+      "published": "Sun, 26 Apr 2026 19:19:15 GMT",
+      "description": "Allen was a guest at the Washington Hilton, where the dinner was held, and officials said he checked in on Friday."
     }
   ]
 }
