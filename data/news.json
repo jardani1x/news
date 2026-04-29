@@ -1,432 +1,474 @@
 {
-  "updated_sgt": "2026-04-29 05:09 SGT",
-  "updated_iso": "2026-04-29T05:09:52.273657+08:00",
+  "updated_sgt": "2026-04-30 05:09 SGT",
+  "updated_iso": "2026-04-30T05:09:13.841614+08:00",
   "categories": {
     "World": [
       {
-        "title": "Former FBI director James Comey charged with threatening Trump's life",
-        "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+        "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 21:01:27 GMT",
-        "description": "The indictment stems from a 2025 photo of seashells posted by Comey on social media that the justice department says is a call to violence against Trump."
+        "published": "Wed, 29 Apr 2026 20:24:48 GMT",
+        "description": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump."
       },
       {
-        "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
-        "link": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
+        "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 19:48:49 GMT",
-        "description": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\"."
+        "published": "Wed, 29 Apr 2026 20:24:29 GMT",
+        "description": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues."
       },
       {
-        "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-        "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+        "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+        "link": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 19:43:02 GMT",
-        "description": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
+        "published": "Wed, 29 Apr 2026 19:51:55 GMT",
+        "description": "The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's ChatGPT activity."
       },
       {
-        "title": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
-        "link": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss",
+        "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+        "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 16:59:49 GMT",
-        "description": "Nicole Minetti was convicted of facilitating prostitution in connection with the notorious \"bunga bunga\" parties at Silvio Berlusconi's villa."
+        "published": "Wed, 29 Apr 2026 19:51:54 GMT",
+        "description": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election."
       },
       {
-        "title": "Path cleared for Everest climbers after huge ice block",
-        "link": "https://www.bbc.com/news/articles/cn0p2xp18yko?at_medium=RSS&at_campaign=rss",
+        "title": "Stranded whale ferried out of German waters in barge",
+        "link": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 16:59:47 GMT",
-        "description": "Experts warn there are still risks of further ice collapses, and there are fears climbers will again have to queue to reach the summit."
+        "published": "Wed, 29 Apr 2026 17:06:23 GMT",
+        "description": "The final operation to save the whale is being closely followed, after the failure of earlier attempts."
       },
       {
-        "title": "Indian billionaire's son offers to save Escobar's hippos",
-        "link": "https://www.bbc.com/news/articles/cr7prm4ke8do?at_medium=RSS&at_campaign=rss",
+        "title": "Madagascar detains French national over alleged plot to stir unrest",
+        "link": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 16:44:06 GMT",
-        "description": "Anant Ambani - son of Asia's richest man Mukesh Ambani - says he can take care of the animals roaming free since the drug lord's death."
+        "published": "Wed, 29 Apr 2026 17:03:16 GMT",
+        "description": "Malagasy prosecuters used a Whatsapp group as evidence for the detained individuals alleged crimes."
       },
       {
-        "title": "United Arab Emirates to quit oil cartel Opec",
-        "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+        "title": "France urges citizens to leave Mali after rebel attacks",
+        "link": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 16:24:45 GMT",
-        "description": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel."
+        "published": "Wed, 29 Apr 2026 16:46:38 GMT",
+        "description": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk."
       },
       {
-        "title": "Suspected gunman aged 89 held in Greece after five wounded",
-        "link": "https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss",
+        "title": "New images show suspect taking selfies before Washington press dinner shooting",
+        "link": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 14:59:30 GMT",
-        "description": "Five people were left with non-life-threatening injuries, according to Greece's state broadcaster ERT."
+        "published": "Wed, 29 Apr 2026 16:06:00 GMT",
+        "description": "Prosecutors argue Cole Tomas Allen should remain in custody until trial on a charge of attempted assassination of President Donald Trump."
       },
       {
-        "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-        "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+        "title": "France investigates reappearance of website linked to Pelicot crimes",
+        "link": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 14:32:20 GMT",
-        "description": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets."
+        "published": "Wed, 29 Apr 2026 15:10:55 GMT",
+        "description": "Authorities say the Coco platform has been linked to sexual abuse of children, drug offences, rape and murder."
       },
       {
-        "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
-        "link": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
+        "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+        "link": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 28 Apr 2026 13:51:51 GMT",
-        "description": "Israel's foreign minister says it has received no evidence to support the claim that a vessel carrying grain from occupied Ukraine has reached Haifa."
+        "published": "Wed, 29 Apr 2026 13:01:57 GMT",
+        "description": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets."
       }
     ],
     "Finance": [
       {
-        "title": "First Vegas-style casino opens in New York City",
-        "link": "https://www.cnbc.com/2026/04/28/resorts-world-casino-opens-in-new-york-city.html",
+        "title": "Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers",
+        "link": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 21:02:30 GMT",
-        "description": "New York City's first full-scale casino with live table games opened to gamblers more than a decade after New York voters approved an expansion of gambling."
+        "published": "Wed, 29 Apr 2026 21:08:51 GMT",
+        "description": "Meta beat on revenue, but showed disappointing user numbers and its capital expenditures were below estimates."
       },
       {
-        "title": "Starbucks raises full-year outlook after earnings, revenue top estimates",
-        "link": "https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
+        "title": "Amazon stock dips even as earnings beat expectations with strong cloud growth",
+        "link": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 20:51:18 GMT",
-        "description": "Starbucks' global same-store sales, which only includes cafes open at least a year, increased 6.2%, fueled by more visits to its locations."
+        "published": "Wed, 29 Apr 2026 21:08:13 GMT",
+        "description": "Amazon reported its first-quarter results after the market close on Wednesday."
       },
       {
-        "title": "U.S. airlines are hiking fares — and travelers keep booking",
-        "link": "https://www.cnbc.com/2026/04/28/airlines-fares-fuel.html",
+        "title": "Microsoft beats on top and bottom lines with 40% Azure growth",
+        "link": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 20:28:17 GMT",
-        "description": "Executives say travelers keep booking despite big jumps in airfare as they seek to cover the cost of fuel."
+        "published": "Wed, 29 Apr 2026 21:01:25 GMT",
+        "description": "Microsoft's Azure growth beat consensus, and corporate adoption of the Copilot artificial intelligence assistant is growing. Capital expenditures fell short."
       },
       {
-        "title": "FCC launches review of Disney broadcast licenses years ahead of schedule",
-        "link": "https://www.cnbc.com/2026/04/28/fcc-begins-review-of-disney-broadcast-licenses-years-ahead-of-schedule.html",
+        "title": "Amazon's cloud unit reports 28% sales growth, topping estimates",
+        "link": "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 20:17:21 GMT",
-        "description": "The Federal Communications Commission has told Disney to file its broadcast license renewals early, citing concerns around its DEI policies."
+        "published": "Wed, 29 Apr 2026 20:51:20 GMT",
+        "description": "Amazon Web Services now accounts for over 20% of its parent company's total revenue."
       },
       {
-        "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
-        "link": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
+        "title": "Chipotle posts surprise same-store sales growth in early sign chain could be breaking its slump",
+        "link": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 20:15:32 GMT",
-        "description": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach."
+        "published": "Wed, 29 Apr 2026 20:49:41 GMT",
+        "description": "Chipotle shares have plummeted 35% over the last year."
       },
       {
-        "title": "Ex-FBI Director James Comey charged with threatening Trump's life in ‘8647’ post",
-        "link": "https://www.cnbc.com/2026/04/28/james-comey-indicted-trump-seashell-8647.html",
+        "title": "Alphabet beats on revenue, with cloud booming 63% and topping $20 billion",
+        "link": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 20:15:04 GMT",
-        "description": "Trump had accused Comey of \"calling for the assassination of the president\" by sharing the image of the numbers in the May 15 Instagram post."
+        "published": "Wed, 29 Apr 2026 20:48:37 GMT",
+        "description": "Alphabet reported first-quarter earnings after the bell Wednesday."
       },
       {
-        "title": "Trump White House ballroom unlikely to get WHCD buy-in — or end president's off-site events, critics say",
-        "link": "https://www.cnbc.com/2026/04/28/trump-white-house-ballroom-whcd.html",
+        "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs",
+        "link": "https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 20:02:57 GMT",
-        "description": "Critics say a White House ballroom would be a \"vanity\" project for President Donald Trump. He and the Department of Justice say it's needed for security."
+        "published": "Wed, 29 Apr 2026 20:16:57 GMT",
+        "description": "Aside from earnings and any changes to the automaker's 2026 guidance, investors will be monitoring effects from the Iran war, tariffs and the pullback in EVs."
       },
       {
-        "title": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices",
-        "link": "https://www.cnbc.com/2026/04/28/oil-uae-opec-saudi-arabia.html",
+        "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+        "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 19:17:44 GMT",
-        "description": "The UAE wants to ramp up production without constraints from OPEC, which could prove bearish for prices at some point."
+        "published": "Wed, 29 Apr 2026 19:32:45 GMT",
+        "description": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends."
       },
       {
-        "title": "U.S. oil hovers near $100 on report Trump dissatisfied with Iran's proposal to open Hormuz",
-        "link": "https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html",
+        "title": "Fed holds rates steady but with highest level of dissent since 1992",
+        "link": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 19:15:32 GMT",
-        "description": "Oil prices rose as investors parsed fresh signals from U.S.-Iran negotiations, with uncertainty over a potential de-escalation keeping markets on edge."
+        "published": "Wed, 29 Apr 2026 19:25:28 GMT",
+        "description": "The Federal Reserve on Wednesday released its latest decision on interest rates."
       },
       {
-        "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
-        "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
+        "title": "Brent oil tops $118 after Trump says he will blockade Iran until it agrees to a nuclear deal",
+        "link": "https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html",
         "source": "CNBC Finance",
-        "published": "Tue, 28 Apr 2026 18:44:41 GMT",
-        "description": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways."
+        "published": "Wed, 29 Apr 2026 19:01:01 GMT",
+        "description": "The latest move higher comes amid reports that the U.S. will look to extend its blockade of Iranian ports."
       }
     ],
     "Technology": [
       {
-        "title": "Amazon is already offering new OpenAI products on AWS",
-        "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+        "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+        "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 19:48:02 +0000",
-        "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service."
+        "published": "Wed, 29 Apr 2026 20:59:00 +0000",
+        "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow."
       },
       {
-        "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-        "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+        "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+        "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 18:49:54 +0000",
-        "description": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses."
+        "published": "Wed, 29 Apr 2026 20:53:56 +0000",
+        "description": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices."
       },
       {
-        "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
-        "link": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
+        "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+        "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 18:16:54 +0000",
-        "description": "The app is Match Group's newest attempt to get mobile users excited about online romance again."
+        "published": "Wed, 29 Apr 2026 18:33:05 +0000",
+        "description": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million."
       },
       {
-        "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-        "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+        "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+        "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 18:15:00 +0000",
-        "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department."
+        "published": "Wed, 29 Apr 2026 16:42:33 +0000",
+        "description": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library."
       },
       {
-        "title": "Paragon is not collaborating with Italian authorities probing spyware attacks, report says",
-        "link": "https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/",
+        "title": "More Gemini features are coming to Google TV",
+        "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 17:46:47 +0000",
-        "description": "Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not responded to authorities’ reque"
+        "published": "Wed, 29 Apr 2026 16:40:49 +0000",
+        "description": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo."
       },
       {
-        "title": "US Supreme Court appears split over controversial use of ‘geofence’ search warrants",
-        "link": "https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/",
+        "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
+        "link": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 16:18:08 +0000",
-        "description": "The U.S. top court is expected to rule on whether to allow police to identify criminal suspects by dragnet searching the databases of tech giants."
+        "published": "Wed, 29 Apr 2026 16:20:02 +0000",
+        "description": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating."
       },
       {
-        "title": "Australia forces Big Tech firms to pay for news or face a 2.25% tax",
-        "link": "https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/",
+        "title": "Roku’s $3 streaming service, Howdy, reaches 1M subs, per recent report",
+        "link": "https://techcrunch.com/2026/04/29/rokus-3-streaming-service-howdy-reaches-1m-subs-per-recent-report/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 16:13:15 +0000",
-        "description": "The more deals platforms make with media outlets, the less they pay. If enough agreements go through, that effective rate drops to 1.5%, which could generate between A$200 million and A$250 million ba"
+        "published": "Wed, 29 Apr 2026 15:33:35 +0000",
+        "description": "Roku’s $2.99 streaming service Howdy has topped 1M subscribers, showing demand for cheaper, low-commitment alternatives to pricier streamers."
       },
       {
-        "title": "Lovable launches its vibe-coding app on iOS and Android",
-        "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+        "title": "Uber is in the hotel business now, thanks in part to AI",
+        "link": "https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 16:09:30 +0000",
-        "description": "The app allows developers to vibe code web apps and websites on the go."
+        "published": "Wed, 29 Apr 2026 15:12:14 +0000",
+        "description": "Uber announced several new features on Wednesday during its annual event, which push far beyond the company's original ride-hailing purpose and deeper into its users' lives."
       },
       {
-        "title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
-        "link": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
+        "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
+        "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 15:33:27 +0000",
-        "description": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight."
+        "published": "Wed, 29 Apr 2026 14:06:58 +0000",
+        "description": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court."
       },
       {
-        "title": "Apple introduces a cheaper option for App Store subscriptions",
-        "link": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
+        "title": "Earth AI is vertically integrating the search for critical minerals",
+        "link": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
         "source": "TechCrunch",
-        "published": "Tue, 28 Apr 2026 14:46:15 +0000",
-        "description": "Apple is adding a new subscription option that lets app developers offer lower monthly pricing in exchange for a 12-month commitment."
+        "published": "Wed, 29 Apr 2026 14:00:00 +0000",
+        "description": "When Earth AI started hitting months-long delays in its search for critical minerals, it decided to take matters into its own hands."
       }
     ],
     "Crypto": [
       {
-        "title": "Bitmine Just Staked Another $260M In Ethereum: What’s the Endgame?",
-        "link": "https://bitcoinist.com/bitmine-just-staked-another-260m-ethereum-endgame/",
+        "title": "Analyst Says High XRP Price Targets Are Dangerous, Here’s Why",
+        "link": "https://bitcoinist.com/high-xrp-price-targets/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 20:30:05 +0000",
-        "description": "Ethereum is struggling to reclaim the $2,400 level as the broader market consolidates and buyers search for the conviction needed to push through overhead resistance. The price chart shows hesitation."
+        "published": "Wed, 29 Apr 2026 20:00:29 +0000",
+        "description": "XRP has never lacked ambitious price forecasts, but a warning from crypto analyst ChartNerd is aimed at the extreme end of that optimism. As XRP is trading at $1.39, down over 60% from its all-time hi"
       },
       {
-        "title": "Ripple Is A ‘Silent Killer’: How It’s Using XRP To Solve Crypto’s Biggest Bottlenecks",
-        "link": "https://bitcoinist.com/xrp-solve-cryptos-bottlenecks/",
+        "title": "XRP Stopped Rewarding Risk In March, But Started Again In April. Discover If the Shift Is Real",
+        "link": "https://bitcoinist.com/xrp-stopped-rewarding-risk-march-but-started-april/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 19:00:47 +0000",
-        "description": "Much of the crypto market has spent 2026 fixated on XRP&#8217;s price chart, which has shed more than 60% from its 2025 peak. However, Ripple itself has been doing something far more consequential, wh"
+        "published": "Wed, 29 Apr 2026 18:30:31 +0000",
+        "description": "XRP is holding above $1.40 as the market approaches what feels like a defining moment — a price level that has served as both support and resistance through weeks of consolidation, with buyers and sel"
       },
       {
-        "title": "Industry Group Calls For MiCA Reforms To Boost Euro Stablecoins",
-        "link": "https://bitcoinist.com/industry-group-mica-reforms-boost-euro-stablecoins/",
+        "title": "Ethereum Traders Shift: Spot Market Weakness Drives Rise In Derivatives Trading",
+        "link": "https://bitcoinist.com/ethereum-traders-shift/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 16:36:09 +0000",
-        "description": "Blockchain for Europe has called for targeted reforms to the European Union’s (EU) landmark crypto framework in a new report, seeking to boost the global competitiveness of Euro-denominated stablecoin"
+        "published": "Wed, 29 Apr 2026 17:00:43 +0000",
+        "description": "Amid the renewed bullish momentum of Ethereum&#8217;s price, a key divergence has been spotted among ETH traders across the evolving market. While derivatives trading across ETH has picked up pace in "
       },
       {
-        "title": "Bitcoin Miners Have Nearly Stopped Sending Coins to Exchanges: Bullish Setup?",
-        "link": "https://bitcoinist.com/bitcoin-miners-have-stopped-sending-coins-exchanges/",
+        "title": "FTX Founder Sam Bankman-Fried Loses Bid For Retrial",
+        "link": "https://bitcoinist.com/ftx-founder-sam-bankman-fried-loses-bid-for-retrial/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 16:00:59 +0000",
-        "description": "Bitcoin is holding above $76,000 as the market pushes against resistance and bulls attempt to build the momentum needed for the next leg higher. The price is constructive but not yet decisive, and an "
+        "published": "Wed, 29 Apr 2026 17:00:12 +0000",
+        "description": "Sam Bankman-Fried&#8217;s attempt to get a new trial collapsed Tuesday when a federal judge called his legal arguments baseless — and suggested the whole effort was less about justice than about fixin"
       },
       {
-        "title": "6 Years For $236 Million In Bitcoin? The Price Of Quick Crypto Riches",
-        "link": "https://bitcoinist.com/6-years-for-millions-in-bitcoin/",
+        "title": "CLARITY Act Nears Last Markup—White House Adviser Sees ‘Rocket Ship’ Crypto Boom",
+        "link": "https://bitcoinist.com/clarity-act-last-markup-rocket-ship-crypto-boom/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 14:30:47 +0000",
-        "description": "The United States Attorney’s Office (USAO) for the District of Columbia announced that a defendant who was involved in a scam that stole $236 million in Bitcoin was sentenced to six years in prison. T"
+        "published": "Wed, 29 Apr 2026 16:10:07 +0000",
+        "description": "After months of setbacks, the long-awaited CLARITY Act appears to be approaching its final procedural hurdle in the Senate. The Banking Committee is expected to schedule the vote for May, bringing the"
       },
       {
-        "title": "Crypto Crackdown Refocused: FBI, DOJ Zero In On Bad Actors, Not Code Creators",
-        "link": "https://bitcoinist.com/crypto-crackdown-refocused-fbi-doj-zero-in-on-bad-actors-not-code-creators/",
+        "title": "Dogecoin OI Is Exploding And Shiba Inu Exchange Inflows Are Crashing, Is It Time To Buy?",
+        "link": "https://bitcoinist.com/dogecoin-oi-is-exploding/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 13:00:08 +0000",
-        "description": "A federal judge dismissed a lawsuit in late March that sought clarity on whether publishing a crypto-based crowdfunding tool counted as money transmission — and that dismissal is now at the center of "
+        "published": "Wed, 29 Apr 2026 15:30:28 +0000",
+        "description": "Dogecoin’s open interest (OI) is again on the rise, signaling an increase in traders’ interest in the leading meme coin. At the same time, Shiba Inu’s exchange inflows have dropped, indicating that cr"
       },
       {
-        "title": "DOJ Says Crypto Code Alone Isn’t Crime, But Roman Storm Case Still Looms",
-        "link": "https://bitcoinist.com/doj-crypto-code-isnt-crime-roman-storm/",
+        "title": "Bitcoin In the US Military: How BTC Could Help Strengthen National Security",
+        "link": "https://bitcoinist.com/bitcoin-in-the-us-military/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 11:30:01 +0000",
-        "description": "The Department of Justice is trying to draw a brighter line around crypto software development, telling coders that writing code alone should not make them criminal targets. But for Roman Storm’s defe"
+        "published": "Wed, 29 Apr 2026 14:00:14 +0000",
+        "description": "Bitcoin (BTC) has moved beyond a payments network and reserve asset into a technology increasingly tied to strategic defense and cybersecurity. US military officials are now weighing its value and pot"
       },
       {
-        "title": "Quantum-Proofing Begins: Solana Validators Trial Falcon Tech",
-        "link": "https://bitcoinist.com/quantum-proofing-begins-solana-validators-trial-falcon-tech/",
+        "title": "Litecoin’s MWEB Bug Let An Attacker Create 85,034 LTC",
+        "link": "https://bitcoinist.com/litecoin-mweb-bug-attacker-create-85034-ltc/",
         "source": "Bitcoinist",
-        "published": "Tue, 28 Apr 2026 10:00:37 +0000",
-        "description": "Falcon-512 produces the smallest digital signature of any algorithm currently approved by the US National Institute of Standards and Technology — and that fact quietly drove one of the bigger decision"
+        "published": "Wed, 29 Apr 2026 12:30:44 +0000",
+        "description": "Litecoin developers have disclosed that a critical validation flaw in the network’s Mimblewimble Extension Block implementation allowed an attacker to create an inflated pegout of 85,034.47285734 LTC "
       }
     ],
     "Markets": [
       {
-        "title": "The government is meddling with earnings reporting — but Tesla, Amazon and other market superstars prove there’s no problem",
-        "link": "https://www.marketwatch.com/story/the-sec-fears-were-trapped-in-short-term-thinking-tesla-and-amazon-prove-investors-play-the-long-game-4181fa55?mod=mw_rss_topstories",
+        "title": "Bill Ackman’s Pershing Square USA flops on its first day of trading",
+        "link": "https://www.marketwatch.com/story/bill-ackmans-pershing-square-usa-flops-on-first-day-of-trading-8f78506d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 21:06:00 GMT",
-        "description": "Investors aren’t trapped in short-term thinking — but the SEC still wants semiannual earnings reporting."
+        "published": "Wed, 29 Apr 2026 21:06:00 GMT",
+        "description": "The closed-end fund sank more than 18% from its $50 offering price. Shares of the hedge-fund firm itself struggled, too."
       },
       {
-        "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
-        "link": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
+        "title": "Powell won’t leave the Fed, pushing back further against Trump",
+        "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 21:04:00 GMT",
-        "description": "Fed’s communication should help investors manage risk — including the possibility that rates may rise."
+        "published": "Wed, 29 Apr 2026 20:58:00 GMT",
+        "description": "“I will continue to serve as a governor for a period of time to be determined,” the outgoing Federal Reserve chair said Wednesday."
       },
       {
-        "title": "Frothy, but not like 1999: This new valuation indicator has stocks beating inflation",
-        "link": "https://www.marketwatch.com/story/frothy-but-not-like-1999-this-new-valuation-indicator-has-stocks-beating-inflation-40482dd5?mod=mw_rss_topstories",
+        "title": "Why Qualcomm’s stock is soaring even in the face of a weak outlook",
+        "link": "https://www.marketwatch.com/story/why-qualcomms-stock-is-soaring-even-in-the-face-of-a-weak-outlook-560f4546?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 21:03:00 GMT",
-        "description": "Shiller CAPE ratio predicts a lost decade, but this superior model shows a path to positive real returns."
+        "published": "Wed, 29 Apr 2026 20:58:00 GMT",
+        "description": "Investors are looking beyond the current quarter at hints of meaningful AI opportunity ahead."
       },
       {
-        "title": "These adviser fees are a hit to your portfolio — here are 2 questions to stop them",
-        "link": "https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories",
+        "title": "Iran war fuels bond-market selloff, as inflation fears put future Fed rate cuts in doubt",
+        "link": "https://www.marketwatch.com/story/iran-war-is-fueling-a-bond-selloff-ahead-of-fed-chair-jerome-powells-final-press-conference-cc2dba04?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 20:52:00 GMT",
-        "description": "From revenue-sharing ‘kickbacks’ to interest on idle cash, hidden costs may be quietly eroding your returns."
+        "published": "Wed, 29 Apr 2026 20:49:00 GMT",
+        "description": "The oil shock and elevated inflation were top worries for investors in the bond market Wednesday, as Federal Reserve Chair Jerome Powell concluded his final press conference at the helm of the U.S. ce"
       },
       {
-        "title": "These two countries are the most likely to leave OPEC’s orbit next",
-        "link": "https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories",
+        "title": "The U.S. produces the most oil in the world. So why are gasoline prices so high?",
+        "link": "https://www.marketwatch.com/story/the-u-s-produces-the-most-oil-in-the-world-so-why-are-gasoline-prices-so-high-4cb0d82c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 20:41:00 GMT",
-        "description": "The U.A.E. was the “most likely” candidate to leave OPEC, but others may follow."
+        "published": "Wed, 29 Apr 2026 20:33:00 GMT",
+        "description": "Americans are paying the highest prices for gasoline in nearly four years, leading to frustration at the pump and to worries about higher inflation and a weaker economy."
       },
       {
-        "title": "‘I’m not interested in long-term care insurance’: I’d like to retire at 55. How much will I have to pay for healthcare?",
-        "link": "https://www.marketwatch.com/story/im-not-interested-in-long-term-care-insurance-id-like-to-retire-at-55-how-much-will-i-have-to-pay-for-healthcare-a4659d9b?mod=mw_rss_topstories",
+        "title": "Ford’s profit jumps as carmaker powers through an EV slowdown",
+        "link": "https://www.marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 20:40:00 GMT",
-        "description": "“The only thing holding me back is worrying about medical costs.”"
+        "published": "Wed, 29 Apr 2026 20:17:00 GMT",
+        "description": "Ford gets hefty tariff refund and raises outlook for the year."
       },
       {
-        "title": "Trump’s fight with Jimmy Kimmel escalates as the FCC puts ABC under review",
-        "link": "https://www.marketwatch.com/story/trumps-fight-with-jimmy-kimmel-escalates-as-the-fcc-puts-abc-under-review-597e1dbd?mod=mw_rss_topstories",
+        "title": "Stocks may be missing this looming danger in the oil market",
+        "link": "https://www.marketwatch.com/story/stocks-may-be-missing-this-looming-danger-in-the-oil-market-7a2df64f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 20:23:00 GMT",
-        "description": "The Federal Communications Commission says its review is looking at whether the network’s diversity initiatives are discriminatory but it comes just a day after Trump called for Kimmel to be fired."
+        "published": "Wed, 29 Apr 2026 19:43:00 GMT",
+        "description": "Iran is running out of places to put its oil — and in just a few weeks, global crude supply could take another hit that few investors are prepared for."
       },
       {
-        "title": "U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production",
-        "link": "https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories",
+        "title": "No kids, no care: Solo agers are hiring professional ‘next-of-kin’ for major life decisions",
+        "link": "https://www.marketwatch.com/story/they-have-millions-in-the-bank-but-without-kids-who-makes-their-life-or-death-decisions-78874d8c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 20:17:00 GMT",
-        "description": "The United Arab Amirates decision to leave the Organization of the Petroleum Exporting Countries at the end of the week came as a surprise to some, especially during a time of severe global disruption"
+        "published": "Wed, 29 Apr 2026 19:10:00 GMT",
+        "description": "They have financial security and a retirement map — but lack someone authorized to advocate for them."
       },
       {
-        "title": "‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
-        "link": "https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
+        "title": "Can Shake Shack’s new sandwich challenge the McRib, one of the most celebrated menu items in fast-food history?",
+        "link": "https://www.marketwatch.com/story/can-shake-shacks-new-sandwich-challenge-the-mcrib-one-of-the-most-celebrated-items-in-fast-food-history-f991a4b2?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 20:11:00 GMT",
-        "description": "“We have $3.5 million in savings — $2.5 million of which are in retirement accounts.”"
+        "published": "Wed, 29 Apr 2026 18:20:00 GMT",
+        "description": "The McDonald’s McRib has become an icon. Just ask Homer Simpson."
       },
       {
-        "title": "‘We believe it’s real’: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?",
-        "link": "https://www.marketwatch.com/story/we-believe-its-real-my-mom-received-a-check-from-a-class-action-lawsuit-it-bounced-could-this-be-a-scam-cffa7bdb?mod=mw_rss_topstories",
+        "title": "‘I’m very late to the game’: I’m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?",
+        "link": "https://www.marketwatch.com/story/im-very-late-to-the-game-im-48-earn-65-000-have-48-000-in-debt-and-no-retirement-am-i-doomed-36206d6c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 28 Apr 2026 19:08:00 GMT",
-        "description": "“Now they are deducting that amount from her account.”"
+        "published": "Wed, 29 Apr 2026 18:01:00 GMT",
+        "description": "“I do not have any inheritance from anyone coming my way as I lost most of my immediate family when young.”"
       }
     ],
     "Singapore": [
       {
-        "title": "NXP Semiconductors forecasts strong quarterly results, shares jump",
-        "link": "https://www.channelnewsasia.com/business/nxp-semiconductors-forecasts-strong-quarterly-results-shares-jump-6087461",
+        "title": "Saudi Arabia pulls funding from LIV Golf, WSJ reports",
+        "link": "https://www.channelnewsasia.com/sport/saudi-arabia-pulls-funding-liv-golf-wsj-reports-6090396",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 05:02:17 +0800",
+        "published": "Thu, 30 Apr 2026 04:40:42 +0800",
         "description": ""
       },
       {
-        "title": "Ipswich draw at Southampton to set up three-way promotion scrap on final",
-        "link": "https://www.channelnewsasia.com/sport/ipswich-draw-southampton-set-up-three-way-promotion-scrap-final-6087466",
+        "title": "KLA Corp forecasts strong quarterly revenue on AI-linked demand",
+        "link": "https://www.channelnewsasia.com/business/kla-corp-forecasts-strong-quarterly-revenue-ai-linked-demand-6090391",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 04:58:37 +0800",
+        "published": "Thu, 30 Apr 2026 04:40:21 +0800",
         "description": ""
       },
       {
-        "title": "Canadian Football League to launch season earlier and expand playoffs starting in 2027",
-        "link": "https://www.channelnewsasia.com/sport/canadian-football-league-launch-season-earlier-and-expand-playoffs-starting-in-2027-6087441",
+        "title": "Mexico City to host 18 free fan festivals for World Cup",
+        "link": "https://www.channelnewsasia.com/sport/mexico-city-host-18-free-fan-festivals-world-cup-6090351",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 04:52:39 +0800",
+        "published": "Thu, 30 Apr 2026 04:16:11 +0800",
         "description": ""
       },
       {
-        "title": "San Francisco, Port of Oakland settle airport trademark lawsuit",
-        "link": "https://www.channelnewsasia.com/business/san-francisco-port-oakland-settle-airport-trademark-lawsuit-6087426",
+        "title": "Ex-FBI chief Comey released after court appearance on alleged Trump threat",
+        "link": "https://www.channelnewsasia.com/world/comey-court-trump-social-media-post-fbi-chief-6090281",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 04:41:23 +0800",
+        "published": "Thu, 30 Apr 2026 04:13:00 +0800",
+        "description": "The former FBI chief was released after being charged with allegedly threatening US President Donald Trump in a social media post, and will return to court to fight the charges."
+      },
+      {
+        "title": "Microsoft modest increase in cloud revenue growth disappoints investors",
+        "link": "https://www.channelnewsasia.com/business/microsoft-modest-increase-in-cloud-revenue-growth-disappoints-investors-6090306",
+        "source": "CNA Singapore",
+        "published": "Thu, 30 Apr 2026 04:07:49 +0800",
         "description": ""
       },
       {
-        "title": "Analysis:UAE exit weakens OPEC+ power over oil market but group to stay together, sources say",
-        "link": "https://www.channelnewsasia.com/business/analysisuae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-6087431",
+        "title": "Alphabet posts earnings beat on best-ever quarter for cloud unit",
+        "link": "https://www.channelnewsasia.com/business/alphabet-posts-earnings-beat-best-ever-quarter-cloud-unit-6090311",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 04:40:40 +0800",
+        "published": "Thu, 30 Apr 2026 04:07:26 +0800",
         "description": ""
       },
       {
-        "title": "Trump administration fires entire National Science Board",
-        "link": "https://www.channelnewsasia.com/business/trump-administration-fires-entire-national-science-board-6087421",
+        "title": "Qualcomm quarterly forecast underwhelms, but CEO says worst of memory crunch over",
+        "link": "https://www.channelnewsasia.com/business/qualcomm-quarterly-forecast-underwhelms-ceo-says-worst-memory-crunch-over-6090321",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 04:33:36 +0800",
+        "published": "Thu, 30 Apr 2026 04:04:38 +0800",
         "description": ""
       },
       {
-        "title": "Seagate forecasts upbeat quarter as AI boom powers strong data-storage demand",
-        "link": "https://www.channelnewsasia.com/business/seagate-forecasts-upbeat-quarter-ai-boom-powers-strong-data-storage-demand-6087411",
+        "title": "Amazon tops cloud expectations on strong AI demand, shares dip",
+        "link": "https://www.channelnewsasia.com/business/amazon-tops-cloud-expectations-strong-ai-demand-shares-dip-6090326",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 04:22:42 +0800",
+        "published": "Thu, 30 Apr 2026 04:04:00 +0800",
         "description": ""
       },
       {
-        "title": "T-Mobile lifts annual forecast for account additions after upbeat quarterly results",
-        "link": "https://www.channelnewsasia.com/business/t-mobile-lifts-annual-forecast-account-additions-after-upbeat-quarterly-results-6087386",
+        "title": "Man charged with trying to kill Trump at dinner took photo with knife in hotel, investigators say",
+        "link": "https://www.channelnewsasia.com/world/trump-shooting-correspondent-dinner-picture-6089686",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 04:08:43 +0800",
-        "description": ""
+        "published": "Thu, 30 Apr 2026 03:29:43 +0800",
+        "description": "The Department of Justice released a new image showing the suspect taking a mirror selfie shortly before opening fire at the White House Correspondents’ dinner last week."
       },
       {
-        "title": "IFAB agrees red-card sanction for players covering mouths during verbal confrontations",
-        "link": "https://www.channelnewsasia.com/sport/ifab-agrees-red-card-sanction-players-covering-mouths-during-verbal-confrontations-6087381",
+        "title": "Canadian government allocates $145 million for World Cup security",
+        "link": "https://www.channelnewsasia.com/sport/canadian-government-allocates-145-million-world-cup-security-6090256",
         "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 03:56:31 +0800",
-        "description": ""
-      },
-      {
-        "title": "'Two kings': praise and a royal crush as Trump hosts Charles",
-        "link": "https://www.channelnewsasia.com/world/two-kings-praise-and-royal-crush-trump-hosts-charles-6087231",
-        "source": "CNA Singapore",
-        "published": "Wed, 29 Apr 2026 03:53:00 +0800",
+        "published": "Thu, 30 Apr 2026 03:26:00 +0800",
         "description": ""
       }
     ],
     "US Politics": [
       {
-        "title": "America's special relationship 'probably Israel', says UK ambassador to US",
-        "link": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
+        "title": "We can't abolish leasehold outright, minister says",
+        "link": "https://www.bbc.com/news/articles/cg7p888v24jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 28 Apr 2026 18:53:55 GMT",
-        "description": "The remarks, made in February and first reported by the Financial Times, came to light during the King's state visit."
+        "published": "Wed, 29 Apr 2026 20:59:10 GMT",
+        "description": "Matthew Pennycook rejects criticism the government is dragging its feet on leasehold reform."
+      },
+      {
+        "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
+        "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 29 Apr 2026 18:45:22 GMT",
+        "description": "It comes after legislation to remove their right to sit in the upper chamber passed last month."
+      },
+      {
+        "title": "Farage received £5m from donor before he became MP",
+        "link": "https://www.bbc.com/news/articles/cn5pr0gp3gro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 29 Apr 2026 18:40:40 GMT",
+        "description": "The Reform leader says the gift was for his personal security - but opponents say he should have declared it."
+      },
+      {
+        "title": "PM defends record as Badenoch says he squandered election win",
+        "link": "https://www.bbc.com/news/articles/cx2182v12e4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 29 Apr 2026 14:04:43 GMT",
+        "description": "The prime minister and Conservative leader argue over welfare and defence spending ahead of May elections."
+      },
+      {
+        "title": "MP rejects rumour he could stand aside for Burnham",
+        "link": "https://www.bbc.com/news/articles/ckgpjygx409o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 29 Apr 2026 05:12:05 GMT",
+        "description": "Bootle MP Peter Dowd said speculation he could create an opening for the mayor was \"tittle tattle\"."
+      },
+      {
+        "title": "Reform is not racist, Welsh leader says in heated election debate",
+        "link": "https://www.bbc.com/news/articles/c0r2w79n9w1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 28 Apr 2026 23:07:25 GMT",
+        "description": "Wales' big six parties clashed in the TV debate less than two weeks before the Senedd election."
+      },
+      {
+        "title": "Starmer sees off inquiry call - but he doesn't escape unscathed",
+        "link": "https://www.bbc.com/news/articles/cze25j9p1k7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 28 Apr 2026 21:54:08 GMT",
+        "description": "No 10 has expended considerable political capital in keeping Labour MPs onside over the Mandelson vetting row."
       },
       {
         "title": "PM won't face inquiry over claims he misled MPs on Mandelson vetting",
@@ -436,13 +478,6 @@
         "description": "A Conservative-led motion sought to have the prime minister's remarks assessed by Privileges Committee."
       },
       {
-        "title": "MP's website suffers 'deliberate' cyber attack",
-        "link": "https://www.bbc.com/news/articles/c4g7v2ddvyko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 28 Apr 2026 17:54:00 GMT",
-        "description": "The site was hit with 142 million requests, redirecting users to south-east Asian gambling\" sites."
-      },
-      {
         "title": "I made 'serious mistake' advising Starmer to appoint Mandelson, PM's ex-top adviser says",
         "link": "https://www.bbc.com/news/articles/czx26yz7kxzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
@@ -450,55 +485,55 @@
         "description": "Morgan McSweeney says the peer did not give the \"full truth\" about his relationship with Epstein."
       },
       {
-        "title": "More migrants making false domestic abuse claims, minister tells MPs",
-        "link": "https://www.bbc.com/news/articles/cz027xl37g2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 28 Apr 2026 17:14:19 GMT",
-        "description": "Jess Phillips says the Home Office could do more to weed out false claims, following a BBC News investigation."
-      },
-      {
         "title": "No way to raise Mandelson concerns, former senior official says",
         "link": "https://www.bbc.com/news/articles/c4g8x7vez4no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Tue, 28 Apr 2026 12:27:18 GMT",
         "description": "Sir Philip Barton says he was worried Lord Mandelson's links to sex offender Jeffrey Epstein \"could be a problem\"."
-      },
-      {
-        "title": "Social media restrictions for under-16s even if no ban, minister says",
-        "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 28 Apr 2026 10:46:55 GMT",
-        "description": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages."
-      },
-      {
-        "title": "'Emergency handbrake' needed on sickness benefits, Blair think tank says",
-        "link": "https://www.bbc.com/news/articles/c1krkdnwv1yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 28 Apr 2026 10:11:28 GMT",
-        "description": "The Tony Blair Institute says people with conditions like anxiety should get employment support instead of cash benefits."
-      },
-      {
-        "title": "Deal 'within sight' to end Birmingham bin strike",
-        "link": "https://www.bbc.com/news/articles/cn7874j5rdko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 27 Apr 2026 15:47:20 GMT",
-        "description": "A new offer is to be put to striking workers - but opposition parties claim it is an election stunt."
-      },
-      {
-        "title": "Lib Dems pledge £5k rewards for illegal waste tip-offs",
-        "link": "https://www.bbc.com/news/articles/cq8w8ygkdnlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 27 Apr 2026 10:38:26 GMT",
-        "description": "The party says the payouts would help tackle an \"environmental emergency\" faced by councils."
       }
     ],
     "Science": [
       {
-        "title": "NASA Curiosity rover finds mysterious life linked molecules on mars",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260428045549.htm",
+        "title": "Scientists just found a chilling way life may have begun",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260428045559.htm",
         "source": "Science Daily",
-        "published": "Tue, 28 Apr 2026 10:02:08 EDT",
-        "description": "Curiosity has detected a surprising variety of organic molecules on Mars, including compounds tied to the chemistry of life. Some of these molecules may be billions of years old, preserved in ancient "
+        "published": "Wed, 29 Apr 2026 08:11:14 EDT",
+        "description": "New experiments suggest that freezing and thawing on early Earth may have helped primitive cell-like structures grow and evolve. Tiny lipid bubbles behaved very differently depending on their membrane"
+      },
+      {
+        "title": "50-foot ancient snake discovered in India may be one of the largest ever",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260429043500.htm",
+        "source": "Science Daily",
+        "published": "Wed, 29 Apr 2026 05:13:03 EDT",
+        "description": "A massive prehistoric snake discovered in India may rank among the largest ever to slither across Earth. Named Vasuki indicus, this ancient giant lived around 47 million years ago and is estimated to "
+      },
+      {
+        "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260428045603.htm",
+        "source": "Science Daily",
+        "published": "Wed, 29 Apr 2026 04:05:18 EDT",
+        "description": "A spectacular cosmic event nicknamed “SN Winny” could help solve one of astronomy’s biggest mysteries: how fast the universe is expanding. This rare superluminous supernova, located 10 billion light-y"
+      },
+      {
+        "title": "Scientists just found the Milky Way’s edge and it’s closer than expected",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260428045553.htm",
+        "source": "Science Daily",
+        "published": "Wed, 29 Apr 2026 02:33:19 EDT",
+        "description": "Scientists have uncovered the true boundary of the Milky Way’s star-forming region using stellar “age mapping.” They found a telltale U-shaped pattern showing that star formation drops sharply around "
+      },
+      {
+        "title": "A forgotten drug is giving new hope to kids with a rare disease",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260428045556.htm",
+        "source": "Science Daily",
+        "published": "Wed, 29 Apr 2026 01:28:38 EDT",
+        "description": "A decades-old drug once used to treat sleeping sickness is now showing surprising promise against an ultra-rare and life-threatening genetic disorder called Bachmann-Bupp syndrome (BABS). Early patien"
+      },
+      {
+        "title": "MIT study finds children more vulnerable to cancer-causing chemical in water",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260428045546.htm",
+        "source": "Science Daily",
+        "published": "Wed, 29 Apr 2026 01:06:52 EDT",
+        "description": "A troubling new study from MIT reveals that a common environmental contaminant, NDMA—found in polluted water, certain medications, and even processed foods—may pose a far greater cancer risk to childr"
       },
       {
         "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
@@ -508,13 +543,6 @@
         "description": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wav"
       },
       {
-        "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
-        "source": "Science Daily",
-        "published": "Tue, 28 Apr 2026 09:10:39 EDT",
-        "description": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the "
-      },
-      {
         "title": "Your dreams aren’t random. Here’s what’s really happening",
         "link": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
         "source": "Science Daily",
@@ -522,46 +550,18 @@
         "description": "Dreams are more structured than they seem, shaped by both personal traits and real-world experiences. Researchers found that the brain doesn’t just replay daily life—it reshapes it into imaginative, s"
       },
       {
-        "title": "Vitamin D boosts breast cancer treatment success by 79%",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260428004119.htm",
+        "title": "NASA Curiosity rover finds mysterious life linked molecules on Mars",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260428045549.htm",
         "source": "Science Daily",
-        "published": "Tue, 28 Apr 2026 01:03:03 EDT",
-        "description": "A daily vitamin D supplement may quietly supercharge chemotherapy. In a small study, women who took low doses alongside treatment were far more likely to see their cancer vanish than those who didn’t."
+        "published": "Tue, 28 Apr 2026 04:55:49 EDT",
+        "description": "Curiosity has detected a surprising variety of organic molecules on Mars, including compounds tied to the chemistry of life. Some of these molecules may be billions of years old, preserved in ancient "
       },
       {
-        "title": "Scientists capture electrons forming strange patchy patterns inside quantum materials",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260427050623.htm",
+        "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
         "source": "Science Daily",
-        "published": "Tue, 28 Apr 2026 00:40:40 EDT",
-        "description": "Researchers have, for the first time, directly visualized how electronic patterns known as charge density waves evolve across a phase transition. Using cutting-edge microscopy, they found these patter"
-      },
-      {
-        "title": "Scientists discover enzyme that could supercharge Ozempic",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260427050620.htm",
-        "source": "Science Daily",
-        "published": "Tue, 28 Apr 2026 00:11:44 EDT",
-        "description": "Researchers have found an enzyme that can turn fragile drug molecules into durable ring shapes. This could help medications like Ozempic last longer and work more effectively. The process is simpler a"
-      },
-      {
-        "title": "Maya collapse mystery deepens as scientists find no drought at key site",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260427050637.htm",
-        "source": "Science Daily",
-        "published": "Mon, 27 Apr 2026 23:44:14 EDT",
-        "description": "The mysterious collapse of the Maya civilization may not have been driven solely by drought after all. New evidence from lake sediments in Guatemala reveals that one key city, Itzan, enjoyed a stable "
-      },
-      {
-        "title": "This hidden kind of stress may be damaging your memory as you age",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
-        "source": "Science Daily",
-        "published": "Mon, 27 Apr 2026 10:55:07 EDT",
-        "description": "A new study reveals that internalizing stress—especially feelings of hopelessness—may significantly speed up memory decline in older Chinese Americans. Surprisingly, factors like community support did"
-      },
-      {
-        "title": "Students build a “cosmic radio” to listen for dark matter",
-        "link": "https://www.sciencedaily.com/releases/2026/04/260427050618.htm",
-        "source": "Science Daily",
-        "published": "Mon, 27 Apr 2026 09:40:33 EDT",
-        "description": "A group of undergraduate students pulled off something remarkable: they built their own dark matter detector and used it to probe one of physics’ biggest mysteries. Working with limited resources but "
+        "published": "Tue, 28 Apr 2026 04:55:42 EDT",
+        "description": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the "
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "The government is meddling with earnings reporting — but Tesla, Amazon and other market superstars prove there’s no problem",
-      "link": "https://www.marketwatch.com/story/the-sec-fears-were-trapped-in-short-term-thinking-tesla-and-amazon-prove-investors-play-the-long-game-4181fa55?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Tue, 28 Apr 2026 21:06:00 GMT",
-      "description": "Investors aren’t trapped in short-term thinking — but the SEC still wants semiannual earnings reporting."
-    },
-    {
-      "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
-      "link": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Tue, 28 Apr 2026 21:04:00 GMT",
-      "description": "Fed’s communication should help investors manage risk — including the possibility that rates may rise."
-    },
-    {
-      "title": "Frothy, but not like 1999: This new valuation indicator has stocks beating inflation",
-      "link": "https://www.marketwatch.com/story/frothy-but-not-like-1999-this-new-valuation-indicator-has-stocks-beating-inflation-40482dd5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Tue, 28 Apr 2026 21:03:00 GMT",
-      "description": "Shiller CAPE ratio predicts a lost decade, but this superior model shows a path to positive real returns."
-    },
-    {
-      "title": "First Vegas-style casino opens in New York City",
-      "link": "https://www.cnbc.com/2026/04/28/resorts-world-casino-opens-in-new-york-city.html",
+      "title": "Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers",
+      "link": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
       "source": "CNBC Finance",
-      "published": "Tue, 28 Apr 2026 21:02:30 GMT",
-      "description": "New York City's first full-scale casino with live table games opened to gamblers more than a decade after New York voters approved an expansion of gambling."
+      "published": "Wed, 29 Apr 2026 21:08:51 GMT",
+      "description": "Meta beat on revenue, but showed disappointing user numbers and its capital expenditures were below estimates."
     },
     {
-      "title": "NXP Semiconductors forecasts strong quarterly results, shares jump",
-      "link": "https://www.channelnewsasia.com/business/nxp-semiconductors-forecasts-strong-quarterly-results-shares-jump-6087461",
-      "source": "CNA Singapore",
-      "published": "Wed, 29 Apr 2026 05:02:17 +0800",
-      "description": ""
-    },
-    {
-      "title": "Former FBI director James Comey charged with threatening Trump's life",
-      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 28 Apr 2026 21:01:27 GMT",
-      "description": "The indictment stems from a 2025 photo of seashells posted by Comey on social media that the justice department says is a call to violence against Trump."
-    },
-    {
-      "title": "Ipswich draw at Southampton to set up three-way promotion scrap on final",
-      "link": "https://www.channelnewsasia.com/sport/ipswich-draw-southampton-set-up-three-way-promotion-scrap-final-6087466",
-      "source": "CNA Singapore",
-      "published": "Wed, 29 Apr 2026 04:58:37 +0800",
-      "description": ""
-    },
-    {
-      "title": "Canadian Football League to launch season earlier and expand playoffs starting in 2027",
-      "link": "https://www.channelnewsasia.com/sport/canadian-football-league-launch-season-earlier-and-expand-playoffs-starting-in-2027-6087441",
-      "source": "CNA Singapore",
-      "published": "Wed, 29 Apr 2026 04:52:39 +0800",
-      "description": ""
-    },
-    {
-      "title": "These adviser fees are a hit to your portfolio — here are 2 questions to stop them",
-      "link": "https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Tue, 28 Apr 2026 20:52:00 GMT",
-      "description": "From revenue-sharing ‘kickbacks’ to interest on idle cash, hidden costs may be quietly eroding your returns."
-    },
-    {
-      "title": "Starbucks raises full-year outlook after earnings, revenue top estimates",
-      "link": "https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
+      "title": "Amazon stock dips even as earnings beat expectations with strong cloud growth",
+      "link": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
       "source": "CNBC Finance",
-      "published": "Tue, 28 Apr 2026 20:51:18 GMT",
-      "description": "Starbucks' global same-store sales, which only includes cafes open at least a year, increased 6.2%, fueled by more visits to its locations."
+      "published": "Wed, 29 Apr 2026 21:08:13 GMT",
+      "description": "Amazon reported its first-quarter results after the market close on Wednesday."
+    },
+    {
+      "title": "Bill Ackman’s Pershing Square USA flops on its first day of trading",
+      "link": "https://www.marketwatch.com/story/bill-ackmans-pershing-square-usa-flops-on-first-day-of-trading-8f78506d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Wed, 29 Apr 2026 21:06:00 GMT",
+      "description": "The closed-end fund sank more than 18% from its $50 offering price. Shares of the hedge-fund firm itself struggled, too."
+    },
+    {
+      "title": "Microsoft beats on top and bottom lines with 40% Azure growth",
+      "link": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
+      "source": "CNBC Finance",
+      "published": "Wed, 29 Apr 2026 21:01:25 GMT",
+      "description": "Microsoft's Azure growth beat consensus, and corporate adoption of the Copilot artificial intelligence assistant is growing. Capital expenditures fell short."
+    },
+    {
+      "title": "We can't abolish leasehold outright, minister says",
+      "link": "https://www.bbc.com/news/articles/cg7p888v24jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "published": "Wed, 29 Apr 2026 20:59:10 GMT",
+      "description": "Matthew Pennycook rejects criticism the government is dragging its feet on leasehold reform."
+    },
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "source": "TechCrunch",
+      "published": "Wed, 29 Apr 2026 20:59:00 +0000",
+      "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow."
+    },
+    {
+      "title": "Powell won’t leave the Fed, pushing back further against Trump",
+      "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Wed, 29 Apr 2026 20:58:00 GMT",
+      "description": "“I will continue to serve as a governor for a period of time to be determined,” the outgoing Federal Reserve chair said Wednesday."
+    },
+    {
+      "title": "Why Qualcomm’s stock is soaring even in the face of a weak outlook",
+      "link": "https://www.marketwatch.com/story/why-qualcomms-stock-is-soaring-even-in-the-face-of-a-weak-outlook-560f4546?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Wed, 29 Apr 2026 20:58:00 GMT",
+      "description": "Investors are looking beyond the current quarter at hints of meaningful AI opportunity ahead."
+    },
+    {
+      "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+      "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+      "source": "TechCrunch",
+      "published": "Wed, 29 Apr 2026 20:53:56 +0000",
+      "description": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices."
+    },
+    {
+      "title": "Amazon's cloud unit reports 28% sales growth, topping estimates",
+      "link": "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
+      "source": "CNBC Finance",
+      "published": "Wed, 29 Apr 2026 20:51:20 GMT",
+      "description": "Amazon Web Services now accounts for over 20% of its parent company's total revenue."
     }
   ]
 }
