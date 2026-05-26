@@ -1,80 +1,136 @@
 {
-  "updated_sgt": "2026-05-26 05:12 SGT",
-  "updated_iso": "2026-05-26T05:12:14.759474+08:00",
+  "updated_sgt": "2026-05-27 05:47 SGT",
+  "updated_iso": "2026-05-27T05:47:24.962033+08:00",
   "categories": {
     "World": [
       {
-        "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-        "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+        "title": "Nasa unveils next steps to build permanent Moon base",
+        "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 25 May 2026 20:40:15 GMT",
-        "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes."
+        "published": "Tue, 26 May 2026 20:25:50 GMT",
+        "description": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base."
       },
       {
-        "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-        "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+        "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+        "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 25 May 2026 20:11:59 GMT",
-        "description": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year."
+        "published": "Tue, 26 May 2026 19:40:35 GMT",
+        "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah."
       },
       {
-        "title": "'Blistering heat' in Delhi as temperatures reach 45C",
-        "link": "https://www.bbc.com/news/videos/c4g002jvv8wo?at_medium=RSS&at_campaign=rss",
+        "title": "Why temperature records are being not only broken but smashed",
+        "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 25 May 2026 19:36:00 GMT",
-        "description": "The BBC's Sumedha Pal describes how difficult it is to be standing in the streets of Delhi as temperatures rise to 45C ."
+        "published": "Tue, 26 May 2026 17:57:28 GMT",
+        "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe."
+      },
+      {
+        "title": "South African president mounts legal challenge against report that could lead to impeachment",
+        "link": "https://www.bbc.com/news/articles/cy72213v2elo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 26 May 2026 17:24:19 GMT",
+        "description": "Cyril Ramaphosa argues that the authors of the report \"misconceived\" their mandate."
+      },
+      {
+        "title": "Four killed as school minibus collides with train in Belgium",
+        "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 26 May 2026 17:11:24 GMT",
+        "description": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister."
+      },
+      {
+        "title": "Internet starts coming back in Iran after months-long blackout",
+        "link": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 26 May 2026 16:38:05 GMT",
+        "description": "Internet access has been cut off in the country since the start of the war in late February."
+      },
+      {
+        "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+        "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 26 May 2026 15:15:29 GMT",
+        "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
+      },
+      {
+        "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
+        "link": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 26 May 2026 11:22:04 GMT",
+        "description": "The governor of Ituri said the more time they lose, the closer the province is to disaster."
+      },
+      {
+        "title": "China executes man for poisoning billionaire gaming tycoon",
+        "link": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 26 May 2026 08:55:55 GMT",
+        "description": "The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem."
       },
       {
         "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
         "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 25 May 2026 17:42:26 GMT",
+        "published": "Tue, 26 May 2026 03:06:06 GMT",
         "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
-      },
-      {
-        "title": "White House gunman had previous run-ins with Secret Service, court documents show",
-        "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 25 May 2026 15:45:27 GMT",
-        "description": "The suspect previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ."
-      },
-      {
-        "title": "Oil prices slide on hopes of US-Iran peace deal",
-        "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 25 May 2026 13:05:56 GMT",
-        "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details."
-      },
-      {
-        "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
-        "link": "https://www.bbc.com/news/articles/cm2ppv1r3xzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 25 May 2026 13:01:13 GMT",
-        "description": "Kem Sokha was serving a 27-year sentence on treason charges, which were widely derided as politically motivated."
-      },
-      {
-        "title": "Three killed in Uganda after crashing into elephant",
-        "link": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 25 May 2026 11:54:07 GMT",
-        "description": "Four people were also injured in the incident inside Murchison Falls National Park, officials say."
-      },
-      {
-        "title": "Deal with US not imminent, Iran says",
-        "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 25 May 2026 11:17:49 GMT",
-        "description": "The US secretary of state earlier said that an agreement could possibly come on Monday."
-      },
-      {
-        "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-        "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 25 May 2026 11:08:05 GMT",
-        "description": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre."
       }
     ],
     "Finance": [
+      {
+        "title": "Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front",
+        "link": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 21:18:58 GMT",
+        "description": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies."
+      },
+      {
+        "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq",
+        "link": "https://www.cnbc.com/2026/05/26/spacex-tesla-merger-chatter-reignites-as-musk-rocket-company-nears-ipo.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 21:07:48 GMT",
+        "description": "With SpaceX headed for the public markets next month, industry experts and people close to Elon Musk are speculating about a potential tie-up with Tesla."
+      },
+      {
+        "title": "Trump cancels Camp David Cabinet trip, citing weather",
+        "link": "https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 21:05:24 GMT",
+        "description": "Trump has rarely visited Camp David during either of his presidential terms, though he frequently spends time outside the White House at his own properties."
+      },
+      {
+        "title": "A battle is brewing in the gold pits. Here are the winners and losers",
+        "link": "https://www.cnbc.com/2026/05/26/a-battle-is-brewing-in-the-gold-pits-here-are-the-winners-and-losers.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 20:15:51 GMT",
+        "description": "Options volumes leaned bullish in both the SPDR Gold ETF (GLD) and VanEck Gold Miners ETF (GDX) on Tuesday."
+      },
+      {
+        "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+        "link": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 19:43:54 GMT",
+        "description": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer."
+      },
+      {
+        "title": "Cornyn and Paxton go head-to-head in Texas Republican Senate primary after Trump endorsement",
+        "link": "https://www.cnbc.com/2026/05/26/texas-primary-election-senate-paxton-cornyn.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 18:42:16 GMT",
+        "description": "President Donald Trump last week endorsed Texas Attorney General Ken Paxton over incumbent Sen. John Cornyn."
+      },
+      {
+        "title": "American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes",
+        "link": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 15:03:46 GMT",
+        "description": "American Airlines said it will install SpaceX's Starlink for inflight Wi-Fi on more than 500 of its airplanes."
+      },
+      {
+        "title": "U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal",
+        "link": "https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 26 May 2026 13:07:52 GMT",
+        "description": "Targets included missile launch sites and Iranian boats attempting to emplace mines."
+      },
       {
         "title": "Americans are 'entrenched' in financial stress amid debt and price pressures",
         "link": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html",
@@ -83,487 +139,360 @@
         "description": "Inflation and high debt levels continue cause financial anxiety for many Americans. Nonprofits can help with debt mangement."
       },
       {
-        "title": "Boosting retirement savings has a less-appreciated benefit",
-        "link": "https://www.cnbc.com/2026/05/24/retirement-savings-contributions.html",
+        "title": "Barriers grow for international students seeking U.S. jobs: The 'American dream ... is collapsing'",
+        "link": "https://www.cnbc.com/2026/05/24/for-international-students-seeking-us-jobs-the-american-dream-is-collapsing.html",
         "source": "CNBC Finance",
-        "published": "Sun, 24 May 2026 13:30:01 GMT",
-        "description": "Saving more money has a dual benefit that often goes unnoticed, according to financial advisors."
-      },
-      {
-        "title": "Oil prices fall 7% after Trump says Iran talks are 'proceeding nicely'",
-        "link": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 20:53:21 GMT",
-        "description": "Trump had said an agreement with Iran to open the Strait of Hormuz, among other issues, was largely negotiated and would be announced soon."
-      },
-      {
-        "title": "European stocks highest since March 2 as U.S.-Iran talks continue; euro zone bond yields drop on peace hopes",
-        "link": "https://www.cnbc.com/2026/05/25/european-stocks-us-iran-talks-continue-markets-oil.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 12:36:21 GMT",
-        "description": "Stocks in Europe are tracking their Asian counterparts higher after Japan's Nikkei 225 breached 65,000 for the first time."
-      },
-      {
-        "title": "When are prediction markets most helpful? Evercore ISI has a formula",
-        "link": "https://www.cnbc.com/2026/05/25/when-are-prediction-markets-most-helpful-evercore-isi-has-a-formula.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 11:30:01 GMT",
-        "description": "Evercore ISI strategists provide insight for when prediction markets are useful for forecasting."
-      },
-      {
-        "title": "Singapore reports lower-than-expected inflation for April at 1.8%, revises economic growth higher",
-        "link": "https://www.cnbc.com/2026/05/25/singapore-inflation-gdp-iran-war-energy.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 08:10:15 GMT",
-        "description": "Core inflation — which strips out prices of private transport and accommodation — came in at 1.4%, against estimates of 1.7%."
-      },
-      {
-        "title": "Delivery Hero shares rise 10% as rival Uber mulls another takeover bid",
-        "link": "https://www.cnbc.com/2026/05/25/delivery-hero-shares-rival-uber-mulls-another-takeover-bid.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 07:15:54 GMT",
-        "description": "Delivery Hero confirmed in a statement on Saturday that it had received a takeover offer from Uber of €33 per share."
-      },
-      {
-        "title": "Iran is in the 'process of blinking' over the Strait of Hormuz, Petraeus says",
-        "link": "https://www.cnbc.com/2026/05/25/iran-in-the-process-of-blinking-over-the-strait-ofoh-ex-cia-director.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 06:59:06 GMT",
-        "description": "Ex-CIA director David Petraeus said that an initial successful peace deal with Tehran would see the Strait opened without any conditions."
-      },
-      {
-        "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-        "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 06:48:16 GMT",
-        "description": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company."
-      },
-      {
-        "title": "Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie",
-        "link": "https://www.cnbc.com/2026/05/25/oil-prices-iran-war-carlyle-currie.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 25 May 2026 06:25:49 GMT",
-        "description": "Oil markets are nearing minimum operating levels in Asia, with Europe likely next and the U.S. potentially facing shortages by July, said Carlyle's Jeff Currie."
+        "published": "Sun, 24 May 2026 14:15:01 GMT",
+        "description": "International graduates say a weak hiring market and changing immigration rules make it harder for them to achieve their American dream of working in the U.S."
       }
     ],
     "Technology": [
       {
-        "title": "Everyone is navigating AI security in real time — even Google",
-        "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+        "link": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
         "source": "TechCrunch",
-        "published": "Sun, 24 May 2026 21:39:21 +0000",
-        "description": "We're in the transition period -- all of us."
+        "published": "Tue, 26 May 2026 21:03:56 +0000",
+        "description": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its c"
       },
       {
-        "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-        "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+        "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+        "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
         "source": "TechCrunch",
-        "published": "Sun, 24 May 2026 19:00:00 +0000",
-        "description": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point."
+        "published": "Tue, 26 May 2026 18:48:04 +0000",
+        "description": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX."
       },
       {
-        "title": "6 kitchen gadgets that make adulting feel easier",
-        "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+        "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+        "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
         "source": "TechCrunch",
-        "published": "Sun, 24 May 2026 17:00:00 +0000",
-        "description": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood."
+        "published": "Tue, 26 May 2026 18:33:01 +0000",
+        "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
       },
       {
-        "title": "TechCrunch Mobility: Robotaxi reality check",
-        "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+        "title": "This startup is betting India’s gig economy can train the world’s robots",
+        "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
         "source": "TechCrunch",
-        "published": "Sun, 24 May 2026 16:05:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+        "published": "Tue, 26 May 2026 16:00:00 +0000",
+        "description": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat"
       },
       {
-        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-        "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+        "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
+        "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
         "source": "TechCrunch",
-        "published": "Sun, 24 May 2026 15:00:00 +0000",
-        "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety."
+        "published": "Tue, 26 May 2026 15:44:23 +0000",
+        "description": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology."
       },
       {
-        "title": "What ClickUp’s mass layoff tells us about the future of work",
-        "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+        "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+        "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
         "source": "TechCrunch",
-        "published": "Mon, 25 May 2026 16:00:00 +0000",
-        "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+        "published": "Tue, 26 May 2026 15:27:12 +0000",
+        "description": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today."
       },
       {
-        "title": "The pope’s AI encyclical isn’t really about AI",
-        "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+        "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
         "source": "TechCrunch",
-        "published": "Mon, 25 May 2026 15:09:41 +0000",
-        "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+        "published": "Tue, 26 May 2026 15:26:27 +0000",
+        "description": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran."
       },
       {
-        "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-        "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+        "title": "Ferrari’s first EV is not for you",
+        "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
         "source": "TechCrunch",
-        "published": "Mon, 25 May 2026 15:00:00 +0000",
-        "description": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it."
+        "published": "Tue, 26 May 2026 15:16:34 +0000",
+        "description": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV."
       },
       {
-        "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-        "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+        "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+        "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
         "source": "TechCrunch",
-        "published": "Mon, 25 May 2026 14:30:00 +0000",
-        "description": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now."
+        "published": "Tue, 26 May 2026 14:55:05 +0000",
+        "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
       },
       {
-        "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-        "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+        "title": "Spotify now lets you stream narrated magazine articles, too",
+        "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
         "source": "TechCrunch",
-        "published": "Mon, 25 May 2026 14:00:00 +0000",
-        "description": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase."
+        "published": "Tue, 26 May 2026 14:38:05 +0000",
+        "description": "The streaming service said that, starting today, there will be over 650 long-form magazine articles (available in English only) from publications like Rolling Stone, The Atlantic, Vogue, Variety, Bill"
       }
     ],
     "Crypto": [
       {
-        "title": "How To Play The Bitcoin 4-Year Cycle For The Most Gains In The Bull Market",
-        "link": "https://bitcoinist.com/the-bitcoin-4-year-cycle/",
+        "title": "XRP Will End Up Making Millionaires And Billionaires; Analyst Tells Community",
+        "link": "https://bitcoinist.com/xrp-millionaires-billionaires/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 20:30:03 +0000",
-        "description": "A crypto analyst is raising questions over whether the famous four-year cycle theory that has governed Bitcoin’s (BTC) market trajectory in the past is now dead. The expert has shared BTC’s price move"
+        "published": "Tue, 26 May 2026 20:30:23 +0000",
+        "description": "XRP could create enormous wealth for long-term holders if institutional adoption and global liquidity demand expand the way some market analysts expect. That was the message pushed by crypto commentat"
       },
       {
-        "title": "XRP, XLM, And ONDO: The Big Shots That Are Driving The Next Wave Of Crypto Adoption",
-        "link": "https://bitcoinist.com/xrp-xlm-ondo-crypto-adoption/",
+        "title": "Can Ethereum Stage The Biggest Comeback In History? Why Price Could Double",
+        "link": "https://bitcoinist.com/ethereum-price-could-double/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 19:00:46 +0000",
-        "description": "A crypto analyst has outlined 13 decentralized projects, including XRP, Stellar (XLM), and Ondo Finance (ONDO), that he believes could drive a fresh wave of crypto adoption. The analyst has stated tha"
+        "published": "Tue, 26 May 2026 19:00:23 +0000",
+        "description": "Despite recording multiple price declines in recent weeks, a crypto market expert believes that Ethereum (ETH) could still stage its biggest comeback in history. The analyst has projected a massive pr"
       },
       {
-        "title": "The Thinnest XRP Market Since 2020 – One Big Order Could Change Everything",
-        "link": "https://bitcoinist.com/the-thinnest-xrp-market-since-2020-one-big-order/",
+        "title": "XRP Shows Growing Upside Momentum Through The Whale Vs Retail Delta – What’s Next?",
+        "link": "https://bitcoinist.com/xrp-growing-upside-momentum/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 17:30:56 +0000",
-        "description": "XRP is struggling below $1.40 as selling pressure keeps the price pinned in a range that has resisted every recovery attempt in recent sessions. The market is cautious and the direction is unclear — b"
+        "published": "Tue, 26 May 2026 17:30:08 +0000",
+        "description": "XRP is still capped by ongoing volatility in the market, limiting its price below the $1.40 level, but its market dynamics are beginning to experience a crucial change. This shift in dynamics is curre"
       },
       {
-        "title": "Ripple Doesn’t Move Randomly: The Strategic Moves Behind XRP’s Domination",
-        "link": "https://bitcoinist.com/ripple-doesnt-move-randomly/",
+        "title": "GSR Research Says Ethereum’s Identity Crisis Is Deepening",
+        "link": "https://bitcoinist.com/gsr-research-ethereum-identity-crisis/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 16:00:03 +0000",
-        "description": "Crypto pundit BankXRP has highlighted that Ripple’s recent investment is strategic and boosts XRP’s utility as a cross-border payment asset. This comes as Ripple continues to expand its operations, wi"
+        "published": "Tue, 26 May 2026 16:00:25 +0000",
+        "description": "Ethereum is facing one of its most uncomfortable periods in recent memory, with GSR Research’s Carlos Guzman arguing that leadership turnover, weak ETH performance and a sharpening debate over the Eth"
       },
       {
-        "title": "Crypto Payments Go Autonomous As AI Agents Execute 176M Transactions",
-        "link": "https://bitcoinist.com/crypto-payments-go-autonomous-as-ai-agents-execute-176m-transactions/",
+        "title": "XRP ETFs Are Going Crazy In May As Outflows Die Down",
+        "link": "https://bitcoinist.com/xrp-etfs-are-going-crazy/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 14:30:13 +0000",
-        "description": "The entire machine-payment ecosystem now runs almost entirely on a single stablecoin. More than 98% of all settlements made by AI agents in the past year were processed in Circle&#8217;s USDC, accordi"
+        "published": "Tue, 26 May 2026 14:30:23 +0000",
+        "description": "The XRP ETFs continue to see significant demand despite the current bear market conditions, with XRP on the decline. These funds are also outperforming the Bitcoin and Ethereum ETFs, which are seeing "
       },
       {
-        "title": "Ethereum Market Structure Is Sending A Confusing Signal: Hidden Sellers Are In Control",
-        "link": "https://bitcoinist.com/ethereum-market-structure-sending-confusing-signal/",
+        "title": "OKX Pushes Crypto Innovation Further With Market-Building Tool",
+        "link": "https://bitcoinist.com/okx-pushes-crypto-innovation-further-with-market-building-tool/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 13:00:56 +0000",
-        "description": "Ethereum is struggling to stay above $2,100 as the market shows indecision that has left bulls and bears in a standoff without a clear resolution. A brief recovery arrived when President Trump stated "
+        "published": "Tue, 26 May 2026 13:00:50 +0000",
+        "description": "OKX says its new platform can handle up to 300,000 transactions per second, running at millisecond-level speed — a technical benchmark the company set out as it launched Exchange OS on Tuesday. Relate"
       },
       {
-        "title": "Eric Trump Sets A “Beyond Catastrophic” Bar To Sell Bitcoin — How Far Are We From That?",
-        "link": "https://bitcoinist.com/eric-trump-says-catastrophic-bar-to-sell-bitcoin/",
+        "title": "2 Years After Being Pushed Out, Binance Has A Plan To Return To The Philippines",
+        "link": "https://bitcoinist.com/2-years-pushed-out-binance-has-a-plan-philippines/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 12:40:57 +0000",
-        "description": "Eric Trump, co-founder and Chief Strategy Officer of American Bitcoin Corp., has revealed the conditions under which he would sell Bitcoin — and the threshold he has set is so extreme it amounts to a "
+        "published": "Tue, 26 May 2026 12:00:25 +0000",
+        "description": "Binance, the world&#8217;s largest cryptocurrency exchange by trading volume, announced on May 26 a formal partnership with BlockShoals Technologies — a Philippine-based fintech infrastructure firm — "
       },
       {
-        "title": "New York Lawsuit Takes Aim At 3.79 Million Dormant Bitcoin",
-        "link": "https://bitcoinist.com/new-york-lawsuit-3-79-million-dormant-bitcoin/",
+        "title": "Hoskinson Says This Cardano App Could Become Crypto’s Most-Used By 2030",
+        "link": "https://bitcoinist.com/hoskinson-cardano-app-crypto-most-used-2030/",
         "source": "Bitcoinist",
-        "published": "Mon, 25 May 2026 11:30:01 +0000",
-        "description": "A New York lawsuit is seeking a court declaration over tens of thousands of long-dormant Bitcoin addresses that one outside analysis says collectively hold about 3.79 million BTC. The case, brought by"
+        "published": "Tue, 26 May 2026 11:30:05 +0000",
+        "description": "Charles Hoskinson said Midnight.city, the interactive simulation tied to Cardano’s privacy-focused Midnight ecosystem, is preparing for a new beta-testing phase that he believes could put it on a path"
       }
     ],
     "Markets": [
       {
-        "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
-        "link": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
+        "title": "SpaceX just won a $2 billion contract to make satellites for the Space Force",
+        "link": "https://www.marketwatch.com/story/spacex-just-won-a-2-billion-contract-to-make-satellites-for-the-space-force-f4733f10?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 24 May 2026 22:23:00 GMT",
-        "description": "The U.S. stock market has arrived at the unofficial start to summer with major benchmarks sitting at record highs. But a few factors could make for a bumpy ride in the months ahead."
+        "published": "Tue, 26 May 2026 21:42:00 GMT",
+        "description": "The U.S. Space Force on Tuesday awarded SpaceX a new, pricy satellite contract, further tying the company to its biggest customer."
       },
       {
-        "title": "These underdogs are a big reason S&P 500 profit growth is the fastest in nearly 5 years",
-        "link": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+        "title": "Gen Z demands bigger bargains — driving gains for discounters like Walmart and Ross",
+        "link": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 19:50:00 GMT",
-        "description": "Ever since Big Tech went all in on artificial intelligence more than three years ago, seven companies have done the heavy lifting for overall S&P 500 earnings growth. But more recently, the other 493 "
+        "published": "Tue, 26 May 2026 21:35:00 GMT",
+        "description": "As seemingly everything gets more expensive, younger consumers are increasingly driving growth for the nation’s biggest discount retailers."
       },
       {
-        "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
-        "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+        "title": "The bond market has been rocked by a violent selloff. Here’s how to play it.",
+        "link": "https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 19:40:00 GMT",
-        "description": "The U.S. appears close to reaching an agreement that would end the war with Iran and reopen the strategic Strait of Hormuz, according to reports Sunday, sending oil prices sharply lower."
+        "published": "Tue, 26 May 2026 21:04:00 GMT",
+        "description": "The bond market is tied up in knots about the Iran war and inflation, as well as what the Federal Reserve under new chair Kevin Warsh might do about it."
       },
       {
-        "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
-        "link": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+        "title": "Why double-digit earnings growth won’t stop the next bear market",
+        "link": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 18:30:00 GMT",
-        "description": "“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax.”"
+        "published": "Tue, 26 May 2026 21:01:00 GMT",
+        "description": "Spiking S&P 500 profits often signal the final innings of a bull market. History says stocks are on thin ice."
       },
       {
-        "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
-        "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
+        "title": "Micron’s stock reaches a major milestone as UBS slaps on an out-of-sight price target",
+        "link": "https://www.marketwatch.com/story/microns-stock-soars-as-ubs-slaps-on-an-out-of-sight-price-target-77e75b8e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 17:45:00 GMT",
-        "description": "“The sister claims she does not have to explain herself to anyone.”"
+        "published": "Tue, 26 May 2026 20:46:00 GMT",
+        "description": "Strong memory chip demand is leading to “enhanced” long term agreements that should benefit Micron’s stock and earnings power, UBS says."
       },
       {
-        "title": "Is the stock market open today? Does the post office deliver mail on Memorial Day?",
-        "link": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
+        "title": "Happy birthday, Dow! Being 130 years old doesn’t make it too antiquated to follow.",
+        "link": "https://www.marketwatch.com/story/happy-birthday-dow-being-130-years-old-doesnt-make-it-too-antiquated-to-follow-52f921b0?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 15:49:00 GMT",
-        "description": "The holiday weekend will affect the stock and bond market. Here’s what you need to know."
+        "published": "Tue, 26 May 2026 20:30:00 GMT",
+        "description": "The Dow turns 130 years old, and despite its recent underperformance, it still remains relevant to most investors."
       },
       {
-        "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-        "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+        "title": "This new quantum stock could debut with a valuation of nearly $13 billion",
+        "link": "https://www.marketwatch.com/story/this-new-quantum-stock-could-debut-with-a-valuation-of-nearly-13-billion-9593b4e4?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 14:16:00 GMT",
-        "description": "“We plan to sell it to another family member for the appraised value.”"
+        "published": "Tue, 26 May 2026 20:20:00 GMT",
+        "description": "Quantinuum sets terms for its IPO, in which the quantum computing company looks to raise up to $1 billion."
       },
       {
-        "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
-        "link": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
+        "title": "My student loans are paused until 2028. Should I pay them now anyway?",
+        "link": "https://www.marketwatch.com/story/my-student-loans-are-paused-until-2028-should-i-pay-them-now-anyway-136fe97e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 13:45:00 GMT",
-        "description": "“I haven’t bought or sold property since the National Association of Realtors ruling that decoupled buyer’s and seller’s agent commissions.”"
+        "published": "Tue, 26 May 2026 19:52:00 GMT",
+        "description": "Plus: What’s going on with ‘grade inflation’?"
       },
       {
-        "title": "Mastercard’s stock is up 11,000% since its IPO 20 years ago. What comes next?",
-        "link": "https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories",
+        "title": "‘I feel like I’m living a lie’: My husband and I pretend we’re strapped for cash in front of friends. Is that bad?",
+        "link": "https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 13:30:00 GMT",
-        "description": "Mastercard is in an elite club. Among S&P 500 components, only Nvidia and Apple shares have performed better over the two-decade span since the card company’s IPO."
+        "published": "Tue, 26 May 2026 18:58:00 GMT",
+        "description": "“I’ve found that acting ‘normal’ means others treat me like one of the group.”"
       },
       {
-        "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-        "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+        "title": "Americans feel worse than ever, a consumer survey shows. The White House says that’s bunk. Who’s right?",
+        "link": "https://www.marketwatch.com/story/americans-feel-worse-than-ever-a-consumer-survey-shows-the-white-house-says-thats-bunk-whos-right-4f4f1406?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 25 May 2026 10:40:00 GMT",
-        "description": "“Others say she should start at full retirement age.”"
+        "published": "Tue, 26 May 2026 18:48:00 GMT",
+        "description": "Are Americans really feeling worse than ever about their financial well-being? A long-running survey of consumers suggests the answer is yes, drawing a sharp rebuke President Trump’s right-hand man on"
       }
     ],
     "Singapore": [
       {
-        "title": "Israel steps up Lebanon strikes as Netanyahu escalates offensive",
-        "link": "https://www.channelnewsasia.com/world/israeli-strikes-netanyahu-lebanon-hezbollah-6141086",
+        "title": "SpaceX set for fast entry into US, global indexes under new FTSE rules",
+        "link": "https://www.channelnewsasia.com/business/spacex-set-fast-entry-us-global-indexes-under-new-ftse-rules-6143421",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 04:54:00 +0800",
-        "description": "Dozens of strikes hit southern Lebanon and the Bekaa Valley, killing at least three people, after Israeli Prime Minister Benjamin Netanyahu vowed to “crush” Hezbollah despite an April ceasefire."
-      },
-      {
-        "title": "Parts of Europe swelter in record May heat as deaths at amateur sports events spur warnings",
-        "link": "https://www.channelnewsasia.com/world/heatwave-record-may-day-europe-france-uk-6141061",
-        "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 03:45:00 +0800",
-        "description": "The UK recorded its hottest May day on record, while French officials linked the extreme temperatures to multiple medical emergencies during weekend races."
-      },
-      {
-        "title": "Guardiola farewell turns City parade into celebration tinged with heartache",
-        "link": "https://www.channelnewsasia.com/sport/guardiola-farewell-turns-city-parade-celebration-tinged-heartache-6141066",
-        "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 03:42:36 +0800",
+        "published": "Wed, 27 May 2026 05:41:18 +0800",
         "description": ""
       },
       {
-        "title": "Jamaica striker Shaw signs new four-year contract with Man City women",
-        "link": "https://www.channelnewsasia.com/sport/jamaica-striker-shaw-signs-new-four-year-contract-man-city-women-6141051",
+        "title": "Peace deal hopes boost Wall Street stocks despite latest US strikes",
+        "link": "https://www.channelnewsasia.com/world/stocks-oil-wall-street-iran-us-deal-6143331",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 03:27:28 +0800",
+        "published": "Wed, 27 May 2026 05:29:00 +0800",
+        "description": "Wall Street stocks mostly rose to record highs on hopes of a potential US-Iran peace deal, despite renewed military tensions in the Middle East."
+      },
+      {
+        "title": "Sinner eases into French Open second round",
+        "link": "https://www.channelnewsasia.com/sport/sinner-eases-french-open-second-round-6143391",
+        "source": "CNA Singapore",
+        "published": "Wed, 27 May 2026 05:13:32 +0800",
         "description": ""
       },
       {
-        "title": "Rodriguez, Diaz headline Colombia World Cup squad",
-        "link": "https://www.channelnewsasia.com/sport/rodriguez-diaz-headline-colombia-world-cup-squad-6141046",
+        "title": "US Space Force awards SpaceX $2.29 billion contract for military space data network",
+        "link": "https://www.channelnewsasia.com/business/us-space-force-awards-spacex-229-billion-contract-military-space-data-network-6143371",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 03:19:23 +0800",
+        "published": "Wed, 27 May 2026 05:12:50 +0800",
         "description": ""
       },
       {
-        "title": "Football success did not drive decisions, says Spurs chief",
-        "link": "https://www.channelnewsasia.com/sport/football-success-did-not-drive-decisions-says-spurs-chief-6141011",
+        "title": "Pegula crashes out of French Open in first round",
+        "link": "https://www.channelnewsasia.com/sport/pegula-crashes-out-french-open-in-first-round-6143376",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 02:29:06 +0800",
+        "published": "Wed, 27 May 2026 05:11:59 +0800",
         "description": ""
       },
       {
-        "title": "Swiatek cruises, Wawrinka concludes French Open chapter with loss",
-        "link": "https://www.channelnewsasia.com/sport/swiatek-cruises-wawrinka-concludes-french-open-chapter-loss-6140996",
+        "title": "Osaka embracing role as entertainer after another grand walk-on",
+        "link": "https://www.channelnewsasia.com/sport/osaka-embracing-role-entertainer-after-another-grand-walk-6143341",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 02:02:07 +0800",
+        "published": "Wed, 27 May 2026 05:00:58 +0800",
         "description": ""
       },
       {
-        "title": "EU plans to fine Google high triple-digit million euro sum, Handelsblatt reports",
-        "link": "https://www.channelnewsasia.com/business/eu-plans-fine-google-high-triple-digit-million-euro-sum-handelsblatt-reports-6140991",
+        "title": "Pulisic and Adams lead US 26-man World Cup squad",
+        "link": "https://www.channelnewsasia.com/sport/pulisic-and-adams-lead-us-26-man-world-cup-squad-6143321",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 01:59:21 +0800",
+        "published": "Wed, 27 May 2026 04:54:33 +0800",
         "description": ""
       },
       {
-        "title": "Philippines ends rescue operation for 12 missing in building collapse",
-        "link": "https://www.channelnewsasia.com/world/philippines-ends-rescue-operation-12-missing-in-building-collapse-6140971",
+        "title": "Republican attorneys general split with House party members over US social media bill",
+        "link": "https://www.channelnewsasia.com/business/republican-attorneys-general-split-house-party-members-over-us-social-media-bill-6143296",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 01:46:00 +0800",
-        "description": "Rescue teams ended operations after a building collapse in Angeles City killed at least four people and left 12 people believed to be trapped in the debris."
+        "published": "Wed, 27 May 2026 04:23:54 +0800",
+        "description": ""
       },
       {
-        "title": "Davies likely to miss Canada's World Cup opener with injury, says coach",
-        "link": "https://www.channelnewsasia.com/sport/davies-likely-miss-canadas-world-cup-opener-injury-says-coach-6140966",
+        "title": "A rare public trial opens in Paris child abuse case as parents seek a national wake-up call",
+        "link": "https://www.channelnewsasia.com/world/rare-public-trial-opens-in-paris-child-abuse-case-parents-seek-national-wake-up-call-6143251",
         "source": "CNA Singapore",
-        "published": "Tue, 26 May 2026 01:21:15 +0800",
-        "description": ""
+        "published": "Wed, 27 May 2026 04:16:00 +0800",
+        "description": "“There needs to be a national wake-up call at some point,\" Barka Zerouali, co-founder of the parents’ group MeToo Ecole, said outside the courthouse during a protest."
+      },
+      {
+        "title": "Israel says targeted new Hamas armed wing chief in Gaza strike",
+        "link": "https://www.channelnewsasia.com/world/israel-says-targeted-new-hamas-armed-wing-chief-in-gaza-strike-6143211",
+        "source": "CNA Singapore",
+        "published": "Wed, 27 May 2026 03:30:55 +0800",
+        "description": "“Under the direction of Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz, the IDF has just carried out a strike in Gaza targeting Mohammed Odeh,\" a joint statement said."
       }
     ],
     "US Politics": [
       {
-        "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
-        "link": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
+        "title": "Labour has 'no coherent plan' for country, says Blair",
+        "link": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sun, 24 May 2026 21:30:13 GMT",
-        "description": "Pilots on board had to use a different navigation system while the plane's GPS was disabled."
+        "published": "Tue, 26 May 2026 21:00:44 GMT",
+        "description": "The ex-Labour PM says Sir Keir Starmer's government is in the \"wrong position\" ahead of the next election."
       },
       {
-        "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
-        "link": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
+        "title": "Yusuf in clash with Jenrick over Reform deportation policy",
+        "link": "https://www.bbc.com/news/articles/cx211m18gy7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sun, 24 May 2026 13:31:09 GMT",
-        "description": "Responding to the interview, Sir Keir Starmer said it was “an appalling case” and that it was right that the sentences are reviewed."
+        "published": "Tue, 26 May 2026 17:38:26 GMT",
+        "description": "Reform's home affairs chief has publicly disagreed with its Treasury spokesman over what party policy is."
       },
       {
-        "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-        "link": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+        "title": "John Swinney denies 'sweeping Murrell scandal under carpet'",
+        "link": "https://www.bbc.com/news/articles/c9wee4vjwqqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sun, 24 May 2026 10:21:58 GMT",
-        "description": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn."
+        "published": "Tue, 26 May 2026 17:12:06 GMT",
+        "description": "Opposition MSPs have criticised the first minister and ex-SNP leader Nicola Sturgeon following Peter Murrell's guilty plea."
       },
       {
-        "title": "Scrap tax on overtime hours, says Reform UK",
-        "link": "https://www.bbc.com/news/articles/cn7p1ee447xo?at_medium=RSS&at_campaign=rss",
+        "title": "Scottish Parliament endorses SNP call for independence referendum",
+        "link": "https://www.bbc.com/news/articles/c5y77gp9elyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 23 May 2026 19:29:40 GMT",
-        "description": "The party says its proposed policy would cost £5bn a year and could be paid for through cuts to welfare."
+        "published": "Tue, 26 May 2026 17:10:16 GMT",
+        "description": "The demand was the Scottish government's first item of business in the new parliament."
       },
       {
-        "title": "Starmer urges TNT to make Champions League final free-to-air",
-        "link": "https://www.bbc.com/sport/football/articles/clypgywjwywo?at_medium=RSS&at_campaign=rss",
+        "title": "Almost 1,000 migrants cross Channel over bank holiday",
+        "link": "https://www.bbc.com/news/articles/cy422k3z83vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 23 May 2026 16:00:30 GMT",
-        "description": "UK Prime Minister Sir Keir Starmer calls on TNT Sports to make next Saturday's Champions League final between Arsenal and Paris St-Germain free-to-air."
+        "published": "Tue, 26 May 2026 16:39:41 GMT",
+        "description": "A total of 989 people arrived in the UK in 14 boats between Friday and Monday."
       },
       {
-        "title": "Education secretary to ask competition watchdog to review hidden childcare costs",
-        "link": "https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss",
+        "title": "Starmer vows to act on social media after meeting bereaved parents",
+        "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 25 May 2026 14:36:18 GMT",
-        "description": "Bridget Phillipson will ask the competition watchdog to examine costs that families are still facing in government-funded childcare."
+        "published": "Tue, 26 May 2026 16:29:53 GMT",
+        "description": "Some parents believe whether the government will take strong enough action remains to be seen."
       },
       {
-        "title": "Former SNP chief executive Peter Murrell in custody after admitting £400,000 embezzlement",
-        "link": "https://www.bbc.com/news/articles/c4g4q7yl3kno?at_medium=RSS&at_campaign=rss",
+        "title": "Wales won't ban mobile phones in schools, first minister says",
+        "link": "https://www.bbc.com/news/articles/c0722y98x57o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 25 May 2026 13:08:21 GMT",
-        "description": "The estranged husband of former Scotland first minister Nicola Sturgeon is remanded in custody after pleading guilty."
+        "published": "Tue, 26 May 2026 14:51:16 GMT",
+        "description": "Rhun ap Iorwerth said schools would be empowered to make their own decisions, with a ban expected for England."
       },
       {
-        "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
-        "link": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss",
+        "title": "Sentences of boys spared custody over rape referred to Court of Appeal",
+        "link": "https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 25 May 2026 10:14:43 GMT",
-        "description": "The prime minister said it was \"right\" that the sentences were being urgently reviewed."
+        "published": "Tue, 26 May 2026 13:03:36 GMT",
+        "description": "The sentences of boys spared custody over the rape of two girls in Hampshire will be referred to the Court of Appeal, the prime minister has said."
       },
       {
-        "title": "UK net migration needs to fall further, says Andy Burnham",
-        "link": "https://www.bbc.com/news/articles/cjdp9zjdj0mo?at_medium=RSS&at_campaign=rss",
+        "title": "Man who appeared to do Nazi salute becomes adviser to Reform's Welsh leader",
+        "link": "https://www.bbc.com/news/articles/c74rrr9lmm3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 22 May 2026 15:11:26 GMT",
-        "description": "Labour's candidate for Makerfield also said government immigration reforms must \"get the balance right\"."
+        "published": "Tue, 26 May 2026 12:42:29 GMT",
+        "description": "Corey Edwards quit as a Senedd candidate after a picture of him emerged appearing to do the salute."
       },
       {
-        "title": "Green MP Carla Denyer to take leave of absence due to 'burnout'",
-        "link": "https://www.bbc.com/news/articles/cvgzk63lym8o?at_medium=RSS&at_campaign=rss",
+        "title": "Greens announce Makerfield by-election candidate",
+        "link": "https://www.bbc.com/news/articles/c98rrg7jdn3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 22 May 2026 11:26:12 GMT",
-        "description": "Carla Denyer said she was taking \"several weeks\" off to recover from burnout"
+        "published": "Tue, 26 May 2026 07:44:49 GMT",
+        "description": "Sarah Wakefield has been selected as the party's candidate for the 18 June poll."
       }
     ],
-    "Science": [
-      {
-        "title": "Surprising research reveals why you shouldn't add bananas to your smoothies",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
-        "source": "Science Daily",
-        "published": "Sun, 24 May 2026 08:48:32 EDT",
-        "description": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can c"
-      },
-      {
-        "title": "Scientists “recharge” damaged nerves to ease chronic pain",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
-        "source": "Science Daily",
-        "published": "Sun, 24 May 2026 07:51:53 EDT",
-        "description": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University fou"
-      },
-      {
-        "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
-        "source": "Science Daily",
-        "published": "Sun, 24 May 2026 01:40:19 EDT",
-        "description": "A newly identified brain protein may play a major role in how the body ages. Researchers discovered that declining levels of Menin in the hypothalamus triggered inflammation, memory problems, bone los"
-      },
-      {
-        "title": "Scientists discover why Ozempic and Wegovy weight loss eventually plateaus",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260525000453.htm",
-        "source": "Science Daily",
-        "published": "Mon, 25 May 2026 09:39:26 EDT",
-        "description": "New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. "
-      },
-      {
-        "title": "This prehistoric fish may explain how animals first walked on Earth",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
-        "source": "Science Daily",
-        "published": "Mon, 25 May 2026 09:30:01 EDT",
-        "description": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move"
-      },
-      {
-        "title": "100-million-year-old bug had crab-like claws unlike any known insect",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260525000457.htm",
-        "source": "Science Daily",
-        "published": "Mon, 25 May 2026 08:53:59 EDT",
-        "description": "Deep inside 100-million-year-old amber from Myanmar, scientists uncovered a bizarre ancient bug with clawed front legs that look more like a crab’s pincers than anything seen in modern insects. The di"
-      },
-      {
-        "title": "Common heart drug taken by millions found useless — and possibly dangerous",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260524021151.htm",
-        "source": "Science Daily",
-        "published": "Mon, 25 May 2026 08:36:20 EDT",
-        "description": "A massive international study could upend 40 years of heart attack treatment. Researchers found that beta blockers—routinely prescribed after uncomplicated heart attacks—offered no real benefit for pa"
-      },
-      {
-        "title": "AI won’t replace you but someone using AI might",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260525000448.htm",
-        "source": "Science Daily",
-        "published": "Mon, 25 May 2026 07:21:14 EDT",
-        "description": "Generative AI is transforming the workplace faster than ever, but new research from the University of Vaasa suggests the biggest threat may not be AI itself — it’s falling behind in learning how to us"
-      },
-      {
-        "title": "Adorable tiny blue octopus found nearly 6,000 feet beneath the Galápagos",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260525000446.htm",
-        "source": "Science Daily",
-        "published": "Mon, 25 May 2026 02:17:15 EDT",
-        "description": "A mysterious little blue octopus discovered nearly 6,000 feet beneath the waters of the Galápagos Islands has officially been identified as a brand-new species. About the size of a golf ball, the tiny"
-      },
-      {
-        "title": "Beet juice lowers blood pressure in older adults in just 2 weeks",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260524021154.htm",
-        "source": "Science Daily",
-        "published": "Mon, 25 May 2026 01:01:09 EDT",
-        "description": "Drinking nitrate-rich beetroot juice may do more than support heart health — it could actually reshape the bacteria living in the mouth in ways that help lower blood pressure in older adults. In the l"
-      }
-    ]
+    "Science": []
   },
   "charts": {
     "world_indices": "world-indices.html",
@@ -571,74 +500,74 @@
   },
   "top10": [
     {
-      "title": "Israel steps up Lebanon strikes as Netanyahu escalates offensive",
-      "link": "https://www.channelnewsasia.com/world/israeli-strikes-netanyahu-lebanon-hezbollah-6141086",
-      "source": "CNA Singapore",
-      "published": "Tue, 26 May 2026 04:54:00 +0800",
-      "description": "Dozens of strikes hit southern Lebanon and the Bekaa Valley, killing at least three people, after Israeli Prime Minister Benjamin Netanyahu vowed to “crush” Hezbollah despite an April ceasefire."
-    },
-    {
-      "title": "Oil prices fall 7% after Trump says Iran talks are 'proceeding nicely'",
-      "link": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
-      "source": "CNBC Finance",
-      "published": "Mon, 25 May 2026 20:53:21 GMT",
-      "description": "Trump had said an agreement with Iran to open the Strait of Hormuz, among other issues, was largely negotiated and would be announced soon."
-    },
-    {
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Mon, 25 May 2026 20:40:15 GMT",
-      "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes."
-    },
-    {
-      "title": "How To Play The Bitcoin 4-Year Cycle For The Most Gains In The Bull Market",
-      "link": "https://bitcoinist.com/the-bitcoin-4-year-cycle/",
-      "source": "Bitcoinist",
-      "published": "Mon, 25 May 2026 20:30:03 +0000",
-      "description": "A crypto analyst is raising questions over whether the famous four-year cycle theory that has governed Bitcoin’s (BTC) market trajectory in the past is now dead. The expert has shared BTC’s price move"
-    },
-    {
-      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Mon, 25 May 2026 20:11:59 GMT",
-      "description": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year."
-    },
-    {
-      "title": "These underdogs are a big reason S&P 500 profit growth is the fastest in nearly 5 years",
-      "link": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+      "title": "SpaceX just won a $2 billion contract to make satellites for the Space Force",
+      "link": "https://www.marketwatch.com/story/spacex-just-won-a-2-billion-contract-to-make-satellites-for-the-space-force-f4733f10?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Mon, 25 May 2026 19:50:00 GMT",
-      "description": "Ever since Big Tech went all in on artificial intelligence more than three years ago, seven companies have done the heavy lifting for overall S&P 500 earnings growth. But more recently, the other 493 "
+      "published": "Tue, 26 May 2026 21:42:00 GMT",
+      "description": "The U.S. Space Force on Tuesday awarded SpaceX a new, pricy satellite contract, further tying the company to its biggest customer."
     },
     {
-      "title": "Parts of Europe swelter in record May heat as deaths at amateur sports events spur warnings",
-      "link": "https://www.channelnewsasia.com/world/heatwave-record-may-day-europe-france-uk-6141061",
+      "title": "SpaceX set for fast entry into US, global indexes under new FTSE rules",
+      "link": "https://www.channelnewsasia.com/business/spacex-set-fast-entry-us-global-indexes-under-new-ftse-rules-6143421",
       "source": "CNA Singapore",
-      "published": "Tue, 26 May 2026 03:45:00 +0800",
-      "description": "The UK recorded its hottest May day on record, while French officials linked the extreme temperatures to multiple medical emergencies during weekend races."
-    },
-    {
-      "title": "Guardiola farewell turns City parade into celebration tinged with heartache",
-      "link": "https://www.channelnewsasia.com/sport/guardiola-farewell-turns-city-parade-celebration-tinged-heartache-6141066",
-      "source": "CNA Singapore",
-      "published": "Tue, 26 May 2026 03:42:36 +0800",
+      "published": "Wed, 27 May 2026 05:41:18 +0800",
       "description": ""
     },
     {
-      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
-      "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+      "title": "Gen Z demands bigger bargains — driving gains for discounters like Walmart and Ross",
+      "link": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Mon, 25 May 2026 19:40:00 GMT",
-      "description": "The U.S. appears close to reaching an agreement that would end the war with Iran and reopen the strategic Strait of Hormuz, according to reports Sunday, sending oil prices sharply lower."
+      "published": "Tue, 26 May 2026 21:35:00 GMT",
+      "description": "As seemingly everything gets more expensive, younger consumers are increasingly driving growth for the nation’s biggest discount retailers."
     },
     {
-      "title": "'Blistering heat' in Delhi as temperatures reach 45C",
-      "link": "https://www.bbc.com/news/videos/c4g002jvv8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Mon, 25 May 2026 19:36:00 GMT",
-      "description": "The BBC's Sumedha Pal describes how difficult it is to be standing in the streets of Delhi as temperatures rise to 45C ."
+      "title": "Peace deal hopes boost Wall Street stocks despite latest US strikes",
+      "link": "https://www.channelnewsasia.com/world/stocks-oil-wall-street-iran-us-deal-6143331",
+      "source": "CNA Singapore",
+      "published": "Wed, 27 May 2026 05:29:00 +0800",
+      "description": "Wall Street stocks mostly rose to record highs on hopes of a potential US-Iran peace deal, despite renewed military tensions in the Middle East."
+    },
+    {
+      "title": "Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front",
+      "link": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html",
+      "source": "CNBC Finance",
+      "published": "Tue, 26 May 2026 21:18:58 GMT",
+      "description": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies."
+    },
+    {
+      "title": "Sinner eases into French Open second round",
+      "link": "https://www.channelnewsasia.com/sport/sinner-eases-french-open-second-round-6143391",
+      "source": "CNA Singapore",
+      "published": "Wed, 27 May 2026 05:13:32 +0800",
+      "description": ""
+    },
+    {
+      "title": "US Space Force awards SpaceX $2.29 billion contract for military space data network",
+      "link": "https://www.channelnewsasia.com/business/us-space-force-awards-spacex-229-billion-contract-military-space-data-network-6143371",
+      "source": "CNA Singapore",
+      "published": "Wed, 27 May 2026 05:12:50 +0800",
+      "description": ""
+    },
+    {
+      "title": "Pegula crashes out of French Open in first round",
+      "link": "https://www.channelnewsasia.com/sport/pegula-crashes-out-french-open-in-first-round-6143376",
+      "source": "CNA Singapore",
+      "published": "Wed, 27 May 2026 05:11:59 +0800",
+      "description": ""
+    },
+    {
+      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq",
+      "link": "https://www.cnbc.com/2026/05/26/spacex-tesla-merger-chatter-reignites-as-musk-rocket-company-nears-ipo.html",
+      "source": "CNBC Finance",
+      "published": "Tue, 26 May 2026 21:07:48 GMT",
+      "description": "With SpaceX headed for the public markets next month, industry experts and people close to Elon Musk are speculating about a potential tie-up with Tesla."
+    },
+    {
+      "title": "Trump cancels Camp David Cabinet trip, citing weather",
+      "link": "https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html",
+      "source": "CNBC Finance",
+      "published": "Tue, 26 May 2026 21:05:24 GMT",
+      "description": "Trump has rarely visited Camp David during either of his presidential terms, though he frequently spends time outside the White House at his own properties."
     }
   ]
 }
