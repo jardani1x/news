@@ -1,440 +1,426 @@
 {
-  "updated_sgt": "2026-06-05 05:43 SGT",
-  "updated_iso": "2026-06-05T05:43:16.210157+08:00",
+  "updated_sgt": "2026-06-06 05:27 SGT",
+  "updated_iso": "2026-06-06T05:27:19.808299+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
+        "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 19:53:51 GMT",
+        "description": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital."
+      },
+      {
+        "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 18:16:15 GMT",
+        "description": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks."
+      },
+      {
+        "title": "Norway's crown princess on lung transplant waiting list, palace says",
+        "link": "https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 17:11:01 GMT",
+        "description": "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says."
+      },
+      {
+        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 16:14:36 GMT",
+        "description": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard."
+      },
+      {
+        "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
+        "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 16:00:47 GMT",
+        "description": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities."
+      },
+      {
+        "title": "Three jailed over heist of ancient golden helmet from Dutch museum",
+        "link": "https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 15:41:28 GMT",
+        "description": "The men are sentenced to 47 months each for stealing the 2,500-year-old Romanian Coțofenești helmet."
+      },
+      {
+        "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+        "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 15:29:39 GMT",
+        "description": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories."
+      },
+      {
+        "title": "Fury in France after child murder suspect's criminal record released",
+        "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 11:32:51 GMT",
+        "description": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show."
+      },
+      {
+        "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
+        "link": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 05 Jun 2026 09:40:06 GMT",
+        "description": "Handy, 81, is known for his roles in films including Jumanji and Top Gun: Maverick."
+      },
       {
         "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
         "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 21:34:49 GMT",
+        "published": "Fri, 05 Jun 2026 05:44:44 GMT",
         "description": "Zeynab Javadli had not been in contact with any of her friends since Tuesday."
-      },
-      {
-        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-        "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 21:34:14 GMT",
-        "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran."
-      },
-      {
-        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-        "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 20:37:46 GMT",
-        "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks."
-      },
-      {
-        "title": "John Bolton expected to plead guilty in classified documents case, sources confirm",
-        "link": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 19:28:06 GMT",
-        "description": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said."
-      },
-      {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 17:50:20 GMT",
-        "description": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials."
-      },
-      {
-        "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
-        "link": "https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 17:48:36 GMT",
-        "description": "Police raided the suspects' homes after tip-offs from German and UK authorities."
-      },
-      {
-        "title": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
-        "link": "https://www.bbc.com/news/articles/cvgzgd2xe2zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 16:28:40 GMT",
-        "description": "The auction has already brought in thousands in bids and includes intimate items from her life."
-      },
-      {
-        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-        "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 14:46:36 GMT",
-        "description": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic."
-      },
-      {
-        "title": "Kushner-backed luxury resort plan sparks protests in Albania",
-        "link": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 14:33:21 GMT",
-        "description": "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment."
-      },
-      {
-        "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
-        "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 04 Jun 2026 13:29:05 GMT",
-        "description": "The French-Iranian author and illustrator was known for her graphic novel series and Oscar-nominated film."
       }
     ],
     "Finance": [
       {
-        "title": "Trump says Pulte won't be permanent national intelligence director",
-        "link": "https://www.cnbc.com/2026/06/04/pulte-intelligence-trump-dni-temporary.html",
+        "title": "Inside the $850 million Obama Presidential Center ahead of its Juneteenth opening",
+        "link": "https://www.cnbc.com/2026/06/04/barack-obama-presidential-library-opening-chicago.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 21:35:59 GMT",
-        "description": "Trump's comment came two days after he tapped Bill Pulte, who leads the Federal Housing Finance Agency, as acting DNI to replace Tulsi Gabbard."
+        "published": "Thu, 04 Jun 2026 17:01:55 GMT",
+        "description": "President Obama's library will cost $30 to visit, making it the most expensive presidential museum or library in modern history."
       },
       {
-        "title": "Trump says he could meet Iran's supreme leader 'if it was to make a deal'",
-        "link": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
+        "title": "Trump wants Bill Pulte to fire big chunk of national intelligence office staff: WSJ",
+        "link": "https://www.cnbc.com/2026/06/05/trump-bill-pulte-fire-intelligence-dni.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 21:14:21 GMT",
-        "description": "Khamenei was named the supreme leader in Iran after his father, Ayatollah Ali Khamenei, was killed on the first day of fighting."
+        "published": "Fri, 05 Jun 2026 21:26:16 GMT",
+        "description": "President Trump's comments are sure to roil members of Congress who criticized the appointment of Bill Pulte as acting national intelligence director."
       },
       {
-        "title": "Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches",
-        "link": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html",
+        "title": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+        "link": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 20:59:10 GMT",
-        "description": "Lululemon is expecting its situation to get a lot worse before it gets better, as it issued weak guidance for the full year."
+        "published": "Fri, 05 Jun 2026 21:12:29 GMT",
+        "description": "OpenAI CEO Sam Altman first shared the idea with the Trump administration in 2025, according to a source."
       },
       {
-        "title": "Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz",
-        "link": "https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html",
+        "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+        "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 20:52:54 GMT",
-        "description": "Clashes erupted between the U.S. and Iran over commercial ships earlier this week."
+        "published": "Fri, 05 Jun 2026 21:01:53 GMT",
+        "description": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months."
       },
       {
-        "title": "Quantinuum closes flat in Nasdaq debut, after upsized offering",
-        "link": "https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html",
+        "title": "Bitcoin cracks $60,000, sinking to lowest level since October 2024",
+        "link": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 20:22:22 GMT",
-        "description": "Honeywell will retain a majority stake in Quantinuum and will continue to be a strategic customer and partner following the listing."
+        "published": "Fri, 05 Jun 2026 20:59:16 GMT",
+        "description": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets."
       },
       {
-        "title": "Oil prices fall 3% on report Trump reluctant to restart Iran war",
-        "link": "https://www.cnbc.com/2026/06/04/oil-price-today-iran-war-hormuz-trump-israel-lebanon.html",
+        "title": "Mythos rejuvenated the cybersecurity sector. Earnings put the recent rally to the test",
+        "link": "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 19:25:55 GMT",
-        "description": "President Donald Trump told aides that he won't resume the war unless U.S. troops are killed, according to The Wall Street Journal."
+        "published": "Fri, 05 Jun 2026 20:25:09 GMT",
+        "description": "Mythos gave the cybersecurity sector a boost, but upbeat earnings weren't enough for investors in search of an AI payoff."
       },
       {
-        "title": "Flesh-eating screwworm is confirmed in the U.S., officials say",
-        "link": "https://www.cnbc.com/2026/06/04/flesh-eating-screwworm-is-confirmed-in-the-us-officials-say.html",
+        "title": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push",
+        "link": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 17:46:22 GMT",
-        "description": "The USDA and Texas officials are working to contain New World screwworm from Zavala County, including establishing an infested zone and enforcing quarantine."
+        "published": "Fri, 05 Jun 2026 20:22:44 GMT",
+        "description": "Meta shares dropped after the Financial Times reported the company could potentially raise tens of billions of dollars in a stock offering to help its AI push."
       },
       {
-        "title": "Blackstone restricts flagship fund withdrawals as private asset fears reemerge",
-        "link": "https://www.cnbc.com/2026/06/04/blackstone-caps-withdrawals-private-credit.html",
+        "title": "Iran's threats against this Red Sea chokepoint are a big vulnerability for the oil market",
+        "link": "https://www.cnbc.com/2026/06/05/iran-war-oil-price-strait-hormuz-bab-el-mandeb-chokepoint.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 15:07:22 GMT",
-        "description": "Blackstone capped withdrawals from its $79 billion BCRED fund after redemption requests rose from 7.9% to 10%, adding to private market liquidity concerns."
+        "published": "Fri, 05 Jun 2026 19:55:00 GMT",
+        "description": "Oil prices would spike if Iran's Houthi allies started attacking ships passing through the Bab el-Mandeb Strait."
       },
       {
-        "title": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO",
-        "link": "https://www.cnbc.com/2026/06/03/elon-musks-net-worth-poised-to-sail-past-1-trillion-in-spacex-ipo.html",
+        "title": "Crypto mutiny on Strategy: Shorts target 'MSTR' in bitcoin bloodbath",
+        "link": "https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 13:16:08 GMT",
-        "description": "Based on SpaceX's updated IPO prospectus, Elon Musk owns shares in the company worth more than $866 billion."
+        "published": "Fri, 05 Jun 2026 18:14:15 GMT",
+        "description": "Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week."
       },
       {
-        "title": "Eli Manning weighs in on Giants QB Jaxson Dart's Trump rally fallout",
-        "link": "https://www.cnbc.com/2026/06/04/eli-manning-giants-jaxson-dart-trump.html",
+        "title": "Warren Buffett disciple Guy Spier built career on value investing. A rare cancer changed everything",
+        "link": "https://www.cnbc.com/2026/06/05/warren-buffett-disciple-guy-spiers-rare-cancer-made-him-revalue-everything.html",
         "source": "CNBC Finance",
-        "published": "Thu, 04 Jun 2026 11:10:15 GMT",
-        "description": "Eli Manning spoke about political activities from athletes after Giants QB Jaxson Dart introduced President Donald Trump at a rally."
+        "published": "Fri, 05 Jun 2026 10:55:02 GMT",
+        "description": "After a glioblastoma diagnosis, value investor Guy Spier rethought wealth, time and legacy — and the impact he can have on rare disease research."
       }
     ],
     "Technology": [
       {
-        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-        "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+        "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 21:30:00 +0000",
-        "description": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo. Investors, founders, and tech leaders will gather for"
+        "published": "Fri, 05 Jun 2026 20:31:04 +0000",
+        "description": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s, which a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering up."
       },
       {
-        "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
-        "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+        "title": "Startup Battlefield 200 applications officially close in 3 days",
+        "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 20:55:38 +0000",
-        "description": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Aust"
+        "published": "Fri, 05 Jun 2026 20:00:00 +0000",
+        "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at"
       },
       {
-        "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-        "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 19:33:09 +0000",
-        "description": "Meta may have found one way to slash its massive data center bill: tents."
+        "published": "Fri, 05 Jun 2026 18:57:20 +0000",
+        "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
       },
       {
-        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-        "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+        "title": "GM’s electric future depends on a new battery — and this facility",
+        "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 19:20:58 +0000",
-        "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform."
+        "published": "Fri, 05 Jun 2026 17:44:18 +0000",
+        "description": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen."
       },
       {
-        "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
-        "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+        "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+        "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 18:54:08 +0000",
-        "description": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that."
+        "published": "Fri, 05 Jun 2026 17:38:06 +0000",
+        "description": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months."
       },
       {
-        "title": "Meta’s Oversight Board says account bans lack due process, transparency",
-        "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+        "title": "The most interesting startups right now want to get you off your phone",
+        "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 16:47:12 +0000",
-        "description": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations."
+        "published": "Fri, 05 Jun 2026 17:17:06 +0000",
+        "description": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f"
       },
       {
-        "title": "Meta rolls out a new AI creator assistant on Facebook",
-        "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+        "title": "Supabase doubles valuation to $10B in 8 months",
+        "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 16:32:48 +0000",
-        "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What "
+        "published": "Fri, 05 Jun 2026 16:32:27 +0000",
+        "description": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms."
       },
       {
-        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-        "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+        "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+        "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 16:31:12 +0000",
-        "description": "Apple's WWDC nears: Here's what you can look forward to."
+        "published": "Fri, 05 Jun 2026 16:07:46 +0000",
+        "description": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remo"
       },
       {
-        "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
-        "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
+        "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+        "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 16:16:37 +0000",
-        "description": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis."
+        "published": "Fri, 05 Jun 2026 14:49:12 +0000",
+        "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
       },
       {
-        "title": "Cash App launches a wand for tap-and-pay",
-        "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
+        "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+        "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
         "source": "TechCrunch",
-        "published": "Thu, 04 Jun 2026 16:00:00 +0000",
-        "description": "Digital wallet app Cash App is launching a new gadget on Thursday, seemingly inspired by the social media trend that involves paying for items in the real world with a tap of a homemade magic wand, wh"
+        "published": "Fri, 05 Jun 2026 14:42:52 +0000",
+        "description": "The space agency said Roscosmos discovered new leaks in the Russian service module."
       }
     ],
     "Crypto": [
       {
-        "title": "The Bitcoin Roadmap To $500,000: Analyst Shows How Price Will Get There",
-        "link": "https://bitcoinist.com/the-bitcoin-roadmap-to-500000/",
+        "title": "Bitcoin Drops To $59,000 For First Time Since 2024: Crypto’s Total Value Sheds $2 Trillion Since October",
+        "link": "https://bitcoinist.com/bitcoin-drops-to-59000-for-first-time-since-2024/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 21:30:14 +0000",
-        "description": "An analyst has mapped out a detailed chart analysis showing how Bitcoin (BTC), the world’s largest cryptocurrency could eventually rally to a $500,000 all-time high. The analyst has expressed strong c"
+        "published": "Fri, 05 Jun 2026 20:37:27 +0000",
+        "description": "Bitcoin (BTC) accelerated its decline on Friday, falling to roughly $59,685—the lowest level seen since October 2024, when US voters were preparing for the November presidential elections of that year"
       },
       {
-        "title": "Expected $1 Billion Crypto Windfall Shrinks To Fraction In Israel Disclosure Program",
-        "link": "https://bitcoinist.com/crypto-holders-in-israel-declare-50m-well-below-governments-1b-estimates-details/",
+        "title": "Cardano Just Took Another Major Hit Amid Zombie Chain Allegations",
+        "link": "https://bitcoinist.com/another-cardano-major-hit/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 20:00:25 +0000",
-        "description": "Only 58 people came forward under Israel’s voluntary crypto disclosure program, leaving the tax authority far short of the billions of dollars it had hoped to collect. Officials had expected a surge i"
+        "published": "Fri, 05 Jun 2026 20:00:13 +0000",
+        "description": "Cardano analytics platform TapTools has announced that it is shutting down, providing a major blow to the ADA ecosystem. This comes amid allegations that the network is a ‘Zombie Chain’ with low user "
       },
       {
-        "title": "CLARITY Act News: Coinbase CEO Responds To Dimon While JPMorgan Sees Low Odds Of 2026 Passage",
-        "link": "https://bitcoinist.com/clarity-act-coinbase-ceo-dimon-jpmorgan-odds-2026/",
+        "title": "SEC’s Crypto Advocate Says Blockchain Code Is Protected By The Constitution",
+        "link": "https://bitcoinist.com/secs-crypto-advocate-says-blockchain-code-is-protected-by-the-constitution/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 18:50:08 +0000",
-        "description": "In an interview with Politico, Coinbase CEO Brian Armstrong pushed back on JPMorgan Chase chief Jamie Dimon’s criticism of the CLARITY Act. At the same time, the bank’s analysts said that the odds of "
+        "published": "Fri, 05 Jun 2026 18:30:29 +0000",
+        "description": "A federal securities regulator is drawing a line between writing blockchain code and being responsible for how that code gets used — and the distinction could reshape how the government treats softwar"
       },
       {
-        "title": "Cardano Founder Hoskinson Says He’s ‘Taking A Break’: Here’s What Happened",
-        "link": "https://bitcoinist.com/cardano-founder-hoskinson-taking-a-break/",
+        "title": "Crypto Expert Says Something Bad Is Coming For Bitcoin, What To Expect",
+        "link": "https://bitcoinist.com/something-bad-coming-bitcoin/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 18:30:23 +0000",
-        "description": "Charles Hoskinson, the founder of Cardano and CEO of Input Output, abruptly told followers on X that he is “taking a break,” following a tense livestream on June 2 in which he questioned what power he"
+        "published": "Fri, 05 Jun 2026 17:00:27 +0000",
+        "description": "A crypto market expert has shared a grim Bitcoin (BTC) forecast, warning that a major price crash could be on the horizon for the leading cryptocurrency. The analyst noted that Bitcoin&#8217;s recent "
       },
       {
-        "title": "Bitcoin’s 4-Year Moving Average Shows Where The Market Bottom Lies Here",
-        "link": "https://bitcoinist.com/where-bitcoin-market-bottom-lies/",
+        "title": "Crypto Billionaires Rally Behind Nigel Farage As Political Stakes Rise",
+        "link": "https://bitcoinist.com/crypto-billionaires-rally-behind-nigel-farage-as-political-stakes-rise/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 17:00:09 +0000",
-        "description": "Crypto pundit Adam Livingston has pointed to Bitcoin’s 4-year moving average, which offers insights into where the leading crypto is likely to bottom in this bear market. This comes as BTC extends its"
+        "published": "Fri, 05 Jun 2026 15:30:27 +0000",
+        "description": "Reform UK&#8217;s fundraising total climbed sixfold compared to the same period last year, when the party pulled in just $2 million in crypto and other donations. In the first quarter of 2026, it rais"
       },
       {
-        "title": "Is The XRP Vs. SWIFT War Already Over, Or Are Banks Taking Another Route?",
-        "link": "https://bitcoinist.com/is-the-xrp-vs-swift-war-banks/",
+        "title": "BREAKING – Michael Saylor Tries To Cool Bitcoin’s Internal Rivalries — But Can He?",
+        "link": "https://bitcoinist.com/breaking-michael-saylor-tries-to-cool-bitcoins-internal-rivalries-but-can-he/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 15:30:14 +0000",
-        "description": "XRP and SWIFT are often presented as rivals in the race to modernize global payments, but a recent argument suggests otherwise. Rather than a winner-takes-all battle, the latest developments point tow"
+        "published": "Fri, 05 Jun 2026 15:18:45 +0000",
+        "description": "Michael Saylor said Bitcoin has moved far beyond its early life as a niche protest and now reaches individuals, companies, banks, capital markets, and governments. Related Reading: Bitcoin Falls To $6"
       },
       {
-        "title": "BitMine Copies Saylor’s Strategy Playbook With Ethereum Preferred Stock Offering",
-        "link": "https://bitcoinist.com/bitmine-saylor-playbook-ethereum-preferred-stock/",
+        "title": "Hoskinson Denies Cardano Exit Rumors: ‘I’m Not Leaving’",
+        "link": "https://bitcoinist.com/hoskinson-denies-cardano-exit-rumors/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 14:00:11 +0000",
-        "description": "BitMine Immersion Technologies is moving deeper into the public-market crypto treasury trade, filing for a preferred stock offering that could help fund additional Ethereum purchases and validator inf"
+        "published": "Fri, 05 Jun 2026 14:00:11 +0000",
+        "description": "Cardano founder Charles Hoskinson rejected speculation that he is leaving the ecosystem, saying in a June 4 livestream that he is stepping back from public-facing communication but not resigning from "
       },
       {
-        "title": "Is Cardano Over? Charles Hoskinson Warns Of A “Wave Of Failures” — And His Own Community Is Furious",
-        "link": "https://bitcoinist.com/cardano-over-charles-hoskinson-warns-wave-failure/",
+        "title": "There’s An FOMC Meeting Scheduled This Month, But Will The Fed Decision Affect Bitcoin?",
+        "link": "https://bitcoinist.com/fomc-meeting-affect-bitcoin/",
         "source": "Bitcoinist",
-        "published": "Thu, 04 Jun 2026 13:26:53 +0000",
-        "description": "Charles Hoskinson, co-founder of Cardano and Input Output Global, sparked one of the most uncomfortable public debates in the blockchain&#8217;s history this week — warning in a video posted on YouTub"
+        "published": "Fri, 05 Jun 2026 12:30:16 +0000",
+        "description": "The Federal Open Market Committee (FOMC) meeting is held eight times a year, and just like with any financial market, the outcome of each meeting has implications for the likes of Bitcoin. The announc"
       }
     ],
     "Markets": [
       {
-        "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
-        "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
+        "title": "First Google, now Meta? Big Tech may increasingly sell stock to bankroll $820 billion AI boom.",
+        "link": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:28:00 GMT",
-        "description": "Here’s your new playbook to protect your retirement cash."
+        "published": "Fri, 05 Jun 2026 21:15:00 GMT",
+        "description": "Stock investors may not love it — but bond investors already heavily engaged in funding the AI buildout are pleased."
       },
       {
-        "title": "Quantinuum’s buzzy IPO ends with a whimper as stock gives back early gains",
-        "link": "https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories",
+        "title": "These stocks fell the most Friday as Big Tech took a dive",
+        "link": "https://www.marketwatch.com/story/these-stocks-fell-the-most-friday-as-big-tech-took-a-dive-bf692616?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:13:00 GMT",
-        "description": "The quantum company’s stock opened 13% above its IPO price but ended just cents above the IPO price."
+        "published": "Fri, 05 Jun 2026 21:10:00 GMT",
+        "description": "Chip makers dominated the list of the day’s biggest losers among the S&P 500."
       },
       {
-        "title": "Why Broadcom’s stock is falling so hard after earnings",
-        "link": "https://www.marketwatch.com/story/why-broadcoms-stock-is-falling-so-hard-after-earnings-88c6db5e?mod=mw_rss_topstories",
+        "title": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years",
+        "link": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:06:00 GMT",
-        "description": "The chip company declined to increase its AI revenue outlook for next year “in a market environment clamoring for material beats and raises.”"
+        "published": "Fri, 05 Jun 2026 21:03:00 GMT",
+        "description": "Investors are cooling on momentum stocks and considering the implications of a strong jobs report."
       },
       {
-        "title": "A war-weary Treasury market faces a fresh test with Friday’s jobs report",
-        "link": "https://www.marketwatch.com/story/a-war-weary-treasury-market-faces-a-fresh-test-with-fridays-jobs-report-73789d8a?mod=mw_rss_topstories",
+        "title": "The hiring recession is over — but landing a new role is much harder than it looks",
+        "link": "https://www.marketwatch.com/story/the-hiring-recession-is-over-but-landing-a-new-role-is-much-harder-than-it-looks-8f7d9608?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:05:00 GMT",
-        "description": "The new worry on Wall Street is that investors are simply losing patience and demanding higher compensation to lend money to the U.S. government."
+        "published": "Fri, 05 Jun 2026 20:53:00 GMT",
+        "description": "The May jobs report blew past forecasts. Why is it taking six months to find a new job?"
       },
       {
-        "title": "Lululemon admits far more work is needed for a turnaround, and its stock sinks",
-        "link": "https://www.marketwatch.com/story/lululemon-admits-far-more-work-is-needed-for-a-turnaround-and-its-stock-sinks-e28c5618?mod=mw_rss_topstories",
+        "title": "For the first time ever, an S&P 500 ETF has over $1 trillion in assets. Here’s why that should worry you.",
+        "link": "https://www.marketwatch.com/story/for-the-first-time-ever-an-s-p-500-etf-has-over-1-trillion-in-assets-heres-why-that-should-worry-you-d3ee21ad?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:05:00 GMT",
-        "description": "Problems continue to add up for Lululemon, as the yoga-wear maker on Thursday trimmed its full-year forecast to account for a potential dip in sales this year."
+        "published": "Fri, 05 Jun 2026 19:59:00 GMT",
+        "description": "Welcome to the age of trillions."
       },
       {
-        "title": "Coal stocks climb as Trump shovels $700 million to the sector",
-        "link": "https://www.marketwatch.com/story/coal-stocks-climb-as-trump-shovels-700-million-to-the-sector-8a61953c?mod=mw_rss_topstories",
+        "title": "This hot new financial product has Wall Street spooked. What you should know before trying it out.",
+        "link": "https://www.marketwatch.com/story/this-hot-new-financial-product-has-wall-street-spooked-what-you-should-know-before-trying-it-out-d73c6864?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:02:00 GMT",
-        "description": "Coal stocks advanced Thursday, helped by news that President Donald Trump plans to provide about $700 million to the industry through a Korean War–era law that gives the federal government authority o"
+        "published": "Fri, 05 Jun 2026 19:40:00 GMT",
+        "description": "Perpetual futures have finally arrived in the U.S. Not everyone is thrilled."
       },
       {
-        "title": "Don’t rule out a ‘June swoon’ — the S&P 500 is pushing its limits",
-        "link": "https://www.marketwatch.com/story/dont-rule-out-a-june-swoon-the-s-p-500-is-pushing-its-limits-3c067a6b?mod=mw_rss_topstories",
+        "title": "How this traveler booked a $16,000 first-class Emirates flight for $400 — and you can, too",
+        "link": "https://www.marketwatch.com/story/this-credit-card-pointsmaxxer-booked-a-16-000-first-class-emirates-flight-for-400-and-you-can-too-46f99294?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:01:00 GMT",
-        "description": "Even upbeat Oracle earnings next week might not be enough to rally the market."
+        "published": "Fri, 05 Jun 2026 19:30:00 GMT",
+        "description": "It’s trickier to find good deals with airline miles, but it’s still possible to get “insane value.”"
       },
       {
-        "title": "Micron suffers record market-cap wipeout as Broadcom casts a shadow over chip stocks",
-        "link": "https://www.marketwatch.com/story/micron-flirts-with-record-market-cap-wipeout-as-broadcom-casts-a-shadow-over-chip-stocks-b08f64ed?mod=mw_rss_topstories",
+        "title": "An S&P 500 shake-up is moments away. These stocks could soon earn spots in the index.",
+        "link": "https://www.marketwatch.com/story/an-s-p-500-shakeup-is-hours-away-these-stocks-could-soon-earn-spots-in-the-index-a9b64d67?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 21:00:00 GMT",
-        "description": "The semiconductor trade is losing steam following Broadcom’s earnings report."
+        "published": "Fri, 05 Jun 2026 19:30:00 GMT",
+        "description": "Marvell, Reddit and a mortgage “dark horse” could make the cut during the next quarterly rebalancing of the benchmark index."
       },
       {
-        "title": "Are you financially fulfilled? If not, your retirement plans are in danger.",
-        "link": "https://www.marketwatch.com/story/are-you-financially-fulfilled-if-not-your-retirement-plans-are-in-danger-81e3531c?mod=mw_rss_topstories",
+        "title": "Nearly half of workers 55 and older don’t plan on using AI in their jobs. How to make it work for you.",
+        "link": "https://www.marketwatch.com/story/nearly-half-of-workers-55-and-older-dont-plan-on-using-ai-in-their-jobs-how-to-make-it-work-for-you-07638c61?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 20:31:00 GMT",
-        "description": "Only 16% of Americans say they’re financially comfortable, a new poll found."
+        "published": "Fri, 05 Jun 2026 18:41:00 GMT",
+        "description": "Workers can learn more about applying AI to their jobs even on social-media platforms, such as YouTube and TikTok, one career coach said."
       },
       {
-        "title": "The IPO of this power generator for data centers quietly outshines Quantinuum",
-        "link": "https://www.marketwatch.com/story/the-ipo-of-this-power-generator-for-data-centers-quietly-outshines-quantinuum-d5d3124c?mod=mw_rss_topstories",
+        "title": "Will you be audited by Trump’s IRS? New data says there’s one group that can breathe a lot easier.",
+        "link": "https://www.marketwatch.com/story/will-you-be-audited-by-trumps-irs-new-data-says-theres-one-group-that-can-breathe-a-lot-easier-43b68411?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 04 Jun 2026 20:30:00 GMT",
-        "description": "Innio’s stock soared in its debut, to outshine the shares of the more high-profile quantum-computing company, and Trump administration investment, Quantinuum."
+        "published": "Fri, 05 Jun 2026 18:16:00 GMT",
+        "description": "A new report out Friday reflects IRS audit activity and other operations at the start of the second Trump presidency."
       }
     ],
     "Singapore": [
       {
-        "title": "Doue shines as Ivory Coast stun France in World Cup warm-up",
-        "link": "https://www.channelnewsasia.com/sport/doue-shines-ivory-coast-stun-france-in-world-cup-warm-up-6163351",
+        "title": "Spain thrash England 4-0, Germany qualify for Women's World Cup finals",
+        "link": "https://www.channelnewsasia.com/sport/spain-thrash-england-4-0-germany-qualify-womens-world-cup-finals-6165641",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 05:23:34 +0800",
+        "published": "Sat, 06 Jun 2026 05:17:27 +0800",
         "description": ""
       },
       {
-        "title": "Second-string Spain held by Iraq in low-key World Cup send-off",
-        "link": "https://www.channelnewsasia.com/sport/second-string-spain-held-iraq-in-low-key-world-cup-send-6163336",
+        "title": "US sprinter Bracy-Williams suspended for 12 years for whereabouts failures",
+        "link": "https://www.channelnewsasia.com/sport/us-sprinter-bracy-williams-suspended-12-years-whereabouts-failures-6165621",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 05:17:37 +0800",
+        "published": "Sat, 06 Jun 2026 05:00:57 +0800",
         "description": ""
       },
       {
-        "title": "Switzerland's Embolo cleared to join team in the US",
-        "link": "https://www.channelnewsasia.com/sport/switzerlands-embolo-cleared-join-team-in-us-6163331",
+        "title": "Lebanese leaders rebuke Iran as Israel, Hezbollah trade attacks",
+        "link": "https://www.channelnewsasia.com/world/lebanese-leaders-rebuke-iran-israel-hezbollah-trade-attacks-6165596",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 05:13:19 +0800",
+        "published": "Sat, 06 Jun 2026 04:33:00 +0800",
         "description": ""
       },
       {
-        "title": "In open letter to Putin, Zelenskyy calls for meeting and ceasefire",
-        "link": "https://www.channelnewsasia.com/world/in-open-letter-putin-zelenskyy-calls-meeting-and-ceasefire-6163271",
+        "title": "US says it will speed development and use of AI for national security",
+        "link": "https://www.channelnewsasia.com/business/us-says-it-will-speed-development-and-use-ai-national-security-6165561",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 04:56:00 +0800",
+        "published": "Sat, 06 Jun 2026 04:08:48 +0800",
         "description": ""
       },
       {
-        "title": "LA28 chair Wasserman says he has no plans to resign despite past ties to Maxwell",
-        "link": "https://www.channelnewsasia.com/sport/la28-chair-wasserman-says-he-has-no-plans-resign-despite-past-ties-maxwell-6163276",
+        "title": "Tuchel shrugs off pitch worries, poor weather ahead of tune-up game against New Zealand",
+        "link": "https://www.channelnewsasia.com/sport/tuchel-shrugs-pitch-worries-poor-weather-ahead-tune-up-game-against-new-zealand-6165541",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 04:51:13 +0800",
+        "published": "Sat, 06 Jun 2026 04:02:18 +0800",
         "description": ""
       },
       {
-        "title": "Real Madrid boss says Mourinho will return to club, amid video controversy",
-        "link": "https://www.channelnewsasia.com/sport/real-madrid-boss-says-mourinho-will-return-club-amid-video-controversy-6163266",
+        "title": "Chip selloff erases over $1 trillion in stock market value",
+        "link": "https://www.channelnewsasia.com/business/chip-selloff-erases-over-1-trillion-in-stock-market-value-6165526",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 04:46:31 +0800",
+        "published": "Sat, 06 Jun 2026 03:57:14 +0800",
         "description": ""
       },
       {
-        "title": "A bubble and some tea as Chwalinska keeps focus before final",
-        "link": "https://www.channelnewsasia.com/sport/bubble-and-some-tea-chwalinska-keeps-focus-final-6163241",
+        "title": "Shearer says defence and Kane key as England chase World Cup victory",
+        "link": "https://www.channelnewsasia.com/sport/shearer-says-defence-and-kane-key-england-chase-world-cup-victory-6165516",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 04:18:21 +0800",
+        "published": "Sat, 06 Jun 2026 03:43:30 +0800",
         "description": ""
       },
       {
-        "title": "Liverpool appoint Spaniard Iraola as new boss",
-        "link": "https://www.channelnewsasia.com/sport/iraola-liverpool-manager-replace-slot-premier-league-6163226",
+        "title": "Strong US job growth beats expectations in May, firming recent gains",
+        "link": "https://www.channelnewsasia.com/world/strong-us-job-growth-beats-expectations-in-may-firming-recent-gains-6165451",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 04:12:00 +0800",
+        "published": "Sat, 06 Jun 2026 03:05:51 +0800",
         "description": ""
       },
       {
-        "title": "Greece spoil Sweden's pre-World Cup party with 2-2 friendly draw",
-        "link": "https://www.channelnewsasia.com/sport/greece-spoil-swedens-pre-world-cup-party-2-2-friendly-draw-6163221",
+        "title": "SpaceX IPO running at two times oversubscribed, sources say",
+        "link": "https://www.channelnewsasia.com/business/spacex-ipo-running-two-times-oversubscribed-sources-say-6165446",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 04:06:31 +0800",
+        "published": "Sat, 06 Jun 2026 03:00:39 +0800",
         "description": ""
       },
       {
-        "title": "Shnaider gives Andreeva early read on Chwalinska challenge",
-        "link": "https://www.channelnewsasia.com/sport/shnaider-gives-andreeva-early-read-chwalinska-challenge-6163171",
+        "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
+        "link": "https://www.channelnewsasia.com/business/spacex-lands-google-ai-compute-deal-after-anthropic-pact-ahead-ipo-6165421",
         "source": "CNA Singapore",
-        "published": "Fri, 05 Jun 2026 03:28:24 +0800",
+        "published": "Sat, 06 Jun 2026 02:58:50 +0800",
         "description": ""
       }
     ],
     "US Politics": [
-      {
-        "title": "Victims of Jeffrey Epstein ignored by government, says former minister",
-        "link": "https://www.bbc.com/news/articles/cx21wxwlkl9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 03 Jun 2026 21:06:31 GMT",
-        "description": "Alex Davies-Jones also read out a statement from an Epstein survivor during a House of Commons debate."
-      },
-      {
-        "title": "Burnham says he would seek to enter any Labour leadership contest",
-        "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 20:38:24 GMT",
-        "description": "The Greater Manchester Mayor would need to win the by-election in Makerfield to be a possible candidate."
-      },
       {
         "title": "Labour failing to learn from Tories over leadership change calls, says Kyle",
         "link": "https://www.bbc.com/news/articles/cz626j5qlpdo?at_medium=RSS&at_campaign=rss",
@@ -443,84 +429,70 @@
         "description": "Some Labour MPs want Sir Keir Starmer to step down following last month's poor election results."
       },
       {
-        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
-        "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+        "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 19:46:09 GMT",
-        "description": "Prime Minister Sir Keir Starmer met the family of Henry Nowak at 10 Downing Street."
+        "published": "Fri, 05 Jun 2026 21:19:56 GMT",
+        "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X."
       },
       {
-        "title": "Jones praised Mandelson for 'great job' after sacking",
-        "link": "https://www.bbc.com/news/articles/c1w2rvn8nqyo?at_medium=RSS&at_campaign=rss",
+        "title": "Pupils asked to walk to school through army firing range, MP claims",
+        "link": "https://www.bbc.com/news/articles/cjrpr3pqnz3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 17:49:11 GMT",
-        "description": "The senior minister has previously denied sending the peer a \"warm message\" on the day he was fired."
+        "published": "Fri, 05 Jun 2026 17:18:47 GMT",
+        "description": "Getting children to school is becoming a thorny issue for councils to deal with."
       },
       {
-        "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
-        "link": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&at_campaign=rss",
+        "title": "Philp labels Hermer's small boats comment a 'disgraceful slur'",
+        "link": "https://www.bbc.com/news/articles/c62x2d53w5vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 17:19:19 GMT",
-        "description": "X owner Musk has posted several times on the site criticising the police treatment of Henry Nowak."
+        "published": "Fri, 05 Jun 2026 16:53:26 GMT",
+        "description": "The attorney general suggested some other politicians' policies on small boats amounted to letting people \"drown in the sea\"."
       },
       {
-        "title": "NHS staff should be banned from wearing political badges, report recommends",
-        "link": "https://www.bbc.com/news/articles/cn0plkd4wdno?at_medium=RSS&at_campaign=rss",
+        "title": "Sikh MPs say Nowak murder was not about their religion",
+        "link": "https://www.bbc.com/news/articles/c3v2v6rrxq9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 14:52:52 GMT",
-        "description": "The recommendation is one of several from Lord Mann, whose review examined antisemitism within the organisation."
+        "published": "Fri, 05 Jun 2026 16:26:57 GMT",
+        "description": "11 Sikh MPs say the killing was about \"a man carrying an offensive weapon and committing a brutal murder\"."
       },
       {
-        "title": "Crypto billionaires help Reform cement fundraising lead",
-        "link": "https://www.bbc.com/news/articles/cn4pkkpe9ppo?at_medium=RSS&at_campaign=rss",
+        "title": "How the contest is shaping up two weeks ahead of crucial Makerfield by-election",
+        "link": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 14:03:49 GMT",
-        "description": "The party received £7m from two overseas British crypto billionaires earlier this year, figures show"
+        "published": "Fri, 05 Jun 2026 16:00:30 GMT",
+        "description": "What stood out from the Question Time exchanges between candidates in the Makerfield by-election?"
       },
       {
-        "title": "By-election win-win for me, Reform candidate says",
-        "link": "https://www.bbc.com/news/articles/ce3p963rgn9o?at_medium=RSS&at_campaign=rss",
+        "title": "UK in most dangerous period I've known, military chief says",
+        "link": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 11:50:55 GMT",
-        "description": "Robert Kenyon says even if he fails to get elected he would have \"given two fingers to the establishment\"."
+        "published": "Fri, 05 Jun 2026 12:51:47 GMT",
+        "description": "Russian incursions into UK defences risk crossing a line, Chief of the Defence Staff Sir Richard Knighton tells the BBC."
       },
       {
-        "title": "PM backs female MP for suing xAI over bikini photo",
-        "link": "https://www.bbc.com/news/articles/c62xpv34d9do?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham says he would seek to enter any Labour leadership contest",
+        "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 04 Jun 2026 11:13:16 GMT",
-        "description": "Suffolk MP Jess Asato claims the firm's tool Grok was used to create fake images of her in a bikini."
+        "published": "Fri, 05 Jun 2026 07:56:49 GMT",
+        "description": "The Greater Manchester mayor would need to win the by-election in Makerfield to be a possible candidate."
+      },
+      {
+        "title": "UK asylum system is on 'the brink', cross-party MPs' report warns",
+        "link": "https://www.bbc.com/news/articles/cx212e48mvwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 05 Jun 2026 05:37:43 GMT",
+        "description": "It said it was \"unacceptable\" the Home Office could not keep track of all whose asylum claims had failed."
+      },
+      {
+        "title": "Starmer can survive a leadership challenge, says attorney general",
+        "link": "https://www.bbc.com/news/articles/cr7p7r7mr9xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 05 Jun 2026 05:00:04 GMT",
+        "description": "The prime minister's future has been called into question following poor election results for Labour."
       }
     ],
     "Science": [
-      {
-        "title": "Popular GLP-1 weight-loss drugs linked to lower risks of addiction and overdose",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260603023919.htm",
-        "source": "Science Daily",
-        "published": "Wed, 03 Jun 2026 10:04:58 EDT",
-        "description": "A massive study of more than 600,000 U.S. veterans suggests that popular GLP-1 drugs such as semaglutide may do far more than help with diabetes and weight loss—they could also fight addiction itself."
-      },
-      {
-        "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
-        "source": "Science Daily",
-        "published": "Wed, 03 Jun 2026 05:10:16 EDT",
-        "description": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becom"
-      },
-      {
-        "title": "Scientists discover vast hidden structure beneath Antarctica’s ice",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044244.htm",
-        "source": "Science Daily",
-        "published": "Thu, 04 Jun 2026 11:23:27 EDT",
-        "description": "A giant fan-shaped network of hidden basins has been discovered beneath East Antarctica, revealing that several well-known subglacial features are actually part of one massive geological structure. Th"
-      },
-      {
-        "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
-        "source": "Science Daily",
-        "published": "Thu, 04 Jun 2026 10:54:57 EDT",
-        "description": "Researchers at EPFL have developed a chip-scale ultrafast laser that performs on par with traditional tabletop femtosecond lasers. The innovation could make advanced laser technologies far smaller, ch"
-      },
       {
         "title": "A study of 8,300 older adults revealed a surprising salt habit",
         "link": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
@@ -529,39 +501,67 @@
         "description": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cog"
       },
       {
-        "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+        "title": "AI-designed universal coronavirus vaccine passes first human trial",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
         "source": "Science Daily",
-        "published": "Thu, 04 Jun 2026 09:18:44 EDT",
-        "description": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—some"
+        "published": "Fri, 05 Jun 2026 11:42:19 EDT",
+        "description": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against "
       },
       {
-        "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+        "title": "Scientists discover why ozempic may not work for some people",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023417.htm",
         "source": "Science Daily",
-        "published": "Thu, 04 Jun 2026 08:30:55 EDT",
-        "description": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers"
+        "published": "Fri, 05 Jun 2026 11:13:02 EDT",
+        "description": "Scientists have identified genetic variants that may make some people less responsive to GLP-1 drugs used to treat Type 2 diabetes. Roughly 10% of the population carries these variants, which appear t"
       },
       {
-        "title": "Scientists discover the master clock that controls biological growth and development",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
+        "title": "Octopuses use mirrors to find food they cannot see",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023402.htm",
         "source": "Science Daily",
-        "published": "Thu, 04 Jun 2026 05:36:05 EDT",
-        "description": "A newly discovered genetic clock acts as the master timekeeper for development, orchestrating crucial bursts of gene activity throughout a worm’s growth. When the clock is disrupted, development stops"
+        "published": "Fri, 05 Jun 2026 09:43:31 EDT",
+        "description": "Octopuses may be even smarter than we thought. Researchers at Dartmouth found that octopuses can learn to use mirrors to locate food hidden behind them—a skill previously seen only in vertebrates like"
       },
       {
-        "title": "Beluga whales keep switching mates and it may be saving their species",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
+        "title": "Hidden supermassive black hole pairs may finally have a visible signal",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
         "source": "Science Daily",
-        "published": "Thu, 04 Jun 2026 03:51:13 EDT",
-        "description": "Hidden beneath Arctic waters, beluga whales have long kept their family lives a mystery. By analyzing DNA from more than 600 belugas in Alaska’s Bristol Bay over 13 years, researchers uncovered a surp"
+        "published": "Fri, 05 Jun 2026 08:32:00 EDT",
+        "description": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The "
       },
       {
-        "title": "Scientists discover a quantum effect that could eliminate batteries",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm",
+        "title": "Magnetic fields may be the secret behind binary star formation",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023355.htm",
         "source": "Science Daily",
-        "published": "Thu, 04 Jun 2026 03:14:13 EDT",
-        "description": "Researchers have discovered how microscopic imperfections and atomic vibrations can be used to control a powerful quantum effect in an advanced material. The effect can turn alternating electrical sig"
+        "published": "Fri, 05 Jun 2026 08:18:21 EDT",
+        "description": "Scientists have uncovered a surprising force that may help explain how binary star systems form so quickly. New supercomputer simulations show that magnetic fields surrounding newborn stars can act li"
+      },
+      {
+        "title": "Scientists discover a hidden quantum world inside cobalt",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
+        "source": "Science Daily",
+        "published": "Fri, 05 Jun 2026 05:07:05 EDT",
+        "description": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully understood. Advanced measurements revealed a dense network of topological electronic states that"
+      },
+      {
+        "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
+        "source": "Science Daily",
+        "published": "Fri, 05 Jun 2026 02:34:20 EDT",
+        "description": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissio"
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "source": "Science Daily",
+        "published": "Fri, 05 Jun 2026 01:27:32 EDT",
+        "description": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal "
+      },
+      {
+        "title": "The biggest collagen study yet reveals what actually works",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
+        "source": "Science Daily",
+        "published": "Fri, 05 Jun 2026 01:13:11 EDT",
+        "description": "A major review of nearly 8,000 participants found that collagen supplements can improve skin health and ease osteoarthritis symptoms, especially when taken consistently over longer periods. Researcher"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Trump says Pulte won't be permanent national intelligence director",
-      "link": "https://www.cnbc.com/2026/06/04/pulte-intelligence-trump-dni-temporary.html",
+      "title": "Trump wants Bill Pulte to fire big chunk of national intelligence office staff: WSJ",
+      "link": "https://www.cnbc.com/2026/06/05/trump-bill-pulte-fire-intelligence-dni.html",
       "source": "CNBC Finance",
-      "published": "Thu, 04 Jun 2026 21:35:59 GMT",
-      "description": "Trump's comment came two days after he tapped Bill Pulte, who leads the Federal Housing Finance Agency, as acting DNI to replace Tulsi Gabbard."
+      "published": "Fri, 05 Jun 2026 21:26:16 GMT",
+      "description": "President Trump's comments are sure to roil members of Congress who criticized the appointment of Bill Pulte as acting national intelligence director."
     },
     {
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 04 Jun 2026 21:34:49 GMT",
-      "description": "Zeynab Javadli had not been in contact with any of her friends since Tuesday."
+      "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+      "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "published": "Fri, 05 Jun 2026 21:19:56 GMT",
+      "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X."
     },
     {
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 04 Jun 2026 21:34:14 GMT",
-      "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran."
+      "title": "Spain thrash England 4-0, Germany qualify for Women's World Cup finals",
+      "link": "https://www.channelnewsasia.com/sport/spain-thrash-england-4-0-germany-qualify-womens-world-cup-finals-6165641",
+      "source": "CNA Singapore",
+      "published": "Sat, 06 Jun 2026 05:17:27 +0800",
+      "description": ""
     },
     {
-      "title": "The Bitcoin Roadmap To $500,000: Analyst Shows How Price Will Get There",
-      "link": "https://bitcoinist.com/the-bitcoin-roadmap-to-500000/",
-      "source": "Bitcoinist",
-      "published": "Thu, 04 Jun 2026 21:30:14 +0000",
-      "description": "An analyst has mapped out a detailed chart analysis showing how Bitcoin (BTC), the world’s largest cryptocurrency could eventually rally to a $500,000 all-time high. The analyst has expressed strong c"
-    },
-    {
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "source": "TechCrunch",
-      "published": "Thu, 04 Jun 2026 21:30:00 +0000",
-      "description": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo. Investors, founders, and tech leaders will gather for"
-    },
-    {
-      "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
-      "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
+      "title": "First Google, now Meta? Big Tech may increasingly sell stock to bankroll $820 billion AI boom.",
+      "link": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Thu, 04 Jun 2026 21:28:00 GMT",
-      "description": "Here’s your new playbook to protect your retirement cash."
+      "published": "Fri, 05 Jun 2026 21:15:00 GMT",
+      "description": "Stock investors may not love it — but bond investors already heavily engaged in funding the AI buildout are pleased."
     },
     {
-      "title": "Doue shines as Ivory Coast stun France in World Cup warm-up",
-      "link": "https://www.channelnewsasia.com/sport/doue-shines-ivory-coast-stun-france-in-world-cup-warm-up-6163351",
-      "source": "CNA Singapore",
-      "published": "Fri, 05 Jun 2026 05:23:34 +0800",
-      "description": ""
-    },
-    {
-      "title": "Second-string Spain held by Iraq in low-key World Cup send-off",
-      "link": "https://www.channelnewsasia.com/sport/second-string-spain-held-iraq-in-low-key-world-cup-send-6163336",
-      "source": "CNA Singapore",
-      "published": "Fri, 05 Jun 2026 05:17:37 +0800",
-      "description": ""
-    },
-    {
-      "title": "Trump says he could meet Iran's supreme leader 'if it was to make a deal'",
-      "link": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
+      "title": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+      "link": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
       "source": "CNBC Finance",
-      "published": "Thu, 04 Jun 2026 21:14:21 GMT",
-      "description": "Khamenei was named the supreme leader in Iran after his father, Ayatollah Ali Khamenei, was killed on the first day of fighting."
+      "published": "Fri, 05 Jun 2026 21:12:29 GMT",
+      "description": "OpenAI CEO Sam Altman first shared the idea with the Trump administration in 2025, according to a source."
     },
     {
-      "title": "Switzerland's Embolo cleared to join team in the US",
-      "link": "https://www.channelnewsasia.com/sport/switzerlands-embolo-cleared-join-team-in-us-6163331",
+      "title": "These stocks fell the most Friday as Big Tech took a dive",
+      "link": "https://www.marketwatch.com/story/these-stocks-fell-the-most-friday-as-big-tech-took-a-dive-bf692616?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Fri, 05 Jun 2026 21:10:00 GMT",
+      "description": "Chip makers dominated the list of the day’s biggest losers among the S&P 500."
+    },
+    {
+      "title": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years",
+      "link": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Fri, 05 Jun 2026 21:03:00 GMT",
+      "description": "Investors are cooling on momentum stocks and considering the implications of a strong jobs report."
+    },
+    {
+      "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+      "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "source": "CNBC Finance",
+      "published": "Fri, 05 Jun 2026 21:01:53 GMT",
+      "description": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months."
+    },
+    {
+      "title": "US sprinter Bracy-Williams suspended for 12 years for whereabouts failures",
+      "link": "https://www.channelnewsasia.com/sport/us-sprinter-bracy-williams-suspended-12-years-whereabouts-failures-6165621",
       "source": "CNA Singapore",
-      "published": "Fri, 05 Jun 2026 05:13:19 +0800",
+      "published": "Sat, 06 Jun 2026 05:00:57 +0800",
       "description": ""
+    },
+    {
+      "title": "Bitcoin cracks $60,000, sinking to lowest level since October 2024",
+      "link": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
+      "source": "CNBC Finance",
+      "published": "Fri, 05 Jun 2026 20:59:16 GMT",
+      "description": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets."
     }
   ]
 }
