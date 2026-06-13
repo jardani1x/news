@@ -1,21 +1,70 @@
 {
-  "updated_sgt": "2026-06-13 05:49 SGT",
-  "updated_iso": "2026-06-13T05:49:10.137851+08:00",
+  "updated_sgt": "2026-06-14 05:19 SGT",
+  "updated_iso": "2026-06-14T05:19:35.322482+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 18:39:26 GMT",
+        "description": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\"."
+      },
+      {
+        "title": "Trump's name removed from Kennedy Center after court order",
+        "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 17:00:23 GMT",
+        "description": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday."
+      },
+      {
+        "title": "Anthropic suspends new AI tools over US government security concerns",
+        "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 16:28:38 GMT",
+        "description": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
+      },
+      {
+        "title": "Kidnapped Nigerian retired general dies in captivity",
+        "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 15:25:09 GMT",
+        "description": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country."
+      },
+      {
+        "title": "Woman seriously injured in shark attack at Sydney beach",
+        "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 15:24:25 GMT",
+        "description": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say."
+      },
+      {
+        "title": "Switzerland to vote on plan to cap population at 10 million",
+        "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 11:47:42 GMT",
+        "description": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos."
+      },
+      {
+        "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+        "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 05:00:04 GMT",
+        "description": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions."
+      },
+      {
+        "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+        "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 13 Jun 2026 04:09:07 GMT",
+        "description": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post."
+      },
       {
         "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
         "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 21:20:55 GMT",
+        "published": "Fri, 12 Jun 2026 22:00:52 GMT",
         "description": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn."
-      },
-      {
-        "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-        "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 21:04:05 GMT",
-        "description": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
       },
       {
         "title": "Fans on concourses instead of in seats, claims Fifa",
@@ -23,425 +72,355 @@
         "source": "BBC World",
         "published": "Fri, 12 Jun 2026 20:26:23 GMT",
         "description": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses."
-      },
-      {
-        "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-        "link": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 16:41:53 GMT",
-        "description": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says."
-      },
-      {
-        "title": "French town buries murdered child as questions mount over police failings",
-        "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 16:19:12 GMT",
-        "description": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned."
-      },
-      {
-        "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-        "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 15:55:46 GMT",
-        "description": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery."
-      },
-      {
-        "title": "More time needed for deadly Air India crash inquiry, officials say",
-        "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 15:09:40 GMT",
-        "description": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago."
-      },
-      {
-        "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-        "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 11:12:11 GMT",
-        "description": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
-      },
-      {
-        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-        "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 05:01:48 GMT",
-        "description": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park."
-      },
-      {
-        "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-        "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 12 Jun 2026 00:45:20 GMT",
-        "description": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs."
       }
     ],
     "Finance": [
       {
-        "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-        "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
+        "title": "College sticker prices top $100,000 at 16 schools — but many students pay significantly less",
+        "link": "https://www.cnbc.com/2026/06/10/college-six-figure-sticker-price.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 21:48:49 GMT",
-        "description": "SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion. Shares rallied more than 25%."
+        "published": "Wed, 10 Jun 2026 20:13:37 GMT",
+        "description": "The cost of attendance at a growing number of colleges is now more than six figures a year, according to data from The Princeton Review."
       },
       {
-        "title": "Paramount-WBD merger wins approval from DOJ, source says",
-        "link": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
+        "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
+        "link": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 21:43:04 GMT",
-        "description": "The DOJ approval is an important milestone for the roughly $110 billion deal, though it could still face legal challenges from state attorneys general."
+        "published": "Sat, 13 Jun 2026 19:44:44 GMT",
+        "description": "President Donald Trump posted on Truth Social that a deal to end the war with Iran will be signed on Sunday."
       },
       {
-        "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
-        "link": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+        "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+        "link": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 21:15:28 GMT",
-        "description": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO."
+        "published": "Sat, 13 Jun 2026 15:50:43 GMT",
+        "description": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps."
       },
       {
-        "title": "Call Kevin Warsh the Fed 'chairman'",
-        "link": "https://www.cnbc.com/2026/06/12/fed-kevin-warsh-chairman-title.html",
+        "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
+        "link": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 21:11:46 GMT",
-        "description": "Kevin Warsh's two immediate predecessors preferred to be called the Fed \"chair.\" For Warsh, it's \"chairman\" of the Federal Reserve."
+        "published": "Sat, 13 Jun 2026 15:00:01 GMT",
+        "description": "Peter Haynes, TD Securities' head of index and market structure, suggests SpaceX's public debut is only a small part of the larger SpaceX timeline."
       },
       {
-        "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
-        "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+        "title": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
+        "link": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 20:42:19 GMT",
-        "description": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion."
+        "published": "Sat, 13 Jun 2026 13:37:31 GMT",
+        "description": "Despite a large retail allocation and huge volume, volatility was moderate"
       },
       {
-        "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
-        "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+        "title": "Moats vs. moonshots: The Warren Buffett-Elon Musk style debate",
+        "link": "https://www.cnbc.com/2026/06/13/moats-vs-moonshots-the-warren-buffett-elon-musk-style-debate.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 20:33:52 GMT",
-        "description": "SpaceX shares soared on Friday as trading commenced on the Nasdaq."
+        "published": "Sat, 13 Jun 2026 12:57:53 GMT",
+        "description": "In 2018, Warren Buffett and Elon Musk indirectly debated a key question that persists for modern investors."
       },
       {
-        "title": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain",
-        "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+        "title": "Switzerland is voting on whether to cap its population at 10 million. Here's what to know",
+        "link": "https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 20:21:14 GMT",
-        "description": "A deal to end the Iran war could be signed soon, a senior Trump administration official said, following recent conflicting statements from the warring nations."
+        "published": "Sat, 13 Jun 2026 10:51:08 GMT",
+        "description": "Switzerland votes on a population cap that could tighten immigration and put its EU free-movement agreement under pressure."
       },
       {
-        "title": "As investors flock to SpaceX, one trader eyes a sleepy 'stealth' play",
-        "link": "https://www.cnbc.com/2026/06/12/as-investors-flock-to-spacex-one-trader-eyes-a-sleepy-stealth-play.html",
+        "title": "UAE denies 'false' reports of fund transfer to Iran",
+        "link": "https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 17:33:56 GMT",
-        "description": "If you're looking for something a little more terrestrial, there's one stock that investors are overlooking."
+        "published": "Sat, 13 Jun 2026 09:30:18 GMT",
+        "description": "The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran."
       },
       {
-        "title": "For Warsh as Fed chair, silence may be the point",
-        "link": "https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html",
+        "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+        "link": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 10:00:01 GMT",
-        "description": "Kevin Warsh will hold his first Fed meeting, giving markets the first public look at how he'll communicate as chair of the Federal Reserve."
+        "published": "Sat, 13 Jun 2026 01:36:34 GMT",
+        "description": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government."
       },
       {
-        "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
-        "link": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
+        "title": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
+        "link": "https://www.cnbc.com/2026/06/12/social-security-cola-2027-inflation-estimate.html",
         "source": "CNBC Finance",
-        "published": "Fri, 12 Jun 2026 00:19:38 GMT",
-        "description": "In a scathing ruling, Judge James Boasberg denied U.S. Attorney for the District of Columbia Jeanine Pirro's request to vacate his earlier orders."
+        "published": "Fri, 12 Jun 2026 21:18:06 GMT",
+        "description": "As inflation climbs, Social Security beneficiaries may see a higher cost-of-living adjustment in 2027. Here's which costs spiked most over the past 12 months."
       }
     ],
     "Technology": [
+      {
+        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "source": "TechCrunch",
+        "published": "Sat, 13 Jun 2026 20:42:31 +0000",
+        "description": "Once again, AI proves to be an unreliable source of information about AI."
+      },
+      {
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "source": "TechCrunch",
+        "published": "Sat, 13 Jun 2026 19:11:41 +0000",
+        "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+      },
+      {
+        "title": "OpenAI faces investigation from state attorneys general",
+        "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "source": "TechCrunch",
+        "published": "Sat, 13 Jun 2026 16:47:18 +0000",
+        "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+      },
+      {
+        "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+        "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+        "source": "TechCrunch",
+        "published": "Sat, 13 Jun 2026 16:00:00 +0000",
+        "description": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or m"
+      },
+      {
+        "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+        "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+        "source": "TechCrunch",
+        "published": "Sat, 13 Jun 2026 11:00:00 +0000",
+        "description": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks."
+      },
+      {
+        "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+        "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+        "source": "TechCrunch",
+        "published": "Sat, 13 Jun 2026 04:14:19 +0000",
+        "description": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
+      },
+      {
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "source": "TechCrunch",
+        "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+        "description": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
+      },
+      {
+        "title": "SpaceX IPO: Live updates on everything you need to know",
+        "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+        "source": "TechCrunch",
+        "published": "Fri, 12 Jun 2026 23:15:14 +0000",
+        "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
+      },
+      {
+        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+        "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+        "source": "TechCrunch",
+        "published": "Fri, 12 Jun 2026 23:00:54 +0000",
+        "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
+      },
       {
         "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
         "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
         "source": "TechCrunch",
         "published": "Fri, 12 Jun 2026 20:38:09 +0000",
         "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
-      },
-      {
-        "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
-        "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 20:20:00 +0000",
-        "description": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price."
-      },
-      {
-        "title": "SpaceX IPO: Live updates on everything you need to know",
-        "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 20:04:38 +0000",
-        "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
-      },
-      {
-        "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
-        "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 19:28:31 +0000",
-        "description": "A SpaceX-Tesla merger seems inevitable."
-      },
-      {
-        "title": "Mistral is rumored to be raising €3B at €20B valuation",
-        "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 17:38:11 +0000",
-        "description": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
-      },
-      {
-        "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-        "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 17:05:06 +0000",
-        "description": "The trading platform says some customers experienced intermittent disruptions, but those issues have resolved."
-      },
-      {
-        "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-        "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 16:23:25 +0000",
-        "description": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep"
-      },
-      {
-        "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
-        "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 15:55:06 +0000",
-        "description": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever."
-      },
-      {
-        "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-        "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 11:43:32 +0000",
-        "description": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time."
-      },
-      {
-        "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-        "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-        "source": "TechCrunch",
-        "published": "Fri, 12 Jun 2026 04:30:00 +0000",
-        "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
       }
     ],
     "Crypto": [
       {
-        "title": "Crypto Derivatives Risk Appetite Plunges As ETF Outflows Hit Bitcoin",
-        "link": "https://bitcoinist.com/crypto-derivatives-risk-appetite-etf-outflows-bitcoin/",
+        "title": "Bitcoin Trader Says Cycle Tops And Bottoms Match Exact Day Counts",
+        "link": "https://bitcoinist.com/bitcoin-trader-says-cycle-tops-and-bottoms-match-exact-day-counts/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 19:04:50 +0000",
-        "description": "Deribit Insights says crypto derivatives risk appetite has fallen sharply after a near-20% spot market drop and sustained Bitcoin ETF outflows."
+        "published": "Sat, 13 Jun 2026 18:41:53 +0000",
+        "description": "A Bitcoin cycle post is gaining attention for claiming BTC bull and bear phases repeat with exact day-count precision."
       },
       {
-        "title": "Strategy Adds 1,550 Bitcoin As Treasury Holdings Reach 845,256 BTC",
-        "link": "https://bitcoinist.com/strategy-adds-1550-bitcoin-treasury-holdings-845256-btc/",
+        "title": "Coinbase And Ethena Launch High Yield USDC Vault Powered By Morpho",
+        "link": "https://bitcoinist.com/coinbase-and-ethena-launch-high-yield-usdc-vault-powered-by-morpho/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 18:49:29 +0000",
-        "description": "Strategy Inc. disclosed a new 1,550 BTC purchase in a June 8 filing, bringing total reported holdings to 845,256 BTC."
+        "published": "Sat, 13 Jun 2026 16:03:45 +0000",
+        "description": "Coinbase has added a higher-risk USDC yield vault connected to Ethena, Morpho and Steakhouse Financial."
       },
       {
-        "title": "SEC Market Structure Proposal Draws Attention From Tokenized Stock Advocates",
-        "link": "https://bitcoinist.com/sec-market-structure-proposal-tokenized-stock-advocates/",
+        "title": "Anthropic Pre-IPO Market Falls After US Directive Forces Model Shutdown",
+        "link": "https://bitcoinist.com/anthropic-pre-ipo-market-falls-after-us-directive-forces-model-shutdown/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 15:49:03 +0000",
-        "description": "The SEC proposed changes to Regulation NMS equity-market rules, drawing attention from tokenized-stock and RWA market-structure watchers."
+        "published": "Sat, 13 Jun 2026 13:32:07 +0000",
+        "description": "Anthropic says it disabled Fable 5 and Mythos 5 after a US government export-control directive, while pre-IPO-linked trading weakened."
       },
       {
-        "title": "Kraken Plans CFTC-Regulated Perpetual Futures For US Crypto Traders",
-        "link": "https://bitcoinist.com/kraken-cftc-regulated-perpetual-futures-us-crypto-traders/",
+        "title": "Exploit Wallet Converts Stolen Tokens Into 18,510 ETH And 1,548 BNB",
+        "link": "https://bitcoinist.com/exploit-wallet-converts-stolen-tokens-into-18510-eth-and-1548-bnb/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 12:48:26 +0000",
-        "description": "Kraken says it plans to launch CFTC-regulated perpetual futures for eligible U.S. traders, covering major crypto assets including BTC, ETH, SOL, and XRP."
+        "published": "Sat, 13 Jun 2026 13:03:37 +0000",
+        "description": "An exploit-linked wallet has reportedly consolidated compromised tokens into more liquid assets, including ETH and BNB."
       },
       {
-        "title": "Bitcoin Options Traders Hedge For More Downside As Deribit Warns Of Market Weakness",
-        "link": "https://bitcoinist.com/bitcoin-options-traders-hedge-downside-deribit-market-weakness/",
+        "title": "Bitcoin Analyst Flags Inverse Head-And-Shoulders Setup With $69,000 Target",
+        "link": "https://bitcoinist.com/bitcoin-analyst-flags-inverse-head-and-shoulders-setup-with-69000-target/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 09:11:50 +0000",
-        "description": "Deribit analysis points to defensive positioning across crypto options markets, with Bitcoin traders buying puts, selling calls, and watching key downside support levels."
+        "published": "Sat, 13 Jun 2026 10:03:41 +0000",
+        "description": "A TradingView analyst says Bitcoin’s daily chart may be forming a bullish reversal pattern, but confirmation is still needed."
       },
       {
-        "title": "Solana Price Rallied 2,000% The Last Time This Happened, And It Just Triggered Again",
-        "link": "https://bitcoinist.com/solana-2000-rally-signal/",
+        "title": "SpaceX Tokenization Scramble Shows The Difference Between Tokens And Real Shares",
+        "link": "https://bitcoinist.com/spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 05:00:15 +0000",
-        "description": "The Solana price is drawing renewed attention after months of declines, selling pressure, and mixed performance. Market analyst Crypto Patel highlighted in a recent X post that SOL is currently tradin"
+        "published": "Sat, 13 Jun 2026 09:10:17 +0000",
+        "description": "The SpaceX pre-IPO scramble highlights a key tokenization risk: blockchain rails cannot solve a failed underlying share allocation."
       },
       {
-        "title": "Bitcoin Puell Multiple Falls To 0.74 As Miner Revenue Slides",
-        "link": "https://bitcoinist.com/bitcoin-puell-multiple-falls-to-0-74-miner-revenue/",
+        "title": "Frax Governance Weighs Raising sfrxUSD Aave v4 Allocation Cap To $50 Million",
+        "link": "https://bitcoinist.com/frax-governance-weighs-raising-sfrxusd-aave-v4-allocation-cap-to-50-million/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 04:00:08 +0000",
-        "description": "Bitcoin on-chain data shows the Puell Multiple indicator has observed a decline recently. Here&#8217;s what this could imply for the network. Bitcoin Puell Multiple Has Dropped To The 0.74 Mark As hig"
+        "published": "Sat, 13 Jun 2026 08:04:42 +0000",
+        "description": "Frax governance is considering a proposal to increase the sfrxUSD strategy allocation cap into Aave v4 to $50 million."
       },
       {
-        "title": "Ethereum Ecosystem Milestone: On-Chain Activity Across The Network Explodes To Historic Levels",
-        "link": "https://bitcoinist.com/ethereum-ecosystem-milestone/",
+        "title": "Arbitrum Foundation Funding Proposal Seeks $16M, 1,700 ETH And 230M ARB",
+        "link": "https://bitcoinist.com/arbitrum-foundation-funding-proposal-16m-eth-arb/",
         "source": "Bitcoinist",
-        "published": "Fri, 12 Jun 2026 02:30:50 +0000",
-        "description": "With the bearish pressure around Ethereum and its market building strongly, its price could retest the $1,500 support level sooner than expected. One good thing during this bearish phase is that the E"
+        "published": "Sat, 13 Jun 2026 01:04:57 +0000",
+        "description": "Arbitrum governance is voting on a continued Foundation funding proposal seeking $16M in RWAs, 1,700 ETH and 230M ARB."
       }
     ],
     "Markets": [
       {
-        "title": "FIFA World Cup prize money: What each USMNT player stands to earn",
-        "link": "https://www.marketwatch.com/story/fifa-world-cup-prize-money-what-each-usmnt-player-stands-to-earn-332f8a96?mod=mw_rss_topstories",
+        "title": "Social Security is facing a 22% cliff — 4 ways to build an income stream Washington can’t touch",
+        "link": "https://www.marketwatch.com/story/social-security-could-face-an-automatic-22-cut-in-2032-these-4-moves-will-protect-your-retirement-a00f9463?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 21:44:00 GMT",
-        "description": "Thanks to a landmark 2022 agreement, U.S. women’s soccer players will get part of the World Cup prize pool, too. Here’s how it works."
+        "published": "Sat, 13 Jun 2026 19:01:00 GMT",
+        "description": "The countdown to insolvency is accelerating — and the rules of retirement planning just broke."
       },
       {
-        "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
-        "link": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+        "title": "Worried about a lower Social Security benefit? How to calculate the exact impact it will have on your retirement.",
+        "link": "https://www.marketwatch.com/story/you-can-calculate-the-exact-impact-a-reduced-social-security-check-will-have-on-your-retirement-success-f0f58429?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 21:00:00 GMT",
-        "description": "“I plan to continue working until age 60.”"
+        "published": "Sat, 13 Jun 2026 19:01:00 GMT",
+        "description": "If benefits go down 22% in 2032 as predicted by the latest Trustees report, you need to know what that means for you."
       },
       {
-        "title": "How to decide whether a major splurge — like spending thousands on Knicks or World Cup tickets — is worth it",
-        "link": "https://www.marketwatch.com/story/how-to-decide-whether-a-major-splurge-like-spending-thousands-on-knicks-or-world-cup-tickets-is-worth-it-8fb46c18?mod=mw_rss_topstories",
+        "title": "Social Security benefits and costs are perfectly reasonable — no case exists for massive cuts",
+        "link": "https://www.marketwatch.com/story/social-security-benefits-and-costs-are-perfectly-reasonable-no-case-exists-for-massive-cuts-fb41f21f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 20:35:00 GMT",
-        "description": "Ask yourself these questions when considering an extravagant purchase."
+        "published": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "description": "It might be nice to reduce the large share of benefits going to high earners who retire later and live long lives."
       },
       {
-        "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
-        "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
+        "title": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
+        "link": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 20:30:00 GMT",
-        "description": "“I feel like he may be taking advantage of us.”"
+        "published": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "description": "Grandparent-headed households are more likely to live in poverty."
       },
       {
-        "title": "Is it too late to buy SpaceX’s stock? Here’s how Tesla’s did after one day — and five years.",
-        "link": "https://www.marketwatch.com/story/is-it-too-late-to-buy-spacexs-stock-heres-how-teslas-did-after-one-day-and-five-years-9c7564d3?mod=mw_rss_topstories",
+        "title": "The true national debt just hit $1 million per U.S. household",
+        "link": "https://www.marketwatch.com/story/the-true-national-debt-just-hit-1-million-per-u-s-household-bd0924d1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 20:06:00 GMT",
-        "description": "Also in Weekend Reads: A bitcoin-pricing model that looks way ahead, the bear market for gold and retirement-planning advice."
+        "published": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "description": "The effective U.S. national debt just crashed through $100 trillion for the first time in history, and now stands at an extraordinary 400% of annual gross domestic product — but almost nobody seems to"
       },
       {
-        "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-        "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+        "title": "Social Security’s COLA could be 4.7% in 2027 as inflation hits the highest level in 3 years",
+        "link": "https://www.marketwatch.com/story/social-securitys-cola-could-be-4-7-in-2027-as-inflation-hits-the-highest-level-in-3-years-e5a87320?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 19:56:00 GMT",
-        "description": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”"
+        "published": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "description": "A total of 44% of older Americans depend on Social Security for all of their income, according to the Senior Citizens League."
       },
       {
-        "title": "Adobe’s CFO is departing for Marvell. And it’s one more reason for investors to choose chips over software.",
-        "link": "https://www.marketwatch.com/story/adobes-cfo-is-departing-for-marvell-and-its-one-more-reason-for-investors-to-choose-chips-over-software-336b9e16?mod=mw_rss_topstories",
+        "title": "My wife and I are 61. We have $2.2 million and expect $5,000 in Social Security benefits. Do we claim early?",
+        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-61-we-have-2-2-million-and-5-000-in-social-security-benefits-do-we-claim-early-1585baf3?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 19:51:00 GMT",
-        "description": "The software sector has struggled in recent months amid concern that software companies will struggle to survive in the AI era"
+        "published": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "description": "“We need our assets and income to support us for the next 25 years.”"
       },
       {
-        "title": "There’s a 68% chance the stock market ends the year higher. Why the headlines shouldn’t disrupt your portfolio.",
-        "link": "https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories",
+        "title": "Social Security insolvency is ‘entirely solvable,’ says commissioner under Biden",
+        "link": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 19:47:00 GMT",
-        "description": "Blocking out the daily noise gives you a clear edge over short-term chaos."
+        "published": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "description": "The solution is simple — but it won’t be easy."
       },
       {
-        "title": "Global oil prices end at 3-month low after Pakistan says a U.S.-Iran peace deal has been reached",
-        "link": "https://www.marketwatch.com/story/oil-prices-extend-declines-on-possible-u-s-iran-peace-deal-to-reopen-strait-of-hormuz-6d2822bd?mod=mw_rss_topstories",
+        "title": "SpaceX IPO hype is massive — and the FOMO can ruin your retirement",
+        "link": "https://www.marketwatch.com/story/spacex-ipo-hype-is-massive-and-especially-dangerous-for-investors-over-50-ae3edd10?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 19:39:00 GMT",
-        "description": "Brent crude on Friday settled at its lowest level since the early days of the U.S.-Iran conflict. after Pakistan said a peace deal between the nations had been reached."
+        "published": "Sat, 13 Jun 2026 18:56:00 GMT",
+        "description": "A stock that dips is a blip at 30. But for older investors in or near retirement, it’s a portfolio disaster."
       },
       {
-        "title": "This hidden investing flaw is costing you money. Talking to political opponents fixes it.",
-        "link": "https://www.marketwatch.com/story/this-hidden-investing-flaw-is-costing-you-money-talking-to-political-opponents-fixes-it-fc1f7be3?mod=mw_rss_topstories",
+        "title": "When a World Cup team loses, its country’s stock market also goes down. Here’s the weird reason why.",
+        "link": "https://www.marketwatch.com/story/the-weird-reason-why-a-teams-world-cup-loss-can-trigger-a-sharp-drop-in-stock-prices-ac385f51?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 12 Jun 2026 18:15:00 GMT",
-        "description": "The stock market doesn’t care about your politics. Insisting on a portfolio that’s red or blue can forfeit a lot of green."
+        "published": "Sat, 13 Jun 2026 18:55:00 GMT",
+        "description": "Soccer’s premier tournament brings a hidden danger to your investment portfolio."
       }
     ],
     "Singapore": [
       {
-        "title": "David Beckham honored with Walk of Fame star as LA hosts World Cup games",
-        "link": "https://www.channelnewsasia.com/sport/david-beckham-honored-walk-fame-star-la-hosts-world-cup-games-6180361",
+        "title": "Mancini leaves Qatar's Al Sadd as Italy role beckons",
+        "link": "https://www.channelnewsasia.com/sport/mancini-leaves-qatars-al-sadd-italy-role-beckons-6181541",
         "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 05:24:45 +0800",
+        "published": "Sun, 14 Jun 2026 04:44:35 +0800",
         "description": ""
       },
       {
-        "title": "Meta's Zuckerberg admits 'mistakes' made on AI transformation",
-        "link": "https://www.channelnewsasia.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-6180351",
+        "title": "A woman's hypothermia death in Pittsburgh after her release from ICE custody is ruled a homicide",
+        "link": "https://www.channelnewsasia.com/world/womans-hypothermia-death-in-pittsburgh-after-her-release-ice-custody-ruled-homicide-6181471",
         "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 05:23:24 +0800",
+        "published": "Sun, 14 Jun 2026 03:46:19 +0800",
         "description": ""
       },
       {
-        "title": "Wall Street climbs as SpaceX shares launch, oil slides on Mideast deal hopes",
-        "link": "https://www.channelnewsasia.com/world/stocks-wall-street-oil-prices-spacex-peace-deal-6180306",
+        "title": "France's Kone plays down pressure on Mbappe, backs him to deliver again at World Cup",
+        "link": "https://www.channelnewsasia.com/sport/frances-kone-plays-down-pressure-mbappe-backs-him-deliver-again-world-cup-6181496",
         "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 05:21:00 +0800",
-        "description": "Wall Street ended higher as SpaceX surged 19 per cent in its Nasdaq debut, giving the company a valuation of over US$2 trillion."
-      },
-      {
-        "title": "Canada's Larin salvages 1-1 draw against Bosnia in Group B opener",
-        "link": "https://www.channelnewsasia.com/sport/canada-bosnia-herzegovina-larin-world-cup-6180291",
-        "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 05:07:00 +0800",
-        "description": "Canada drew 1-1 with Bosnia and Herzegovina in their World Cup opener after Cyle Larin scored a late equaliser."
-      },
-      {
-        "title": "Hezbollah says it confronted Israeli troops advancing in south Lebanon",
-        "link": "https://www.channelnewsasia.com/world/hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon-6180266",
-        "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 05:03:32 +0800",
-        "description": "Hezbollah says it fought Israeli troops in southern Lebanon as Israel carried out strikes and issued evacuation warnings."
-      },
-      {
-        "title": "Endo retirement forces midfield rethink for Japan ahead of Dutch meeting",
-        "link": "https://www.channelnewsasia.com/sport/endo-retirement-forces-midfield-rethink-japan-ahead-dutch-meeting-6180231",
-        "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 04:15:48 +0800",
+        "published": "Sun, 14 Jun 2026 03:46:13 +0800",
         "description": ""
       },
       {
-        "title": "France's Saliba to miss training",
-        "link": "https://www.channelnewsasia.com/sport/frances-saliba-miss-training-6180221",
+        "title": "Shelton digs deep to set up all-American Stuttgart final against Fritz",
+        "link": "https://www.channelnewsasia.com/sport/shelton-digs-deep-set-up-all-american-stuttgart-final-against-fritz-6181476",
         "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 04:09:47 +0800",
+        "published": "Sun, 14 Jun 2026 03:05:30 +0800",
         "description": ""
       },
       {
-        "title": "Japanese investors sought more than $6.2 billion worth of SpaceX shares at IPO, sources say",
-        "link": "https://www.channelnewsasia.com/business/japanese-investors-sought-more-62-billion-worth-spacex-shares-ipo-sources-say-6180216",
+        "title": "Coach Rangnick extends Austria contract until 2028",
+        "link": "https://www.channelnewsasia.com/sport/coach-rangnick-extends-austria-contract-until-2028-6181466",
         "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 04:01:21 +0800",
+        "published": "Sun, 14 Jun 2026 02:50:22 +0800",
         "description": ""
       },
       {
-        "title": "Roku is exploring strategic options, including a sale of the company, sources say",
-        "link": "https://www.channelnewsasia.com/business/roku-exploring-strategic-options-including-sale-company-sources-say-6180196",
+        "title": "Haiti fans pick up the beat as 52-year World Cup hoodoo ends",
+        "link": "https://www.channelnewsasia.com/sport/haiti-fans-pick-up-beat-52-year-world-cup-hoodoo-ends-6181461",
         "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 03:41:54 +0800",
+        "published": "Sun, 14 Jun 2026 02:42:57 +0800",
         "description": ""
       },
       {
-        "title": "Canada's Mboko to miss Wimbledon with knee injury",
-        "link": "https://www.channelnewsasia.com/sport/canadas-mboko-miss-wimbledon-knee-injury-6180181",
+        "title": "Qatar's top scorer Almoez on the bench, Swiss largely unchanged",
+        "link": "https://www.channelnewsasia.com/sport/qatars-top-scorer-almoez-bench-swiss-largely-unchanged-6181451",
         "source": "CNA Singapore",
-        "published": "Sat, 13 Jun 2026 03:29:04 +0800",
+        "published": "Sun, 14 Jun 2026 02:25:26 +0800",
         "description": ""
+      },
+      {
+        "title": "Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says",
+        "link": "https://www.channelnewsasia.com/business/amazon-voiced-concerns-about-anthropic-ai-models-us-governments-crackdown-source-says-6181441",
+        "source": "CNA Singapore",
+        "published": "Sun, 14 Jun 2026 02:13:01 +0800",
+        "description": ""
+      },
+      {
+        "title": "US authorities hunt stolen England World Cup gear",
+        "link": "https://www.channelnewsasia.com/world/us-authorities-hunt-stolen-england-world-cup-gear-6181426",
+        "source": "CNA Singapore",
+        "published": "Sun, 14 Jun 2026 01:50:14 +0800",
+        "description": ""
+      },
+      {
+        "title": "Trump to meet with Middle East leaders, attend Ukraine session at G7, US officials say",
+        "link": "https://www.channelnewsasia.com/world/trump-meet-middle-east-leaders-attend-ukraine-session-g7-us-officials-say-6181336",
+        "source": "CNA Singapore",
+        "published": "Sun, 14 Jun 2026 01:20:25 +0800",
+        "description": "Trump will speak to several European leaders, many of whom he has argued with over trade, tariffs, Ukraine and NATO since he returned to the White House."
       }
     ],
     "US Politics": [
-      {
-        "title": "Changing visa rules for care workers is wrong, says Rayner",
-        "link": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 10 Jun 2026 20:47:55 GMT",
-        "description": "The former deputy prime minister says changing visa rules for migrants already living in the UK would be \"un-British\"."
-      },
-      {
-        "title": "What's happened to UK defence spending?",
-        "link": "https://www.bbc.com/news/articles/c6244zqnk16o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 11 Jun 2026 15:21:12 GMT",
-        "description": "BBC Verify looks at the size of the UK military after Lord Robertson criticises the government over defence spending."
-      },
-      {
-        "title": "Make stolen phones unusable, Met Police urges tech giants",
-        "link": "https://www.bbc.com/news/articles/ckg4dey905yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 11 Jun 2026 07:32:31 GMT",
-        "description": "Sir Mark Rowley has asked the home secretary to introduce legislation forcing companies to publish data on stolen devices."
-      },
       {
         "title": "Facing a seismic by-election, the people of Makerfield tell us what matters to them",
         "link": "https://www.bbc.com/news/articles/ckg4dywykjeo?at_medium=RSS&at_campaign=rss",
@@ -450,18 +429,39 @@
         "description": "In conversations with residents, business owners and campaigners in Makerfield, the BBC found a mixed mood."
       },
       {
+        "title": "Healey wanted UK to join global defence bank, BBC told",
+        "link": "https://www.bbc.com/news/articles/ce8jyd85ejeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 13 Jun 2026 21:02:16 GMT",
+        "description": "Allies of the former defence secretary claim the Treasury tried to shut down the idea."
+      },
+      {
+        "title": "Resident doctors cancel strike after new offer from government",
+        "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 13 Jun 2026 20:46:11 GMT",
+        "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday."
+      },
+      {
+        "title": "Molly Russell's dad says PM rushing social media restrictions 'deplorable'",
+        "link": "https://www.bbc.com/news/articles/cwykw759v3po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 13 Jun 2026 19:15:02 GMT",
+        "description": "Father of a teenager who took her own life after viewing harmful content says plans appear to have been brought forward for a \"political reason\"."
+      },
+      {
+        "title": "Are the Downing Street dominoes about to fall?",
+        "link": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 13 Jun 2026 11:59:35 GMT",
+        "description": "John Healey's resignation as defence secretary is a disaster for the prime minister, writes Laura Kuenssberg."
+      },
+      {
         "title": "I have a duty to stay on, says PM as he justifies defence spending decisions",
         "link": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Fri, 12 Jun 2026 21:09:34 GMT",
         "description": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money."
-      },
-      {
-        "title": "Defence row exposes tensions over how to keep UK safe",
-        "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 12 Jun 2026 14:46:23 GMT",
-        "description": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\"."
       },
       {
         "title": "Troubles' legacy bill 'unfit for purpose' says ex-minister",
@@ -494,11 +494,46 @@
     ],
     "Science": [
       {
-        "title": "Scientists discover a strange property in rice and turn it into a smart material",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+        "title": "Your brain can keep improving into your 90s, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
         "source": "Science Daily",
-        "published": "Thu, 11 Jun 2026 08:29:52 EDT",
-        "description": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new materia"
+        "published": "Sat, 13 Jun 2026 10:47:04 EDT",
+        "description": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Pa"
+      },
+      {
+        "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
+        "source": "Science Daily",
+        "published": "Sat, 13 Jun 2026 10:13:48 EDT",
+        "description": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dang"
+      },
+      {
+        "title": "Alien planet spins revealed a hidden clue to how worlds form",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
+        "source": "Science Daily",
+        "published": "Sat, 13 Jun 2026 08:57:55 EDT",
+        "description": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brow"
+      },
+      {
+        "title": "Learning a musical instrument in your 70s could help protect memory",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
+        "source": "Science Daily",
+        "published": "Sat, 13 Jun 2026 08:24:37 EDT",
+        "description": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less "
+      },
+      {
+        "title": "Why grandparents matter more than ever for children's mental health",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
+        "source": "Science Daily",
+        "published": "Sat, 13 Jun 2026 05:11:52 EDT",
+        "description": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations,"
+      },
+      {
+        "title": "A hidden gene finally explains this rare neurological disorder",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032046.htm",
+        "source": "Science Daily",
+        "published": "Sat, 13 Jun 2026 03:32:20 EDT",
+        "description": "Scientists have uncovered a surprising new genetic cause of a rare movement disorder after analyzing nearly 3,000 patients with conditions affecting coordination and muscle control. The team identifie"
       },
       {
         "title": "Alaska’s glaciers have a startling response to rising temperatures",
@@ -515,13 +550,6 @@
         "description": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles "
       },
       {
-        "title": "Can fasting fight gum disease? Scientists find surprising link",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612032032.htm",
-        "source": "Science Daily",
-        "published": "Fri, 12 Jun 2026 09:05:28 EDT",
-        "description": "A low-calorie fasting-style diet significantly reduced inflammation linked to gum disease in a small clinical study. The findings suggest that what people eat may influence gum health almost as much a"
-      },
-      {
         "title": "Scientists discover a surprising cancer link to Alzheimer’s disease",
         "link": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm",
         "source": "Science Daily",
@@ -529,39 +557,11 @@
         "description": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new b"
       },
       {
-        "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-        "source": "Science Daily",
-        "published": "Fri, 12 Jun 2026 08:35:15 EDT",
-        "description": "A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration,"
-      },
-      {
-        "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
-        "source": "Science Daily",
-        "published": "Fri, 12 Jun 2026 07:57:50 EDT",
-        "description": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrin"
-      },
-      {
-        "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-        "source": "Science Daily",
-        "published": "Fri, 12 Jun 2026 06:38:54 EDT",
-        "description": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a s"
-      },
-      {
         "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
         "link": "https://www.sciencedaily.com/releases/2026/06/260612032038.htm",
         "source": "Science Daily",
         "published": "Fri, 12 Jun 2026 05:15:42 EDT",
         "description": "A spectacular fossil fish discovered on a remote cliff in New Zealand nearly 30 years ago has finally revealed its full story thanks to an unexpected discovery: the original collector’s long-lost fiel"
-      },
-      {
-        "title": "A legendary golden fabric lost for 2,000 years has returned",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260612021000.htm",
-        "source": "Science Daily",
-        "published": "Fri, 12 Jun 2026 03:02:55 EDT",
-        "description": "Researchers in South Korea have recreated the legendary “sea silk” once prized by emperors, using fibers from a clam cultivated in Korean coastal waters. They discovered that its famous golden shine c"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-      "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 12 Jun 2026 21:48:49 GMT",
-      "description": "SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion. Shares rallied more than 25%."
-    },
-    {
-      "title": "FIFA World Cup prize money: What each USMNT player stands to earn",
-      "link": "https://www.marketwatch.com/story/fifa-world-cup-prize-money-what-each-usmnt-player-stands-to-earn-332f8a96?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Fri, 12 Jun 2026 21:44:00 GMT",
-      "description": "Thanks to a landmark 2022 agreement, U.S. women’s soccer players will get part of the World Cup prize pool, too. Here’s how it works."
-    },
-    {
-      "title": "Paramount-WBD merger wins approval from DOJ, source says",
-      "link": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 12 Jun 2026 21:43:04 GMT",
-      "description": "The DOJ approval is an important milestone for the roughly $110 billion deal, though it could still face legal challenges from state attorneys general."
-    },
-    {
-      "title": "David Beckham honored with Walk of Fame star as LA hosts World Cup games",
-      "link": "https://www.channelnewsasia.com/sport/david-beckham-honored-walk-fame-star-la-hosts-world-cup-games-6180361",
-      "source": "CNA Singapore",
-      "published": "Sat, 13 Jun 2026 05:24:45 +0800",
-      "description": ""
-    },
-    {
-      "title": "Meta's Zuckerberg admits 'mistakes' made on AI transformation",
-      "link": "https://www.channelnewsasia.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-6180351",
-      "source": "CNA Singapore",
-      "published": "Sat, 13 Jun 2026 05:23:24 +0800",
-      "description": ""
-    },
-    {
-      "title": "Wall Street climbs as SpaceX shares launch, oil slides on Mideast deal hopes",
-      "link": "https://www.channelnewsasia.com/world/stocks-wall-street-oil-prices-spacex-peace-deal-6180306",
-      "source": "CNA Singapore",
-      "published": "Sat, 13 Jun 2026 05:21:00 +0800",
-      "description": "Wall Street ended higher as SpaceX surged 19 per cent in its Nasdaq debut, giving the company a valuation of over US$2 trillion."
-    },
-    {
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 12 Jun 2026 21:20:55 GMT",
-      "description": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn."
-    },
-    {
-      "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
-      "link": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 12 Jun 2026 21:15:28 GMT",
-      "description": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO."
-    },
-    {
-      "title": "Call Kevin Warsh the Fed 'chairman'",
-      "link": "https://www.cnbc.com/2026/06/12/fed-kevin-warsh-chairman-title.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 12 Jun 2026 21:11:46 GMT",
-      "description": "Kevin Warsh's two immediate predecessors preferred to be called the Fed \"chair.\" For Warsh, it's \"chairman\" of the Federal Reserve."
-    },
-    {
-      "title": "I have a duty to stay on, says PM as he justifies defence spending decisions",
-      "link": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
+      "title": "Healey wanted UK to join global defence bank, BBC told",
+      "link": "https://www.bbc.com/news/articles/ce8jyd85ejeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Politics",
-      "published": "Fri, 12 Jun 2026 21:09:34 GMT",
-      "description": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money."
+      "published": "Sat, 13 Jun 2026 21:02:16 GMT",
+      "description": "Allies of the former defence secretary claim the Treasury tried to shut down the idea."
+    },
+    {
+      "title": "Resident doctors cancel strike after new offer from government",
+      "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "published": "Sat, 13 Jun 2026 20:46:11 GMT",
+      "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday."
+    },
+    {
+      "title": "Mancini leaves Qatar's Al Sadd as Italy role beckons",
+      "link": "https://www.channelnewsasia.com/sport/mancini-leaves-qatars-al-sadd-italy-role-beckons-6181541",
+      "source": "CNA Singapore",
+      "published": "Sun, 14 Jun 2026 04:44:35 +0800",
+      "description": ""
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch",
+      "published": "Sat, 13 Jun 2026 20:42:31 +0000",
+      "description": "Once again, AI proves to be an unreliable source of information about AI."
+    },
+    {
+      "title": "A woman's hypothermia death in Pittsburgh after her release from ICE custody is ruled a homicide",
+      "link": "https://www.channelnewsasia.com/world/womans-hypothermia-death-in-pittsburgh-after-her-release-ice-custody-ruled-homicide-6181471",
+      "source": "CNA Singapore",
+      "published": "Sun, 14 Jun 2026 03:46:19 +0800",
+      "description": ""
+    },
+    {
+      "title": "France's Kone plays down pressure on Mbappe, backs him to deliver again at World Cup",
+      "link": "https://www.channelnewsasia.com/sport/frances-kone-plays-down-pressure-mbappe-backs-him-deliver-again-world-cup-6181496",
+      "source": "CNA Singapore",
+      "published": "Sun, 14 Jun 2026 03:46:13 +0800",
+      "description": ""
+    },
+    {
+      "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
+      "link": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+      "source": "CNBC Finance",
+      "published": "Sat, 13 Jun 2026 19:44:44 GMT",
+      "description": "President Donald Trump posted on Truth Social that a deal to end the war with Iran will be signed on Sunday."
+    },
+    {
+      "title": "Molly Russell's dad says PM rushing social media restrictions 'deplorable'",
+      "link": "https://www.bbc.com/news/articles/cwykw759v3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "published": "Sat, 13 Jun 2026 19:15:02 GMT",
+      "description": "Father of a teenager who took her own life after viewing harmful content says plans appear to have been brought forward for a \"political reason\"."
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch",
+      "published": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+    },
+    {
+      "title": "Shelton digs deep to set up all-American Stuttgart final against Fritz",
+      "link": "https://www.channelnewsasia.com/sport/shelton-digs-deep-set-up-all-american-stuttgart-final-against-fritz-6181476",
+      "source": "CNA Singapore",
+      "published": "Sun, 14 Jun 2026 03:05:30 +0800",
+      "description": ""
     }
   ]
 }
