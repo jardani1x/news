@@ -1,80 +1,87 @@
 {
-  "updated_sgt": "2026-07-04 05:10 SGT",
-  "updated_iso": "2026-07-04T05:10:22.984456+08:00",
+  "updated_sgt": "2026-07-05 05:00 SGT",
+  "updated_iso": "2026-07-05T05:00:21.649091+08:00",
   "categories": {
     "World": [
+      {
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 18:41:25 GMT",
+        "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\"."
+      },
+      {
+        "title": "Injury ends Williams' Wimbledon comeback",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 17:22:46 GMT",
+        "description": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury."
+      },
+      {
+        "title": "Former chess champion Kramnik banned over cheating remarks",
+        "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 15:45:15 GMT",
+        "description": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating."
+      },
+      {
+        "title": "Pope urges Europe to do more for migrants as he visits gateway island",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 11:25:57 GMT",
+        "description": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa."
+      },
+      {
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 09:45:55 GMT",
+        "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq."
+      },
+      {
+        "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+        "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 07:52:55 GMT",
+        "description": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place."
+      },
+      {
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 02:57:48 GMT",
+        "description": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days."
+      },
+      {
+        "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+        "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 02:26:54 GMT",
+        "description": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena."
+      },
+      {
+        "title": "Row after Indian state drops eggs from school lunch menu",
+        "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 04 Jul 2026 00:55:10 GMT",
+        "description": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice."
+      },
       {
         "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
         "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Fri, 03 Jul 2026 21:00:53 GMT",
         "description": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification."
-      },
-      {
-        "title": "Iran begins public mourning for Ayatollah killed in February",
-        "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 19:03:45 GMT",
-        "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events."
-      },
-      {
-        "title": "Polish PM warns critical months ahead in face of Russian threat",
-        "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 16:41:00 GMT",
-        "description": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack."
-      },
-      {
-        "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
-        "link": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 16:39:00 GMT",
-        "description": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal."
-      },
-      {
-        "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 16:31:40 GMT",
-        "description": "Lam Wing-kee, who defied China by selling material critical of Beijing, passed away after suffering from lung cancer."
-      },
-      {
-        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 15:20:57 GMT",
-        "description": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack."
-      },
-      {
-        "title": "German row over plan for workers to need sick note on first day of illness",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 14:56:30 GMT",
-        "description": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person."
-      },
-      {
-        "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
-        "link": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 12:28:43 GMT",
-        "description": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"inciting hatred and hostility\" on stage."
-      },
-      {
-        "title": "Nasa launches mission to save falling space telescope",
-        "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 10:28:17 GMT",
-        "description": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up."
-      },
-      {
-        "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-        "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 03 Jul 2026 10:23:32 GMT",
-        "description": "Forecasters are warning of further extreme temperatures on the continent in the next few days."
       }
     ],
     "Finance": [
+      {
+        "title": "Trump Accounts for kids launch July 4: What parents need to know",
+        "link": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 01 Jul 2026 12:15:01 GMT",
+        "description": "Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn."
+      },
       {
         "title": "5 takeaways from President Donald Trump's interview with CNBC",
         "link": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
@@ -83,18 +90,46 @@
         "description": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments."
       },
       {
-        "title": "Feds seek lower prison term for $100 million New Jersey deli fraudster — but some reasons why are hidden",
-        "link": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+        "title": "I’ve worked with over 5,000 kids: I swear by this No. 1 parenting rule—it’s ‘surprisingly simple’",
+        "link": "https://www.cnbc.com/2026/07/04/ive-studied-over-5000-kidsi-keep-giving-parents-the-same-surprisingly-simple-advice.html",
         "source": "CNBC Finance",
-        "published": "Fri, 03 Jul 2026 19:33:26 GMT",
-        "description": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli."
+        "published": "Sat, 04 Jul 2026 17:03:15 GMT",
+        "description": "Child development expert Siggie Cohen, who has worked with over 5,000 families, shares one communication mistake she sees parents make every day. Here's why she says it can backfire, when to set clear"
       },
       {
-        "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
-        "link": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
+        "title": "The World Cup sends prediction market volumes soaring to record highs",
+        "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
         "source": "CNBC Finance",
-        "published": "Fri, 03 Jul 2026 19:00:44 GMT",
-        "description": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year."
+        "published": "Sat, 04 Jul 2026 12:54:04 GMT",
+        "description": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume."
+      },
+      {
+        "title": "UK and France agree with Oman to ensure safety of its territorial waters",
+        "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 04 Jul 2026 09:58:07 GMT",
+        "description": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships."
+      },
+      {
+        "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+        "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 04 Jul 2026 09:33:19 GMT",
+        "description": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure."
+      },
+      {
+        "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+        "link": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 04 Jul 2026 05:20:52 GMT",
+        "description": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad."
+      },
+      {
+        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+        "link": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 04 Jul 2026 01:04:34 GMT",
+        "description": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli."
       },
       {
         "title": "First known congressional SpaceX stock buys surface after record IPO",
@@ -102,41 +137,6 @@
         "source": "CNBC Finance",
         "published": "Fri, 03 Jul 2026 18:16:43 GMT",
         "description": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington."
-      },
-      {
-        "title": "American Express and Chase move luxury lounge wars beyond the airport",
-        "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 03 Jul 2026 18:03:34 GMT",
-        "description": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders."
-      },
-      {
-        "title": "Acting DNI Pulte fires dozens of intelligence officials: MS Now",
-        "link": "https://www.cnbc.com/2026/07/03/acting-dni-pulte-fires-dozens-of-intelligence-officials-ms-now.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 03 Jul 2026 17:44:28 GMT",
-        "description": "President Donald Trump's controversial pick to lead the office of the Director of National Intelligence has begun firing intel officials, MS NOW reported."
-      },
-      {
-        "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
-        "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 03 Jul 2026 12:08:21 GMT",
-        "description": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation."
-      },
-      {
-        "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
-        "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 03 Jul 2026 12:00:01 GMT",
-        "description": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday."
-      },
-      {
-        "title": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
-        "link": "https://www.cnbc.com/2026/07/03/aca-enrollment-enhanced-subsidies-lapse-fraud.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 03 Jul 2026 12:00:01 GMT",
-        "description": "Affordable Care Act marketplace enrollment has declined by 3 million people. The Trump administration points to fraud controls. Policy experts point to cost."
       },
       {
         "title": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
@@ -148,39 +148,39 @@
     ],
     "Technology": [
       {
-        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-        "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+        "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
         "source": "TechCrunch",
-        "published": "Thu, 02 Jul 2026 23:38:10 +0000",
-        "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+        "published": "Sat, 04 Jul 2026 20:55:25 +0000",
+        "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
       },
       {
-        "title": "Private space pilots are flying orbital missions for the US Space Force",
-        "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
         "source": "TechCrunch",
-        "published": "Thu, 02 Jul 2026 23:01:06 +0000",
-        "description": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military."
+        "published": "Sat, 04 Jul 2026 18:00:05 +0000",
+        "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
       },
       {
-        "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-        "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
         "source": "TechCrunch",
-        "published": "Thu, 02 Jul 2026 21:57:10 +0000",
-        "description": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing."
+        "published": "Sat, 04 Jul 2026 16:32:08 +0000",
+        "description": "Alibaba has reportedly classified Claude Code as high-risk software."
       },
       {
-        "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-        "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+        "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
         "source": "TechCrunch",
-        "published": "Thu, 02 Jul 2026 20:42:48 +0000",
-        "description": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion."
+        "published": "Sat, 04 Jul 2026 15:51:32 +0000",
+        "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
       },
       {
-        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-        "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "title": "The only AI glossary you’ll need this year",
+        "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
         "source": "TechCrunch",
-        "published": "Thu, 02 Jul 2026 20:11:59 +0000",
-        "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
+        "published": "Fri, 03 Jul 2026 21:20:00 +0000",
+        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
       },
       {
         "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
@@ -278,145 +278,145 @@
     ],
     "Markets": [
       {
+        "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+        "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 04 Jul 2026 20:56:00 GMT",
+        "description": "“He lived rent-free, helping her with health-related issues and other tasks.”"
+      },
+      {
         "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
         "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 20:00:00 GMT",
+        "published": "Sat, 04 Jul 2026 19:01:00 GMT",
         "description": "Why it’s a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo’ to Apple"
       },
       {
-        "title": "Record beef imports are flooding the U.S. — so why is your Fourth of July BBQ so expensive?",
-        "link": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
+        "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
+        "link": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 19:34:00 GMT",
-        "description": "Beef prices are sizzling and Washington’s recipe for high costs — import more meat — only grills your wallet."
+        "published": "Sat, 04 Jul 2026 18:56:00 GMT",
+        "description": "Older workers are fighting ageism by starting their own businesses — and they’re outperforming younger entrepreneurs"
       },
       {
-        "title": "Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.",
-        "link": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
+        "title": "Why June’s jobs and inflation data are bullish for bonds",
+        "link": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 19:32:00 GMT",
-        "description": "Before your single mom or dad remarries, talk with them about estate-planning issues."
+        "published": "Sat, 04 Jul 2026 18:37:00 GMT",
+        "description": "The new jobs report is worse than many people realize."
       },
       {
-        "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.",
-        "link": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+        "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
+        "link": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 19:10:00 GMT",
-        "description": "The new accounts ban bonds and international stocks, forcing parents to bet their children’s financial future entirely on U.S. equities."
+        "published": "Sat, 04 Jul 2026 18:19:00 GMT",
+        "description": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or re"
       },
       {
-        "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-        "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
+        "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
+        "link": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 19:00:00 GMT",
-        "description": "“I’m torn between these two options.”"
+        "published": "Sat, 04 Jul 2026 17:59:00 GMT",
+        "description": "The money in “Trump accounts” has to be invested in low-cost index funds — and now parents and investors are learning which funds they can actually use."
       },
       {
-        "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-        "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+        "title": "Jelly Roll’s ex-wife Bunnie Xo says he gave her their $6 million Tennessee estate in divorce",
+        "link": "https://www.marketwatch.com/story/jelly-rolls-ex-wife-bunnie-xo-says-he-gave-her-their-6-million-tennessee-estate-in-divorce-97a6c910?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 18:52:00 GMT",
-        "description": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”"
+        "published": "Sat, 04 Jul 2026 17:57:00 GMT",
+        "description": "Country singer Jelly Roll’s ex-wife, Bunnie Xo, has revealed that she will take full ownership of the former couple’s Tennessee compound as part of their divorce settlement."
       },
       {
         "title": "Want to live longer in retirement? This one money move could add years to your life.",
         "link": "https://www.marketwatch.com/story/want-to-live-longer-in-retirement-this-one-money-move-could-add-years-to-your-life-e8f2b4ba?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 18:42:00 GMT",
+        "published": "Sat, 04 Jul 2026 17:38:00 GMT",
         "description": "A secure retirement portfolio acts like a health shield, calming market anxiety that can actually shorten life expectancy."
       },
       {
-        "title": "Before you max out your 401(k) this year, consider a much better use for your next paycheck",
-        "link": "https://www.marketwatch.com/story/why-maxing-out-your-401-k-is-a-major-financial-mistake-if-you-have-credit-card-and-other-punishing-debt-4c25beab?mod=mw_rss_topstories",
+        "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+        "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 18:32:00 GMT",
-        "description": "Grabbing an employer match is essential, but prioritizing high-interest debt and emergency cash can bring much better near-term results."
+        "published": "Sat, 04 Jul 2026 17:30:00 GMT",
+        "description": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference.”"
       },
       {
-        "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-        "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+        "title": "Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.",
+        "link": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 18:25:00 GMT",
-        "description": "“It seems like half of the workforce at our local Walmart is over 65.”"
-      },
-      {
-        "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star",
-        "link": "https://www.marketwatch.com/story/the-world-cup-has-made-cape-verde-goalkeeper-vozinha-a-17-million-star-15af0138?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 03 Jul 2026 16:24:00 GMT",
-        "description": "As Cape Verde faces off against Lionel Messi and Argentina tonight, here’s a look at what could be next for the breakout World Cup star"
+        "published": "Sat, 04 Jul 2026 17:22:00 GMT",
+        "description": "Before your single mom or dad remarries, talk with them about estate-planning issues."
       }
     ],
     "Singapore": [
       {
-        "title": "Egypt beat Australia on penalties to reach World Cup round of 16",
-        "link": "https://www.channelnewsasia.com/sport/egypt-beat-australia-penalties-reach-world-cup-round-16-6231376",
+        "title": "Ruthless Morocco break Canadian hearts to reach World Cup quarters",
+        "link": "https://www.channelnewsasia.com/sport/ruthless-morocco-break-canadian-hearts-reach-world-cup-quarters-6232556",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 05:01:12 +0800",
+        "published": "Sun, 05 Jul 2026 04:48:09 +0800",
         "description": ""
       },
       {
-        "title": "Messi extends World Cup record as he starts for Argentina against Cape Verde",
-        "link": "https://www.channelnewsasia.com/sport/messi-extends-world-cup-record-he-starts-argentina-against-cape-verde-6231371",
+        "title": "Morocco's ruthless touch and street smarts show evolution into top team",
+        "link": "https://www.channelnewsasia.com/sport/moroccos-ruthless-touch-and-street-smarts-show-evolution-top-team-6232531",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 04:48:36 +0800",
+        "published": "Sun, 05 Jul 2026 04:25:14 +0800",
         "description": ""
       },
       {
-        "title": "Morocco's Ouahbi backs Diaz to spark 'organised chaos' against Canada",
-        "link": "https://www.channelnewsasia.com/sport/moroccos-ouahbi-backs-diaz-spark-organised-chaos-against-canada-6231356",
+        "title": "US feel fans' belief ahead of Belgium battle, Dest says",
+        "link": "https://www.channelnewsasia.com/sport/us-feel-fans-belief-ahead-belgium-battle-dest-says-6232491",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 04:35:18 +0800",
+        "published": "Sun, 05 Jul 2026 04:02:31 +0800",
         "description": ""
       },
       {
-        "title": "Brazil face Haaland and Norway hoodoo in World Cup last 16",
-        "link": "https://www.channelnewsasia.com/sport/brazil-face-haaland-and-norway-hoodoo-in-world-cup-last-16-6231361",
+        "title": "Vingegaard closes difficult chapter as he dons Tour yellow jersey",
+        "link": "https://www.channelnewsasia.com/sport/vingegaard-closes-difficult-chapter-he-dons-tour-yellow-jersey-6232496",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 04:33:31 +0800",
+        "published": "Sun, 05 Jul 2026 04:00:54 +0800",
         "description": ""
       },
       {
-        "title": "Suspended Balogun focused on supporting US team in clash with Belgium",
-        "link": "https://www.channelnewsasia.com/sport/suspended-balogun-focused-supporting-us-team-in-clash-belgium-6231346",
+        "title": "France's Kone in for injured Tchouameni for Paraguay World Cup clash",
+        "link": "https://www.channelnewsasia.com/sport/frances-kone-in-injured-tchouameni-paraguay-world-cup-clash-6232486",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 04:20:50 +0800",
+        "published": "Sun, 05 Jul 2026 03:52:58 +0800",
         "description": ""
       },
       {
-        "title": "Canada need to keep focus against dangerous Morocco, coach Marsch says",
-        "link": "https://www.channelnewsasia.com/sport/canada-need-keep-focus-against-dangerous-morocco-coach-marsch-says-6231336",
+        "title": "Norway must keep cool heads in World Cup clash with Brazil, says Solbakken",
+        "link": "https://www.channelnewsasia.com/sport/norway-must-keep-cool-heads-in-world-cup-clash-brazil-says-solbakken-6232476",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 04:16:57 +0800",
+        "published": "Sun, 05 Jul 2026 03:26:58 +0800",
         "description": ""
       },
       {
-        "title": "Ukraine backers to vow major support at NATO summit",
-        "link": "https://www.channelnewsasia.com/world/nato-ukraine-support-summit-ankara-6231256",
+        "title": "Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals",
+        "link": "https://www.channelnewsasia.com/sport/clinical-morocco-ease-past-canada-3-0-reach-world-cup-quarter-finals-6232471",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 04:13:14 +0800",
-        "description": "Ukrainian President Volodymyr Zelenskyy is expected to attend the summit in Ankara."
-      },
-      {
-        "title": "Djokovic reaches another milestone, Sinner warming to the task",
-        "link": "https://www.channelnewsasia.com/sport/djokovic-reaches-another-milestone-sinner-warming-task-6231331",
-        "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 04:09:04 +0800",
+        "published": "Sun, 05 Jul 2026 03:21:05 +0800",
         "description": ""
       },
       {
-        "title": "Egypt say police officer pushed player, team director at World Cup",
-        "link": "https://www.channelnewsasia.com/sport/egypt-say-police-officer-pushed-player-team-director-world-cup-6231311",
+        "title": "Fery keeps British flag flying at Wimbledon as he out-battles Bergs",
+        "link": "https://www.channelnewsasia.com/sport/fery-keeps-british-flag-flying-wimbledon-he-out-battles-bergs-6232451",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 03:51:30 +0800",
+        "published": "Sun, 05 Jul 2026 03:13:18 +0800",
         "description": ""
       },
       {
-        "title": "French officials told they can cancel Tour stages in extreme heat",
-        "link": "https://www.channelnewsasia.com/sport/french-officials-told-they-can-cancel-tour-stages-in-extreme-heat-6231291",
+        "title": "Eala hopes Wimbledon heroics inspire others to forge own path",
+        "link": "https://www.channelnewsasia.com/sport/eala-hopes-wimbledon-heroics-inspire-others-forge-own-path-6232456",
         "source": "CNA Singapore",
-        "published": "Sat, 04 Jul 2026 03:30:52 +0800",
+        "published": "Sun, 05 Jul 2026 03:11:54 +0800",
+        "description": ""
+      },
+      {
+        "title": "Vancouver sunset pickup players hope to build on World Cup legacy",
+        "link": "https://www.channelnewsasia.com/sport/vancouver-sunset-pickup-players-hope-build-world-cup-legacy-6232446",
+        "source": "CNA Singapore",
+        "published": "Sun, 05 Jul 2026 03:07:36 +0800",
         "description": ""
       }
     ],
@@ -436,10 +436,10 @@
         "description": "In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office."
       },
       {
-        "title": "Starmer warns Burnham will have to spend time on global affairs, in first interview since quitting",
+        "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
         "link": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 03 Jul 2026 21:00:21 GMT",
+        "published": "Fri, 03 Jul 2026 21:26:53 GMT",
         "description": "In an untypically candid interview, the outgoing PM tells the BBC it was \"really tough\" to accept his political career was over."
       },
       {
@@ -571,73 +571,73 @@
   },
   "top10": [
     {
-      "title": "Egypt beat Australia on penalties to reach World Cup round of 16",
-      "link": "https://www.channelnewsasia.com/sport/egypt-beat-australia-penalties-reach-world-cup-round-16-6231376",
+      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sat, 04 Jul 2026 20:56:00 GMT",
+      "description": "“He lived rent-free, helping her with health-related issues and other tasks.”"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch",
+      "published": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+    },
+    {
+      "title": "Ruthless Morocco break Canadian hearts to reach World Cup quarters",
+      "link": "https://www.channelnewsasia.com/sport/ruthless-morocco-break-canadian-hearts-reach-world-cup-quarters-6232556",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 05:01:12 +0800",
+      "published": "Sun, 05 Jul 2026 04:48:09 +0800",
       "description": ""
     },
     {
-      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-      "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 03 Jul 2026 21:00:53 GMT",
-      "description": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification."
-    },
-    {
-      "title": "Starmer warns Burnham will have to spend time on global affairs, in first interview since quitting",
-      "link": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Politics",
-      "published": "Fri, 03 Jul 2026 21:00:21 GMT",
-      "description": "In an untypically candid interview, the outgoing PM tells the BBC it was \"really tough\" to accept his political career was over."
-    },
-    {
-      "title": "Messi extends World Cup record as he starts for Argentina against Cape Verde",
-      "link": "https://www.channelnewsasia.com/sport/messi-extends-world-cup-record-he-starts-argentina-against-cape-verde-6231371",
+      "title": "Morocco's ruthless touch and street smarts show evolution into top team",
+      "link": "https://www.channelnewsasia.com/sport/moroccos-ruthless-touch-and-street-smarts-show-evolution-top-team-6232531",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 04:48:36 +0800",
+      "published": "Sun, 05 Jul 2026 04:25:14 +0800",
       "description": ""
     },
     {
-      "title": "Morocco's Ouahbi backs Diaz to spark 'organised chaos' against Canada",
-      "link": "https://www.channelnewsasia.com/sport/moroccos-ouahbi-backs-diaz-spark-organised-chaos-against-canada-6231356",
+      "title": "US feel fans' belief ahead of Belgium battle, Dest says",
+      "link": "https://www.channelnewsasia.com/sport/us-feel-fans-belief-ahead-belgium-battle-dest-says-6232491",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 04:35:18 +0800",
+      "published": "Sun, 05 Jul 2026 04:02:31 +0800",
       "description": ""
     },
     {
-      "title": "Brazil face Haaland and Norway hoodoo in World Cup last 16",
-      "link": "https://www.channelnewsasia.com/sport/brazil-face-haaland-and-norway-hoodoo-in-world-cup-last-16-6231361",
+      "title": "Vingegaard closes difficult chapter as he dons Tour yellow jersey",
+      "link": "https://www.channelnewsasia.com/sport/vingegaard-closes-difficult-chapter-he-dons-tour-yellow-jersey-6232496",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 04:33:31 +0800",
+      "published": "Sun, 05 Jul 2026 04:00:54 +0800",
       "description": ""
     },
     {
-      "title": "Suspended Balogun focused on supporting US team in clash with Belgium",
-      "link": "https://www.channelnewsasia.com/sport/suspended-balogun-focused-supporting-us-team-in-clash-belgium-6231346",
+      "title": "France's Kone in for injured Tchouameni for Paraguay World Cup clash",
+      "link": "https://www.channelnewsasia.com/sport/frances-kone-in-injured-tchouameni-paraguay-world-cup-clash-6232486",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 04:20:50 +0800",
+      "published": "Sun, 05 Jul 2026 03:52:58 +0800",
       "description": ""
     },
     {
-      "title": "Canada need to keep focus against dangerous Morocco, coach Marsch says",
-      "link": "https://www.channelnewsasia.com/sport/canada-need-keep-focus-against-dangerous-morocco-coach-marsch-says-6231336",
+      "title": "Norway must keep cool heads in World Cup clash with Brazil, says Solbakken",
+      "link": "https://www.channelnewsasia.com/sport/norway-must-keep-cool-heads-in-world-cup-clash-brazil-says-solbakken-6232476",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 04:16:57 +0800",
+      "published": "Sun, 05 Jul 2026 03:26:58 +0800",
       "description": ""
     },
     {
-      "title": "Ukraine backers to vow major support at NATO summit",
-      "link": "https://www.channelnewsasia.com/world/nato-ukraine-support-summit-ankara-6231256",
+      "title": "Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals",
+      "link": "https://www.channelnewsasia.com/sport/clinical-morocco-ease-past-canada-3-0-reach-world-cup-quarter-finals-6232471",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 04:13:14 +0800",
-      "description": "Ukrainian President Volodymyr Zelenskyy is expected to attend the summit in Ankara."
+      "published": "Sun, 05 Jul 2026 03:21:05 +0800",
+      "description": ""
     },
     {
-      "title": "Djokovic reaches another milestone, Sinner warming to the task",
-      "link": "https://www.channelnewsasia.com/sport/djokovic-reaches-another-milestone-sinner-warming-task-6231331",
+      "title": "Fery keeps British flag flying at Wimbledon as he out-battles Bergs",
+      "link": "https://www.channelnewsasia.com/sport/fery-keeps-british-flag-flying-wimbledon-he-out-battles-bergs-6232451",
       "source": "CNA Singapore",
-      "published": "Sat, 04 Jul 2026 04:09:04 +0800",
+      "published": "Sun, 05 Jul 2026 03:13:18 +0800",
       "description": ""
     }
   ]
