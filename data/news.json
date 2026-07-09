@@ -1,498 +1,526 @@
 {
-  "updated_sgt": "2026-07-09 05:10 SGT",
-  "updated_iso": "2026-07-09T05:10:06.934148+08:00",
+  "updated_sgt": "2026-07-10 05:25 SGT",
+  "updated_iso": "2026-07-10T05:25:15.282014+08:00",
   "categories": {
     "World": [
       {
-        "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 08 Jul 2026 23:11:35 GMT",
+        "description": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures."
+      },
+      {
+        "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 08 Jul 2026 20:40:11 GMT",
+        "description": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey."
+      },
+      {
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
         "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 21:08:26 GMT",
-        "description": "Explosions have been reported by Iranian state media in parts of the country's south."
+        "published": "Thu, 09 Jul 2026 21:13:49 GMT",
+        "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday."
       },
       {
-        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-        "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 20:18:13 GMT",
-        "description": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived."
+        "published": "Thu, 09 Jul 2026 21:04:09 GMT",
+        "description": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war."
       },
       {
-        "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-        "link": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+        "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 17:31:47 GMT",
-        "description": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about."
+        "published": "Thu, 09 Jul 2026 20:47:41 GMT",
+        "description": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods."
       },
       {
-        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-        "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
+        "link": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 17:18:14 GMT",
-        "description": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times."
+        "published": "Thu, 09 Jul 2026 17:01:15 GMT",
+        "description": "A former US Olympian canoeist denies accusations that he deliberately damaged the lining of the refurbished Lincoln Memorial Reflecting Pool."
       },
       {
-        "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-        "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+        "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+        "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 15:09:08 GMT",
-        "description": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria."
+        "published": "Thu, 09 Jul 2026 16:15:10 GMT",
+        "description": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames."
       },
       {
-        "title": "German doctor jailed for murder of 15 patients and suspected of more",
-        "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+        "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 14:25:25 GMT",
-        "description": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients."
+        "published": "Thu, 09 Jul 2026 15:21:17 GMT",
+        "description": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea."
       },
       {
-        "title": "Eight killed after landslide hits girls' school in Bangladesh",
-        "link": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
+        "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 14:02:54 GMT",
-        "description": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast."
+        "published": "Thu, 09 Jul 2026 14:41:54 GMT",
+        "description": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week."
       },
       {
-        "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-        "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+        "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 07:53:37 GMT",
-        "description": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown."
-      },
-      {
-        "title": "Nato allies announce £37bn for new missile project",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 05:57:53 GMT",
-        "description": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara."
-      },
-      {
-        "title": "US strikes target Iranian military boats",
-        "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Wed, 08 Jul 2026 05:42:37 GMT",
-        "description": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz."
+        "published": "Thu, 09 Jul 2026 14:37:19 GMT",
+        "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\"."
       }
     ],
     "Finance": [
       {
-        "title": "Judge orders E. Jean Carroll be paid $5 million in damages from Trump verdict",
-        "link": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
+        "title": "Florida's Palm Beach airport renamed for Trump",
+        "link": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 21:08:18 GMT",
-        "description": "Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store."
+        "published": "Thu, 09 Jul 2026 20:55:37 GMT",
+        "description": "Palm Beach International Airport is now called President Donald J. Trump International Airport, the FAA said Thursday."
       },
       {
-        "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
-        "link": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
+        "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
+        "link": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 21:02:25 GMT",
-        "description": "SpaceX's record IPO raised a total of $85.7 billion after underwriters exercised the \"greenshoe\" overallotment."
+        "published": "Thu, 09 Jul 2026 20:48:18 GMT",
+        "description": "Steve Sedgwick goes behind the scenes of NATO's dramatic 48 hours, where Trump's changing tone reshaped diplomacy and left allies guessing."
       },
       {
-        "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
-        "link": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+        "title": "Anduril CEO says it's bad to IPO in ‘middle of a hype cycle’",
+        "link": "https://www.cnbc.com/2026/07/09/anduril-ceo-ipo-defense.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 20:40:10 GMT",
-        "description": "Meta is building its first big Canadian data center as AI expansion crosses the border."
+        "published": "Thu, 09 Jul 2026 20:45:46 GMT",
+        "description": "Anduril recently hit a $61 billion valuation, becoming one of the most highly valued private tech companies."
       },
       {
-        "title": "U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal",
-        "link": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
+        "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+        "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 20:28:12 GMT",
-        "description": "Centcom said it launched dozens of strikes on Iranian military infrastructure and small boats; Trump said the U.S. might take more military action \"tonight.\""
+        "published": "Thu, 09 Jul 2026 19:53:20 GMT",
+        "description": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations."
       },
       {
-        "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
-        "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+        "title": "A huge trade just happened on the Nasdaq 100. Bulls are taking notice",
+        "link": "https://www.cnbc.com/2026/07/09/a-huge-trade-just-happened-on-the-nasdaq-100-bulls-are-taking-notice.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 20:12:47 GMT",
-        "description": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter."
+        "published": "Thu, 09 Jul 2026 19:26:44 GMT",
+        "description": "Tech bulls may not have to wait much longer for fresh highs, if the single-biggest trade in the Invesco QQQ Trust ETF on Thursday is any indication."
       },
       {
-        "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
-        "link": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
+        "title": "Kalshi traders see roughly 50% odds of a rate hike in 2026 as Fed is split on policy",
+        "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-roughly-50percent-odds-of-a-rate-hike-in-2026-as-fed-is-split-on-policy.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 19:33:37 GMT",
-        "description": "The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks."
+        "published": "Thu, 09 Jul 2026 19:24:21 GMT",
+        "description": "Wednesday's Fed minutes showed a divided outlook on where interest rates are headed this year. Traders on Kalshi see a 54% likelihood of a hike before 2027."
       },
       {
-        "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
-        "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+        "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+        "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 19:05:47 GMT",
-        "description": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting."
+        "published": "Thu, 09 Jul 2026 18:52:22 GMT",
+        "description": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer."
       },
       {
-        "title": "McConnell health update demanded by Gov. Beshear as Senate vacancy questions grow",
-        "link": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
+        "title": "Alleged Reflecting Pool vandal David Hearn pleads not guilty; lawyer calls him 'scapegoat'",
+        "link": "https://www.cnbc.com/2026/07/09/reflecting-pool-david-hearn-washington-trump-olympian.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 17:42:25 GMT",
-        "description": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to a hospital on June 14."
+        "published": "Thu, 09 Jul 2026 17:35:10 GMT",
+        "description": "\"If Mr. Hearn can be charged with a felony for touching the Reflecting Pool, every American is at risk,\" a lawyer said as he blasted the Trump administration."
       },
       {
-        "title": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
-        "link": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html",
+        "title": "These 10 states are best positioned to land AI data center deals despite rising public opposition",
+        "link": "https://www.cnbc.com/2026/07/09/best-states-for-ai-data-centers.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 13:26:53 GMT",
-        "description": "U.S. President Donald Trump slammed Spain for not contributing enough to NATO, as he attended the defense alliance summit in Turkey."
+        "published": "Thu, 09 Jul 2026 16:08:40 GMT",
+        "description": "These ten U.S. states have the best infrastructure to win future AI data center deals despite rising public opposition."
       },
       {
-        "title": "Trump pours cold water on NATO allies' united front",
-        "link": "https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html",
+        "title": "June home sales disappoint as prices reach an all-time high",
+        "link": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
         "source": "CNBC Finance",
-        "published": "Wed, 08 Jul 2026 10:58:47 GMT",
-        "description": "Trump criticized NATO allies over defense spending, attacked Spain and renewed his Greenland push during the alliance’s summit in Turkey."
+        "published": "Thu, 09 Jul 2026 14:44:29 GMT",
+        "description": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high."
       }
     ],
     "Technology": [
       {
-        "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-        "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+        "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 20:37:03 +0000",
-        "description": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
+        "published": "Thu, 09 Jul 2026 19:40:45 +0000",
+        "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa"
       },
       {
-        "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-        "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+        "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
+        "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 20:29:50 +0000",
-        "description": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that appl"
+        "published": "Thu, 09 Jul 2026 19:26:31 +0000",
+        "description": "In this week’s episode of Build Mode, Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders sho"
       },
       {
-        "title": "Autonomous drone delivery startup Manna plots major US expansion",
-        "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 20:06:54 +0000",
-        "description": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people."
+        "published": "Thu, 09 Jul 2026 19:05:58 +0000",
+        "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
       },
       {
-        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-        "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+        "title": "Slate Auto teams up with Crayola to color its EV truck",
+        "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 19:30:16 +0000",
-        "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
+        "published": "Thu, 09 Jul 2026 19:01:16 +0000",
+        "description": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors."
       },
       {
-        "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
-        "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+        "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
+        "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 19:22:11 +0000",
-        "description": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture."
+        "published": "Thu, 09 Jul 2026 18:50:00 +0000",
+        "description": "The video call highlights the murky relationship between professional athletes and gambling apps."
       },
       {
-        "title": "This startup thinks robotics is about to have its ChatGPT moment",
-        "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+        "title": "Mercor is in talks for a $20B valuation",
+        "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 19:19:15 +0000",
-        "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+        "published": "Thu, 09 Jul 2026 18:42:22 +0000",
+        "description": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October."
       },
       {
-        "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
-        "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+        "title": "Google will now disclose which ads are made with AI",
+        "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 18:46:20 +0000",
-        "description": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking "
+        "published": "Thu, 09 Jul 2026 18:40:51 +0000",
+        "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required electio"
       },
       {
-        "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-        "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+        "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+        "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 18:30:08 +0000",
-        "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
+        "published": "Thu, 09 Jul 2026 18:34:35 +0000",
+        "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
       },
       {
-        "title": "Why this CEO thinks video games make better training data than the internet",
-        "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+        "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+        "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 17:47:55 +0000",
-        "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8"
+        "published": "Thu, 09 Jul 2026 18:22:39 +0000",
+        "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
       },
       {
-        "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-        "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+        "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+        "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
         "source": "TechCrunch",
-        "published": "Wed, 08 Jul 2026 17:11:18 +0000",
-        "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect"
+        "published": "Thu, 09 Jul 2026 17:56:47 +0000",
+        "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an"
       }
     ],
     "Crypto": [
       {
-        "title": "Dogecoin Holds Above Support As Whale Flows Give DOGE Traders A Data Point",
-        "link": "https://bitcoinist.com/dogecoin-holds-above-support-as-whale-flows-give-doge-traders-a-data-point-2/",
+        "title": "Bitwise Solana ETF Filing Keeps The SOL Fund Race Moving Beyond Theory",
+        "link": "https://bitcoinist.com/bitwise-solana-etf-filing-keeps-the-sol-fund-race-moving-beyond-theory-2/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 21:00:00 +0000",
-        "description": "Dogecoin price action is often wrapped in memes, but the latest setup is more practical: DOGE is holding above support while on-chain whale flows give traders something measurable to watch. The useful"
+        "published": "Wed, 08 Jul 2026 23:50:00 +0000",
+        "description": "The Solana ETF story keeps getting harder to ignore. Bitwise’s filing gives the market another reason to treat SOL as the next major test case for crypto funds beyond Bitcoin and Ethereum. The useful "
       },
       {
-        "title": "XRPL EVM Sidechain Work Moves Ripple’s Ecosystem Closer To Ethereum-Style Interoperability",
-        "link": "https://bitcoinist.com/xrpl-evm-sidechain-work-moves-ripple-s-ecosystem-closer-to-ethereum-style-2/",
+        "title": "Robinhood Bitstamp Roadmap Shows Crypto Deals Are Becoming Regulatory Integration Projects",
+        "link": "https://bitcoinist.com/robinhood-bitstamp-roadmap-shows-crypto-deals-are-becoming-regulatory/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 20:43:00 +0000",
-        "description": "The XRP Ledger has long had a different design philosophy from Ethereum. The EVM sidechain work led by Peersyst is interesting because it tries to give the ecosystem access to Ethereum-style developer"
+        "published": "Thu, 09 Jul 2026 21:25:00 +0000",
+        "description": "Robinhood’s planned Bitstamp acquisition is not just another exchange deal. It is a regulatory integration project. The value of Bitstamp is not only its users or its brand; it is also the licensing, "
       },
       {
-        "title": "XRPL EVM Sidechain Work Moves Ripple’s Ecosystem Closer To Ethereum-Style Interoperability",
-        "link": "https://bitcoinist.com/xrpl-evm-sidechain-work-moves-ripple-s-ecosystem-closer-to-ethereum-style/",
+        "title": "Swift And Chainlink Settlement Trials Keep Tokenized Assets In The Banking Conversation",
+        "link": "https://bitcoinist.com/swift-and-chainlink-settlement-trials-keep-tokenized-assets-in-the-banking/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 20:43:00 +0000",
-        "description": "The XRP Ledger has long had a different design philosophy from Ethereum. The EVM sidechain work led by Peersyst is interesting because it tries to give the ecosystem access to Ethereum-style developer"
+        "published": "Thu, 09 Jul 2026 21:10:00 +0000",
+        "description": "Tokenized assets do not become mainstream because crypto people say they should. They get closer when the institutions that already run financial plumbing test how those assets can move through existi"
       },
       {
-        "title": "Base DEX Volume Flipping Arbitrum Shows The Layer-2 Race Is Heating Up Again",
-        "link": "https://bitcoinist.com/base-dex-volume-flipping-arbitrum-shows-the-layer-2-race-is-heating-up-again-2/",
+        "title": "SEC Chicago Appointment Adds To The Agency’s Enforcement Bench During A Busy Crypto Cycle",
+        "link": "https://bitcoinist.com/sec-chicago-appointment-adds-to-the-agency-s-enforcement-bench-during-a-busy/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 20:26:00 +0000",
-        "description": "Base is no longer just Coinbase’s layer-2 experiment. If its daily DEX volume is pushing past Arbitrum, the network is starting to compete in the part of DeFi that matters most: actual trading activit"
+        "published": "Thu, 09 Jul 2026 20:55:00 +0000",
+        "description": "SEC personnel announcements are easy to ignore until enforcement priorities start showing up in the market. The agency’s Chicago Regional Office appointment matters because regional offices are part o"
       },
       {
-        "title": "Base DEX Volume Flipping Arbitrum Shows The Layer-2 Race Is Heating Up Again",
-        "link": "https://bitcoinist.com/base-dex-volume-flipping-arbitrum-shows-the-layer-2-race-is-heating-up-again/",
+        "title": "Bitget Wallet TON Push Shows The Web3 Front Door Is Moving Toward Messaging Apps",
+        "link": "https://bitcoinist.com/bitget-wallet-ton-push-shows-the-web3-front-door-is-moving-toward-messaging-apps/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 20:26:00 +0000",
-        "description": "Base is no longer just Coinbase’s layer-2 experiment. If its daily DEX volume is pushing past Arbitrum, the network is starting to compete in the part of DeFi that matters most: actual trading activit"
+        "published": "Thu, 09 Jul 2026 20:40:00 +0000",
+        "description": "The wallet race is no longer just about who supports the most chains. It is about who becomes the easiest front door for ordinary users. Bitget Wallet’s TON-related push sits right in that shift, espe"
       },
       {
-        "title": "Kraken Adds SN64 Spot Trading As Exchange Listing Pipeline Stays Active",
-        "link": "https://bitcoinist.com/kraken-adds-sn64-spot-trading-as-exchange-listing-pipeline-stays-active-2/",
+        "title": "Uniswap Fee Switch Talk Shows DeFi Governance Is Still Searching For Sustainable Revenue",
+        "link": "https://bitcoinist.com/uniswap-fee-switch-talk-shows-defi-governance-is-still-searching-for/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 20:09:00 +0000",
-        "description": "Kraken’s SN64 listing is a small story in market-cap terms, but it still tells us something about exchange behaviour. Even in a stricter regulatory climate, major platforms continue to expand spot mar"
+        "published": "Thu, 09 Jul 2026 20:25:00 +0000",
+        "description": "Uniswap has always been one of DeFi’s clearest product successes, but the fee-switch debate shows why product success and token value are not always the same thing. The protocol can process enormous v"
       },
       {
-        "title": "Kraken Adds SN64 Spot Trading As Exchange Listing Pipeline Stays Active",
-        "link": "https://bitcoinist.com/kraken-adds-sn64-spot-trading-as-exchange-listing-pipeline-stays-active/",
+        "title": "Kraken Margin Pair Expansion Gives Active Traders More Fiat-Based Liquidity Routes",
+        "link": "https://bitcoinist.com/kraken-margin-pair-expansion-gives-active-traders-more-fiat-based-liquidity/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 20:09:00 +0000",
-        "description": "Kraken’s SN64 listing is a small story in market-cap terms, but it still tells us something about exchange behaviour. Even in a stricter regulatory climate, major platforms continue to expand spot mar"
+        "published": "Thu, 09 Jul 2026 20:10:00 +0000",
+        "description": "Kraken’s latest margin pair expansion is not just a product-menu update. It is part of a broader fight among exchanges to keep active traders inside their ecosystems by offering deeper liquidity, more"
       },
       {
-        "title": "Saylor’s Bitcoin Yield Update Keeps MicroStrategy’s Treasury Play Under The Microscope",
-        "link": "https://bitcoinist.com/saylor-s-bitcoin-yield-update-keeps-microstrategy-s-treasury-play-under-the/",
+        "title": "Trump Bitcoin Reserve Talk Needs More Than A Wallet Dashboard To Become Policy",
+        "link": "https://bitcoinist.com/trump-bitcoin-reserve-talk-needs-more-than-a-wallet-dashboard-to-become-policy/",
         "source": "Bitcoinist",
-        "published": "Wed, 08 Jul 2026 19:52:00 +0000",
-        "description": "MicroStrategy has spent years turning Bitcoin treasury management into a public-company identity. Michael Saylor’s latest Bitcoin Yield update keeps that strategy in focus, especially as investors con"
+        "published": "Thu, 09 Jul 2026 19:55:00 +0000",
+        "description": "Bitcoin reserve talk has a way of moving faster than the policy process behind it. That is especially true when Donald Trump, public wallet dashboards, and campaign-era crypto speculation all land in "
       }
     ],
     "Markets": [
       {
-        "title": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
-        "link": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
+        "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+        "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 21:01:00 GMT",
-        "description": "A crowded bet on a stronger U.S. dollar may depend on whether Wednesday’s jump in oil prices proves lasting, as renewed Middle East tensions revive inflation concerns and bolster expectations that the"
+        "published": "Thu, 09 Jul 2026 21:09:00 GMT",
+        "description": "The next global financial crisis is already under way. Here is how it will unfold."
       },
       {
-        "title": "This chart shows stamp prices over the years as USPS hikes postage again this weekend",
-        "link": "https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories",
+        "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+        "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 20:35:00 GMT",
-        "description": "The new rate will go into effect on July 12, and will be the eighth price increase over the last five calendar years"
+        "published": "Thu, 09 Jul 2026 21:00:00 GMT",
+        "description": "“I could have bought a home for what I hope will be a growing family.”"
       },
       {
-        "title": "The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling",
-        "link": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
+        "title": "Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears",
+        "link": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 20:32:00 GMT",
-        "description": "Oil prices surge as U.S. and Iran trade strikes; but even without further disruption, volatility appears here to stay for energy markets"
+        "published": "Thu, 09 Jul 2026 20:58:00 GMT",
+        "description": "Shares of Meta rallied on Thursday following the launch of a new AI model and reports of a big custom-chip milestone."
       },
       {
-        "title": "‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-        "link": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
+        "title": "A slower AI payoff risks tipping the economy into recession, Apollo says",
+        "link": "https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 20:30:00 GMT",
-        "description": "“I’m actually earning more each week than I ever have before.”"
+        "published": "Thu, 09 Jul 2026 20:56:00 GMT",
+        "description": "Growing threats from China and falling token prices may put AI financials at risk."
       },
       {
-        "title": "Oil ends at its highest price in over two weeks as flare-up in U.S.-Iran hostilities suggests end to cease-fire",
-        "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+        "title": "Meet the new group of stocks powering the S&P 500 higher",
+        "link": "https://www.marketwatch.com/story/meet-the-new-group-of-stocks-powering-the-s-p-500-higher-b749961a?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 19:43:00 GMT",
-        "description": "Oil prices touched their highest levels in more than two weeks on Wednesday after President Donald Trump said he believed the cease-fire with Iran was over."
+        "published": "Thu, 09 Jul 2026 20:42:00 GMT",
+        "description": "A violent rotation is taking place under the hood of the stock market ahead of second-quarter earnings."
       },
       {
-        "title": "Nvidia’s stock trades at a juicy discount, according to BofA",
-        "link": "https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories",
+        "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+        "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 19:36:00 GMT",
-        "description": "An analyst recommends investors take advantage of the “enhanced” buying opportunity brought upon by sustained underperformance."
+        "published": "Thu, 09 Jul 2026 20:30:00 GMT",
+        "description": "“Without telling me, my brother petitioned for sole guardianship of our mother.”"
       },
       {
-        "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
-        "link": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
+        "title": "Landon Donovan says there’s ‘zero chance’ he could have afforded to play youth soccer in America if he was a kid today",
+        "link": "https://www.marketwatch.com/story/landon-donovan-says-theres-zero-chance-he-could-have-afforded-to-play-youth-soccer-if-he-was-a-kid-today-e32e905f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 19:28:00 GMT",
-        "description": "Wall Street expects President Trump’s call that the Iran cease-fire is over will hurt airlines and home builders more than it will help oil companies."
+        "published": "Thu, 09 Jul 2026 20:25:00 GMT",
+        "description": "The U.S. men’s soccer team once again didn’t make it past the Round of 16 in the World Cup — and some say the high cost to play youth soccer in America could be a key reason."
       },
       {
-        "title": "More than two-thirds of tech stocks are at least 20% off recent highs. What’s happening to the AI trade?",
-        "link": "https://www.marketwatch.com/story/more-than-two-thirds-of-tech-stocks-are-at-least-20-off-recent-highs-whats-happening-to-the-ai-trade-4ba6aa28?mod=mw_rss_topstories",
+        "title": "New ‘Ex-Elon’ ETFs let you avoid SpaceX and Tesla — but are they just a gimmick?",
+        "link": "https://www.marketwatch.com/story/new-ex-elon-etfs-let-you-avoid-spacex-and-tesla-but-are-they-just-a-gimmick-e872d762?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 19:13:00 GMT",
-        "description": "Major semiconductor names have been falling hard as investors take profits following a blockbuster second quarter."
+        "published": "Thu, 09 Jul 2026 19:52:00 GMT",
+        "description": "One expert doubts that new ETFs from Subversive will catch on in a meaningful way."
       },
       {
-        "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
-        "link": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
+        "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+        "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 19:00:00 GMT",
-        "description": "“I get hungry for a meal at a good restaurant.”"
+        "published": "Thu, 09 Jul 2026 19:49:00 GMT",
+        "description": "Financial literacy just hit a 10-year low — and it is devastating bank accounts."
       },
       {
-        "title": "Jeff Bezos’s space company may be seeking a valuation more than twice as big as Rocket Lab’s",
-        "link": "https://www.marketwatch.com/story/jeff-bezos-space-company-may-be-seeking-a-valuation-more-than-twice-as-big-as-rocket-labs-9d09d578?mod=mw_rss_topstories",
+        "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+        "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 08 Jul 2026 19:00:00 GMT",
-        "description": "Blue Origin is reportedly targeting a $130 billion private-market valuation, which would be just a fraction of SpaceX’s nearly $2 trillion market capitalization."
+        "published": "Thu, 09 Jul 2026 19:43:00 GMT",
+        "description": "“I have very little money, while my ex’s financial statements show assets in the millions.”"
       }
     ],
     "Singapore": [
       {
-        "title": "England must cut Haaland's supply lines, says Rogers",
-        "link": "https://www.channelnewsasia.com/sport/england-must-cut-haalands-supply-lines-says-rogers-6242211",
+        "title": "Stocks shrug off tensions to rise on renewed tech interest",
+        "link": "https://www.channelnewsasia.com/world/stocks-oil-prices-us-wall-street-6244961",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:56:51 +0800",
+        "published": "Fri, 10 Jul 2026 05:20:19 +0800",
+        "description": "\"Any disruption in the region is not as harmful as before,\" analyst Christopher Low said."
+      },
+      {
+        "title": "Traeen pulls out of Tour de France following crash on mountain stage",
+        "link": "https://www.channelnewsasia.com/sport/traeen-pulls-out-tour-de-france-following-crash-mountain-stage-6244986",
+        "source": "CNA Singapore",
+        "published": "Fri, 10 Jul 2026 05:17:27 +0800",
         "description": ""
       },
       {
-        "title": "Oil hits multi-week high, Wall Street slips as Iran tensions reignite",
-        "link": "https://www.channelnewsasia.com/business/oil-hits-multi-week-high-wall-street-slips-iran-tensions-reignite-6239651",
+        "title": "On Wimbledon's lawns, Czech excellence blooms again",
+        "link": "https://www.channelnewsasia.com/sport/wimbledons-lawns-czech-excellence-blooms-again-6244951",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:53:40 +0800",
+        "published": "Fri, 10 Jul 2026 05:02:45 +0800",
         "description": ""
       },
       {
-        "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
-        "link": "https://www.channelnewsasia.com/business/spacexai-launches-grok-45-model-coding-agentic-tasks-6242201",
+        "title": "US Olympian accused of vandalising Reflecting Pool pleads not guilty",
+        "link": "https://www.channelnewsasia.com/world/us-olympian-accused-vandalising-reflecting-pool-pleads-not-guilty-6244896",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:47:49 +0800",
+        "published": "Fri, 10 Jul 2026 04:55:59 +0800",
+        "description": "Former US Olympic canoeist David Hearn faces up to 10 years in prison if convicted of allegedly damaging Washington's Reflecting Pool."
+      },
+      {
+        "title": "NBA-Raptors pause planned Leonard trade amid NBA probe involving Clippers",
+        "link": "https://www.channelnewsasia.com/sport/nba-raptors-pause-planned-leonard-trade-amid-nba-probe-involving-clippers-6244916",
+        "source": "CNA Singapore",
+        "published": "Fri, 10 Jul 2026 04:46:35 +0800",
         "description": ""
       },
       {
-        "title": "Vast crowds mourn Khamenei in Iraq's holy cities",
-        "link": "https://www.channelnewsasia.com/world/khamenei-funeral-iraq-holy-cities-6242176",
+        "title": "Coinbase's top attorney who has led crypto's Washington fight to step down",
+        "link": "https://www.channelnewsasia.com/business/coinbases-top-attorney-who-has-led-cryptos-washington-fight-step-down-6244901",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:47:23 +0800",
-        "description": "The six-day funeral ceremonies will end with Iran's slain supreme leader Ali Khamenei's burial in his hometown of Mashhad on Thursday."
-      },
-      {
-        "title": "Egypt FA extends contract of national team coach Hassan",
-        "link": "https://www.channelnewsasia.com/sport/egypt-fa-extends-contract-national-team-coach-hassan-6242206",
-        "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:45:35 +0800",
+        "published": "Fri, 10 Jul 2026 04:32:14 +0800",
         "description": ""
       },
       {
-        "title": "Marquez confirmed as Mexico coach after Aguirre departure",
-        "link": "https://www.channelnewsasia.com/sport/marquez-confirmed-mexico-coach-after-aguirre-departure-6242191",
+        "title": "Ostapenko, Arevalo fight back to win Wimbledon mixed doubles title",
+        "link": "https://www.channelnewsasia.com/sport/ostapenko-arevalo-fight-back-win-wimbledon-mixed-doubles-title-6244876",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:25:48 +0800",
+        "published": "Fri, 10 Jul 2026 04:20:40 +0800",
         "description": ""
       },
       {
-        "title": "Freed from demons, Zverev eyes rare Roland Garros-Wimbledon double",
-        "link": "https://www.channelnewsasia.com/sport/freed-demons-zverev-eyes-rare-roland-garros-wimbledon-double-6242156",
+        "title": "Argentine archbishop reads out Messi's words at Independence Day Mass",
+        "link": "https://www.channelnewsasia.com/sport/argentine-archbishop-reads-out-messis-words-independence-day-mass-6244861",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:16:44 +0800",
+        "published": "Fri, 10 Jul 2026 04:16:47 +0800",
         "description": ""
       },
       {
-        "title": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags'",
-        "link": "https://www.channelnewsasia.com/business/us-judge-approves-elon-musk-settlement-sec-despite-misgivings-red-flags-6242146",
+        "title": "US Senate candidate's implosion forces Democratic reckoning",
+        "link": "https://www.channelnewsasia.com/world/us-senate-candidates-implosion-forces-democratic-reckoning-6244836",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:08:36 +0800",
-        "description": ""
+        "published": "Fri, 10 Jul 2026 04:12:24 +0800",
+        "description": "Democrat Graham Platner dropped out of the US Senate race in Maine after a rape allegation he denies led major supporters to withdraw."
       },
       {
-        "title": "Companies must address self-driving car interference with emergency vehicles, US says",
-        "link": "https://www.channelnewsasia.com/business/companies-must-address-self-driving-car-interference-emergency-vehicles-us-says-6242151",
+        "title": "Doku offers Belgium X-factor they might need against Spain",
+        "link": "https://www.channelnewsasia.com/sport/doku-offers-belgium-x-factor-they-might-need-against-spain-6244806",
         "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 04:05:54 +0800",
-        "description": ""
-      },
-      {
-        "title": "The Wimbledon boy living a dream that defies belief",
-        "link": "https://www.channelnewsasia.com/sport/wimbledon-boy-living-dream-defies-belief-6242141",
-        "source": "CNA Singapore",
-        "published": "Thu, 09 Jul 2026 03:58:30 +0800",
+        "published": "Fri, 10 Jul 2026 03:14:30 +0800",
         "description": ""
       }
     ],
     "US Politics": [
       {
-        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
-        "link": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss",
+        "title": "Starmer to keep in touch with Trump after No 10",
+        "link": "https://www.bbc.co.uk/news/articles/crel4gzg94eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 08 Jul 2026 18:05:58 GMT",
-        "description": "The home secretary is expected to set out on Monday how she plans to amend the 1971 Immigration Act."
+        "published": "Wed, 08 Jul 2026 19:04:36 GMT",
+        "description": "The prime minister says the US president wished him well at the meeting of Nato leaders in Turkey."
       },
       {
-        "title": "Why has Farage resigned and what happens next?",
-        "link": "https://www.bbc.co.uk/news/articles/c1kyygjvz7go?at_medium=RSS&at_campaign=rss",
+        "title": "Who is Count Binface, aiming to face Farage in by-election?",
+        "link": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 08 Jul 2026 17:22:23 GMT",
-        "description": "The Reform UK leader has faced increasing pressure after reports he did not declare support from an ally."
+        "published": "Wed, 08 Jul 2026 16:16:30 GMT",
+        "description": "After the announcement that Reform UK leader Nigel Farage would quit his Clacton constituency and stand in a by-election, the serial election candidate Count Binface posted online: \"Game on, Nige.\""
       },
       {
-        "title": "Chris Mason: Farage called by-election from weak position - and it could backfire on him",
-        "link": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham set to be next PM as 322 Labour MPs back him in first nomination tally",
+        "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 08 Jul 2026 17:14:04 GMT",
-        "description": "The Reform UK leader faces a challenge from Count Binface as the main parties rule out standing in Clacton."
+        "published": "Thu, 09 Jul 2026 18:28:39 GMT",
+        "description": "The former mayor of Greater Manchester is unopposed in the race to replace Sir Keir Starmer."
       },
       {
-        "title": "Farage denies stunt as Reform proposes August by-election date",
-        "link": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham apologises for Labour's initial response to Gaza war",
+        "link": "https://www.bbc.co.uk/news/articles/cvg5yrkeed1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 08 Jul 2026 16:24:05 GMT",
-        "description": "The Reform UK leader tells the BBC it is \"only fair\" that it is the electorate who judges him."
+        "published": "Thu, 09 Jul 2026 17:56:04 GMT",
+        "description": "Burnham, along other with Labour figures, had called for a ceasefire by late October 2023 - putting him at odds with Sir Keir Starmer."
       },
       {
-        "title": "Conditional pardon granted for Ruth Ellis, last woman executed in UK",
-        "link": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss",
+        "title": "Restore Britain leader describes Dunblane tragedy as 'one murder'",
+        "link": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 08 Jul 2026 16:15:43 GMT",
-        "description": "Ruth Ellis was hanged at London's Holloway Prison in 1955 after being convicted of murdering her lover David Blakely."
+        "published": "Thu, 09 Jul 2026 15:02:30 GMT",
+        "description": "Rupert Lowe criticised the ban of handguns in the UK, saying it was \"because there was a murder in Dunblane\"."
       },
       {
-        "title": "Farage's rivals rule out standing in Clacton by-election",
-        "link": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss",
+        "title": "Disability benefit not fit for purpose, minister leading review says",
+        "link": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 08 Jul 2026 10:27:10 GMT",
-        "description": "The Reform UK leader says he wants an \"establishment versus the people by-election\" but Labour calls it a \"circus\"."
+        "published": "Thu, 09 Jul 2026 14:56:57 GMT",
+        "description": "Sir Stephen Timms says personal independence payments (Pip) in England and Wales need changing."
       },
       {
-        "title": "Nato allies announce £37bn for new missile project",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham planning for No 10 for at least a year, key ally says",
+        "link": "https://www.bbc.co.uk/news/articles/c0lyr660p8zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 08 Jul 2026 05:57:53 GMT",
-        "description": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara."
+        "published": "Thu, 09 Jul 2026 14:18:50 GMT",
+        "description": "The former transport secretary says Burnham's time away from Westminster does not mean he is \"unprepared\" for government."
       },
       {
-        "title": "Reform asks NCA to investigate leaks of private financial information",
-        "link": "https://www.bbc.co.uk/news/articles/c621q06w91ro?at_medium=RSS&at_campaign=rss",
+        "title": "Farage's by-election in Clacton officially confirmed",
+        "link": "https://www.bbc.co.uk/news/articles/cwylzxw7p52o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 07 Jul 2026 23:37:52 GMT",
-        "description": "The party's deputy leader Richard Tice says he found out payments to his company had been flagged to the agency, after questions from the media."
+        "published": "Thu, 09 Jul 2026 12:20:41 GMT",
+        "description": "Reform's Lee Anderson has moved the writ in the Commons, with the by-election likely to happen on 13 August."
       },
       {
-        "title": "What do Farage's constituents think about his resignation?",
-        "link": "https://www.bbc.co.uk/news/articles/c892npw2jkvo?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about Andy Burnham's policies",
+        "link": "https://www.bbc.co.uk/news/articles/clywzj2vk3zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 07 Jul 2026 16:37:39 GMT",
-        "description": "People living in Clacton share contrasting feelings of frustration and support towards Nigel Farage."
+        "published": "Thu, 09 Jul 2026 09:33:36 GMT",
+        "description": "The former Greater Manchester mayor could find himself in Downing Street as soon as mid-July."
       },
       {
-        "title": "Next PM needs to wake UK up to threat of war, ex-Nato chief warns",
-        "link": "https://www.bbc.co.uk/news/articles/cddljy1y3nlo?at_medium=RSS&at_campaign=rss",
+        "title": "Met investigates donation to Jenrick's Tory leadership campaign",
+        "link": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 07 Jul 2026 14:31:57 GMT",
-        "description": "Lord Robertson urges the next prime minister to look again at the UK's level of spending on defence."
+        "published": "Thu, 09 Jul 2026 00:50:56 GMT",
+        "description": "The former Conservative, now Reform UK, MP says the allegations are \"entirely false\"."
       }
     ],
     "Science": [
+      {
+        "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+        "source": "Science Daily",
+        "published": "Wed, 08 Jul 2026 22:48:06 EDT",
+        "description": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing"
+      },
+      {
+        "title": "Tiny silica particles wiped out aggressive prostate cancer in mice",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022158.htm",
+        "source": "Science Daily",
+        "published": "Wed, 08 Jul 2026 22:18:49 EDT",
+        "description": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the t"
+      },
+      {
+        "title": "Heidelberg physicists just united two opposing quantum theories",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
+        "source": "Science Daily",
+        "published": "Wed, 08 Jul 2026 20:15:58 EDT",
+        "description": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experime"
+      },
+      {
+        "title": "Rare goblin shark filmed alive for the first time in the deep sea",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+        "source": "Science Daily",
+        "published": "Wed, 08 Jul 2026 19:00:05 EDT",
+        "description": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showin"
+      },
       {
         "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
         "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
@@ -504,64 +532,36 @@
         "title": "New weight loss pill beats oral Ozempic in major trial",
         "link": "https://www.sciencedaily.com/releases/2026/07/260707054111.htm",
         "source": "Science Daily",
-        "published": "Wed, 08 Jul 2026 01:16:53 EDT",
-        "description": "A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements than the leading oral semaglutide in a major clinical trial. The tablet could offer a mo"
+        "published": "Tue, 07 Jul 2026 05:41:11 EDT",
+        "description": "A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements for people with type 2 diabetes than the leading oral semaglutide in a major clinical tr"
       },
       {
-        "title": "Incredible new material makes heat programmable",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
+        "title": "Scientists finally solved a 150-year-old gallium mystery",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
         "source": "Science Daily",
-        "published": "Tue, 07 Jul 2026 19:28:50 EDT",
-        "description": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smart"
+        "published": "Thu, 09 Jul 2026 03:40:57 EDT",
+        "description": "Scientists have rewritten the story of gallium after discovering that its unusual atomic bonds re-form at high temperatures, contradicting decades of accepted theory. The finding changes how researche"
       },
       {
-        "title": "Bumblebees collect up to 7 times more toxic metals than honeybees",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260707025044.htm",
+        "title": "Trees keep absorbing carbon long after they stop growing",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm",
         "source": "Science Daily",
-        "published": "Tue, 07 Jul 2026 18:11:22 EDT",
-        "description": "Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their "
+        "published": "Thu, 09 Jul 2026 02:28:44 EDT",
+        "description": "Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding c"
       },
       {
-        "title": "AI just supercharged the race to find room temperature superconductors",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+        "title": "A vitamin A discovery is changing what scientists know about vision",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
         "source": "Science Daily",
-        "published": "Tue, 07 Jul 2026 01:39:51 EDT",
-        "description": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significa"
+        "published": "Thu, 09 Jul 2026 01:15:15 EDT",
+        "description": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study fou"
       },
       {
-        "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+        "title": "The Ozempic and Wegovy mistake sending thousands to poison control",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260708022204.htm",
         "source": "Science Daily",
-        "published": "Sun, 05 Jul 2026 00:10:58 EDT",
-        "description": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient"
-      },
-      {
-        "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
-        "source": "Science Daily",
-        "published": "Sun, 05 Jul 2026 00:03:07 EDT",
-        "description": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in "
-      },
-      {
-        "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
-        "source": "Science Daily",
-        "published": "Sat, 04 Jul 2026 23:39:18 EDT",
-        "description": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping sci"
-      },
-      {
-        "title": "NASA celebrates America's 250th birthday with incredible views of space",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260702230859.htm",
-        "source": "Science Daily",
-        "published": "Sat, 04 Jul 2026 05:30:33 EDT",
-        "description": "NASA is marking the United States' 250th birthday with four striking red, white, and blue images of deep space from the Chandra X-ray Observatory. The collection features an exploded star, a stellar n"
-      },
-      {
-        "title": "New research reveals the hidden pollution left behind by fireworks",
-        "link": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
-        "source": "Science Daily",
-        "published": "Fri, 03 Jul 2026 22:48:09 EDT",
-        "description": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airbo"
+        "published": "Thu, 09 Jul 2026 00:02:10 EDT",
+        "description": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather tha"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+      "title": "Robinhood Bitstamp Roadmap Shows Crypto Deals Are Becoming Regulatory Integration Projects",
+      "link": "https://bitcoinist.com/robinhood-bitstamp-roadmap-shows-crypto-deals-are-becoming-regulatory/",
+      "source": "Bitcoinist",
+      "published": "Thu, 09 Jul 2026 21:25:00 +0000",
+      "description": "Robinhood’s planned Bitstamp acquisition is not just another exchange deal. It is a regulatory integration project. The value of Bitstamp is not only its users or its brand; it is also the licensing, "
+    },
+    {
+      "title": "Stocks shrug off tensions to rise on renewed tech interest",
+      "link": "https://www.channelnewsasia.com/world/stocks-oil-prices-us-wall-street-6244961",
+      "source": "CNA Singapore",
+      "published": "Fri, 10 Jul 2026 05:20:19 +0800",
+      "description": "\"Any disruption in the region is not as harmful as before,\" analyst Christopher Low said."
+    },
+    {
+      "title": "Traeen pulls out of Tour de France following crash on mountain stage",
+      "link": "https://www.channelnewsasia.com/sport/traeen-pulls-out-tour-de-france-following-crash-mountain-stage-6244986",
+      "source": "CNA Singapore",
+      "published": "Fri, 10 Jul 2026 05:17:27 +0800",
+      "description": ""
+    },
+    {
+      "title": "Tehran launches more strikes after explosions reported in southern Iran",
       "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 08 Jul 2026 21:08:26 GMT",
-      "description": "Explosions have been reported by Iranian state media in parts of the country's south."
+      "published": "Thu, 09 Jul 2026 21:13:49 GMT",
+      "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday."
     },
     {
-      "title": "Judge orders E. Jean Carroll be paid $5 million in damages from Trump verdict",
-      "link": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
-      "source": "CNBC Finance",
-      "published": "Wed, 08 Jul 2026 21:08:18 GMT",
-      "description": "Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store."
-    },
-    {
-      "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
-      "link": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
-      "source": "CNBC Finance",
-      "published": "Wed, 08 Jul 2026 21:02:25 GMT",
-      "description": "SpaceX's record IPO raised a total of $85.7 billion after underwriters exercised the \"greenshoe\" overallotment."
-    },
-    {
-      "title": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
-      "link": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Wed, 08 Jul 2026 21:01:00 GMT",
-      "description": "A crowded bet on a stronger U.S. dollar may depend on whether Wednesday’s jump in oil prices proves lasting, as renewed Middle East tensions revive inflation concerns and bolster expectations that the"
-    },
-    {
-      "title": "Dogecoin Holds Above Support As Whale Flows Give DOGE Traders A Data Point",
-      "link": "https://bitcoinist.com/dogecoin-holds-above-support-as-whale-flows-give-doge-traders-a-data-point-2/",
+      "title": "Swift And Chainlink Settlement Trials Keep Tokenized Assets In The Banking Conversation",
+      "link": "https://bitcoinist.com/swift-and-chainlink-settlement-trials-keep-tokenized-assets-in-the-banking/",
       "source": "Bitcoinist",
-      "published": "Wed, 08 Jul 2026 21:00:00 +0000",
-      "description": "Dogecoin price action is often wrapped in memes, but the latest setup is more practical: DOGE is holding above support while on-chain whale flows give traders something measurable to watch. The useful"
+      "published": "Thu, 09 Jul 2026 21:10:00 +0000",
+      "description": "Tokenized assets do not become mainstream because crypto people say they should. They get closer when the institutions that already run financial plumbing test how those assets can move through existi"
     },
     {
-      "title": "England must cut Haaland's supply lines, says Rogers",
-      "link": "https://www.channelnewsasia.com/sport/england-must-cut-haalands-supply-lines-says-rogers-6242211",
+      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+      "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Thu, 09 Jul 2026 21:09:00 GMT",
+      "description": "The next global financial crisis is already under way. Here is how it will unfold."
+    },
+    {
+      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 09 Jul 2026 21:04:09 GMT",
+      "description": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war."
+    },
+    {
+      "title": "On Wimbledon's lawns, Czech excellence blooms again",
+      "link": "https://www.channelnewsasia.com/sport/wimbledons-lawns-czech-excellence-blooms-again-6244951",
       "source": "CNA Singapore",
-      "published": "Thu, 09 Jul 2026 04:56:51 +0800",
+      "published": "Fri, 10 Jul 2026 05:02:45 +0800",
       "description": ""
     },
     {
-      "title": "Oil hits multi-week high, Wall Street slips as Iran tensions reignite",
-      "link": "https://www.channelnewsasia.com/business/oil-hits-multi-week-high-wall-street-slips-iran-tensions-reignite-6239651",
-      "source": "CNA Singapore",
-      "published": "Thu, 09 Jul 2026 04:53:40 +0800",
-      "description": ""
+      "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+      "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Thu, 09 Jul 2026 21:00:00 GMT",
+      "description": "“I could have bought a home for what I hope will be a growing family.”"
     },
     {
-      "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
-      "link": "https://www.channelnewsasia.com/business/spacexai-launches-grok-45-model-coding-agentic-tasks-6242201",
-      "source": "CNA Singapore",
-      "published": "Thu, 09 Jul 2026 04:47:49 +0800",
-      "description": ""
-    },
-    {
-      "title": "Vast crowds mourn Khamenei in Iraq's holy cities",
-      "link": "https://www.channelnewsasia.com/world/khamenei-funeral-iraq-holy-cities-6242176",
-      "source": "CNA Singapore",
-      "published": "Thu, 09 Jul 2026 04:47:23 +0800",
-      "description": "The six-day funeral ceremonies will end with Iran's slain supreme leader Ali Khamenei's burial in his hometown of Mashhad on Thursday."
-    },
-    {
-      "title": "Egypt FA extends contract of national team coach Hassan",
-      "link": "https://www.channelnewsasia.com/sport/egypt-fa-extends-contract-national-team-coach-hassan-6242206",
-      "source": "CNA Singapore",
-      "published": "Thu, 09 Jul 2026 04:45:35 +0800",
-      "description": ""
+      "title": "Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears",
+      "link": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Thu, 09 Jul 2026 20:58:00 GMT",
+      "description": "Shares of Meta rallied on Thursday following the launch of a new AI model and reports of a big custom-chip milestone."
     }
   ]
 }
