@@ -1,49 +1,14 @@
 {
-  "updated_sgt": "2026-07-31 05:12 SGT",
-  "updated_iso": "2026-07-31T05:12:47.586974+08:00",
+  "updated_sgt": "2026-08-01 05:07 SGT",
+  "updated_iso": "2026-08-01T05:07:33.996261+08:00",
   "categories": {
     "World": [
-      {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 17:55:24 GMT",
-        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
-      },
-      {
-        "title": "Father of teen school shooter sentenced to 15 years in prison",
-        "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 17:33:41 GMT",
-        "description": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack."
-      },
       {
         "title": "Why limited war with the US may suit Iran better than peace",
         "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Thu, 30 Jul 2026 17:26:01 GMT",
         "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
-      },
-      {
-        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 17:19:27 GMT",
-        "description": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
-      },
-      {
-        "title": "Uefa to boycott World Cups if Fifa plans approved",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 16:47:40 GMT",
-        "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal"
-      },
-      {
-        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-        "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 15:35:50 GMT",
-        "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
       },
       {
         "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
@@ -53,169 +18,204 @@
         "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
       },
       {
-        "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-        "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+        "title": "Body of US climber the latest recovered after Pakistan avalanche",
+        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 12:14:00 GMT",
-        "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya."
+        "published": "Fri, 31 Jul 2026 20:22:46 GMT",
+        "description": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
       },
       {
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 10:49:14 GMT",
-        "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
+        "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+        "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
       },
       {
-        "title": "Nicaraguan leader proposes extending presidential term by another year",
-        "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 30 Jul 2026 10:34:07 GMT",
-        "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer."
+        "published": "Fri, 31 Jul 2026 15:18:31 GMT",
+        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
+      },
+      {
+        "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+        "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 31 Jul 2026 14:26:07 GMT",
+        "description": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+      },
+      {
+        "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+        "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 31 Jul 2026 10:32:17 GMT",
+        "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
+      },
+      {
+        "title": "Fifa says 'nobody selling football' as plan continues",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 31 Jul 2026 08:21:37 GMT",
+        "description": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups."
+      },
+      {
+        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 31 Jul 2026 08:09:17 GMT",
+        "description": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
+      },
+      {
+        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 31 Jul 2026 05:21:18 GMT",
+        "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
       }
     ],
     "Finance": [
       {
-        "title": "Amazon stock soars 9% on 'booming' cloud growth, revenue beat",
-        "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+        "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
+        "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 21:09:43 GMT",
-        "description": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth."
+        "published": "Fri, 31 Jul 2026 20:40:51 GMT",
+        "description": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports."
       },
       {
-        "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-        "link": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+        "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+        "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 20:38:18 GMT",
-        "description": "Trump said he'd \"like to see tariffs on Iran\" added to a bill that would impose economic sanctions on Russia and those supporting its war against Ukraine."
+        "published": "Fri, 31 Jul 2026 20:19:03 GMT",
+        "description": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness."
       },
       {
-        "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-        "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+        "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+        "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 20:37:46 GMT",
-        "description": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year as the company reported second-quarter results."
+        "published": "Fri, 31 Jul 2026 20:17:54 GMT",
+        "description": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall."
       },
       {
-        "title": "Reddit shares sink 7% on 'choppy' search referrals even as results blow past estimates",
-        "link": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+        "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+        "link": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 20:37:03 GMT",
-        "description": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates."
+        "published": "Fri, 31 Jul 2026 18:52:10 GMT",
+        "description": "President Donald Trump said the U.S. hasn't agreed to grant Ukraine licenses to produce Patriot missile systems."
       },
       {
-        "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-        "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+        "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+        "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 20:13:00 GMT",
-        "description": "Jersey Mike's priced its initial public offering at $23 per share."
+        "published": "Fri, 31 Jul 2026 18:20:01 GMT",
+        "description": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups."
       },
       {
-        "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-        "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+        "title": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
+        "link": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 19:49:05 GMT",
-        "description": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter."
+        "published": "Fri, 31 Jul 2026 18:16:18 GMT",
+        "description": "Investors saw Warsh’s press conference as dovish, but a closer reading of the Fed chair's prepared remarks suggests he may be close to raising interest rates."
       },
       {
-        "title": "China’s open-weight model lead exposes America’s AI blind spot",
-        "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
+        "title": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
+        "link": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 18:51:42 GMT",
-        "description": "The future of AI may be dictated not by who builds the smartest model, but who builds the models everyone runs on. Right now, that's China."
+        "published": "Fri, 31 Jul 2026 18:07:36 GMT",
+        "description": "Options traders and market makers in Chicago were quick to buy dips below 7,500 in the benchmark index Friday, but almost as quick to sell rallies above that level."
       },
       {
-        "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
-        "link": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
+        "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
+        "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 18:17:29 GMT",
-        "description": "Earnings on deck this afternoon for Apple and Amazon will likely decide if the stock market can end what’s so far been a rough week on solid footing."
+        "published": "Fri, 31 Jul 2026 16:51:30 GMT",
+        "description": "Trimmed mean measures are painting a different picture than the headline numbers."
       },
       {
-        "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
-        "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+        "title": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
+        "link": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 14:24:14 GMT",
-        "description": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation."
+        "published": "Fri, 31 Jul 2026 15:45:15 GMT",
+        "description": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government."
       },
       {
-        "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-        "link": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
+        "title": "EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers",
+        "link": "https://www.cnbc.com/2026/07/31/used-ev-prices.html",
         "source": "CNBC Finance",
-        "published": "Thu, 30 Jul 2026 10:45:01 GMT",
-        "description": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war."
+        "published": "Fri, 31 Jul 2026 12:15:01 GMT",
+        "description": "The prices for used electric vehicles have risen this year, which is unusual, experts said. Affordability and high gas prices help explain why, they said."
       }
     ],
     "Technology": [
       {
-        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-        "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+        "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 20:26:38 +0000",
-        "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology."
+        "published": "Fri, 31 Jul 2026 19:47:28 +0000",
+        "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
       },
       {
-        "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-        "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+        "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+        "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 20:13:12 +0000",
-        "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores."
+        "published": "Fri, 31 Jul 2026 19:39:51 +0000",
+        "description": "The new funding brings Index's total available investing capital to $3.5 billion."
       },
       {
-        "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-        "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+        "title": "VC-backed startups commit more fraud, and researchers think they know why",
+        "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 19:44:16 +0000",
-        "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
+        "published": "Fri, 31 Jul 2026 19:00:00 +0000",
+        "description": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play."
       },
       {
-        "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 18:57:58 +0000",
-        "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and "
+        "published": "Fri, 31 Jul 2026 17:26:32 +0000",
+        "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI"
       },
       {
-        "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-        "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+        "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 18:38:12 +0000",
-        "description": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports."
+        "published": "Fri, 31 Jul 2026 16:49:08 +0000",
+        "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
       },
       {
-        "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-        "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+        "title": "Siri AI could come with a paywall for power users",
+        "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 18:05:21 +0000",
-        "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
+        "published": "Fri, 31 Jul 2026 16:08:18 +0000",
+        "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
       },
       {
-        "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-        "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+        "title": "GM and Ford are talking less and less about EVs",
+        "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 17:50:11 +0000",
-        "description": "Add another member to the fast-and-furious AI unicorn club: Simile."
+        "published": "Fri, 31 Jul 2026 15:47:46 +0000",
+        "description": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs."
       },
       {
-        "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
-        "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+        "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+        "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 17:41:25 +0000",
-        "description": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it"
+        "published": "Fri, 31 Jul 2026 15:37:58 +0000",
+        "description": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices."
       },
       {
-        "title": "Okta buys AI security startup Permiso — source says for about $200M",
-        "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+        "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+        "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 16:09:42 +0000",
-        "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
+        "published": "Fri, 31 Jul 2026 15:16:17 +0000",
+        "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
       },
       {
-        "title": "Tesla made its 10 millionth EV",
-        "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+        "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+        "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
         "source": "TechCrunch",
-        "published": "Thu, 30 Jul 2026 16:00:25 +0000",
-        "description": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package."
+        "published": "Fri, 31 Jul 2026 14:49:21 +0000",
+        "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay"
       }
     ],
     "Crypto": [
@@ -262,234 +262,234 @@
         "description": "Arbitrum Security Council Moves To Correct 51M ARB Voting Power Discrepancy - Read the full analysis."
       },
       {
-        "title": "NEAR Governance Votes To Scrap Developer Gas Rebates In Tokenomics Shift",
-        "link": "https://bitcoinist.com/near-governance-votes-to-scrap-developer-gas-rebates-in-tokenomics-shift/",
+        "title": "SecondFi Renews Bounty Push After $16.1M Cardano Exploit",
+        "link": "https://bitcoinist.com/secondfi-renews-bounty-push-after-16-1m-cardano-exploit/",
         "source": "Bitcoinist",
-        "published": "Sat, 25 Jul 2026 08:20:00 +0000",
-        "description": "NEAR Governance Votes To Scrap Developer Gas Rebates In Tokenomics Shift - Read the full analysis."
+        "published": "Fri, 31 Jul 2026 20:35:00 +0000",
+        "description": "SecondFi has renewed its bounty offer to the attacker behind a $16.1 million Cardano exploit, as the team continues trying to recover 16.1 million ADA..."
       },
       {
-        "title": "eth.limo Q2 Update Shows ENS Infrastructure Is Becoming More Than Domain Names",
-        "link": "https://bitcoinist.com/eth-limo-q2-update-shows-ens-infrastructure-is-becoming-more-than-domain-names/",
+        "title": "XRP Holds Above $1.04 As Whale Activity Cools On Binance",
+        "link": "https://bitcoinist.com/xrp-holds-above-1-04-as-whale-activity-cools-on-binance/",
         "source": "Bitcoinist",
-        "published": "Sat, 25 Jul 2026 07:30:00 +0000",
-        "description": "eth.limo Q2 Update Shows ENS Infrastructure Is Becoming More Than Domain Names - Read the full analysis."
+        "published": "Fri, 31 Jul 2026 19:50:00 +0000",
+        "description": "XRP is holding above the $1.04 area while whale exchange activity on Binance appears to have cooled, giving traders a slightly more interesting setup..."
       }
     ],
     "Markets": [
       {
-        "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
-        "link": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
+        "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+        "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 20:40:00 GMT",
-        "description": "One of the wildest months in recent memory for the U.S. stock market is ending on yet another remarkable note: A highflying hedge fund run by an AI wunderkind in his mid-20s has apparently just been c"
+        "published": "Fri, 31 Jul 2026 20:23:00 GMT",
+        "description": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report."
       },
       {
-        "title": "Meta’s stock falls hard. Here’s why the company is in Wall Street’s doghouse.",
-        "link": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
+        "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
+        "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 20:31:00 GMT",
-        "description": "Meta’s spending on AI is ramping, and investors want proof that the company can make serious money in areas other than advertising."
+        "published": "Fri, 31 Jul 2026 20:20:00 GMT",
+        "description": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more"
       },
       {
-        "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
-        "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
+        "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+        "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 20:26:00 GMT",
-        "description": "Microsoft is spending heavily on AI but is also taking a “responsible” approach to its financials, an analyst said."
+        "published": "Fri, 31 Jul 2026 20:00:00 GMT",
+        "description": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”"
       },
       {
-        "title": "Why Microsoft’s stock soared to a historic gain after earnings",
-        "link": "https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories",
+        "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
+        "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 20:21:00 GMT",
-        "description": "The company’s cloud business is sporting impressive growth, and Microsoft expects to avoid heading into cash-burn mode as it spends up on AI."
+        "published": "Fri, 31 Jul 2026 19:16:00 GMT",
+        "description": "“I realize that probate can be lengthy, public and expensive.”"
       },
       {
-        "title": "Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve",
-        "link": "https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories",
+        "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
+        "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 19:02:00 GMT",
-        "description": "Kevin Warsh insists the Federal Reserve will do whatever it takes to reduce U.S. inflation to its 2% target, but investors aren’t buying it."
+        "published": "Fri, 31 Jul 2026 19:04:00 GMT",
+        "description": "Patients must meet three conditions to qualify for Medical Aid in Dying."
       },
       {
-        "title": "The warning signal insiders are sending",
-        "link": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
+        "title": "Supply-chain legend Tim Cook finally meets his match with Apple’s memory crunch",
+        "link": "https://www.marketwatch.com/story/supply-chain-legend-tim-cook-finally-meets-his-match-with-apples-memory-crunch-9bce0b11?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 18:49:00 GMT",
-        "description": "Corporate insiders haven’t been this bearish in more than 20 years."
+        "published": "Fri, 31 Jul 2026 19:04:00 GMT",
+        "description": "Apple has found itself dealing with component shortages exacerbated by the AI boom, and the company is scrambling for solutions."
       },
       {
-        "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-        "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+        "title": "AI stocks may have bottomed out. What investors should watch for next.",
+        "link": "https://www.marketwatch.com/story/ai-stocks-may-have-bottomed-out-what-investors-should-watch-for-next-bda034c5?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 18:30:00 GMT",
-        "description": "“I will file a complaint with the Better Business Bureau.”"
+        "published": "Fri, 31 Jul 2026 18:29:00 GMT",
+        "description": "Microsoft earnings provided optimism for the AI trade, as did the trading activity surrounding a hedge fund’s fire sale."
       },
       {
-        "title": "Social Security’s biggest problem isn’t a design flaw. It’s a missing trust fund.",
-        "link": "https://www.marketwatch.com/story/social-securitys-biggest-problem-isnt-a-design-flaw-its-a-missing-trust-fund-75cd1351?mod=mw_rss_topstories",
+        "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+        "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 17:18:00 GMT",
-        "description": "Should policymakers look beyond the payroll tax to cover this share of the deficit?"
+        "published": "Fri, 31 Jul 2026 18:15:00 GMT",
+        "description": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”"
       },
       {
-        "title": "The cyclospora outbreak is the biggest ever. Why this ‘unusual’ outbreak is so hard to manage.",
-        "link": "https://www.marketwatch.com/story/the-cyclospora-outbreak-is-the-biggest-ever-why-the-unusual-outbreak-is-so-hard-to-manage-4d1b4841?mod=mw_rss_topstories",
+        "title": "How coordinating 401(k) contributions with your spouse can unlock thousands in retirement wealth",
+        "link": "https://www.marketwatch.com/story/how-coordinating-401-k-contributions-with-your-spouse-can-unlock-thousands-in-retirement-wealth-b5c5d733?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 17:16:00 GMT",
-        "description": "The complexity of the cyclospora outbreak raises questions about whether it could last longer than previous outbreaks, which usually end in August."
+        "published": "Fri, 31 Jul 2026 18:04:00 GMT",
+        "description": "There are financial challenges that come with being in a couple, but one of the greatest may be simply talking about money."
       },
       {
-        "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-        "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+        "title": "Warsh’s Fed is failing to stick to its own principles for good monetary policy",
+        "link": "https://www.marketwatch.com/story/warshs-fed-is-failing-to-stick-to-its-own-principles-for-good-monetary-policy-0d4e45ef?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 30 Jul 2026 17:07:00 GMT",
-        "description": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”"
+        "published": "Fri, 31 Jul 2026 17:38:00 GMT",
+        "description": "Bond investors don’t understand how Fed Chair Kevin Warsh’s pledge to restore stable prices squares with inaction on interest rates."
       }
     ],
     "Singapore": [
       {
-        "title": "FIFA stake-sale push tests football's 'American century,' Bennett says",
-        "link": "https://www.channelnewsasia.com/sport/fifa-stake-sale-push-tests-footballs-american-century-bennett-says-6289556",
+        "title": "French, Italian winegrowers face earliest ever harvest",
+        "link": "https://www.channelnewsasia.com/world/france-italy-wine-growers-early-harvest-6292051",
         "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 05:04:57 +0800",
+        "published": "Sat, 01 Aug 2026 04:59:25 +0800",
+        "description": "Italian winegrowers warned that continued high temperatures linked to climate change could force faster harvesting and affect future wine quality."
+      },
+      {
+        "title": "Sri Lanka sentences two ex-security officials to death over 2019 Easter bombings",
+        "link": "https://www.channelnewsasia.com/world/sri-lanka-easter-bombings-sentence-two-security-officials-6292011",
+        "source": "CNA Singapore",
+        "published": "Sat, 01 Aug 2026 04:26:01 +0800",
+        "description": "The court ruled that former police chief Pujith Jayasundara and ex-defence secretary Hemasiri Fernando failed to act despite receiving warnings about a possible attack."
+      },
+      {
+        "title": "Exclusive-OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+        "link": "https://www.channelnewsasia.com/business/exclusive-openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-probe-6292036",
+        "source": "CNA Singapore",
+        "published": "Sat, 01 Aug 2026 04:18:43 +0800",
         "description": ""
       },
       {
-        "title": "Producer sues Netflix for $105 million over missing Nicolas Cage movie",
-        "link": "https://www.channelnewsasia.com/business/producer-sues-netflix-105-million-over-missing-nicolas-cage-movie-6289536",
+        "title": "Amgen discloses data breach, says patient information was stolen",
+        "link": "https://www.channelnewsasia.com/business/amgen-discloses-data-breach-says-patient-information-was-stolen-6292031",
         "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 05:02:03 +0800",
+        "published": "Sat, 01 Aug 2026 04:12:51 +0800",
         "description": ""
       },
       {
-        "title": "BOJ to keep rates steady, deliver hawkish signal as price pressures mount",
-        "link": "https://www.channelnewsasia.com/business/boj-keep-rates-steady-deliver-hawkish-signal-price-pressures-mount-6289541",
+        "title": "US Fed dissenters call for rate hikes over sustained inflation",
+        "link": "https://www.channelnewsasia.com/world/us-fed-dissenters-high-inflation-rate-hikes-6291956",
         "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 05:01:52 +0800",
+        "published": "Sat, 01 Aug 2026 03:38:55 +0800",
+        "description": "\"The longer that high inflation persists, the more challenging and costly it can be to bring it back down,\" said&nbsp;Beth Hammack, one of the dissenters."
+      },
+      {
+        "title": "Ryu recovers from bad second-round start to take halfway lead at Women's Open",
+        "link": "https://www.channelnewsasia.com/sport/ryu-recovers-bad-second-round-start-take-halfway-lead-womens-open-6291896",
+        "source": "CNA Singapore",
+        "published": "Sat, 01 Aug 2026 02:27:19 +0800",
         "description": ""
       },
       {
-        "title": "Japan conducts massive yen-buying intervention, Nikkei reports",
-        "link": "https://www.channelnewsasia.com/business/japan-conducts-massive-yen-buying-intervention-nikkei-reports-6289521",
+        "title": "Poland summons Russian ambassador after missile incident",
+        "link": "https://www.channelnewsasia.com/world/poland-summons-russian-ambassador-after-missile-incident-6291836",
         "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 04:53:16 +0800",
+        "published": "Sat, 01 Aug 2026 01:56:49 +0800",
+        "description": "\"We demand an end to actions that endanger the lives and safety of citizens,\" said Poland's Foreign Ministry spokesperson, Maciej Wewior, after a Russian Kh-101 missile landed on Polish territory."
+      },
+      {
+        "title": "Israel must approve Trump agreement before Hamas will implement, says Hamas official",
+        "link": "https://www.channelnewsasia.com/world/israel-hamas-gaza-trump-peace-agreement-6291791",
+        "source": "CNA Singapore",
+        "published": "Sat, 01 Aug 2026 01:11:12 +0800",
+        "description": "Israel said it would&nbsp;not withdraw troops \"unless Hamas undergoes a genuine disarmament\"."
+      },
+      {
+        "title": "NXP in talks to buy chip developer Ambarella, FT reports",
+        "link": "https://www.channelnewsasia.com/business/nxp-in-talks-buy-chip-developer-ambarella-ft-reports-6291811",
+        "source": "CNA Singapore",
+        "published": "Sat, 01 Aug 2026 01:06:39 +0800",
         "description": ""
       },
       {
-        "title": "Hundreds of migrants flood into Spain's Ceuta exclave from Morocco",
-        "link": "https://www.channelnewsasia.com/world/morocco-spain-ceuta-migrant-crossing-sea-6289516",
+        "title": "UK funeral director jailed for 20 years for 'dreadful' practices",
+        "link": "https://www.channelnewsasia.com/world/funeral-director-robert-bush-uk-jailed-6291736",
         "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 04:51:56 +0800",
-        "description": "Spain's military will help secure the border as more migrants try to reach the territory by sea, with nine people confirmed dead."
-      },
-      {
-        "title": "Bank of America to buy UK's MDSec Consulting to bolster cyber defenses",
-        "link": "https://www.channelnewsasia.com/business/bank-america-buy-uks-mdsec-consulting-bolster-cyber-defenses-6289506",
-        "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 04:37:55 +0800",
-        "description": ""
-      },
-      {
-        "title": "Trump weighs pulling attorney general nominee after revolt",
-        "link": "https://www.channelnewsasia.com/world/trump-attorney-general-nomination-todd-blanche-6289426",
-        "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 04:25:42 +0800",
-        "description": "Acting Attorney General Todd Blanche's nomination was delayed after two Republican senators sought written guarantees over a proposed settlement involving Trump's tax records."
-      },
-      {
-        "title": "Crypto exchange Coinbase reports third straight quarterly loss on trading slowdown",
-        "link": "https://www.channelnewsasia.com/business/crypto-exchange-coinbase-reports-third-straight-quarterly-loss-trading-slowdown-6289451",
-        "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 04:17:50 +0800",
-        "description": ""
-      },
-      {
-        "title": "Roblox forecasts quarterly bookings below estimates as safety features dampen engagement",
-        "link": "https://www.channelnewsasia.com/business/roblox-forecasts-quarterly-bookings-below-estimates-safety-features-dampen-engagement-6289441",
-        "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 04:12:05 +0800",
-        "description": ""
-      },
-      {
-        "title": "Reddit expects revenue above estimates as AI tools attract advertisers",
-        "link": "https://www.channelnewsasia.com/business/reddit-expects-revenue-above-estimates-ai-tools-attract-advertisers-6289446",
-        "source": "CNA Singapore",
-        "published": "Fri, 31 Jul 2026 04:11:07 +0800",
-        "description": ""
+        "published": "Sat, 01 Aug 2026 00:56:47 +0800",
+        "description": "Robert Bush admitted to 67 offences after police uncovered 31 decomposing bodies and more than 100 sets of ashes, with at least 46 families found to have received the wrong remains."
       }
     ],
     "US Politics": [
       {
-        "title": "Inquiry finds MoD Afghan data breach was foreseeable failure",
-        "link": "https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&at_campaign=rss",
+        "title": "High Court upholds decision to allow Chinese mega embassy",
+        "link": "https://www.bbc.co.uk/news/articles/cwylenj3znno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 29 Jul 2026 23:13:43 GMT",
-        "description": "The Commons' Defence Committee says in a report that the MoD used secrecy as a \"shield\" against proper expertise."
+        "published": "Fri, 31 Jul 2026 19:29:43 GMT",
+        "description": "The government has given the green light to the site on the old Royal Mint, near the Tower of London."
+      },
+      {
+        "title": "Wheels could come off Stormont without reform, says Sinn Féin",
+        "link": "https://www.bbc.co.uk/news/articles/cdew3dj454xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 17:56:56 GMT",
+        "description": "The Democratic Unionist Party says it is interested in delivering for the people of Northern Ireland."
+      },
+      {
+        "title": "Burnham faces criticism over plans for mayors to get share of income tax",
+        "link": "https://www.bbc.co.uk/news/articles/cwyr1w8r2y2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 16:13:26 GMT",
+        "description": "Tory mayor Lord Houchen wants to offer a rebate, but the prime minister says it should be reinvested in communities."
+      },
+      {
+        "title": "Budget to be held in October, Healey announces",
+        "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 15:58:42 GMT",
+        "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain."
+      },
+      {
+        "title": "BP puts North Sea business up for sale",
+        "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 15:36:21 GMT",
+        "description": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant."
+      },
+      {
+        "title": "Burnham considers reversing plan to scrap some jury trials",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qjv945g7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 15:25:20 GMT",
+        "description": "The prime minister says his \"instinct\" is to reverse plans by the last PM to limit jury trials in England and Wales."
+      },
+      {
+        "title": "Andy Burnham to give regional mayors share of income tax",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 13:16:44 GMT",
+        "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail."
+      },
+      {
+        "title": "Infantino 'wrong man' to lead Fifa says Burnham as criticism grows",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 12:14:43 GMT",
+        "description": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan."
+      },
+      {
+        "title": "Unions to boycott Labour women's conference over trans ban",
+        "link": "https://www.bbc.co.uk/news/articles/cpq8nwxdvzyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Fri, 31 Jul 2026 09:47:13 GMT",
+        "description": "The BBC understands the ban goes against long-standing policies on trans inclusion in most unions."
       },
       {
         "title": "MP Diane Abbott readmitted into Labour Party after suspension",
         "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 20:54:11 GMT",
+        "published": "Fri, 31 Jul 2026 06:39:12 GMT",
         "description": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\"."
-      },
-      {
-        "title": "Palestine Action ban to be reviewed by Supreme Court",
-        "link": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 19:45:56 GMT",
-        "description": "The UK's highest court gives Palestine Action's co-founder permission to appeal the government's proscription of the group under anti-terrorism legislation."
-      },
-      {
-        "title": "Virtual interviews don't show bosses your personality, says Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 19:04:55 GMT",
-        "description": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says."
-      },
-      {
-        "title": "Greens review social media operation as Polanski row rumbles on",
-        "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 16:42:21 GMT",
-        "description": "The Green Party is grappling with how to manage its social media following a controversial post by its leader."
-      },
-      {
-        "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
-        "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 16:33:40 GMT",
-        "description": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war."
-      },
-      {
-        "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-        "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 16:19:08 GMT",
-        "description": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling."
-      },
-      {
-        "title": "Large rise in offenders sent back to prison, figures reveal",
-        "link": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 12:13:51 GMT",
-        "description": "There has been a large rise in the number of offenders being recalled to prisons in England and Wales."
-      },
-      {
-        "title": "Jenrick urges Burnham to rule out tax rises to fund social care",
-        "link": "https://www.bbc.co.uk/news/articles/cx2mj4768k5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 12:05:29 GMT",
-        "description": "The prime minister has not ruled out tax rises to fund a long-awaited shake-up of social care."
-      },
-      {
-        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-        "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 30 Jul 2026 08:02:17 GMT",
-        "description": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending."
       }
     ],
     "Science": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Amazon stock soars 9% on 'booming' cloud growth, revenue beat",
-      "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+      "title": "French, Italian winegrowers face earliest ever harvest",
+      "link": "https://www.channelnewsasia.com/world/france-italy-wine-growers-early-harvest-6292051",
+      "source": "CNA Singapore",
+      "published": "Sat, 01 Aug 2026 04:59:25 +0800",
+      "description": "Italian winegrowers warned that continued high temperatures linked to climate change could force faster harvesting and affect future wine quality."
+    },
+    {
+      "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
+      "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
       "source": "CNBC Finance",
-      "published": "Thu, 30 Jul 2026 21:09:43 GMT",
-      "description": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth."
+      "published": "Fri, 31 Jul 2026 20:40:51 GMT",
+      "description": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports."
     },
     {
-      "title": "FIFA stake-sale push tests football's 'American century,' Bennett says",
-      "link": "https://www.channelnewsasia.com/sport/fifa-stake-sale-push-tests-footballs-american-century-bennett-says-6289556",
+      "title": "SecondFi Renews Bounty Push After $16.1M Cardano Exploit",
+      "link": "https://bitcoinist.com/secondfi-renews-bounty-push-after-16-1m-cardano-exploit/",
+      "source": "Bitcoinist",
+      "published": "Fri, 31 Jul 2026 20:35:00 +0000",
+      "description": "SecondFi has renewed its bounty offer to the attacker behind a $16.1 million Cardano exploit, as the team continues trying to recover 16.1 million ADA..."
+    },
+    {
+      "title": "Sri Lanka sentences two ex-security officials to death over 2019 Easter bombings",
+      "link": "https://www.channelnewsasia.com/world/sri-lanka-easter-bombings-sentence-two-security-officials-6292011",
       "source": "CNA Singapore",
-      "published": "Fri, 31 Jul 2026 05:04:57 +0800",
-      "description": ""
+      "published": "Sat, 01 Aug 2026 04:26:01 +0800",
+      "description": "The court ruled that former police chief Pujith Jayasundara and ex-defence secretary Hemasiri Fernando failed to act despite receiving warnings about a possible attack."
     },
     {
-      "title": "Producer sues Netflix for $105 million over missing Nicolas Cage movie",
-      "link": "https://www.channelnewsasia.com/business/producer-sues-netflix-105-million-over-missing-nicolas-cage-movie-6289536",
-      "source": "CNA Singapore",
-      "published": "Fri, 31 Jul 2026 05:02:03 +0800",
-      "description": ""
-    },
-    {
-      "title": "BOJ to keep rates steady, deliver hawkish signal as price pressures mount",
-      "link": "https://www.channelnewsasia.com/business/boj-keep-rates-steady-deliver-hawkish-signal-price-pressures-mount-6289541",
-      "source": "CNA Singapore",
-      "published": "Fri, 31 Jul 2026 05:01:52 +0800",
-      "description": ""
-    },
-    {
-      "title": "MP Diane Abbott readmitted into Labour Party after suspension",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Politics",
-      "published": "Thu, 30 Jul 2026 20:54:11 GMT",
-      "description": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\"."
-    },
-    {
-      "title": "Japan conducts massive yen-buying intervention, Nikkei reports",
-      "link": "https://www.channelnewsasia.com/business/japan-conducts-massive-yen-buying-intervention-nikkei-reports-6289521",
-      "source": "CNA Singapore",
-      "published": "Fri, 31 Jul 2026 04:53:16 +0800",
-      "description": ""
-    },
-    {
-      "title": "Hundreds of migrants flood into Spain's Ceuta exclave from Morocco",
-      "link": "https://www.channelnewsasia.com/world/morocco-spain-ceuta-migrant-crossing-sea-6289516",
-      "source": "CNA Singapore",
-      "published": "Fri, 31 Jul 2026 04:51:56 +0800",
-      "description": "Spain's military will help secure the border as more migrants try to reach the territory by sea, with nine people confirmed dead."
-    },
-    {
-      "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
-      "link": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
+      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+      "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Thu, 30 Jul 2026 20:40:00 GMT",
-      "description": "One of the wildest months in recent memory for the U.S. stock market is ending on yet another remarkable note: A highflying hedge fund run by an AI wunderkind in his mid-20s has apparently just been c"
+      "published": "Fri, 31 Jul 2026 20:23:00 GMT",
+      "description": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report."
     },
     {
-      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-      "link": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 31 Jul 2026 20:22:46 GMT",
+      "description": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
+    },
+    {
+      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
+      "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Fri, 31 Jul 2026 20:20:00 GMT",
+      "description": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more"
+    },
+    {
+      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
       "source": "CNBC Finance",
-      "published": "Thu, 30 Jul 2026 20:38:18 GMT",
-      "description": "Trump said he'd \"like to see tariffs on Iran\" added to a bill that would impose economic sanctions on Russia and those supporting its war against Ukraine."
+      "published": "Fri, 31 Jul 2026 20:19:03 GMT",
+      "description": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness."
     },
     {
-      "title": "Bank of America to buy UK's MDSec Consulting to bolster cyber defenses",
-      "link": "https://www.channelnewsasia.com/business/bank-america-buy-uks-mdsec-consulting-bolster-cyber-defenses-6289506",
+      "title": "Exclusive-OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+      "link": "https://www.channelnewsasia.com/business/exclusive-openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-probe-6292036",
       "source": "CNA Singapore",
-      "published": "Fri, 31 Jul 2026 04:37:55 +0800",
+      "published": "Sat, 01 Aug 2026 04:18:43 +0800",
       "description": ""
+    },
+    {
+      "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+      "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+      "source": "CNBC Finance",
+      "published": "Fri, 31 Jul 2026 20:17:54 GMT",
+      "description": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall."
     }
   ]
 }
