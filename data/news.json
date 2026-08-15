@@ -1,35 +1,70 @@
 {
-  "updated_sgt": "2026-08-15 04:33 SGT",
-  "updated_iso": "2026-08-15T04:33:00.310306+08:00",
+  "updated_sgt": "2026-08-16 04:24 SGT",
+  "updated_iso": "2026-08-16T04:24:35.504256+08:00",
   "categories": {
     "World": [
       {
-        "title": "Trump asks Supreme Court to allow ballroom work to continue",
-        "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 19:05:22 GMT",
-        "description": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
+        "published": "Sat, 15 Aug 2026 20:21:14 GMT",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
       },
       {
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 18:25:38 GMT",
-        "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
+        "published": "Sat, 15 Aug 2026 20:00:15 GMT",
+        "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
       },
       {
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 17:03:17 GMT",
-        "description": "Two families have been trapped in their homes in the occupied West Bank for several days."
+        "published": "Sat, 15 Aug 2026 19:41:57 GMT",
+        "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
       },
       {
-        "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-        "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+        "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+        "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 17:00:46 GMT",
-        "description": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world."
+        "published": "Sat, 15 Aug 2026 19:34:22 GMT",
+        "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
+      },
+      {
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 15 Aug 2026 19:16:40 GMT",
+        "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+      },
+      {
+        "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 15 Aug 2026 17:47:42 GMT",
+        "description": "The fire burning through the major park was described as the country's worst in recent years."
+      },
+      {
+        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 15 Aug 2026 13:41:09 GMT",
+        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui."
+      },
+      {
+        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+        "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 15 Aug 2026 00:01:53 GMT",
+        "description": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021."
+      },
+      {
+        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+        "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 14 Aug 2026 17:36:27 GMT",
+        "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
       },
       {
         "title": "France's top court blocks social media ban for under-15s",
@@ -37,122 +72,129 @@
         "source": "BBC World",
         "published": "Fri, 14 Aug 2026 16:35:06 GMT",
         "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft."
-      },
-      {
-        "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-        "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 16:28:59 GMT",
-        "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\"."
-      },
-      {
-        "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 13:18:08 GMT",
-        "description": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
-      },
-      {
-        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-        "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 12:19:21 GMT",
-        "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
-      },
-      {
-        "title": "Stolen Matisse artworks recovered by police in Brazil",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 10:55:39 GMT",
-        "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
-      },
-      {
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 14 Aug 2026 10:36:14 GMT",
-        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
       }
     ],
     "Finance": [
       {
-        "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-        "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+        "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+        "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 20:08:09 GMT",
-        "description": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said."
+        "published": "Sat, 15 Aug 2026 17:35:09 GMT",
+        "description": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain."
       },
       {
-        "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-        "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+        "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 19:50:11 GMT",
-        "description": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law"
+        "published": "Sat, 15 Aug 2026 14:46:43 GMT",
+        "description": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level."
       },
       {
-        "title": "Regulators and banks step up scrutiny of prediction markets",
-        "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 19:21:49 GMT",
-        "description": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC."
+        "published": "Sat, 15 Aug 2026 14:45:31 GMT",
+        "description": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering."
       },
       {
-        "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-        "link": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+        "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+        "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 19:10:18 GMT",
-        "description": "President Donald Trump tore down the White House East Wing to make way for the ballroom project."
+        "published": "Sat, 15 Aug 2026 14:19:35 GMT",
+        "description": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn."
       },
       {
-        "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-        "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+        "title": "Berkshire adds $17 billion to Alphabet stake",
+        "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 19:07:11 GMT",
-        "description": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO."
+        "published": "Sat, 15 Aug 2026 12:50:41 GMT",
+        "description": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio."
       },
       {
-        "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
-        "link": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 16:27:45 GMT",
-        "description": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology."
+        "published": "Sat, 15 Aug 2026 12:00:01 GMT",
+        "description": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have."
       },
       {
-        "title": "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
-        "link": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+        "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+        "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 16:27:07 GMT",
-        "description": "A U.S. appeals court has ruled in favor of Gilead Sciences against companies known as alternative funding programs that import medicines from overseas."
+        "published": "Sat, 15 Aug 2026 11:00:36 GMT",
+        "description": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory."
       },
       {
-        "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
-        "link": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
+        "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+        "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 15:22:00 GMT",
-        "description": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively and nearly 80% see the U.S. economy negatively."
+        "published": "Fri, 14 Aug 2026 23:41:50 GMT",
+        "description": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins."
       },
       {
-        "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
-        "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+        "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+        "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 13:24:54 GMT",
-        "description": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk."
+        "published": "Fri, 14 Aug 2026 21:45:19 GMT",
+        "description": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter."
       },
       {
-        "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
-        "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+        "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+        "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
         "source": "CNBC Finance",
-        "published": "Fri, 14 Aug 2026 12:03:32 GMT",
-        "description": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk."
+        "published": "Fri, 14 Aug 2026 18:00:01 GMT",
+        "description": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price."
       }
     ],
     "Technology": [
+      {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "source": "TechCrunch",
+        "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+        "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+      },
+      {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "source": "TechCrunch",
+        "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+        "description": "AI coding startup Cursor is now officially a part of SpaceX."
+      },
+      {
+        "title": "How to tell if your AI platforms’ accounts have been hacked",
+        "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "source": "TechCrunch",
+        "published": "Sat, 15 Aug 2026 16:10:00 +0000",
+        "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
+      },
+      {
+        "title": "Every fusion startup that has raised over $100M",
+        "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+        "source": "TechCrunch",
+        "published": "Sat, 15 Aug 2026 13:15:20 +0000",
+        "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
+      },
+      {
+        "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+        "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+        "source": "TechCrunch",
+        "published": "Fri, 14 Aug 2026 22:43:24 +0000",
+        "description": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around."
+      },
+      {
+        "title": "Self-driving trucks are officially testing on California highways",
+        "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+        "source": "TechCrunch",
+        "published": "Fri, 14 Aug 2026 20:37:49 +0000",
+        "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles."
+      },
       {
         "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
         "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
         "source": "TechCrunch",
         "published": "Fri, 14 Aug 2026 19:33:00 +0000",
-        "description": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
+        "description": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
       },
       {
         "title": "What we know about the alleged Iranian hacks on US water utilities",
@@ -174,48 +216,6 @@
         "source": "TechCrunch",
         "published": "Fri, 14 Aug 2026 16:21:04 +0000",
         "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss."
-      },
-      {
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "source": "TechCrunch",
-        "published": "Fri, 14 Aug 2026 16:13:40 +0000",
-        "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-      },
-      {
-        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-        "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "source": "TechCrunch",
-        "published": "Fri, 14 Aug 2026 15:43:28 +0000",
-        "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s"
-      },
-      {
-        "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-        "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-        "source": "TechCrunch",
-        "published": "Fri, 14 Aug 2026 14:54:48 +0000",
-        "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps."
-      },
-      {
-        "title": "Kog is going deeper to squeeze more inference out of GPUs",
-        "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-        "source": "TechCrunch",
-        "published": "Fri, 14 Aug 2026 14:50:11 +0000",
-        "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-      },
-      {
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-        "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "source": "TechCrunch",
-        "published": "Fri, 14 Aug 2026 14:05:00 +0000",
-        "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-      },
-      {
-        "title": "US courts will start publishing how often the government uses spyware",
-        "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
-        "source": "TechCrunch",
-        "published": "Fri, 14 Aug 2026 13:29:04 +0000",
-        "description": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals."
       }
     ],
     "Crypto": [
@@ -278,146 +278,146 @@
     ],
     "Markets": [
       {
-        "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
-        "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+        "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+        "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 19:09:00 GMT",
-        "description": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts."
+        "published": "Sat, 15 Aug 2026 20:00:00 GMT",
+        "description": "“I don’t expect my marginal tax rate to be materially different in the future.”"
       },
       {
-        "title": "Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.",
-        "link": "https://www.marketwatch.com/story/parents-putting-money-in-trump-accounts-could-get-a-2-500-tax-break-heres-how-fb6fb2f7?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 18:51:00 GMT",
-        "description": "A proposed rule could let families do a “discount Roth conversion.”"
-      },
-      {
-        "title": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
-        "link": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 18:47:00 GMT",
-        "description": "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances."
-      },
-      {
-        "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
-        "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 18:45:00 GMT",
-        "description": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way."
-      },
-      {
-        "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
-        "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 18:30:00 GMT",
-        "description": "“I’m curious whether there’s a downside.”"
-      },
-      {
-        "title": "Sandisk’s stock has rebounded nearly 35% this week. This is the latest catalyst.",
-        "link": "https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 18:24:00 GMT",
-        "description": "Analysts weighed in positively on the company’s new financial targets — helping to further a rally that’s brought shares up more than 60% from their recent low point."
-      },
-      {
-        "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?",
-        "link": "https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 18:01:00 GMT",
-        "description": "“He usually doesn’t get off work until 4 a.m.”"
-      },
-      {
-        "title": "Think interest rates are high now? These charts offers a different perspective.",
+        "title": "Think interest rates are high now? These charts offer a different perspective.",
         "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 17:51:00 GMT",
+        "published": "Sat, 15 Aug 2026 19:01:00 GMT",
         "description": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles."
-      },
-      {
-        "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
-        "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 17:40:00 GMT",
-        "description": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month."
       },
       {
         "title": "Owning a home is overrated. Renting is now often a much better money move.",
         "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 14 Aug 2026 17:30:00 GMT",
+        "published": "Sat, 15 Aug 2026 18:23:00 GMT",
         "description": "There are better ways to think about investments than homeownership."
+      },
+      {
+        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 15 Aug 2026 18:05:00 GMT",
+        "description": "For diversification in the stock market, there are actively managed alternatives to index funds."
+      },
+      {
+        "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+        "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 15 Aug 2026 17:08:00 GMT",
+        "description": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts."
+      },
+      {
+        "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+        "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 15 Aug 2026 16:52:00 GMT",
+        "description": "Caps on student borrowing could also play into how America pays for college."
+      },
+      {
+        "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
+        "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 15 Aug 2026 16:16:00 GMT",
+        "description": "Older adults could be scrambling for new health coverage next year, especially in rural markets that have fewer insurance choices."
+      },
+      {
+        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
+        "description": "“Some readers — and couples — would be grateful to retire on half that amount.”"
+      },
+      {
+        "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+        "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
+        "description": "“We were advised to return the bonus and take out a home-equity loan.”"
+      },
+      {
+        "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
+        "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 15 Aug 2026 15:28:00 GMT",
+        "description": "Social Security’s cost-of-living adjustment could be as much as 3.6% in 2027."
       }
     ],
     "Singapore": [
       {
-        "title": "Hundreds evacuated from Croatian and Greek resorts as wildfires stretch across Europe",
-        "link": "https://www.channelnewsasia.com/world/wildfire-europe-heatwave-croatia-resort-6320581",
+        "title": "Salah's Trabzonspor debut ends in draw after Kasimpasa fight back",
+        "link": "https://www.channelnewsasia.com/sport/salahs-trabzonspor-debut-ends-in-draw-after-kasimpasa-fight-back-6321756",
         "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 04:23:40 +0800",
-        "description": "A wildfire in Croatia killed one person, injured 40 and forced 1,200 people to evacuate, while Greece, France and England also faced major fires."
-      },
-      {
-        "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
-        "link": "https://www.channelnewsasia.com/business/us-regulator-approves-bank-charter-trump-backed-crypto-company-world-liberty-financial-6320586",
-        "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 04:05:28 +0800",
+        "published": "Sun, 16 Aug 2026 03:52:46 +0800",
         "description": ""
       },
       {
-        "title": "Italy's Euro 2020 winner Immobile retires after 17-year career",
-        "link": "https://www.channelnewsasia.com/sport/italys-euro-2020-winner-immobile-retires-after-17-year-career-6320566",
+        "title": "Eight-try All Blacks thump Bulls 50-19 in Pretoria",
+        "link": "https://www.channelnewsasia.com/sport/eight-try-all-blacks-thump-bulls-50-19-in-pretoria-6321761",
         "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 03:46:18 +0800",
+        "published": "Sun, 16 Aug 2026 03:50:51 +0800",
         "description": ""
       },
       {
-        "title": "Romero bids farewell to Spurs ahead of Atletico move",
-        "link": "https://www.channelnewsasia.com/sport/romero-bids-farewell-spurs-ahead-atletico-move-6320541",
+        "title": "Douglass sets 50m freestyle world record at Pan Pacific",
+        "link": "https://www.channelnewsasia.com/sport/douglass-sets-50m-freestyle-world-record-pan-pacific-6321741",
         "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 03:12:43 +0800",
+        "published": "Sun, 16 Aug 2026 03:40:46 +0800",
         "description": ""
       },
       {
-        "title": "Trump asks US Supreme Court to approve White House ballroom project",
-        "link": "https://www.channelnewsasia.com/world/white-house-ballroom-project-trump-court-6320486",
+        "title": "Iran fires back at Trump's threat to declare Hormuz a US territory",
+        "link": "https://www.channelnewsasia.com/world/iran-fires-back-trumps-threat-declare-hormuz-us-territory-6321731",
         "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 03:00:36 +0800",
-        "description": "A lower court had stopped the work, with the US president calling the ruling “horrendous, politically motivated, and unlawful.”"
-      },
-      {
-        "title": "New Zealand wing Clarke out of South Africa tour with shoulder injury",
-        "link": "https://www.channelnewsasia.com/sport/new-zealand-wing-clarke-out-south-africa-tour-shoulder-injury-6320501",
-        "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 02:32:49 +0800",
+        "published": "Sun, 16 Aug 2026 03:40:00 +0800",
         "description": ""
       },
       {
-        "title": "UK parliament probe into Farage resumes after polls win",
-        "link": "https://www.channelnewsasia.com/world/farage-gift-investigation-parliament-uk-6320431",
+        "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
+        "link": "https://www.channelnewsasia.com/business/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-center-deal-information-says-6321736",
         "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 02:10:53 +0800",
-        "description": "The UK Parliament has reopened its investigation into Nigel Farage’s £5 million (US$6.7 million)&nbsp;gift after he regained his seat in Clacton."
-      },
-      {
-        "title": "European championships deliver further frustration for Ramsay-Peaty",
-        "link": "https://www.channelnewsasia.com/sport/european-championships-deliver-further-frustration-ramsay-peaty-6320436",
-        "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 01:46:41 +0800",
+        "published": "Sun, 16 Aug 2026 03:38:26 +0800",
         "description": ""
       },
       {
-        "title": "Dry weather delays England community rugby season, RFU says",
-        "link": "https://www.channelnewsasia.com/sport/dry-weather-delays-england-community-rugby-season-rfu-says-6320426",
+        "title": "Inter sign England's Spence from Tottenham",
+        "link": "https://www.channelnewsasia.com/sport/inter-sign-englands-spence-tottenham-6321651",
         "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 01:35:39 +0800",
+        "published": "Sun, 16 Aug 2026 01:32:17 +0800",
         "description": ""
       },
       {
-        "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say",
-        "link": "https://www.channelnewsasia.com/world/palestine-activists-israel-us-netanyahu-6320386",
+        "title": "Taliban government supporters dance, take selfies in Kabul celebrations",
+        "link": "https://www.channelnewsasia.com/world/taliban-government-supporters-dance-take-selfies-in-kabul-celebrations-6321626",
         "source": "CNA Singapore",
-        "published": "Sat, 15 Aug 2026 01:32:14 +0800",
-        "description": "“A stable West Bank keeps Israel secure and is in line with this administration’s goal to achieve peace in the region,” said a White House official."
+        "published": "Sun, 16 Aug 2026 01:10:39 +0800",
+        "description": ""
+      },
+      {
+        "title": "Residents evacuate as Belgium wildfire scorches 1,600 hectares",
+        "link": "https://www.channelnewsasia.com/world/residents-evacuate-belgium-wildfire-scorches-1600-hectares-6321601",
+        "source": "CNA Singapore",
+        "published": "Sun, 16 Aug 2026 00:38:00 +0800",
+        "description": ""
+      },
+      {
+        "title": "Thailand beat Singapore 3-1 in first leg of ASEAN football championship semi-finals",
+        "link": "https://www.channelnewsasia.com/sport/football-thailand-beat-singapore-asean-championship-semis-6321481",
+        "source": "CNA Singapore",
+        "published": "Sat, 15 Aug 2026 22:59:00 +0800",
+        "description": "Thailand extended its winning streak against Singapore to 11."
+      },
+      {
+        "title": "Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah",
+        "link": "https://www.channelnewsasia.com/world/lebanon-reports-11-dead-in-strikes-israel-says-targeted-hezbollah-6321486",
+        "source": "CNA Singapore",
+        "published": "Sat, 15 Aug 2026 22:34:00 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
@@ -429,10 +429,10 @@
         "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
       },
       {
-        "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
         "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+        "published": "Sat, 15 Aug 2026 03:58:31 GMT",
         "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
       },
       {
@@ -494,18 +494,25 @@
     ],
     "Science": [
       {
-        "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
+        "title": "Scientists detect a surprising shift in human blood as CO2 rises",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
         "source": "Science Daily",
-        "published": "Thu, 13 Aug 2026 22:29:03 EDT",
-        "description": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six year"
+        "published": "Sat, 15 Aug 2026 10:39:32 EDT",
+        "description": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels h"
       },
       {
-        "title": "Drinking orange juice every day may change thousands of genes",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
+        "title": "When gut microbes run low on fiber, they may start eating you",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
         "source": "Science Daily",
-        "published": "Thu, 13 Aug 2026 08:15:50 EDT",
-        "description": "Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar"
+        "published": "Sat, 15 Aug 2026 10:30:28 EDT",
+        "description": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, wh"
+      },
+      {
+        "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+        "source": "Science Daily",
+        "published": "Sat, 15 Aug 2026 06:55:39 EDT",
+        "description": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, whi"
       },
       {
         "title": "Immune cells flood into the aging brain, Stanford scientists discover",
@@ -555,13 +562,6 @@
         "source": "Science Daily",
         "published": "Fri, 14 Aug 2026 05:11:23 EDT",
         "description": "Scientists have found that the AMOC may be far more vulnerable to rapid warming than to temperature alone. When warming happens slowly, the ocean can adapt, but at faster rates similar to today’s, the"
-      },
-      {
-        "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
-        "source": "Science Daily",
-        "published": "Fri, 14 Aug 2026 00:35:05 EDT",
-        "description": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s "
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Hundreds evacuated from Croatian and Greek resorts as wildfires stretch across Europe",
-      "link": "https://www.channelnewsasia.com/world/wildfire-europe-heatwave-croatia-resort-6320581",
-      "source": "CNA Singapore",
-      "published": "Sat, 15 Aug 2026 04:23:40 +0800",
-      "description": "A wildfire in Croatia killed one person, injured 40 and forced 1,200 people to evacuate, while Greece, France and England also faced major fires."
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 15 Aug 2026 20:21:14 GMT",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
     },
     {
-      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-      "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 14 Aug 2026 20:08:09 GMT",
-      "description": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said."
+      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 15 Aug 2026 20:00:15 GMT",
+      "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
     },
     {
-      "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
-      "link": "https://www.channelnewsasia.com/business/us-regulator-approves-bank-charter-trump-backed-crypto-company-world-liberty-financial-6320586",
+      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sat, 15 Aug 2026 20:00:00 GMT",
+      "description": "“I don’t expect my marginal tax rate to be materially different in the future.”"
+    },
+    {
+      "title": "Salah's Trabzonspor debut ends in draw after Kasimpasa fight back",
+      "link": "https://www.channelnewsasia.com/sport/salahs-trabzonspor-debut-ends-in-draw-after-kasimpasa-fight-back-6321756",
       "source": "CNA Singapore",
-      "published": "Sat, 15 Aug 2026 04:05:28 +0800",
+      "published": "Sun, 16 Aug 2026 03:52:46 +0800",
       "description": ""
     },
     {
-      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-      "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 14 Aug 2026 19:50:11 GMT",
-      "description": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law"
-    },
-    {
-      "title": "Italy's Euro 2020 winner Immobile retires after 17-year career",
-      "link": "https://www.channelnewsasia.com/sport/italys-euro-2020-winner-immobile-retires-after-17-year-career-6320566",
+      "title": "Eight-try All Blacks thump Bulls 50-19 in Pretoria",
+      "link": "https://www.channelnewsasia.com/sport/eight-try-all-blacks-thump-bulls-50-19-in-pretoria-6321761",
       "source": "CNA Singapore",
-      "published": "Sat, 15 Aug 2026 03:46:18 +0800",
+      "published": "Sun, 16 Aug 2026 03:50:51 +0800",
       "description": ""
     },
     {
-      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "source": "TechCrunch",
-      "published": "Fri, 14 Aug 2026 19:33:00 +0000",
-      "description": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 15 Aug 2026 19:41:57 GMT",
+      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
     },
     {
-      "title": "Regulators and banks step up scrutiny of prediction markets",
-      "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 14 Aug 2026 19:21:49 GMT",
-      "description": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC."
-    },
-    {
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Politics",
-      "published": "Fri, 14 Aug 2026 19:17:16 GMT",
-      "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
-    },
-    {
-      "title": "Romero bids farewell to Spurs ahead of Atletico move",
-      "link": "https://www.channelnewsasia.com/sport/romero-bids-farewell-spurs-ahead-atletico-move-6320541",
+      "title": "Douglass sets 50m freestyle world record at Pan Pacific",
+      "link": "https://www.channelnewsasia.com/sport/douglass-sets-50m-freestyle-world-record-pan-pacific-6321741",
       "source": "CNA Singapore",
-      "published": "Sat, 15 Aug 2026 03:12:43 +0800",
+      "published": "Sun, 16 Aug 2026 03:40:46 +0800",
       "description": ""
     },
     {
-      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-      "link": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 14 Aug 2026 19:10:18 GMT",
-      "description": "President Donald Trump tore down the White House East Wing to make way for the ballroom project."
+      "title": "Iran fires back at Trump's threat to declare Hormuz a US territory",
+      "link": "https://www.channelnewsasia.com/world/iran-fires-back-trumps-threat-declare-hormuz-us-territory-6321731",
+      "source": "CNA Singapore",
+      "published": "Sun, 16 Aug 2026 03:40:00 +0800",
+      "description": ""
+    },
+    {
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
+      "link": "https://www.channelnewsasia.com/business/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-center-deal-information-says-6321736",
+      "source": "CNA Singapore",
+      "published": "Sun, 16 Aug 2026 03:38:26 +0800",
+      "description": ""
+    },
+    {
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 15 Aug 2026 19:34:22 GMT",
+      "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
     }
   ]
 }
