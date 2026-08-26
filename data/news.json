@@ -1,224 +1,231 @@
 {
-  "updated_sgt": "2026-08-26 04:31 SGT",
-  "updated_iso": "2026-08-26T04:31:05.168583+08:00",
+  "updated_sgt": "2026-08-27 06:52 SGT",
+  "updated_iso": "2026-08-27T06:52:17.292760+08:00",
   "categories": {
     "World": [
+      {
+        "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+        "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 22:02:18 GMT",
+        "description": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
+      },
+      {
+        "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+        "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 19:19:46 GMT",
+        "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage."
+      },
+      {
+        "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+        "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 18:22:41 GMT",
+        "description": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials."
+      },
+      {
+        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+        "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 15:42:45 GMT",
+        "description": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
+      },
+      {
+        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+        "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 14:42:03 GMT",
+        "description": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies."
+      },
+      {
+        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+        "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 11:32:11 GMT",
+        "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
+      },
+      {
+        "title": "Radiation link in flight attendant's breast cancer, French court finds",
+        "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 10:29:36 GMT",
+        "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
+      },
+      {
+        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+        "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 08:17:45 GMT",
+        "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
+      },
+      {
+        "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 26 Aug 2026 08:01:56 GMT",
+        "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+      },
       {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Tue, 25 Aug 2026 19:50:57 GMT",
         "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
-      },
-      {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 19:48:14 GMT",
-        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
-      },
-      {
-        "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-        "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 19:30:37 GMT",
-        "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams."
-      },
-      {
-        "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-        "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 16:40:11 GMT",
-        "description": "The footage shows dozens of men, women and children sitting in a forest."
-      },
-      {
-        "title": "European rights court orders Turkey to free imprisoned businessman",
-        "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 15:58:20 GMT",
-        "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated."
-      },
-      {
-        "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 15:18:50 GMT",
-        "description": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones."
-      },
-      {
-        "title": "Brain disease in dead NFL players 'higher than previously shown'",
-        "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 11:54:40 GMT",
-        "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher."
-      },
-      {
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 11:54:03 GMT",
-        "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
-      },
-      {
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 11:53:36 GMT",
-        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
-      },
-      {
-        "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-        "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 25 Aug 2026 08:52:17 GMT",
-        "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
       }
     ],
     "Finance": [
       {
-        "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-        "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
+        "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+        "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 20:05:46 GMT",
-        "description": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out."
+        "published": "Wed, 26 Aug 2026 22:39:49 GMT",
+        "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter."
       },
       {
-        "title": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
-        "link": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
+        "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+        "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 19:52:43 GMT",
-        "description": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year."
+        "published": "Wed, 26 Aug 2026 22:20:20 GMT",
+        "description": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools."
       },
       {
-        "title": "Investor competition for commercial real estate sees strongest growth in a year",
-        "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
+        "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
+        "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 19:44:55 GMT",
-        "description": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL."
+        "published": "Wed, 26 Aug 2026 21:27:53 GMT",
+        "description": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period"
       },
       {
-        "title": "Bond rout ending? Massive bets on bond rally dominate options market",
-        "link": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
+        "title": "Republicans are dismissing affordability. That could be a problem in November",
+        "link": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 19:42:17 GMT",
-        "description": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out."
+        "published": "Wed, 26 Aug 2026 21:26:06 GMT",
+        "description": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\""
       },
       {
-        "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-        "link": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
+        "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+        "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 18:54:27 GMT",
-        "description": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz."
+        "published": "Wed, 26 Aug 2026 21:17:46 GMT",
+        "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms."
       },
       {
-        "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-        "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+        "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+        "link": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 18:48:33 GMT",
-        "description": "SpaceX plans to establish its Starbase, LA, in Vermillion Parish, which will \"support thousands of launches annually.\""
+        "published": "Wed, 26 Aug 2026 21:17:34 GMT",
+        "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach."
       },
       {
-        "title": "Is the K-shaped economy ending? Finance pros weigh in",
-        "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
+        "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
+        "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 18:39:14 GMT",
-        "description": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story."
+        "published": "Wed, 26 Aug 2026 20:50:45 GMT",
+        "description": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement."
       },
       {
-        "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-        "link": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
+        "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+        "link": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 17:15:50 GMT",
-        "description": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision."
+        "published": "Wed, 26 Aug 2026 19:15:45 GMT",
+        "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes."
       },
       {
-        "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-        "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
+        "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
+        "link": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 17:00:01 GMT",
-        "description": "HHS plans to name two deputy commissioners for technology and drugs, said two sources familiar with the matter."
+        "published": "Wed, 26 Aug 2026 18:07:15 GMT",
+        "description": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources."
       },
       {
-        "title": "Cash is no longer king in home sales",
-        "link": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
+        "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+        "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
         "source": "CNBC Finance",
-        "published": "Tue, 25 Aug 2026 16:38:40 GMT",
-        "description": "Cash buyers are a diminishing share of the overall housing market, as more supply and weaker prices give all buyers more purchasing power."
+        "published": "Wed, 26 Aug 2026 13:15:24 GMT",
+        "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
       }
     ],
     "Technology": [
       {
-        "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-        "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+        "title": "Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well",
+        "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 19:22:52 +0000",
-        "description": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automaticall"
+        "published": "Wed, 26 Aug 2026 22:47:58 +0000",
+        "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk."
       },
       {
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+        "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 19:03:47 +0000",
-        "description": "The company's new fundraising total now stands at $232 million."
+        "published": "Wed, 26 Aug 2026 21:37:39 +0000",
+        "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
       },
       {
-        "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-        "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+        "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+        "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 18:26:55 +0000",
-        "description": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029."
+        "published": "Wed, 26 Aug 2026 19:37:34 +0000",
+        "description": "Consumer AI apps need to stop making users learn their product architecture."
       },
       {
-        "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-        "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+        "title": "How do we explain OpenAI’s executive exodus?",
+        "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 18:22:50 +0000",
-        "description": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!"
+        "published": "Wed, 26 Aug 2026 19:34:04 +0000",
+        "description": "Was Greg Brockman the right executive all along?"
       },
       {
-        "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-        "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+        "title": "OpenAI releases its official report on the Hugging Face breach",
+        "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 18:01:30 +0000",
-        "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at"
+        "published": "Wed, 26 Aug 2026 19:05:22 +0000",
+        "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
       },
       {
-        "title": "Claude Cowork finally remembers what you told the app in chat",
-        "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+        "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+        "link": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 17:50:33 +0000",
-        "description": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
+        "published": "Wed, 26 Aug 2026 18:35:40 +0000",
+        "description": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem."
       },
       {
-        "title": "Waymo robotaxis are headed to Munich",
-        "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+        "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
+        "link": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 17:32:03 +0000",
-        "description": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment."
+        "published": "Wed, 26 Aug 2026 18:23:09 +0000",
+        "description": "The company won't say if medical devices are affected or if any customer data was exfiltrated."
       },
       {
-        "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-        "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
+        "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+        "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 16:35:00 +0000",
-        "description": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medicati"
+        "published": "Wed, 26 Aug 2026 17:01:05 +0000",
+        "description": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the bo"
       },
       {
-        "title": "That fake Grand Theft Auto VI demo is actually just malware",
-        "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
+        "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+        "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 15:48:38 +0000",
-        "description": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack."
+        "published": "Wed, 26 Aug 2026 17:00:00 +0000",
+        "description": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools."
       },
       {
-        "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-        "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
+        "title": "Apple is holding its iPhone launch event on September 9",
+        "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
         "source": "TechCrunch",
-        "published": "Tue, 25 Aug 2026 15:30:00 +0000",
-        "description": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself."
+        "published": "Wed, 26 Aug 2026 16:53:07 +0000",
+        "description": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the rei"
       }
     ],
     "Crypto": [
+      {
+        "title": "TAC Sidechain Halts After Supply Exploit As TON Mainnet Remains Separate",
+        "link": "https://bitcoinist.com/tac-sidechain-halts-after-supply-exploit-as-ton-mainnet-remains-separate/",
+        "source": "Bitcoinist",
+        "published": "Tue, 25 Aug 2026 12:45:00 +0000",
+        "description": "TAC Sidechain Halts After Supply Exploit As TON Mainnet Remains Separate - Read the full analysis."
+      },
       {
         "title": "BNB Chain Pasteur Hard Fork Set For August 25 Mainnet Activation",
         "link": "https://bitcoinist.com/bnb-chain-pasteur-hard-fork-set-for-august-25-mainnet-activation/",
@@ -267,160 +274,202 @@
         "source": "Bitcoinist",
         "published": "Tue, 25 Aug 2026 07:30:00 +0000",
         "description": "Flowra Launches Open Orderflow Auction For Solana Validators - Read the full analysis."
-      },
-      {
-        "title": "AI Agents Move 3.3M USDC Through Solana x402 Payments",
-        "link": "https://bitcoinist.com/ai-agents-move-3-3m-usdc-through-solana-x402-payments/",
-        "source": "Bitcoinist",
-        "published": "Tue, 25 Aug 2026 06:45:00 +0000",
-        "description": "AI Agents Move 3.3M USDC Through Solana x402 Payments - Read the full analysis."
       }
     ],
     "Markets": [
       {
-        "title": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets",
-        "link": "https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories",
+        "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+        "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 20:11:00 GMT",
-        "description": "3 tax pitfalls for ‘influencers’ — and tips to avoid them that could help all taxpayers."
+        "published": "Wed, 26 Aug 2026 22:50:00 GMT",
+        "description": "Salesforce cleared Wall Street’s second-quarter expectations and deepened its ties with AI lab Anthropic."
       },
       {
-        "title": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.",
-        "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories",
+        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+        "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 20:07:00 GMT",
-        "description": "Nvidia’s quarterly earnings announcement has been a major stock-market event ever since the AI boom began in earnest with the introduction of ChatGPT in late 2022."
+        "published": "Wed, 26 Aug 2026 22:30:00 GMT",
+        "description": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”"
       },
       {
-        "title": "Has AI gotten any better at stock picking?",
-        "link": "https://www.marketwatch.com/story/has-ai-gotten-any-better-at-stock-picking-a7cfb998?mod=mw_rss_topstories",
+        "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
+        "link": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 19:35:00 GMT",
-        "description": "Beating the market is difficult, even with AI’s help."
+        "published": "Wed, 26 Aug 2026 22:30:00 GMT",
+        "description": "“I really don’t want to miss my baby’s first year.”"
       },
       {
-        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-        "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 19:30:00 GMT",
-        "description": "“The property is very old and requires significant ongoing maintenance.”"
+        "published": "Wed, 26 Aug 2026 22:15:00 GMT",
+        "description": "“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC.”"
       },
       {
-        "title": "U.S.-Canada trade war threatens to worsen inflation for both economies. Neither can afford it.",
-        "link": "https://www.marketwatch.com/story/u-s-canada-trade-war-threatens-to-worsen-inflation-for-both-economies-neither-can-afford-it-bd797506?mod=mw_rss_topstories",
+        "title": "Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit",
+        "link": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 19:24:00 GMT",
-        "description": "An actual trade war with Canada would undoubtably hurt the smaller neighbor to the north, economists say, but the U.S. wouldn’t escape entirely unscathed."
+        "published": "Wed, 26 Aug 2026 21:58:00 GMT",
+        "description": "The social-media giant’s agreement with state officials removes a cloud that was hanging over its stock, analysts say."
       },
       {
-        "title": "This chart shows exactly why investors should worry about rising yields — even if they don’t own any bonds",
-        "link": "https://www.marketwatch.com/story/this-chart-shows-exactly-why-investors-should-worry-about-rising-yields-even-if-they-dont-own-any-bonds-075b93c0?mod=mw_rss_topstories",
+        "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+        "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 18:58:00 GMT",
-        "description": "Strong earnings growth over the past few quarters has helped lift U.S. stocks into record territory. Now, rising Treasury yields are threatening to temporarily derail the rally."
+        "published": "Wed, 26 Aug 2026 21:56:00 GMT",
+        "description": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence."
       },
       {
-        "title": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’",
-        "link": "https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories",
+        "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+        "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 18:55:00 GMT",
-        "description": "SpaceX says it will invest $100 billion to launch thousands of rockets from “Starbase, Louisiana,” with construction set to start in 2027."
+        "published": "Wed, 26 Aug 2026 21:09:00 GMT",
+        "description": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years."
       },
       {
-        "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
-        "link": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
+        "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+        "link": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 18:29:00 GMT",
-        "description": "The chip maker is strongly positioned to gain share in the market for data-center CPUs and to see profit from revenue, a Raymond James analyst says."
+        "published": "Wed, 26 Aug 2026 20:15:00 GMT",
+        "description": "“His former lawyer is now holding the settlement funds, maintaining that he is entitled to attorney’s fees.”"
       },
       {
-        "title": "Here’s where it takes new homeowners almost 40 to 50 years to break even on buying a house",
-        "link": "https://www.marketwatch.com/story/heres-where-it-takes-new-homeowners-almost-40-to-50-years-to-break-even-on-buying-a-house-c503cb50?mod=mw_rss_topstories",
+        "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+        "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 17:50:00 GMT",
-        "description": "In some markets, renting and investing can build wealth faster than buying a house."
+        "published": "Wed, 26 Aug 2026 19:46:00 GMT",
+        "description": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”"
       },
       {
-        "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
-        "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+        "title": "Are older Americans spoiling the economy for everyone else?",
+        "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 25 Aug 2026 17:32:00 GMT",
-        "description": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026."
+        "published": "Wed, 26 Aug 2026 19:06:00 GMT",
+        "description": "How to get seniors to spend $12 trillion in home equity."
       }
     ],
     "Singapore": [
       {
-        "title": "Brighton sign Algeria defender Hadjam on deal until 2031",
-        "link": "https://www.channelnewsasia.com/sport/brighton-sign-algeria-defender-hadjam-deal-until-2031-6340896",
+        "title": "NFL-NFL, NFLPA tighten discipline for repeat player-safety violations",
+        "link": "https://www.channelnewsasia.com/sport/nfl-nfl-nflpa-tighten-discipline-repeat-player-safety-violations-6343766",
         "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 04:10:04 +0800",
+        "published": "Thu, 27 Aug 2026 06:22:18 +0800",
         "description": ""
       },
       {
-        "title": "Intuit's annual forecast falls short of estimates as it prioritizes customer growth",
-        "link": "https://www.channelnewsasia.com/business/intuits-annual-forecast-falls-short-estimates-it-prioritizes-customer-growth-6340881",
+        "title": "His father with dementia vanished near home. How can Singapore keep these seniors safe?",
+        "link": "https://www.channelnewsasia.com/cna-insider/dementia-patients-wander-go-missing-singapore-japan-seniors-safe-6342131",
         "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 04:03:21 +0800",
+        "published": "Thu, 27 Aug 2026 06:00:00 +0800",
+        "description": "As the numbers of dementia cases rise in Singapore, more families will face the challenge of keeping loved ones safe without restricting their lives. Talking Point looks at Japan’s approach and how re"
+      },
+      {
+        "title": "Myanmar’s Dawei port megaproject could offer a regional shipping shortcut, but viability doubts linger",
+        "link": "https://www.channelnewsasia.com/asia/myanmars-dawei-port-megaproject-could-offer-regional-shipping-shortcut-viability-doubts-linger-6341866",
+        "source": "CNA Singapore",
+        "published": "Thu, 27 Aug 2026 06:00:00 +0800",
+        "description": "Myanmar's Dawei special economic zone could offer Thailand a shorter route to the Indian Ocean by bypassing the Strait of Malacca, but conflict, financing constraints and Russia's role raise questions"
+      },
+      {
+        "title": "Commentary: NDR 2026 – why a higher BTO income ceiling isn’t just a housing policy adjustment",
+        "link": "https://www.channelnewsasia.com/commentary/ndr-2026-higher-bto-income-ceiling-family-formation-6341336",
+        "source": "CNA Singapore",
+        "published": "Thu, 27 Aug 2026 06:00:00 +0800",
+        "description": "While its core objective is to ensure affordable housing, public housing also fulfils another equally important policy objective of encouraging family formation, says Lee Kuan Yew School of Public Pol"
+      },
+      {
+        "title": "CNA Explains: Why have US Treasury yields surged, and why does it matter to Asia?",
+        "link": "https://www.channelnewsasia.com/business/us-treasury-yields-bond-market-asia-cna-explains-6340241",
+        "source": "CNA Singapore",
+        "published": "Thu, 27 Aug 2026 06:00:00 +0800",
+        "description": "Higher US yields&nbsp;generally translate into higher borrowing costs for households and businesses, which could lead to more expensive mortgages and loans, says one analyst."
+      },
+      {
+        "title": "Singapore’s economy is growing — why aren’t all workers feeling it?",
+        "link": "https://www.channelnewsasia.com/singapore/artificial-intelligence-economy-inequality-6339571",
+        "source": "CNA Singapore",
+        "published": "Thu, 27 Aug 2026 06:00:00 +0800",
+        "description": "If economic gains continue to be felt unevenly across different sectors, it could lead to a \"dual economy\" that may lead to more durable wealth inequality, say experts."
+      },
+      {
+        "title": "Commentary: China is betting on spreading AI faster than the US can contain it",
+        "link": "https://www.channelnewsasia.com/commentary/china-ai-us-race-chips-kimi-qwen-6342296",
+        "source": "CNA Singapore",
+        "published": "Thu, 27 Aug 2026 05:59:00 +0800",
+        "description": "China is showing it can pursue frontier AI while deploying it widely in the real world. For Asia, that may matter more than who has the smartest new model, says Enodo Economics’ Diana Choyleva."
+      },
+      {
+        "title": "Commentary: How much sleep do you need? Forget the eight‑hour rule",
+        "link": "https://www.channelnewsasia.com/commentary/how-many-hours-sleep-health-recommendation-6342321",
+        "source": "CNA Singapore",
+        "published": "Thu, 27 Aug 2026 05:58:00 +0800",
+        "description": "Estimates of optimal sleep duration are based on averages, and the average person does not exist, say these professors."
+      },
+      {
+        "title": "Spurs win big and then draw Liverpool in League Cup",
+        "link": "https://www.channelnewsasia.com/sport/spurs-win-big-and-then-draw-liverpool-in-league-cup-6343746",
+        "source": "CNA Singapore",
+        "published": "Thu, 27 Aug 2026 05:56:07 +0800",
         "description": ""
       },
       {
-        "title": "Man United's Fernandes named PFA Player of the Year",
-        "link": "https://www.channelnewsasia.com/sport/man-uniteds-fernandes-named-pfa-player-year-6340886",
+        "title": "Thai held over parrot eggs haul in South Africa",
+        "link": "https://www.channelnewsasia.com/world/thai-national-parrot-eggs-johannesburg-airport-6343686",
         "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 04:02:47 +0800",
-        "description": ""
-      },
-      {
-        "title": "US spy chief visits Russia for meetings, media reports",
-        "link": "https://www.channelnewsasia.com/world/us-spy-chief-russia-visit-ratcliffe-6340786",
-        "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 03:46:00 +0800",
-        "description": "US CIA (Central Intelligence Agency)&nbsp;Director John Ratcliffe travelled to Moscow for talks with Russian officials, in what would be the first known visit by a US spy chief to Russia since 2021."
-      },
-      {
-        "title": "All Blacks come from behind to edge Lions and stay unbeaten on tour",
-        "link": "https://www.channelnewsasia.com/sport/all-blacks-come-behind-edge-lions-and-stay-unbeaten-tour-6340801",
-        "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 03:01:00 +0800",
-        "description": ""
-      },
-      {
-        "title": "Japan eyes blockchain for instant stock, government bond settlement, Nikkei reports",
-        "link": "https://www.channelnewsasia.com/business/japan-eyes-blockchain-instant-stock-government-bond-settlement-nikkei-reports-6340781",
-        "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 02:52:06 +0800",
-        "description": ""
-      },
-      {
-        "title": "US country music legend Dolly Parton dies at 80",
-        "link": "https://www.channelnewsasia.com/world/dolly-parton-dead-country-music-singer-6340736",
-        "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 02:32:00 +0800",
-        "description": "The singer’s nephew announced her death on social media, saying, “Dolly has lived in the light and is in the arms of Jesus.”"
-      },
-      {
-        "title": "California AG says no settlement talks scheduled with Paramount",
-        "link": "https://www.channelnewsasia.com/business/california-ag-says-no-settlement-talks-scheduled-paramount-6340751",
-        "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 02:31:55 +0800",
-        "description": ""
-      },
-      {
-        "title": "Iran, Oman say discussed temporary Hormuz corridor, mine-clearing",
-        "link": "https://www.channelnewsasia.com/world/iran-oman-say-discussed-temporary-hormuz-corridor-mine-clearing-6340691",
-        "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 02:15:41 +0800",
-        "description": "Omani Foreign Minister Badr Albusaidi said a phased framework was discussed with his Iranian counterpart to establish a joint temporary navigational corridor and clear mines from the strait."
-      },
-      {
-        "title": "India police clash with protestors over jobs and exam transparency",
-        "link": "https://www.channelnewsasia.com/world/india-protests-jobs-exams-police-6340631",
-        "source": "CNA Singapore",
-        "published": "Wed, 26 Aug 2026 01:12:06 +0800",
-        "description": "The protests, which began last week over unemployment,&nbsp;later included demands for education reforms and fairer exams."
+        "published": "Thu, 27 Aug 2026 05:42:16 +0800",
+        "description": "A 50-year-old Thai national was arrested for allegedly smuggling 50 suspected endangered parrot eggs through Johannesburg airport."
       }
     ],
     "US Politics": [
+      {
+        "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
+        "link": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 26 Aug 2026 21:32:52 GMT",
+        "description": "The announcement comes as Burnham holds his first official visit to Wales since becoming prime minster."
+      },
+      {
+        "title": "Wes Streeting deluged with homophobic hate mail since becoming defence secretary",
+        "link": "https://www.bbc.co.uk/news/articles/cly46gxgq7eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 26 Aug 2026 21:21:19 GMT",
+        "description": "Homosexuality was decriminalised in the UK in 1967, but a ban continued in the armed forces until 2000."
+      },
+      {
+        "title": "'Ironing board' train seats to get more cushions, transport secretary says",
+        "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 26 Aug 2026 16:56:34 GMT",
+        "description": "Greater Thameslink Railway says these upgrades are part of the wider renationalisation plans."
+      },
+      {
+        "title": "Portrait of Ann Widdecombe put up in Parliament for MPs' return",
+        "link": "https://www.bbc.co.uk/news/articles/czdz1r1z17zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 26 Aug 2026 16:40:59 GMT",
+        "description": "The framed photograph forms part of work by MPs to install a permament memorial for the former minister."
+      },
+      {
+        "title": "Reform proposes £30 tax rebate for HMRC phone delays",
+        "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 26 Aug 2026 14:41:02 GMT",
+        "description": "People on hold to HMRC for more than 30 minutes would get a tax credit under plans announced by Robert Jenrick."
+      },
+      {
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 26 Aug 2026 11:03:50 GMT",
+        "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says."
+      },
+      {
+        "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+        "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 26 Aug 2026 05:14:12 GMT",
+        "description": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied."
+      },
       {
         "title": "Row breaks out over minister's tribute to all A66 crash victims",
         "link": "https://www.bbc.co.uk/news/articles/crk3my26mk2o?at_medium=RSS&at_campaign=rss",
@@ -436,76 +485,69 @@
         "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London."
       },
       {
-        "title": "DUP MP Gregory Campbell under investigation for alleged spending breach",
-        "link": "https://www.bbc.co.uk/news/articles/clyl8964x7zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 25 Aug 2026 11:44:23 GMT",
-        "description": "The watchdog's investigation concerns the MP’s spending against their Office Costs budget."
-      },
-      {
         "title": "Burnham refuses to rule out tax rises in autumn Budget",
         "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Tue, 25 Aug 2026 06:40:33 GMT",
         "description": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget."
-      },
-      {
-        "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-        "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 25 Aug 2026 04:06:34 GMT",
-        "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
-      },
-      {
-        "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 25 Aug 2026 01:48:24 GMT",
-        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
-      },
-      {
-        "title": "Mayors to get powers to overrule local councils on planning decisions",
-        "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Sun, 23 Aug 2026 10:02:23 GMT",
-        "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\"."
-      },
-      {
-        "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-        "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 24 Aug 2026 16:03:24 GMT",
-        "description": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos."
-      },
-      {
-        "title": "Scottish National Investment Bank makes 'painful' £138m net loss",
-        "link": "https://www.bbc.co.uk/news/articles/clyl8kd9jn8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 24 Aug 2026 14:06:24 GMT",
-        "description": "The publicly-owned body, which operates independently, has invested in several firms that collapsed last year."
-      },
-      {
-        "title": "Reform says it will prioritise British-born workers for social housing",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 24 Aug 2026 12:07:43 GMT",
-        "description": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\"."
       }
     ],
     "Science": [
+      {
+        "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+        "source": "Science Daily",
+        "published": "Wed, 26 Aug 2026 09:00:53 EDT",
+        "description": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, r"
+      },
+      {
+        "title": "190-year-old DNA reveals a hidden pangolin species",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+        "source": "Science Daily",
+        "published": "Wed, 26 Aug 2026 08:46:59 EDT",
+        "description": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservat"
+      },
+      {
+        "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
+        "source": "Science Daily",
+        "published": "Wed, 26 Aug 2026 08:39:11 EDT",
+        "description": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon d"
+      },
+      {
+        "title": "What you eat before age 2 may affect your health 70 years later",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260824065522.htm",
+        "source": "Science Daily",
+        "published": "Wed, 26 Aug 2026 07:30:35 EDT",
+        "description": "Britain’s postwar sugar rationing created a rare natural experiment that let researchers examine how early sugar exposure might affect health decades later. People who experienced more rationing durin"
+      },
+      {
+        "title": "Turmeric compound may protect blood vessels from diabetes damage",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260824065543.htm",
+        "source": "Science Daily",
+        "published": "Wed, 26 Aug 2026 06:49:14 EDT",
+        "description": "A compound found in turmeric may help protect blood vessels from some of the damage caused by Type 1 diabetes. In rats, curcumin reduced inflammation, improved cellular signaling, and restored vascula"
+      },
+      {
+        "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
+        "source": "Science Daily",
+        "published": "Wed, 26 Aug 2026 06:29:17 EDT",
+        "description": "NASA’s Roman Space Telescope is now enclosed inside its Falcon Heavy fairing and nearly ready for launch. Its mission could uncover thousands of exoplanets while helping scientists investigate dark ma"
+      },
+      {
+        "title": "Three forgotten kings could rewrite the history of ancient Assyria",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
+        "source": "Science Daily",
+        "published": "Tue, 25 Aug 2026 21:20:06 EDT",
+        "description": "Three forgotten Assyrian kings may have been hiding in plain sight for more than 2,700 years. By piecing together clues from tablets, inscriptions, and an ancient statue, researchers argue that these "
+      },
       {
         "title": "Supercharged “natural killer” cells could be a powerful new cancer weapon",
         "link": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
         "source": "Science Daily",
         "published": "Tue, 25 Aug 2026 08:56:22 EDT",
         "description": "Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside. In mice, these special"
-      },
-      {
-        "title": "A Manhattan-sized ice island just broke free from Greenland",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823094145.htm",
-        "source": "Science Daily",
-        "published": "Tue, 25 Aug 2026 08:32:33 EDT",
-        "description": "A huge section of Greenland’s Petermann Glacier has snapped off, forming an ice island about the size of Manhattan. Satellites watched cracks spread rapidly before the 76-square-kilometer slab finally"
       },
       {
         "title": "Atomic catalyst unlocks the hidden value of plant waste",
@@ -515,53 +557,11 @@
         "description": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst work"
       },
       {
-        "title": "Scientists find hidden “highways” guiding animal evolution",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
-        "source": "Science Daily",
-        "published": "Tue, 25 Aug 2026 04:48:49 EDT",
-        "description": "A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic c"
-      },
-      {
-        "title": "NASA finds Earth microbes could survive on the Moon",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
-        "source": "Science Daily",
-        "published": "Tue, 25 Aug 2026 02:30:18 EDT",
-        "description": "NASA scientists found that microbes brought by astronauts could survive in cold, shadowed niches around the Moon’s South Pole, potentially complicating future searches for pristine lunar chemistry. So"
-      },
-      {
         "title": "Common medications may change your gut for years",
         "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
         "source": "Science Daily",
         "published": "Mon, 24 Aug 2026 09:14:50 EDT",
         "description": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, b"
-      },
-      {
-        "title": "Bird flu is spreading. Your backyard feeder could make it worse",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
-        "source": "Science Daily",
-        "published": "Mon, 24 Aug 2026 08:49:08 EDT",
-        "description": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is"
-      },
-      {
-        "title": "Too much or too little sleep may make your body age faster",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-        "source": "Science Daily",
-        "published": "Mon, 24 Aug 2026 07:31:44 EDT",
-        "description": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to "
-      },
-      {
-        "title": "Screen time at ages 1 and 6 may matter more than parents realize",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
-        "source": "Science Daily",
-        "published": "Mon, 24 Aug 2026 06:31:15 EDT",
-        "description": "More screen time during infancy and around the start of school was linked to poorer academic performance and weaker working memory years later. The findings suggest that early childhood may contain pa"
-      },
-      {
-        "title": "NASA is about to launch a powerful new eye on the universe",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
-        "source": "Science Daily",
-        "published": "Mon, 24 Aug 2026 00:45:05 EDT",
-        "description": "NASA’s Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff aboard SpaceX’s Falcon Heavy. The powerful new observatory will probe cosmic expansion"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets",
-      "link": "https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories",
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Tue, 25 Aug 2026 20:11:00 GMT",
-      "description": "3 tax pitfalls for ‘influencers’ — and tips to avoid them that could help all taxpayers."
+      "published": "Wed, 26 Aug 2026 22:50:00 GMT",
+      "description": "Salesforce cleared Wall Street’s second-quarter expectations and deepened its ties with AI lab Anthropic."
     },
     {
-      "title": "Brighton sign Algeria defender Hadjam on deal until 2031",
-      "link": "https://www.channelnewsasia.com/sport/brighton-sign-algeria-defender-hadjam-deal-until-2031-6340896",
-      "source": "CNA Singapore",
-      "published": "Wed, 26 Aug 2026 04:10:04 +0800",
-      "description": ""
+      "title": "Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well",
+      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "source": "TechCrunch",
+      "published": "Wed, 26 Aug 2026 22:47:58 +0000",
+      "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk."
     },
     {
-      "title": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.",
-      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories",
+      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "source": "CNBC Finance",
+      "published": "Wed, 26 Aug 2026 22:39:49 GMT",
+      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter."
+    },
+    {
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published": "Tue, 25 Aug 2026 20:07:00 GMT",
-      "description": "Nvidia’s quarterly earnings announcement has been a major stock-market event ever since the AI boom began in earnest with the introduction of ChatGPT in late 2022."
+      "published": "Wed, 26 Aug 2026 22:30:00 GMT",
+      "description": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”"
     },
     {
-      "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-      "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
-      "source": "CNBC Finance",
-      "published": "Tue, 25 Aug 2026 20:05:46 GMT",
-      "description": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out."
+      "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
+      "link": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Wed, 26 Aug 2026 22:30:00 GMT",
+      "description": "“I really don’t want to miss my baby’s first year.”"
     },
     {
-      "title": "Intuit's annual forecast falls short of estimates as it prioritizes customer growth",
-      "link": "https://www.channelnewsasia.com/business/intuits-annual-forecast-falls-short-estimates-it-prioritizes-customer-growth-6340881",
+      "title": "NFL-NFL, NFLPA tighten discipline for repeat player-safety violations",
+      "link": "https://www.channelnewsasia.com/sport/nfl-nfl-nflpa-tighten-discipline-repeat-player-safety-violations-6343766",
       "source": "CNA Singapore",
-      "published": "Wed, 26 Aug 2026 04:03:21 +0800",
+      "published": "Thu, 27 Aug 2026 06:22:18 +0800",
       "description": ""
     },
     {
-      "title": "Man United's Fernandes named PFA Player of the Year",
-      "link": "https://www.channelnewsasia.com/sport/man-uniteds-fernandes-named-pfa-player-year-6340886",
-      "source": "CNA Singapore",
-      "published": "Wed, 26 Aug 2026 04:02:47 +0800",
-      "description": ""
-    },
-    {
-      "title": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
-      "link": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
+      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+      "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
       "source": "CNBC Finance",
-      "published": "Tue, 25 Aug 2026 19:52:43 GMT",
-      "description": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year."
+      "published": "Wed, 26 Aug 2026 22:20:20 GMT",
+      "description": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools."
     },
     {
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Wed, 26 Aug 2026 22:15:00 GMT",
+      "description": "“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC.”"
+    },
+    {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Tue, 25 Aug 2026 19:50:57 GMT",
-      "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+      "published": "Wed, 26 Aug 2026 22:02:18 GMT",
+      "description": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
     },
     {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 25 Aug 2026 19:48:14 GMT",
-      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
-    },
-    {
-      "title": "US spy chief visits Russia for meetings, media reports",
-      "link": "https://www.channelnewsasia.com/world/us-spy-chief-russia-visit-ratcliffe-6340786",
+      "title": "His father with dementia vanished near home. How can Singapore keep these seniors safe?",
+      "link": "https://www.channelnewsasia.com/cna-insider/dementia-patients-wander-go-missing-singapore-japan-seniors-safe-6342131",
       "source": "CNA Singapore",
-      "published": "Wed, 26 Aug 2026 03:46:00 +0800",
-      "description": "US CIA (Central Intelligence Agency)&nbsp;Director John Ratcliffe travelled to Moscow for talks with Russian officials, in what would be the first known visit by a US spy chief to Russia since 2021."
+      "published": "Thu, 27 Aug 2026 06:00:00 +0800",
+      "description": "As the numbers of dementia cases rise in Singapore, more families will face the challenge of keeping loved ones safe without restricting their lives. Talking Point looks at Japan’s approach and how re"
     }
   ]
 }
