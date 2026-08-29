@@ -1,14 +1,63 @@
 {
-  "updated_sgt": "2026-08-29 10:45 SGT",
-  "updated_iso": "2026-08-29T10:45:24.597258+08:00",
+  "updated_sgt": "2026-08-30 06:28 SGT",
+  "updated_iso": "2026-08-30T06:28:56.222183+08:00",
   "categories": {
     "World": [
       {
-        "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+      },
+      {
+        "title": "Former Ecuadorian president imprisoned for corruption",
+        "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 29 Aug 2026 19:44:54 GMT",
+        "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
+      },
+      {
+        "title": "Norway's new king remembers 'my dear father' in first speech",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 29 Aug 2026 19:06:28 GMT",
+        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
+      },
+      {
+        "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+        "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 29 Aug 2026 17:52:42 GMT",
+        "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
+      },
+      {
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
         "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 29 Aug 2026 02:42:27 GMT",
-        "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy."
+        "published": "Sat, 29 Aug 2026 16:15:56 GMT",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+      },
+      {
+        "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+        "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 29 Aug 2026 08:48:34 GMT",
+        "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says."
+      },
+      {
+        "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+        "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 29 Aug 2026 07:11:04 GMT",
+        "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
+      },
+      {
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
       },
       {
         "title": "Close race as Iceland votes on whether to restart talks on joining EU",
@@ -18,69 +67,69 @@
         "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
       },
       {
-        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-        "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 29 Aug 2026 00:46:02 GMT",
-        "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
-      },
-      {
         "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
         "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "Sat, 29 Aug 2026 00:32:17 GMT",
         "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
-      },
-      {
-        "title": "Canada poaches dozens of top US researchers for its universities",
-        "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 28 Aug 2026 23:47:38 GMT",
-        "description": "Researchers in fields like climate and medicine are being lured north by new research funding."
-      },
-      {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 28 Aug 2026 22:05:41 GMT",
-        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
-      },
-      {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 28 Aug 2026 21:29:01 GMT",
-        "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack."
-      },
-      {
-        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-        "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 28 Aug 2026 19:40:45 GMT",
-        "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
-      },
-      {
-        "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-        "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 28 Aug 2026 19:05:23 GMT",
-        "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action."
-      },
-      {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 28 Aug 2026 13:50:34 GMT",
-        "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
       }
     ],
     "Finance": [
       {
-        "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
-        "link": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
+        "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+        "link": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
         "source": "CNBC Finance",
-        "published": "Sat, 29 Aug 2026 02:43:38 GMT",
-        "description": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity."
+        "published": "Sat, 29 Aug 2026 20:22:12 GMT",
+        "description": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated."
+      },
+      {
+        "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+        "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 29 Aug 2026 19:55:30 GMT",
+        "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
+      },
+      {
+        "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+        "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 29 Aug 2026 19:06:22 GMT",
+        "description": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup."
+      },
+      {
+        "title": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
+        "link": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 29 Aug 2026 18:23:57 GMT",
+        "description": "The park service is backing the arch, despite finding that it would adversely affect historic sightlines and other visual relationships among nearby landmarks."
+      },
+      {
+        "title": "Trump administration weighs Yosemite land swap for private developer’s access road",
+        "link": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 29 Aug 2026 18:21:49 GMT",
+        "description": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access."
+      },
+      {
+        "title": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models",
+        "link": "https://www.cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 29 Aug 2026 13:00:01 GMT",
+        "description": "For the past year, markets have vaporized roughly $2 trillion in software value by asking the wrong question about AI."
+      },
+      {
+        "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+        "link": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 29 Aug 2026 12:08:08 GMT",
+        "description": "Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar."
+      },
+      {
+        "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+        "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 29 Aug 2026 05:00:01 GMT",
+        "description": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online."
       },
       {
         "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
@@ -90,63 +139,56 @@
         "description": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post."
       },
       {
-        "title": "Trump loses bid to transfer New York hush money case to federal court",
-        "link": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
+        "title": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
+        "link": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
         "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 20:56:24 GMT",
-        "description": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House."
-      },
-      {
-        "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
-        "link": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 20:31:58 GMT",
-        "description": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details."
-      },
-      {
-        "title": "Corn and wheat prices jump to highest prices in more than three years",
-        "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 20:00:56 GMT",
-        "description": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different."
-      },
-      {
-        "title": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
-        "link": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 19:35:09 GMT",
-        "description": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1."
-      },
-      {
-        "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
-        "link": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 19:09:34 GMT",
-        "description": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs."
-      },
-      {
-        "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-        "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 17:44:02 GMT",
-        "description": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates."
-      },
-      {
-        "title": "How Taylor Farms became integral to America's food supply system",
-        "link": "https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 13:17:52 GMT",
-        "description": "Taylor Farms and other suppliers have become larger and more integral to the U.S. food system, complicating foodborne illnesses such as cyclosporiasis."
-      },
-      {
-        "title": "Imax says it's open to a sale. Why is no one buying?",
-        "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 28 Aug 2026 11:54:53 GMT",
-        "description": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company."
+        "published": "Fri, 28 Aug 2026 13:45:42 GMT",
+        "description": "Trump’s push to acquire Greenland and growing uncertainty over U.S. security commitments have added a geopolitical dimension to Iceland’s EU debate."
       }
     ],
     "Technology": [
+      {
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "source": "TechCrunch",
+        "published": "Sat, 29 Aug 2026 18:41:59 +0000",
+        "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+      },
+      {
+        "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+        "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+        "source": "TechCrunch",
+        "published": "Sat, 29 Aug 2026 17:51:10 +0000",
+        "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
+      },
+      {
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+        "source": "TechCrunch",
+        "published": "Sat, 29 Aug 2026 17:36:47 +0000",
+        "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en"
+      },
+      {
+        "title": "Hollywood celebs are getting into microdrama apps",
+        "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+        "source": "TechCrunch",
+        "published": "Sat, 29 Aug 2026 16:10:00 +0000",
+        "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas."
+      },
+      {
+        "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+        "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+        "source": "TechCrunch",
+        "published": "Sat, 29 Aug 2026 14:00:00 +0000",
+        "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always bee"
+      },
+      {
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "source": "TechCrunch",
+        "published": "Sat, 29 Aug 2026 13:00:00 +0000",
+        "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+      },
       {
         "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
         "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
@@ -174,48 +216,6 @@
         "source": "TechCrunch",
         "published": "Fri, 28 Aug 2026 19:30:38 +0000",
         "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
-      },
-      {
-        "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-        "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-        "source": "TechCrunch",
-        "published": "Fri, 28 Aug 2026 18:50:00 +0000",
-        "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses."
-      },
-      {
-        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-        "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-        "source": "TechCrunch",
-        "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-        "description": "There's a lot of capital pouring into the business of giving models away."
-      },
-      {
-        "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-        "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-        "source": "TechCrunch",
-        "published": "Fri, 28 Aug 2026 17:09:05 +0000",
-        "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem."
-      },
-      {
-        "title": "More Americans oppose police license plate cameras than support them: survey",
-        "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-        "source": "TechCrunch",
-        "published": "Fri, 28 Aug 2026 15:57:58 +0000",
-        "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras."
-      },
-      {
-        "title": "Friend-focused photo-sharing app Retro snags $21M",
-        "link": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-        "source": "TechCrunch",
-        "published": "Fri, 28 Aug 2026 15:35:03 +0000",
-        "description": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding."
-      },
-      {
-        "title": "Apple TV is raising its subscription prices again",
-        "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-        "source": "TechCrunch",
-        "published": "Fri, 28 Aug 2026 14:36:48 +0000",
-        "description": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month."
       }
     ],
     "Crypto": [
@@ -278,162 +278,162 @@
     ],
     "Markets": [
       {
+        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+        "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 16:30:00 GMT",
+        "description": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”"
+      },
+      {
         "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
         "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 23:00:00 GMT",
+        "published": "Sat, 29 Aug 2026 16:00:00 GMT",
         "description": "“These shares are the only assets in her estate without designated beneficiaries.”"
+      },
+      {
+        "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+        "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 15:31:00 GMT",
+        "description": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”"
+      },
+      {
+        "title": "Why would someone lock up money by rolling it into a 401(k)?",
+        "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 13:00:00 GMT",
+        "description": "When done right, rollovers can be a great tool."
+      },
+      {
+        "title": "5 affordable cities to retire in the U.S. right now",
+        "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 12:50:00 GMT",
+        "description": "You don’t have to leave the country to find an affordable place that matches your retirement vision."
+      },
+      {
+        "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
+        "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 12:30:00 GMT",
+        "description": "Dismissed as “not a product guy,” the outgoing CEO proved that supply-chain mastery could take Apple to new heights."
+      },
+      {
+        "title": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.",
+        "link": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 12:00:00 GMT",
+        "description": "The U.S. labor market seemed to be on upswing after a surge in new employment early this year — but a summer slowdown in hiring and fewer help-wanted ads suggest it won’t get any easier to find a job."
+      },
+      {
+        "title": "I’m managing a pathological liar who never does her work. How do I deal with her?",
+        "link": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 12:00:00 GMT",
+        "description": "“I want to send the message that she’d better keep my name out of her mouth.”"
+      },
+      {
+        "title": "Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.",
+        "link": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sat, 29 Aug 2026 11:30:00 GMT",
+        "description": "The recent blistering pace of earnings growth is unsustainable."
       },
       {
         "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
         "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 22:15:00 GMT",
+        "published": "Sat, 29 Aug 2026 11:16:00 GMT",
         "description": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”"
-      },
-      {
-        "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
-        "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 21:34:00 GMT",
-        "description": "Microsoft’s software offers capabilities that will be critical for AI, one analyst notes."
-      },
-      {
-        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 21:31:00 GMT",
-        "description": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”"
-      },
-      {
-        "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
-        "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 20:58:00 GMT",
-        "description": "SpaceX plans to spend tons of money on chips and recently announced it will only buy Nvidia’s. But other high-profile companies need more processing power as well."
-      },
-      {
-        "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-        "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 20:45:00 GMT",
-        "description": "“I specifically rejected Contractor A because of his reputation.”"
-      },
-      {
-        "title": "Dolly Parton’s music, books and theme park see spikes in interest following her death",
-        "link": "https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 20:21:00 GMT",
-        "description": "Dolly Parton, musician, actor and literacy advocate, died on Tuesday at the age of 80."
-      },
-      {
-        "title": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
-        "link": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 20:10:00 GMT",
-        "description": "Kevin Warsh passed another big test as a new Federal Reserve chairman on Friday: He said the central bank still has work to do on inflation, and the bond market took him at his word."
-      },
-      {
-        "title": "AI wants to help you pick a Medicare plan. Should you let it?",
-        "link": "https://www.marketwatch.com/story/why-you-shouldnt-use-ai-to-pick-a-medicare-plan-5db7c50f?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 20:05:00 GMT",
-        "description": "Using artificial-intelligence tools to help navigate Medicare’s open-enrollment season might seem like an easy way to simplify what can be an overwhelming decision."
-      },
-      {
-        "title": "Meet Generation Renter — young Americans who don’t expect to ever own a home",
-        "link": "https://www.marketwatch.com/story/meet-generation-renter-young-americans-who-no-longer-expect-ever-to-own-a-home-3cff63a9?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Fri, 28 Aug 2026 19:01:00 GMT",
-        "description": "Also in Weekend Reads: How to start investing, an AI boost for an old industry and advice from the Moneyist."
       }
     ],
     "Singapore": [
       {
-        "title": "OpenAI to end partnership with SpaceX's Cursor",
-        "link": "https://www.channelnewsasia.com/business/openai-end-partnership-spacexs-cursor-6348951",
+        "title": "Rybakina on track to recover from injury and play at US Open",
+        "link": "https://www.channelnewsasia.com/sport/rybakina-track-recover-injury-and-play-us-open-6349881",
         "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 10:01:38 +0800",
+        "published": "Sun, 30 Aug 2026 06:22:10 +0800",
         "description": ""
       },
       {
-        "title": "Leaders of Russia, China, Iran to attend summit in Kyrgyzstan",
-        "link": "https://www.channelnewsasia.com/asia/sco-summit-kyrgyzstan-russia-china-iran-6348911",
+        "title": "Singapore architect Chang Yong Ter believes good architecture can make us better humans",
+        "link": "https://www.channelnewsasia.com/people/chang-yong-ter-singapore-architect-6339476",
         "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 09:49:00 +0800",
+        "published": "Sun, 30 Aug 2026 06:04:00 +0800",
+        "description": "For more than two decades, the founder of Chang Architects has created distinctive Singapore homes shaped by nature, spirituality and an instinct to do things differently."
+      },
+      {
+        "title": "Commentary: US$13 billion Hugging Face deal would crown Nvidia king of AI",
+        "link": "https://www.channelnewsasia.com/commentary/nvidia-hugging-face-ai-openai-chips-6347461",
+        "source": "CNA Singapore",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0800",
+        "description": "Nvidia wants open AI models to thrive, but for a self-interested reason, says Parmy Olson for Bloomberg Opinion."
+      },
+      {
+        "title": "More mosquitoes, less birdsong: Increasingly extreme El Ninos may favour pests while other animals swelter",
+        "link": "https://www.channelnewsasia.com/singapore/el-nino-mosquito-bird-pest-wildlife-6330001",
+        "source": "CNA Singapore",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0800",
+        "description": "More frequent and extreme El Nino events could push Singapore’s wildlife to the limit, while sparing human-adapted animals like mosquitoes, crows and pigeons."
+      },
+      {
+        "title": "Trained for the great farewell: The young Chinese betting their futures on a still-stigmatised trade",
+        "link": "https://www.channelnewsasia.com/east-asia/china-youth-funeral-studies-careers-demand-6317466",
+        "source": "CNA Singapore",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0800",
+        "description": "Long shadowed by taboo, funeral studies are drawing young people in China as an ageing population fuels demand - but the stable careers many are counting on are far from guaranteed."
+      },
+      {
+        "title": "Wawrinka relishing final US Open in farewell season",
+        "link": "https://www.channelnewsasia.com/sport/wawrinka-relishing-final-us-open-in-farewell-season-6349856",
+        "source": "CNA Singapore",
+        "published": "Sun, 30 Aug 2026 05:56:08 +0800",
         "description": ""
       },
       {
-        "title": "Katseye replaced at Olivia Rodrigo festival after band member suffers ankle injury",
-        "link": "https://www.channelnewsasia.com/entertainment/katseye-replaced-olivia-rodrigo-festival-ankle-injury-6348881",
+        "title": "UN, Nepal warn of climate threat after deadly floods",
+        "link": "https://www.channelnewsasia.com/world/un-nepal-warn-climate-threat-after-deadly-floods-6349841",
         "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 08:27:38 +0800",
-        "description": "The girl group will no longer be performing at Olivia Rodrigo's inaugural Daisy Chain Fields festival after a member, Megan Skiendiel, strained her ankle during tour rehearsals."
-      },
-      {
-        "title": "6 simple exercises physical therapists wish everyone did to age well",
-        "link": "https://www.channelnewsasia.com/wellness/6-exercises-physical-therapists-wish-everyone-did-age-well-6326071",
-        "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 07:10:26 +0800",
-        "description": "Try these simple movements to stay strong and limber."
-      },
-      {
-        "title": "Once excluded from PE, now a national athlete: Meet Singapore’s only female national wheelchair rugby player",
-        "link": "https://www.channelnewsasia.com/women/singapore-female-wheelchair-rugby-national-athlete-6330156",
-        "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 07:10:03 +0800",
-        "description": "Nur Sabrina Suhaimi needs a cane and brace to walk short distances because of a rare genetic neurological disorder that weakens her muscles over time. In a rugby wheelchair, she flies across the court"
-      },
-      {
-        "title": "Number of missing in deadly Nepal, China floods soars past 2,400",
-        "link": "https://www.channelnewsasia.com/asia/nepal-tibet-china-floods-missing-2400-6348831",
-        "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 07:07:00 +0800",
-        "description": "Search and rescue teams are battling muddy conditions to reach survivors in affected areas and have recovered 586 bodies so far."
-      },
-      {
-        "title": "Cherki checks all the boxes as Man City crush Crystal Palace",
-        "link": "https://www.channelnewsasia.com/sport/cherki-checks-all-boxes-man-city-crush-crystal-palace-6348826",
-        "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 06:29:23 +0800",
+        "published": "Sun, 30 Aug 2026 05:48:00 +0800",
         "description": ""
       },
       {
-        "title": "Why this Sentosa Cove house was wrapped in charred black timber",
-        "link": "https://www.channelnewsasia.com/obsessions/sentosa-cove-house-shou-sugi-ban-6341461",
+        "title": "Australia defeat Argentina to maintain unbeaten start for coach Kiss",
+        "link": "https://www.channelnewsasia.com/sport/australia-defeat-argentina-maintain-unbeaten-start-coach-kiss-6349826",
         "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 06:22:00 +0800",
-        "description": "Architect Pan Yi Cheng used shou sugi ban, the Japanese technique of charring timber, to transform an ageing waterfront bungalow into a calmer, more cohesive home."
+        "published": "Sun, 30 Aug 2026 05:38:24 +0800",
+        "description": ""
       },
       {
-        "title": "Will Meta's massive settlement in a landmark US suit spur it to implement age restriction measures worldwide?",
-        "link": "https://www.channelnewsasia.com/singapore/facebook-instagram-teen-restrictions-social-media-lawsuit-6347956",
+        "title": "Ukraine's nuclear plant has lost power supply: IAEA",
+        "link": "https://www.channelnewsasia.com/world/ukraines-nuclear-plant-has-lost-power-supply-iaea-6349821",
         "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 06:14:00 +0800",
-        "description": "Experts said it makes sense for Meta to roll out its restrictions elsewhere, and that the growing awareness of social media harms may pressure other platforms to do the same."
+        "published": "Sun, 30 Aug 2026 05:37:00 +0800",
+        "description": ""
       },
       {
-        "title": "CNA Explains: What caused the deadly Nepal-Tibet disaster?",
-        "link": "https://www.channelnewsasia.com/interactive/nepal-tibet-glacier-flood-explainer/%2E",
+        "title": "Lyon held to 1-1 draw by Le Havre after late VAR drama",
+        "link": "https://www.channelnewsasia.com/sport/lyon-held-1-1-draw-le-havre-after-late-var-drama-6349811",
         "source": "CNA Singapore",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0800",
-        "description": "A high-altitude collapse of rock and glacial ice sent a fast-moving mass of debris and water down narrow Himalayan valleys. Scientists are working out what triggered the collapse – and whether climate"
+        "published": "Sun, 30 Aug 2026 05:26:59 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
-      {
-        "title": "Burnham says united Ireland poll is 'off the table' during first NI visit",
-        "link": "https://www.bbc.co.uk/news/articles/cy9z43z3g24o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 27 Aug 2026 22:04:30 GMT",
-        "description": "Andy Burnham said \"we need to fix the things right in front of us in the here and now\"."
-      },
       {
         "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
         "link": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Thu, 27 Aug 2026 21:00:48 GMT",
         "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers."
+      },
+      {
+        "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 29 Aug 2026 10:31:18 GMT",
+        "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him."
       },
       {
         "title": "Burnham says he will not vote on assisted dying unlike Starmer",
@@ -492,7 +492,78 @@
         "description": "Figures released today by the Home Office show that there was also a fall across legal migration arrivals, asylum claims and small boat arrivals."
       }
     ],
-    "Science": []
+    "Science": [
+      {
+        "title": "Keto diet cut liver fat by 67% in a clinical trial",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
+        "source": "Science Daily",
+        "published": "Sat, 29 Aug 2026 09:32:50 EDT",
+        "description": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All t"
+      },
+      {
+        "title": "Dogs may hold surprising clues to human longevity",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+        "source": "Science Daily",
+        "published": "Sat, 29 Aug 2026 08:47:55 EDT",
+        "description": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to lon"
+      },
+      {
+        "title": "Scientists turn one of the hardest plastics to recycle into high-performance engine lubricant",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
+        "source": "Science Daily",
+        "published": "Sat, 29 Aug 2026 08:24:41 EDT",
+        "description": "Researchers have discovered a way to turn notoriously difficult-to-recycle PVC plastic into a key ingredient used in high-performance lubricants such as engine oil. The technique could give mountains "
+      },
+      {
+        "title": "The universe is still speeding up, but nobody knows why",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+        "source": "Science Daily",
+        "published": "Sat, 29 Aug 2026 07:41:30 EDT",
+        "description": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark"
+      },
+      {
+        "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+        "source": "Science Daily",
+        "published": "Sat, 29 Aug 2026 06:52:20 EDT",
+        "description": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove m"
+      },
+      {
+        "title": "Australia’s red soil may be hiding a massive clean energy source",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
+        "source": "Science Daily",
+        "published": "Sat, 29 Aug 2026 06:05:43 EDT",
+        "description": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vas"
+      },
+      {
+        "title": "Your sleep may be hiding an early clue to Alzheimer’s",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm",
+        "source": "Science Daily",
+        "published": "Fri, 28 Aug 2026 23:45:37 EDT",
+        "description": "Frequent micro-awakenings during sleep were linked to higher genetic risk for Alzheimer’s in healthy middle-aged adults who had no symptoms. The discovery raises the possibility that subtle changes du"
+      },
+      {
+        "title": "Scientists discover why damaged nerves struggle to heal",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
+        "source": "Science Daily",
+        "published": "Fri, 28 Aug 2026 22:59:06 EDT",
+        "description": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sen"
+      },
+      {
+        "title": "Experimental eye drops help blind mice see again",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+        "source": "Science Daily",
+        "published": "Fri, 28 Aug 2026 10:21:46 EDT",
+        "description": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intri"
+      },
+      {
+        "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+        "source": "Science Daily",
+        "published": "Fri, 28 Aug 2026 09:54:53 EDT",
+        "description": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden p"
+      }
+    ]
   },
   "charts": {
     "world_indices": "world-indices.html",
@@ -500,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
-      "link": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
-      "source": "CNBC Finance",
-      "published": "Sat, 29 Aug 2026 02:43:38 GMT",
-      "description": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity."
-    },
-    {
-      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 29 Aug 2026 02:42:27 GMT",
-      "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy."
-    },
-    {
-      "title": "OpenAI to end partnership with SpaceX's Cursor",
-      "link": "https://www.channelnewsasia.com/business/openai-end-partnership-spacexs-cursor-6348951",
+      "title": "Rybakina on track to recover from injury and play at US Open",
+      "link": "https://www.channelnewsasia.com/sport/rybakina-track-recover-injury-and-play-us-open-6349881",
       "source": "CNA Singapore",
-      "published": "Sat, 29 Aug 2026 10:01:38 +0800",
+      "published": "Sun, 30 Aug 2026 06:22:10 +0800",
       "description": ""
     },
     {
-      "title": "Leaders of Russia, China, Iran to attend summit in Kyrgyzstan",
-      "link": "https://www.channelnewsasia.com/asia/sco-summit-kyrgyzstan-russia-china-iran-6348911",
+      "title": "Singapore architect Chang Yong Ter believes good architecture can make us better humans",
+      "link": "https://www.channelnewsasia.com/people/chang-yong-ter-singapore-architect-6339476",
       "source": "CNA Singapore",
-      "published": "Sat, 29 Aug 2026 09:49:00 +0800",
+      "published": "Sun, 30 Aug 2026 06:04:00 +0800",
+      "description": "For more than two decades, the founder of Chang Architects has created distinctive Singapore homes shaped by nature, spirituality and an instinct to do things differently."
+    },
+    {
+      "title": "Commentary: US$13 billion Hugging Face deal would crown Nvidia king of AI",
+      "link": "https://www.channelnewsasia.com/commentary/nvidia-hugging-face-ai-openai-chips-6347461",
+      "source": "CNA Singapore",
+      "published": "Sun, 30 Aug 2026 06:00:00 +0800",
+      "description": "Nvidia wants open AI models to thrive, but for a self-interested reason, says Parmy Olson for Bloomberg Opinion."
+    },
+    {
+      "title": "More mosquitoes, less birdsong: Increasingly extreme El Ninos may favour pests while other animals swelter",
+      "link": "https://www.channelnewsasia.com/singapore/el-nino-mosquito-bird-pest-wildlife-6330001",
+      "source": "CNA Singapore",
+      "published": "Sun, 30 Aug 2026 06:00:00 +0800",
+      "description": "More frequent and extreme El Nino events could push Singapore’s wildlife to the limit, while sparing human-adapted animals like mosquitoes, crows and pigeons."
+    },
+    {
+      "title": "Trained for the great farewell: The young Chinese betting their futures on a still-stigmatised trade",
+      "link": "https://www.channelnewsasia.com/east-asia/china-youth-funeral-studies-careers-demand-6317466",
+      "source": "CNA Singapore",
+      "published": "Sun, 30 Aug 2026 06:00:00 +0800",
+      "description": "Long shadowed by taboo, funeral studies are drawing young people in China as an ageing population fuels demand - but the stable careers many are counting on are far from guaranteed."
+    },
+    {
+      "title": "Wawrinka relishing final US Open in farewell season",
+      "link": "https://www.channelnewsasia.com/sport/wawrinka-relishing-final-us-open-in-farewell-season-6349856",
+      "source": "CNA Singapore",
+      "published": "Sun, 30 Aug 2026 05:56:08 +0800",
       "description": ""
     },
     {
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 29 Aug 2026 00:56:19 GMT",
-      "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
-    },
-    {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 29 Aug 2026 00:46:02 GMT",
-      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
-    },
-    {
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 29 Aug 2026 00:32:17 GMT",
-      "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
-    },
-    {
-      "title": "Katseye replaced at Olivia Rodrigo festival after band member suffers ankle injury",
-      "link": "https://www.channelnewsasia.com/entertainment/katseye-replaced-olivia-rodrigo-festival-ankle-injury-6348881",
+      "title": "UN, Nepal warn of climate threat after deadly floods",
+      "link": "https://www.channelnewsasia.com/world/un-nepal-warn-climate-threat-after-deadly-floods-6349841",
       "source": "CNA Singapore",
-      "published": "Sat, 29 Aug 2026 08:27:38 +0800",
-      "description": "The girl group will no longer be performing at Olivia Rodrigo's inaugural Daisy Chain Fields festival after a member, Megan Skiendiel, strained her ankle during tour rehearsals."
+      "published": "Sun, 30 Aug 2026 05:48:00 +0800",
+      "description": ""
     },
     {
-      "title": "Canada poaches dozens of top US researchers for its universities",
-      "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 28 Aug 2026 23:47:38 GMT",
-      "description": "Researchers in fields like climate and medicine are being lured north by new research funding."
+      "title": "Australia defeat Argentina to maintain unbeaten start for coach Kiss",
+      "link": "https://www.channelnewsasia.com/sport/australia-defeat-argentina-maintain-unbeaten-start-coach-kiss-6349826",
+      "source": "CNA Singapore",
+      "published": "Sun, 30 Aug 2026 05:38:24 +0800",
+      "description": ""
     },
     {
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-      "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 28 Aug 2026 23:42:26 GMT",
-      "description": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post."
+      "title": "Ukraine's nuclear plant has lost power supply: IAEA",
+      "link": "https://www.channelnewsasia.com/world/ukraines-nuclear-plant-has-lost-power-supply-iaea-6349821",
+      "source": "CNA Singapore",
+      "published": "Sun, 30 Aug 2026 05:37:00 +0800",
+      "description": ""
+    },
+    {
+      "title": "Lyon held to 1-1 draw by Le Havre after late VAR drama",
+      "link": "https://www.channelnewsasia.com/sport/lyon-held-1-1-draw-le-havre-after-late-var-drama-6349811",
+      "source": "CNA Singapore",
+      "published": "Sun, 30 Aug 2026 05:26:59 +0800",
+      "description": ""
     }
   ]
 }
