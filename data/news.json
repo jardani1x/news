@@ -1,439 +1,467 @@
 {
-  "updated_sgt": "2026-09-02 06:27 SGT",
-  "updated_iso": "2026-09-02T06:27:15.360608+08:00",
+  "updated_sgt": "2026-09-03 06:26 SGT",
+  "updated_iso": "2026-09-03T06:26:41.462883+08:00",
   "categories": {
     "World": [
       {
-        "title": "US strikes Iran as state media reports four killed at wedding party",
+        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 02 Sep 2026 21:34:27 GMT",
+        "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
+      },
+      {
+        "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+        "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 02 Sep 2026 20:21:04 GMT",
+        "description": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services."
+      },
+      {
+        "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+        "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 02 Sep 2026 20:12:32 GMT",
+        "description": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial."
+      },
+      {
+        "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+        "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 02 Sep 2026 19:05:31 GMT",
+        "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017."
+      },
+      {
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 02 Sep 2026 17:33:45 GMT",
+        "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+      },
+      {
+        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 02 Sep 2026 17:21:00 GMT",
+        "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\"."
+      },
+      {
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 02 Sep 2026 16:49:00 GMT",
+        "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
+      },
+      {
+        "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
         "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 21:48:28 GMT",
-        "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
+        "published": "Wed, 02 Sep 2026 15:33:19 GMT",
+        "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East."
       },
       {
-        "title": "Ariana Grande ends tour and steps back from public life",
-        "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+        "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 21:41:05 GMT",
-        "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\"."
+        "published": "Wed, 02 Sep 2026 11:47:11 GMT",
+        "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
       },
       {
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+        "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 21:05:22 GMT",
-        "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
-      },
-      {
-        "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-        "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 20:05:23 GMT",
-        "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023."
-      },
-      {
-        "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-        "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 18:06:58 GMT",
-        "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
-      },
-      {
-        "title": "Pistol in a lake gives hope for French cold case",
-        "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 16:33:29 GMT",
-        "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012."
-      },
-      {
-        "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 16:11:18 GMT",
-        "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
-      },
-      {
-        "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 15:33:14 GMT",
-        "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
-      },
-      {
-        "title": "France targets Shein and Temu with fast fashion fees",
-        "link": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 15:15:57 GMT",
-        "description": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030."
-      },
-      {
-        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-        "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 01 Sep 2026 05:00:34 GMT",
-        "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million."
+        "published": "Wed, 02 Sep 2026 10:04:28 GMT",
+        "description": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
       }
     ],
     "Finance": [
       {
-        "title": "House adopts measure condemning socialism ahead of November election",
-        "link": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+        "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 22:13:19 GMT",
-        "description": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution."
+        "published": "Wed, 02 Sep 2026 22:21:45 GMT",
+        "description": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028."
       },
       {
-        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-        "link": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+        "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+        "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 21:41:15 GMT",
-        "description": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools"
+        "published": "Wed, 02 Sep 2026 22:17:19 GMT",
+        "description": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029."
       },
       {
-        "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-        "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+        "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+        "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 21:40:30 GMT",
-        "description": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires."
+        "published": "Wed, 02 Sep 2026 22:10:15 GMT",
+        "description": "Trump's summit with Xi is expected to take place less than six weeks before the U.S. election, with polls showing Democrats favored to make gains in Congress."
       },
       {
-        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-        "link": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+        "title": "New Jersey asks the Supreme Court to take on prediction markets",
+        "link": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 21:40:18 GMT",
-        "description": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double."
+        "published": "Wed, 02 Sep 2026 21:15:30 GMT",
+        "description": "The petition comes after a key ruling from the 9th U.S. Circuit Court of Appeals on sports-event contracts."
       },
       {
-        "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-        "link": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+        "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
+        "link": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 20:56:50 GMT",
-        "description": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel. Iran said it retaliated."
+        "published": "Wed, 02 Sep 2026 20:50:51 GMT",
+        "description": "Trump's plan to lower tariffs on 300,000 metric tons of imported beef caused an uproar among cattle ranchers."
       },
       {
-        "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
-        "link": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+        "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+        "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 20:34:47 GMT",
-        "description": "The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election."
+        "published": "Wed, 02 Sep 2026 20:46:42 GMT",
+        "description": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS."
       },
       {
-        "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-        "link": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+        "title": "The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth",
+        "link": "https://www.cnbc.com/2026/09/02/the-los-angeles-angels-are-being-sold-for-a-record-4-billion-heres-what-every-mlb-team-is-now-worth.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 20:20:50 GMT",
-        "description": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited."
+        "published": "Wed, 02 Sep 2026 19:23:41 GMT",
+        "description": ""
       },
       {
-        "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-        "link": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+        "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+        "link": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 18:52:11 GMT",
-        "description": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military."
+        "published": "Wed, 02 Sep 2026 18:25:42 GMT",
+        "description": "The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs."
       },
       {
-        "title": "Used cars under $20,000 tend to sell quickly — but there are trade-offs for buyers",
-        "link": "https://www.cnbc.com/2026/09/01/used-cars-under-20000-sell-quickly-tradeoffs.html",
+        "title": "Apple shares are doing something they haven't done in 20 years. Here’s what’s happening",
+        "link": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 15:49:08 GMT",
-        "description": "The share of used cars listed at under $20,000 has dropped from pre-pandemic levels against a backdrop of high inflation."
+        "published": "Wed, 02 Sep 2026 12:10:05 GMT",
+        "description": "Apple stock hasn't been this inversely correlated to its tech peers since 2005."
       },
       {
-        "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-        "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+        "title": "Scaramucci says he had 'Potomac fever' in the White House — and Bessent and Lutnick have it too",
+        "link": "https://www.cnbc.com/2026/09/02/anthony-scaramucci-potomac-fever-bessent-lutnick.html",
         "source": "CNBC Finance",
-        "published": "Tue, 01 Sep 2026 07:30:49 GMT",
-        "description": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday."
+        "published": "Wed, 02 Sep 2026 06:37:08 GMT",
+        "description": "\"You think you're smarter than the people that live in Washington, but Washington changes you, you don't change Washington,\" Anthony Scaramucci told CNBC."
       }
     ],
     "Technology": [
       {
-        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 22:13:34 +0000",
-        "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America."
+        "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+        "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
       },
       {
-        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-        "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+        "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 22:08:24 +0000",
-        "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+        "published": "Wed, 02 Sep 2026 21:38:34 +0000",
+        "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors."
       },
       {
-        "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
-        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 21:06:24 +0000",
-        "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+        "published": "Wed, 02 Sep 2026 20:19:14 +0000",
+        "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
       },
       {
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+        "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 20:53:05 +0000",
-        "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
+        "published": "Wed, 02 Sep 2026 20:12:41 +0000",
+        "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days."
       },
       {
-        "title": "X says attackers are targeting user accounts after the launch of X Money",
-        "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+        "title": "It sure looks like hackers breached a major ID card verification service",
+        "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 20:48:32 +0000",
-        "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service."
+        "published": "Wed, 02 Sep 2026 19:35:09 +0000",
+        "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down."
       },
       {
-        "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-        "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+        "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+        "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 19:45:28 +0000",
-        "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone."
+        "published": "Wed, 02 Sep 2026 19:25:35 +0000",
+        "description": "If approved, the combined company would become one of the largest food delivery platforms in the world."
       },
       {
-        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-        "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-        "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+        "published": "Wed, 02 Sep 2026 17:18:13 +0000",
+        "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, "
       },
       {
-        "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-        "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+        "title": "X shifts US creator payouts from Stripe to X Money",
+        "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 19:30:24 +0000",
-        "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer."
+        "published": "Wed, 02 Sep 2026 17:12:27 +0000",
+        "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system."
       },
       {
-        "title": "Who is John Ternus, the new Apple CEO?",
-        "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 18:02:00 +0000",
-        "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained "
+        "published": "Wed, 02 Sep 2026 17:09:06 +0000",
+        "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" t"
       },
       {
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-        "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+        "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
         "source": "TechCrunch",
-        "published": "Tue, 01 Sep 2026 17:35:37 +0000",
-        "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
+        "published": "Wed, 02 Sep 2026 16:54:23 +0000",
+        "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah."
       }
     ],
     "Crypto": [
       {
-        "title": "Shyft Partners With VARA-Licensed GAP3 as shCORE and shYIELD Near Pre-Deposits",
-        "link": "https://bitcoinist.com/shyft-partners-with-vara-licensed-gap3-as-shcore-and-shyield-near-pre-deposits/",
+        "title": "Sui TVL Holds $1.2B As DeFi Activity Stays In View",
+        "link": "https://bitcoinist.com/sui-tvl-holds-1-2b-defi-activity/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 09:26:46 +0000",
-        "description": "Shyft Finance is set to open its first two curated yield vaults on Ethereum, with the regulated GAP3 Partners FZCO serving as the Co-Curator for both vaults. GAP3 Partners FZCO is a Dubai-based Virtua"
+        "published": "Wed, 02 Sep 2026 09:15:00 +0000",
+        "description": "Sui Network’s total value locked is holding around the $1.2 billion level, keeping the chain in the conversation as traders watch where DeFi liquidity is mov..."
       },
       {
-        "title": "Chainlink Adds Nine Integrations Across Five Blockchains In Weekly Push",
-        "link": "https://bitcoinist.com/chainlink-nine-integrations-five-blockchains-weekly-update/",
+        "title": "Solana Ecosystem Tokens Outpace Broader Altcoin Market",
+        "link": "https://bitcoinist.com/solana-ecosystem-tokens-outpace-broader-altcoin-market/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 06:00:00 +0000",
-        "description": "Chainlink has recorded nine new integrations across five blockchains in its latest weekly ecosystem update, adding another set of deployments to its oracle..."
+        "published": "Wed, 02 Sep 2026 08:30:00 +0000",
+        "description": "Solana ecosystem tokens have outpaced the broader altcoin market in recent performance benchmarks, giving traders another reason to watch the network’s inter..."
       },
       {
-        "title": "Shiba Inu Netflows Turn Bearish As 145B SHIB Moves Toward Exchanges",
-        "link": "https://bitcoinist.com/shiba-inu-netflows-bearish-145b-shib-exchanges/",
+        "title": "Arbitrum DEX Volume Hits $814M As Layer-2 Activity Picks Up",
+        "link": "https://bitcoinist.com/arbitrum-dex-volume-814m-layer-2-activity/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 05:15:00 +0000",
-        "description": "Shiba Inu netflow indicators have turned more bearish after around 145 billion SHIB moved toward exchanges, giving traders another sign that short-term pos..."
+        "published": "Wed, 02 Sep 2026 07:45:00 +0000",
+        "description": "Arbitrum recorded $814 million in daily decentralized exchange volume, giving the Ethereum Layer-2 network another strong activity signal as traders rotate t..."
       },
       {
-        "title": "Shiba Inu Exchange Outflows Drop 42% As Activity Cools",
-        "link": "https://bitcoinist.com/shiba-inu-exchange-outflows-drop-42/",
+        "title": "Securitize Expands Tokenization Framework For Public Equities",
+        "link": "https://bitcoinist.com/securitize-expands-tokenization-framework-public-equities/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 04:30:00 +0000",
-        "description": "Shiba Inu exchange outflows fell 42%, pointing to a cooling in short-term wallet activity after a period of stronger movement. The decline matters because..."
+        "published": "Wed, 02 Sep 2026 07:00:00 +0000",
+        "description": "Securitize has expanded its institutional tokenization framework for public equities, adding another piece to the growing market around real-world assets and..."
       },
       {
-        "title": "Shiba Inu Burn Rate Spikes 1,020% As 20.82M SHIB Move To Dead Wallets",
-        "link": "https://bitcoinist.com/shiba-inu-burn-rate-spikes-1020-20m-shib/",
+        "title": "Dogecoin Active Addresses Jump 35% As Transactions Top 1.2M",
+        "link": "https://bitcoinist.com/dogecoin-active-addresses-jump-35-transactions-1-2m/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 03:45:00 +0000",
-        "description": "Shiba Inu’s daily burn rate jumped 1,020% after 20.82 million SHIB were sent to dead wallets, according to Shibburn tracker data. The spike gives SHIB hold..."
+        "published": "Wed, 02 Sep 2026 06:15:00 +0000",
+        "description": "Dogecoin network activity has picked up sharply, with active addresses rising 35% and daily transactions topping 1.2 million, according to public Dogecoin ne..."
       },
       {
-        "title": "Polkadot Leads Major Networks In Nakamoto Coefficient Decentralization Metric",
-        "link": "https://bitcoinist.com/polkadot-leads-major-networks-nakamoto-coefficient/",
+        "title": "Ripple Releases 1 Billion XRP From Escrow In Scheduled Unlock",
+        "link": "https://bitcoinist.com/ripple-releases-1-billion-xrp-escrow-scheduled-unlock/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 03:00:00 +0000",
-        "description": "Polkadot is leading major blockchain networks in a decentralization comparison based on the Nakamoto coefficient, according to public Chainspect data. The..."
+        "published": "Wed, 02 Sep 2026 05:30:00 +0000",
+        "description": "Ripple has released 1 billion XRP from escrow under its standard monthly schedule, with the latest unlock visible through XRPScan account data."
       },
       {
-        "title": "Dogecoin Posts 21% August Gain In Strongest Monthly Move Of The Year",
-        "link": "https://bitcoinist.com/dogecoin-21-august-gain-strongest-monthly-move/",
+        "title": "Cardano Enterprise Adoption Grows With Retail Supply Chain Verification",
+        "link": "https://bitcoinist.com/cardano-enterprise-adoption-retail-supply-chain-verification/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 02:15:00 +0000",
-        "description": "Dogecoin gained 21.4% in August, giving DOGE its strongest monthly performance of the year and putting the original meme coin back into the market’s rotati..."
+        "published": "Wed, 02 Sep 2026 04:45:00 +0000",
+        "description": "Cardano’s enterprise story has gained another example, with a major retail group deploying blockchain verification infrastructure built around the network’s ..."
       },
       {
-        "title": "BNB Chain August dApp Launches Point To Growing Ecosystem Activity",
-        "link": "https://bitcoinist.com/bnb-chain-august-dapp-launches-ecosystem-activity/",
+        "title": "XRP Ledger Transactions Cross 3 Billion In Network Milestone",
+        "link": "https://bitcoinist.com/xrp-ledger-transactions-cross-3-billion-network-milestone/",
         "source": "Bitcoinist",
-        "published": "Tue, 01 Sep 2026 01:30:00 +0000",
-        "description": "BNB Chain’s August ecosystem update showed continued growth in new decentralized applications, giving the network another activity signal beyond simple BNB..."
+        "published": "Wed, 02 Sep 2026 04:00:00 +0000",
+        "description": "The XRP Ledger has crossed 3 billion cumulative transactions, giving the network another long-term usage milestone at a time when on-chain activity is once a..."
       }
     ],
     "Markets": [
       {
-        "title": "Dow drops below a key chart level, warning of more trouble ahead",
-        "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+        "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+        "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 21:56:00 GMT",
-        "description": "The index last closed below its 50-day moving average on April 10, which marked the end of a correction phase that included a 5,000-point drop at its low point."
+        "published": "Wed, 02 Sep 2026 21:45:00 GMT",
+        "description": "“Roth assets would provide our children with tax-free distributions.”"
       },
       {
-        "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-        "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+        "title": "Nvidia’s stock is climbing as investors get more confidence in an expanding base of AI customers",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 21:52:00 GMT",
-        "description": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers"
+        "published": "Wed, 02 Sep 2026 21:38:00 GMT",
+        "description": "Dell’s earnings showed that demand for AI hardware extends beyond major cloud providers."
       },
       {
-        "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-        "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+        "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+        "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 21:43:00 GMT",
-        "description": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat"
+        "published": "Wed, 02 Sep 2026 21:31:00 GMT",
+        "description": "“I’m desperately trying to plan ahead while I’m still able.”"
       },
       {
-        "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
-        "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+        "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
+        "link": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 21:02:00 GMT",
-        "description": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now."
+        "published": "Wed, 02 Sep 2026 21:12:00 GMT",
+        "description": "After a strong postearnings rally in August, Palantir’s rich valuation multiple is under pressure once again."
       },
       {
-        "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
-        "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+        "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
+        "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 20:36:00 GMT",
-        "description": "An unrelenting rout has global bond yields touching their highest levels since 2008, driving up borrowing costs for households, businesses and world governments."
+        "published": "Wed, 02 Sep 2026 21:11:00 GMT",
+        "description": "Oracle could be “nearing the end” of its need to raise cash, a Bernstein analyst says."
       },
       {
-        "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz",
-        "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+        "title": "How GoPro went from viral camera sensation to a victim of smartphone ubiquity",
+        "link": "https://www.marketwatch.com/story/how-gopro-went-from-viral-camera-sensation-to-a-victim-of-smartphone-ubiquity-ad704150?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 20:13:00 GMT",
-        "description": "Oil prices on Tuesday settled at their highest levels in nearly six weeks, after the U.S. military said it struck Iranian targets in the Strait of Hormuz in response to Tehran’s overnight attacks on s"
+        "published": "Wed, 02 Sep 2026 20:57:00 GMT",
+        "description": "Advancements in smartphone technology have made GoPro cameras irrelevant to “anyone beyond hardcore sports enthusiasts or professional creators,” one analyst says."
       },
       {
-        "title": "How these homeowners pulled off buying a house in their early 20s",
-        "link": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
+        "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+        "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 20:03:00 GMT",
-        "description": "Despite typical first-time buyers navigating a challenging housing market in recent history, a growing number of young adults have been able to become homeowners."
+        "published": "Wed, 02 Sep 2026 20:51:00 GMT",
+        "description": "Broadcom shares have gained just 6% so far this year, lagging behind the broader chip sector, which has risen 60%. The company’s outlook offered minimal upside relative to expectations.."
       },
       {
-        "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-        "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+        "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+        "link": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 19:30:00 GMT",
-        "description": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”"
+        "published": "Wed, 02 Sep 2026 20:42:00 GMT",
+        "description": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile."
       },
       {
-        "title": "Broadcom earnings need to answer these questions for the stock to rally again",
-        "link": "https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories",
+        "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
+        "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 18:54:00 GMT",
-        "description": "Investors are wondering if Broadcom will update its AI revenue guidance, and how durable growth in its AI business will be going forward, J.P. Morgan says."
+        "published": "Wed, 02 Sep 2026 20:14:00 GMT",
+        "description": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth."
       },
       {
-        "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-        "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+        "title": "SpaceX’s big AI advantage is why this analyst thinks the stock could double",
+        "link": "https://www.marketwatch.com/story/spacexs-big-ai-advantage-is-why-this-analyst-thinks-the-stock-could-double-6efcdd91?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 01 Sep 2026 18:30:00 GMT",
-        "description": "“I paid a significant amount into Social Security.”"
+        "published": "Wed, 02 Sep 2026 19:45:00 GMT",
+        "description": "The company is adding computing infrastructure quickly, an Oppenheimer analyst notes. SpaceX is also getting large technology players to pay handsomely for its computing power."
       }
     ],
     "Singapore": [
       {
-        "title": "Mudryk joins Tottenham on loan from Chelsea",
-        "link": "https://www.channelnewsasia.com/sport/mudryk-joins-tottenham-loan-chelsea-6356101",
+        "title": "Ukrainian Koval confirms she left NCAA women's program after signing of Russian player",
+        "link": "https://www.channelnewsasia.com/sport/ukrainian-koval-confirms-she-left-ncaa-womens-program-after-signing-russian-player-6358876",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 06:20:36 +0800",
+        "published": "Thu, 03 Sep 2026 06:17:01 +0800",
         "description": ""
       },
       {
-        "title": "Premier League clubs smash summer transfer spending record",
-        "link": "https://www.channelnewsasia.com/sport/premier-league-clubs-smash-summer-transfer-spending-record-6356106",
+        "title": "Why this landscape designer never wants you to see a garden all at once",
+        "link": "https://www.channelnewsasia.com/people/tropical-garden-design-jirachai-rengthong-6353711",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 06:18:46 +0800",
+        "published": "Thu, 03 Sep 2026 06:09:00 +0800",
+        "description": "Thai landscaper Jirachai Rengthong, whose projects include Capella Ubud, Shinta Mani Wild and Four Seasons Resort Koh Samui, uses layered planting, mature trees and garden “rooms” to create landscapes"
+      },
+      {
+        "title": "F1 champion Norris co-founds single-seater junior team",
+        "link": "https://www.channelnewsasia.com/sport/f1-champion-norris-co-founds-single-seater-junior-team-6358856",
+        "source": "CNA Singapore",
+        "published": "Thu, 03 Sep 2026 06:05:58 +0800",
         "description": ""
       },
       {
-        "title": "How India’s regional cuisines are reshaping fine dining",
-        "link": "https://www.channelnewsasia.com/experiences/india-fine-dining-regional-cuisine-6337141",
+        "title": "Commentary: Walking away from Air India could cost SIA more",
+        "link": "https://www.channelnewsasia.com/commentary/sia-air-india-losses-tata-exit-stay-airline-6357466",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 06:09:00 +0800",
-        "description": "At restaurants in Himachal Pradesh, Mumbai and Bengaluru, chefs are drawing on local ingredients, preservation techniques and culinary traditions to rethink what contemporary Indian food can be."
+        "published": "Thu, 03 Sep 2026 06:00:00 +0800",
+        "description": "Air India’s mounting losses and challenges are cause for concern, but they do not make walking away the best option for Singapore Airlines, says former financial journalist Ven Sreenivasan."
       },
       {
-        "title": "Grealish returns to Everton on loan from Manchester City",
-        "link": "https://www.channelnewsasia.com/sport/grealish-returns-everton-loan-manchester-city-6356071",
+        "title": "CNA Explains: How Singapore could reclaim more land in the future",
+        "link": "https://www.channelnewsasia.com/singapore/land-reclamation-western-island-long-island-explainer-6356586",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 06:04:14 +0800",
-        "description": ""
+        "published": "Thu, 03 Sep 2026 06:00:00 +0800",
+        "description": "With major reclamation works on the horizon, CNA looks at how reclamation methods have evolved. &nbsp; &nbsp;"
       },
       {
-        "title": "Russian cybercrime operation being dismantled after two decades, US officials and CrowdStrike say",
-        "link": "https://www.channelnewsasia.com/business/russian-cybercrime-operation-being-dismantled-after-two-decades-us-officials-and-crowdstrike-say-6356051",
+        "title": "Can Singapore protect teens on social media without a ban? Seeking answers across borders",
+        "link": "https://www.channelnewsasia.com/cna-insider/social-media-ban-protect-teenagers-age-singapore-australia-malaysia-6354736",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 06:01:37 +0800",
-        "description": ""
+        "published": "Thu, 03 Sep 2026 06:00:00 +0800",
+        "description": "Teenagers are beating the social media ban in Australia, while Malaysia’s approach has raised privacy concerns. CNA’s Talking Point sees how the restrictions are playing out while a different playbook"
       },
       {
-        "title": "Nepal’s riverside communities cling to hope with loved ones missing after deadly flood",
-        "link": "https://www.channelnewsasia.com/asia/nepal-deadly-flood-missing-people-6354476",
+        "title": "More than ordinary shops: China strengthens a decades-old network for an age of disruption",
+        "link": "https://www.channelnewsasia.com/east-asia/china-rural-commerce-food-security-disruption-cooperative-6354186",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 06:00:00 +0800",
-        "description": "A week after a catastrophic flood tore through Nepal’s Himalayan valleys, thousands remain missing and rescue teams are still searching for survivors. CNA meets families waiting desperately for news a"
+        "published": "Thu, 03 Sep 2026 06:00:00 +0800",
+        "description": "China is beefing up a decades-old state-linked network spanning rural shops, agricultural supplies and distribution. The reasons go well beyond everyday commerce, say analysts."
       },
       {
-        "title": "Teen births at lowest in over 20 years; safe, judgment-free environment key to seeking help: Experts",
-        "link": "https://www.channelnewsasia.com/singapore/teenage-births-lowest-young-mothers-babies-6331786",
+        "title": "Commentary: The US-Venezuela oil deal looks like it is built on quicksand",
+        "link": "https://www.channelnewsasia.com/commentary/us-donald-trump-venezuela-oil-deal-built-quicksand-6357341",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 06:00:00 +0800",
-        "description": "There were 140 teenage births in 2025, down by more than 40 per cent from 244 in 2024."
+        "published": "Thu, 03 Sep 2026 05:59:00 +0800",
+        "description": "US President Donald Trump's oil deal with Venezuela is an opaque settlement that may put new elections further out of reach, says&nbsp;Liam Denning for Bloomberg Opinion."
       },
       {
-        "title": "Commentary: Rebuilding Nepal without repeating mistakes of 2015 earthquake",
-        "link": "https://www.channelnewsasia.com/commentary/nepal-flood-disaster-relief-trade-economy-6354596",
+        "title": "Commentary: The extremist risk behind smart glasses",
+        "link": "https://www.channelnewsasia.com/commentary/smart-glasses-extremist-risk-attack-propaganda-6357566",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 05:59:00 +0800",
-        "description": "The question is not simply how to respond to the flood, but how to reduce the economic and human consequences of the next disaster, says this researcher."
+        "published": "Thu, 03 Sep 2026 05:58:00 +0800",
+        "description": "Smart glasses may represent the next commercially available technology to be manipulated by extremist actors, says this researcher."
       },
       {
-        "title": "Commentary: Big Tech is incapable of solving its Frankenstein problem",
-        "link": "https://www.channelnewsasia.com/commentary/big-tech-slow-down-ai-development-bill-gates-6354446",
+        "title": "Lucky loser Bu sends Jodar out of US Open in rain-affected opener",
+        "link": "https://www.channelnewsasia.com/sport/lucky-loser-bu-sends-jodar-out-us-open-in-rain-affected-opener-6358811",
         "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 05:58:00 +0800",
-        "description": "The public is already convinced the tech industry can’t be trusted with its own creations, says Gautam Mukunda for Bloomberg Opinion."
-      },
-      {
-        "title": "Andreeva dismantles Tjen, eases into US Open second round",
-        "link": "https://www.channelnewsasia.com/sport/andreeva-dismantles-tjen-eases-us-open-second-round-6356041",
-        "source": "CNA Singapore",
-        "published": "Wed, 02 Sep 2026 05:41:01 +0800",
+        "published": "Thu, 03 Sep 2026 05:39:03 +0800",
         "description": ""
       }
     ],
     "US Politics": [
+      {
+        "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+        "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 02 Sep 2026 20:43:06 GMT",
+        "description": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time."
+      },
+      {
+        "title": "Reform up against 'complainants' society', Farage tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 02 Sep 2026 17:43:48 GMT",
+        "description": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\"."
+      },
+      {
+        "title": "Fatal crash police get £2m to tackle serious crime",
+        "link": "https://www.bbc.co.uk/news/articles/c24j15d0jj6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 02 Sep 2026 17:17:11 GMT",
+        "description": "The home secretary says the money will help support Cleveland Police in the wake of the A66 crash."
+      },
+      {
+        "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+        "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 02 Sep 2026 14:26:39 GMT",
+        "description": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth."
+      },
+      {
+        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 02 Sep 2026 01:23:00 GMT",
+        "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget."
+      },
       {
         "title": "Burnham promises more devolution and public control of essential services",
         "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Tue, 01 Sep 2026 21:48:44 GMT",
         "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM."
-      },
-      {
-        "title": "Fatal crash police get £2m to tackle serious crime",
-        "link": "https://www.bbc.co.uk/news/articles/c24j15d0jj6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 01 Sep 2026 20:24:59 GMT",
-        "description": "The home secretary says the money will help support the force in the aftermath of the A66 crash."
       },
       {
         "title": "Spaces in male prisons fall to lowest level of year, sources say",
@@ -450,39 +478,11 @@
         "description": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel."
       },
       {
-        "title": "Five takeaways from Burnham's Commons debut as PM",
-        "link": "https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 01 Sep 2026 18:17:41 GMT",
-        "description": "The prime minister's first appearance in Parliament comes more than six weeks after he entered No 10."
-      },
-      {
         "title": "Keir Starmer announces he is standing down as MP",
         "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Tue, 01 Sep 2026 17:04:29 GMT",
         "description": "The move will trigger a by-election to replace the former prime minister in his London constituency."
-      },
-      {
-        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 01 Sep 2026 16:36:42 GMT",
-        "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget."
-      },
-      {
-        "title": "Trump says US position on Falklands 'one of many' under review",
-        "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 01 Sep 2026 16:35:28 GMT",
-        "description": "The UK says Falkland islanders \"are British with a right to determine their own future\"."
-      },
-      {
-        "title": "New laws planned to tackle rogue funeral firms",
-        "link": "https://www.bbc.co.uk/news/articles/clye40d7dg1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 01 Sep 2026 14:10:37 GMT",
-        "description": "The government plans to regulate undertakers after the jailing of Hull funeral director Robert Bush."
       },
       {
         "title": "Tice defends Reform UK-led councils over tax rises and cuts",
@@ -493,6 +493,27 @@
       }
     ],
     "Science": [
+      {
+        "title": "“Broken heart syndrome” can look just like a heart attack. This test can tell them apart",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070518.htm",
+        "source": "Science Daily",
+        "published": "Wed, 02 Sep 2026 11:03:43 EDT",
+        "description": "“Broken heart syndrome” can mimic a heart attack so closely that patients often need invasive testing to tell the difference. Researchers have now developed the BioTAK score, which combines biological"
+      },
+      {
+        "title": "Too much coffee may weaken bones, study finds",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+        "source": "Science Daily",
+        "published": "Wed, 02 Sep 2026 02:04:39 EDT",
+        "description": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drin"
+      },
+      {
+        "title": "Earth may have lost the Sun’s protective shield millions of years ago",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
+        "source": "Science Daily",
+        "published": "Wed, 02 Sep 2026 00:25:48 EDT",
+        "description": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain"
+      },
       {
         "title": "Mindfulness may lower blood pressure in just 8 weeks",
         "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
@@ -536,27 +557,6 @@
         "description": "NASA and SpaceX have delayed Crew-13 after finding an oxidizer leak in the Dragon spacecraft’s propulsion system during prelaunch preparations. Engineers are investigating the problem before the four-"
       },
       {
-        "title": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
-        "source": "Science Daily",
-        "published": "Tue, 01 Sep 2026 00:49:31 EDT",
-        "description": "A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway"
-      },
-      {
-        "title": "Scientists find a human-only gene that may help explain our brainpower",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
-        "source": "Science Daily",
-        "published": "Mon, 31 Aug 2026 23:54:40 EDT",
-        "description": "Scientists discovered that human microglia, immune cells that help shape developing brain circuits, can take four to eight years to mature instead of just weeks as they do in mice. The unusually slow "
-      },
-      {
-        "title": "Scientists find why the liver may not heal even after you stop drinking",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
-        "source": "Science Daily",
-        "published": "Mon, 31 Aug 2026 06:43:38 EDT",
-        "description": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammatio"
-      },
-      {
         "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
         "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
         "source": "Science Daily",
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Mudryk joins Tottenham on loan from Chelsea",
-      "link": "https://www.channelnewsasia.com/sport/mudryk-joins-tottenham-loan-chelsea-6356101",
-      "source": "CNA Singapore",
-      "published": "Wed, 02 Sep 2026 06:20:36 +0800",
-      "description": ""
-    },
-    {
-      "title": "Premier League clubs smash summer transfer spending record",
-      "link": "https://www.channelnewsasia.com/sport/premier-league-clubs-smash-summer-transfer-spending-record-6356106",
-      "source": "CNA Singapore",
-      "published": "Wed, 02 Sep 2026 06:18:46 +0800",
-      "description": ""
-    },
-    {
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "source": "TechCrunch",
-      "published": "Tue, 01 Sep 2026 22:13:34 +0000",
-      "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America."
+      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
     },
     {
-      "title": "House adopts measure condemning socialism ahead of November election",
-      "link": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+      "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
       "source": "CNBC Finance",
-      "published": "Tue, 01 Sep 2026 22:13:19 GMT",
-      "description": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution."
+      "published": "Wed, 02 Sep 2026 22:21:45 GMT",
+      "description": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028."
     },
     {
-      "title": "How India’s regional cuisines are reshaping fine dining",
-      "link": "https://www.channelnewsasia.com/experiences/india-fine-dining-regional-cuisine-6337141",
+      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+      "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+      "source": "CNBC Finance",
+      "published": "Wed, 02 Sep 2026 22:17:19 GMT",
+      "description": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029."
+    },
+    {
+      "title": "Ukrainian Koval confirms she left NCAA women's program after signing of Russian player",
+      "link": "https://www.channelnewsasia.com/sport/ukrainian-koval-confirms-she-left-ncaa-womens-program-after-signing-russian-player-6358876",
       "source": "CNA Singapore",
-      "published": "Wed, 02 Sep 2026 06:09:00 +0800",
-      "description": "At restaurants in Himachal Pradesh, Mumbai and Bengaluru, chefs are drawing on local ingredients, preservation techniques and culinary traditions to rethink what contemporary Indian food can be."
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch",
-      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
-    },
-    {
-      "title": "Grealish returns to Everton on loan from Manchester City",
-      "link": "https://www.channelnewsasia.com/sport/grealish-returns-everton-loan-manchester-city-6356071",
-      "source": "CNA Singapore",
-      "published": "Wed, 02 Sep 2026 06:04:14 +0800",
+      "published": "Thu, 03 Sep 2026 06:17:01 +0800",
       "description": ""
     },
     {
-      "title": "Russian cybercrime operation being dismantled after two decades, US officials and CrowdStrike say",
-      "link": "https://www.channelnewsasia.com/business/russian-cybercrime-operation-being-dismantled-after-two-decades-us-officials-and-crowdstrike-say-6356051",
+      "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+      "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
+      "source": "CNBC Finance",
+      "published": "Wed, 02 Sep 2026 22:10:15 GMT",
+      "description": "Trump's summit with Xi is expected to take place less than six weeks before the U.S. election, with polls showing Democrats favored to make gains in Congress."
+    },
+    {
+      "title": "Why this landscape designer never wants you to see a garden all at once",
+      "link": "https://www.channelnewsasia.com/people/tropical-garden-design-jirachai-rengthong-6353711",
       "source": "CNA Singapore",
-      "published": "Wed, 02 Sep 2026 06:01:37 +0800",
+      "published": "Thu, 03 Sep 2026 06:09:00 +0800",
+      "description": "Thai landscaper Jirachai Rengthong, whose projects include Capella Ubud, Shinta Mani Wild and Four Seasons Resort Koh Samui, uses layered planting, mature trees and garden “rooms” to create landscapes"
+    },
+    {
+      "title": "F1 champion Norris co-founds single-seater junior team",
+      "link": "https://www.channelnewsasia.com/sport/f1-champion-norris-co-founds-single-seater-junior-team-6358856",
+      "source": "CNA Singapore",
+      "published": "Thu, 03 Sep 2026 06:05:58 +0800",
       "description": ""
     },
     {
-      "title": "Nepal’s riverside communities cling to hope with loved ones missing after deadly flood",
-      "link": "https://www.channelnewsasia.com/asia/nepal-deadly-flood-missing-people-6354476",
+      "title": "Commentary: Walking away from Air India could cost SIA more",
+      "link": "https://www.channelnewsasia.com/commentary/sia-air-india-losses-tata-exit-stay-airline-6357466",
       "source": "CNA Singapore",
-      "published": "Wed, 02 Sep 2026 06:00:00 +0800",
-      "description": "A week after a catastrophic flood tore through Nepal’s Himalayan valleys, thousands remain missing and rescue teams are still searching for survivors. CNA meets families waiting desperately for news a"
+      "published": "Thu, 03 Sep 2026 06:00:00 +0800",
+      "description": "Air India’s mounting losses and challenges are cause for concern, but they do not make walking away the best option for Singapore Airlines, says former financial journalist Ven Sreenivasan."
     },
     {
-      "title": "Teen births at lowest in over 20 years; safe, judgment-free environment key to seeking help: Experts",
-      "link": "https://www.channelnewsasia.com/singapore/teenage-births-lowest-young-mothers-babies-6331786",
+      "title": "CNA Explains: How Singapore could reclaim more land in the future",
+      "link": "https://www.channelnewsasia.com/singapore/land-reclamation-western-island-long-island-explainer-6356586",
       "source": "CNA Singapore",
-      "published": "Wed, 02 Sep 2026 06:00:00 +0800",
-      "description": "There were 140 teenage births in 2025, down by more than 40 per cent from 244 in 2024."
+      "published": "Thu, 03 Sep 2026 06:00:00 +0800",
+      "description": "With major reclamation works on the horizon, CNA looks at how reclamation methods have evolved. &nbsp; &nbsp;"
+    },
+    {
+      "title": "Can Singapore protect teens on social media without a ban? Seeking answers across borders",
+      "link": "https://www.channelnewsasia.com/cna-insider/social-media-ban-protect-teenagers-age-singapore-australia-malaysia-6354736",
+      "source": "CNA Singapore",
+      "published": "Thu, 03 Sep 2026 06:00:00 +0800",
+      "description": "Teenagers are beating the social media ban in Australia, while Malaysia’s approach has raised privacy concerns. CNA’s Talking Point sees how the restrictions are playing out while a different playbook"
     }
   ]
 }
