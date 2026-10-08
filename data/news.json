@@ -1,432 +1,481 @@
 {
-  "updated_sgt": "2026-10-07 07:38 SGT",
-  "updated_iso": "2026-10-07T07:38:58.186875+08:00",
+  "updated_sgt": "2026-10-08 08:03 SGT",
+  "updated_iso": "2026-10-08T08:03:28.942860+08:00",
   "categories": {
     "World": [
       {
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-        "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+        "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+        "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 22:00:43 GMT",
-        "description": "Experts say her survival after the lethal injections is highly unusual."
+        "published": "Wed, 07 Oct 2026 21:40:24 GMT",
+        "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
       },
       {
-        "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-        "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+        "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 18:05:53 GMT",
-        "description": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her."
+        "published": "Wed, 07 Oct 2026 20:29:31 GMT",
+        "description": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon."
       },
       {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+        "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+        "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 18:03:19 GMT",
-        "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression."
+        "published": "Wed, 07 Oct 2026 20:27:03 GMT",
+        "description": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war."
       },
       {
-        "title": "Finland orders halt to work on two Google data centres",
-        "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+        "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+        "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 17:15:46 GMT",
-        "description": "The order affecting two planned data centres follows concerns over forest clearance."
+        "published": "Wed, 07 Oct 2026 19:30:51 GMT",
+        "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
       },
       {
-        "title": "Kenya confirms its first Ebola death as outbreak spreads",
-        "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+        "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 16:02:32 GMT",
-        "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
+        "published": "Wed, 07 Oct 2026 18:27:40 GMT",
+        "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia."
       },
       {
-        "title": "AfD candidate elected speaker of German regional parliament for first time",
-        "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+        "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 14:44:03 GMT",
-        "description": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment."
+        "published": "Wed, 07 Oct 2026 18:12:58 GMT",
+        "description": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept."
       },
       {
-        "title": "Ship sinks and crew missing after Black Sea drone attack",
-        "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+        "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 11:53:21 GMT",
-        "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine."
+        "published": "Wed, 07 Oct 2026 17:47:31 GMT",
+        "description": "The step comes after several groups complained of police using disproportionate force towards teenagers."
       },
       {
-        "title": "'Ghost particles' from space telescope wins physics Nobel",
-        "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+        "title": "Israelis demand accountability over 7 October failures three years after attacks",
+        "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 11:24:19 GMT",
-        "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space."
+        "published": "Wed, 07 Oct 2026 16:00:18 GMT",
+        "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
       },
       {
-        "title": "Former German spy chief arrested for espionage and treason",
-        "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+        "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 10:05:42 GMT",
-        "description": "August Hanning is accused of obtaining classified information for a foreign power."
+        "published": "Wed, 07 Oct 2026 11:51:52 GMT",
+        "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry."
       },
       {
-        "title": "Indian opposition MPs detained in protest against election chief",
-        "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+        "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+        "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 06 Oct 2026 10:05:22 GMT",
-        "description": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
+        "published": "Wed, 07 Oct 2026 09:49:31 GMT",
+        "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations."
       }
     ],
     "Finance": [
       {
-        "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-        "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+        "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
+        "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 22:23:01 GMT",
-        "description": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks."
+        "published": "Wed, 07 Oct 2026 23:10:54 GMT",
+        "description": "U.S. Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang."
       },
       {
-        "title": "Trump hedges on paying back government for ads that already aired",
-        "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+        "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+        "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 21:32:32 GMT",
-        "description": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\""
+        "published": "Wed, 07 Oct 2026 22:58:05 GMT",
+        "description": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time."
       },
       {
-        "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-        "link": "https://www.cnbc.com/2026/10/06/emmy-awards-prime-video.html",
+        "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+        "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 19:35:04 GMT",
-        "description": "The Emmy Awards will stream exclusively and free on Prime Video worldwide starting in 2027 under a six-year deal."
+        "published": "Wed, 07 Oct 2026 22:29:41 GMT",
+        "description": "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out."
       },
       {
-        "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-        "link": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+        "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+        "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 18:48:36 GMT",
-        "description": "Meta and OpenAI Chairman Bret Taylor’s startup Sierra are building a set of tech standards to make it easier to do business with AI bots."
+        "published": "Wed, 07 Oct 2026 21:31:40 GMT",
+        "description": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds."
       },
       {
-        "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
-        "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+        "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+        "link": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 18:34:49 GMT",
-        "description": "The platform will now provide tags that indicate which election markets have low volumes."
+        "published": "Wed, 07 Oct 2026 21:20:40 GMT",
+        "description": "Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague."
       },
       {
-        "title": "Young voters struggle to afford housing. But they don't expect help from political candidates",
-        "link": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
+        "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+        "link": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 18:11:51 GMT",
-        "description": "Pennsylvania's competitive U.S. House districts showcase how housing affordability challenges for young voters may play into control of the next Congress."
+        "published": "Wed, 07 Oct 2026 20:33:34 GMT",
+        "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers."
       },
       {
-        "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-        "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+        "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+        "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 18:06:40 GMT",
-        "description": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies."
+        "published": "Wed, 07 Oct 2026 20:26:13 GMT",
+        "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers."
       },
       {
-        "title": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
-        "link": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
+        "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+        "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 17:22:20 GMT",
-        "description": "If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce."
+        "published": "Wed, 07 Oct 2026 18:42:36 GMT",
+        "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting."
       },
       {
-        "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-        "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+        "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+        "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 16:19:10 GMT",
-        "description": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point."
+        "published": "Wed, 07 Oct 2026 13:46:28 GMT",
+        "description": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk."
       },
       {
-        "title": "Russian lab worker's suspected plague death leaves experts puzzled",
-        "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
+        "title": "The SALT deduction limit is $40,400 for 2026. Here's how to maximize it",
+        "link": "https://www.cnbc.com/2026/10/07/salt-deduction-limit-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 06 Oct 2026 15:23:41 GMT",
-        "description": "Russian authorities say the situation is stable and there are no reports of secondary cases."
+        "published": "Wed, 07 Oct 2026 12:15:01 GMT",
+        "description": "The SALT deduction limit is $40,400 for 2026. Experts cover how to maximize the tax break before year-end."
       }
     ],
     "Technology": [
       {
-        "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-        "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+        "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 22:55:39 +0000",
-        "description": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads."
+        "published": "Wed, 07 Oct 2026 23:36:57 +0000",
+        "description": "The startup pays people to record everyday tasks."
       },
       {
-        "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-        "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+        "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+        "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 22:53:09 +0000",
-        "description": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
+        "published": "Wed, 07 Oct 2026 22:59:16 +0000",
+        "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them."
       },
       {
-        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-        "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 22:34:03 +0000",
-        "description": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch."
+        "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+        "description": "The developer of Hermes Agent raised a $90 million Series B."
       },
       {
-        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-        "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 20:47:01 +0000",
-        "description": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
+        "published": "Wed, 07 Oct 2026 20:22:37 +0000",
+        "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
       },
       {
-        "title": "How AI decision models could change content moderation",
-        "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 20:35:20 +0000",
-        "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
+        "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+        "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
       },
       {
-        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-        "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 20:00:30 +0000",
-        "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+        "published": "Wed, 07 Oct 2026 18:15:28 +0000",
+        "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit"
       },
       {
-        "title": "The next hurdle for AI agents: getting websites to let them in",
-        "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+        "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+        "link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 19:56:50 +0000",
-        "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand"
+        "published": "Wed, 07 Oct 2026 18:10:00 +0000",
+        "description": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow."
       },
       {
-        "title": "Hark releases an AI personal assistant with a focus on privacy",
-        "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 18:22:45 +0000",
-        "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
+        "published": "Wed, 07 Oct 2026 18:00:19 +0000",
+        "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
       },
       {
-        "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-        "link": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+        "title": "Greenairy is building smart plant towers to clean the air in your office",
+        "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 17:14:07 +0000",
-        "description": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service."
+        "published": "Wed, 07 Oct 2026 17:30:00 +0000",
+        "description": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery."
       },
       {
-        "title": "Mirror Particle is building a ‘world model’ of human behavior",
-        "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+        "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
+        "link": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
         "source": "TechCrunch",
-        "published": "Tue, 06 Oct 2026 16:35:00 +0000",
-        "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research "
+        "published": "Wed, 07 Oct 2026 17:04:46 +0000",
+        "description": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract."
       }
     ],
     "Crypto": [
       {
-        "title": "Binance bStocks Will Reinvest Oracle And Marvell Dividends Onchain",
-        "link": "https://bitcoinist.com/binance-bstocks-will-reinvest-oracle-and-marvell-dividends-onchain/",
+        "title": "BitGo And HashKey Expand Asia Partnership Across Staking, Custody And Tokenization",
+        "link": "https://bitcoinist.com/bitgo-and-hashkey-expand-asia-partnership-across-staking-custody-and/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:01:09 +0000",
-        "description": "TL;DR Binance will support cash dividends for Oracle and Marvell bStocks holders. After taxes, fees and other deductions, the net dividend will be reinvested into additional fractions of ORCLB or MRVL"
+        "published": "Wed, 07 Oct 2026 23:00:00 +0000",
+        "description": "BitGo and HashKey Cloud have expanded an earlier staking relationship into a broader Asia-Pacific partnership covering staking, trading, custody and real-world asset tokenization. HashKey will support"
       },
       {
-        "title": "KuCoin Adds Nike, Accenture And Shipping ETF Perpetuals With 20x Leverage",
-        "link": "https://bitcoinist.com/kucoin-adds-nike-accenture-and-shipping-etf-perpetuals-with-20x-leverage/",
+        "title": "Kraken Lets Traders Bet On Oura And Moonshot Before Their IPOs",
+        "link": "https://bitcoinist.com/kraken-lets-traders-bet-on-oura-and-moonshot-before-their-ipos/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:01:07 +0000",
-        "description": "TL;DR KuCoin Futures has launched stock-index perpetual contracts tracking Nike, Accenture and the Breakwave Tanker Shipping ETF. The contracts are settled in USDT, trade continuously and support leve"
+        "published": "Wed, 07 Oct 2026 22:00:00 +0000",
+        "description": "Kraken Pro has launched a trading competition around perpetual futures linked to Oura and Moonshot ahead of their anticipated IPOs. The contracts provide price exposure to the private companies withou"
       },
       {
-        "title": "Crypto.com Adds Insilico Terminal For Advanced Spot And Derivatives Trading",
-        "link": "https://bitcoinist.com/crypto-com-adds-insilico-terminal-for-advanced-spot-and-derivatives-trading/",
+        "title": "Polymarket Rebuilds Its Core With Protocol V2 And pUSD Collateral",
+        "link": "https://bitcoinist.com/polymarket-rebuilds-its-core-with-protocol-v2-and-pusd-collateral/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:01:05 +0000",
-        "description": "TL;DR Crypto.com Exchange has integrated with Insilico Terminal, giving users access to advanced execution tools for spot and derivatives. Supported tools include TWAP, scale orders, depth-of-market v"
+        "published": "Wed, 07 Oct 2026 21:00:00 +0000",
+        "description": "Polymarket has begun testing Protocol V2, a major rebuild of the smart contracts behind its prediction markets. The architecture consolidates markets around a unified exchange system and pUSD collater"
       },
       {
-        "title": "Binance Pay Offers 20% Mobile Top-Up Discount Across 10 Markets",
-        "link": "https://bitcoinist.com/binance-pay-offers-20-mobile-top-up-discount-across-10-markets/",
+        "title": "Binance Lets Traders Use Tokenized JPMorgan And Eli Lilly Shares As Margin Collateral",
+        "link": "https://bitcoinist.com/binance-lets-traders-use-tokenized-jpmorgan-and-eli-lilly-shares-as/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:01:02 +0000",
-        "description": "TL;DR Binance Pay has launched a limited mobile top-up promotion in 10 countries. Eligible users can receive a 20% instant discount on their first qualifying top-up, capped at 3 USDT equivalent. The c"
+        "published": "Wed, 07 Oct 2026 20:00:00 +0000",
+        "description": "Binance is adding four bStocks tokenized securities as eligible collateral across Cross Margin, Portfolio Margin and Portfolio Margin Pro. The assets represent JPMorgan Chase, Eli Lilly, Securitize an"
       },
       {
-        "title": "OKX Money Launches Stablecoin Savings And Cards In Standalone App",
-        "link": "https://bitcoinist.com/okx-money-launches-stablecoin-savings-and-cards-in-standalone-app/",
+        "title": "Moomoo Taps CROSSx To Bring Institutional-Grade Crypto Execution To Retail Traders",
+        "link": "https://bitcoinist.com/moomoo-taps-crossx-to-bring-institutional-grade-crypto-execution-to/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:01:01 +0000",
-        "description": "TL;DR OKX has launched OKX Money, a standalone app focused on saving, sending and spending dollar-backed stablecoins. The app combines eligible yield features with virtual and physical cards in suppor"
+        "published": "Wed, 07 Oct 2026 19:00:00 +0000",
+        "description": "Moomoo is integrating Crossover Markets’ CROSSx electronic communication network into its US crypto offering. The infrastructure offers sub-10-microsecond matching and will connect Moomoo’s retail int"
       },
       {
-        "title": "Binance Adds Four More Stock Perpetuals With Up To 20x Leverage",
-        "link": "https://bitcoinist.com/binance-adds-four-more-stock-perpetuals-with-up-to-20x-leverage/",
+        "title": "Russia Starts Licensing Crypto Exchanges And Custodians Under New Register",
+        "link": "https://bitcoinist.com/russia-starts-licensing-crypto-exchanges-and-custodians-under-new/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:00:58 +0000",
-        "description": "TL;DR Binance Futures is adding USDT-settled perpetual contracts tracking StablecoinX, Viking Therapeutics, McDonald&#8217;s and Akamai. The contracts trade 24/7 and support leverage of up to 20x. The"
+        "published": "Wed, 07 Oct 2026 18:00:00 +0000",
+        "description": "Russia’s new regulated crypto-market framework has moved into operation, with the Bank of Russia adding firms including VTB, Sberbank and several specialist operators to registers covering cryptocurre"
       },
       {
-        "title": "Binance Launches AI Suite With Agent OS And Automated Trading Workflows",
-        "link": "https://bitcoinist.com/binance-launches-ai-suite-with-agent-os-and-automated-trading-workflows/",
+        "title": "OKX And NYSE Owner ICE Move Toward 24/7 Tokenized US Stock Trading",
+        "link": "https://bitcoinist.com/okx-and-nyse-owner-ice-move-toward-24-7-tokenized-us-stock-trading/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:00:56 +0000",
-        "description": "TL;DR Binance has unveiled Binance Intelligence, an AI layer built around Binance AI, Binance AI Pro and Agent OS. Binance AI launches first for eligible users in New Zealand, while AI Pro is due in t"
+        "published": "Wed, 07 Oct 2026 17:00:00 +0000",
+        "description": "OKXICE, the joint venture between OKX and Intercontinental Exchange, has notified the SEC of plans for a tokenized securities venue that would offer round-the-clock trading in US stocks. More than 60 "
       },
       {
-        "title": "DeFi Development Corp SOL Treasury Hits 2.56M As Preliminary NAV Doubles",
-        "link": "https://bitcoinist.com/defi-development-corp-sol-treasury-hits-2-56m-as-preliminary-nav-doubles/",
+        "title": "SoFi Co-Founder Mike Cagney Raises $19 Million For New On-Chain Finance Startup",
+        "link": "https://bitcoinist.com/sofi-co-founder-mike-cagney-raises-19-million-for-new-on-chain/",
         "source": "Bitcoinist",
-        "published": "Tue, 06 Oct 2026 16:00:54 +0000",
-        "description": "TL;DR DeFi Development Corp says its Solana treasury has reached approximately 2.564 million SOL and SOL equivalents. The company added roughly 26,203 SOL since September 28 and valued its holdings at"
+        "published": "Thu, 08 Oct 2026 00:00:00 +0000",
+        "description": "Navra, the latest company led by SoFi and Figure co-founder Mike Cagney, has raised $19 million in Series A funding. The startup is building an interface intended to make on-chain lending, yield produ"
       }
     ],
     "Markets": [
       {
-        "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-        "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+        "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 22:54:00 GMT",
-        "description": "“Both properties will be solely in his name.”"
+        "published": "Wed, 07 Oct 2026 22:32:00 GMT",
+        "description": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech com"
       },
       {
-        "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+        "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+        "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 21:52:00 GMT",
-        "description": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-"
+        "published": "Wed, 07 Oct 2026 20:58:00 GMT",
+        "description": "Technology is the only one of the S&P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs."
       },
       {
-        "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
-        "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
+        "title": "Options traders are betting on a dramatic drop in interest rates",
+        "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 20:37:00 GMT",
-        "description": "Not just one, but two, major market turning points since 2000 have occurred on that day."
+        "published": "Wed, 07 Oct 2026 20:36:00 GMT",
+        "description": "Recent options activity points to bullish positioning for long-term bonds and utilities."
       },
       {
-        "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-        "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+        "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+        "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 20:24:00 GMT",
-        "description": "Constellation’s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor."
+        "published": "Wed, 07 Oct 2026 19:35:00 GMT",
+        "description": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky."
       },
       {
-        "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-        "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+        "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
+        "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 20:21:00 GMT",
-        "description": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products."
+        "published": "Wed, 07 Oct 2026 19:12:00 GMT",
+        "description": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device."
       },
       {
-        "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-        "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+        "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 20:15:00 GMT",
-        "description": "“People in the U.S. need to wake up.”"
+        "published": "Wed, 07 Oct 2026 18:31:00 GMT",
+        "description": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks."
       },
       {
-        "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-        "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+        "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
+        "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 19:58:00 GMT",
-        "description": "Parental controls aren’t just for kids anymore."
+        "published": "Wed, 07 Oct 2026 18:22:00 GMT",
+        "description": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems."
       },
       {
-        "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
-        "link": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+        "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+        "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 19:14:00 GMT",
-        "description": "Highway drivers will be allowed to use a red-dyed farm fuel that’s tax-exempt through the end of 2026."
+        "published": "Wed, 07 Oct 2026 17:45:00 GMT",
+        "description": "“I keep thinking about giving each child $750,000 toward a house.”"
       },
       {
-        "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-        "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+        "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
+        "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 18:39:00 GMT",
-        "description": "This is going to bring a lot of problems that almost anyone could have predicted"
+        "published": "Wed, 07 Oct 2026 17:36:00 GMT",
+        "description": "The polite word for what the government and Wall Street are doing is deferring payment, like opening a tab at a bar that somebody else will pay later."
       },
       {
-        "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-        "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "title": "The ‘Magnificent Seven’ are now big enough to move the economy. Why that could be a problem.",
+        "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 06 Oct 2026 18:30:00 GMT",
-        "description": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”"
+        "published": "Wed, 07 Oct 2026 17:32:00 GMT",
+        "description": "Imagine a small group of companies whose value is greater than the entire economy of almost every single country in the world. By market value, that’s roughly where the “Magnificent Seven” group of te"
       }
     ],
     "Singapore": [
       {
-        "title": "Japan's real wages rise for eighth straight month in August",
-        "link": "https://www.channelnewsasia.com/business/japans-real-wages-rise-eighth-straight-month-in-august-6437826",
+        "title": "LG Energy Solution flags 26% rise in Q3 operating profit",
+        "link": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 07:32:01 +0800",
+        "published": "Thu, 08 Oct 2026 07:43:45 +0800",
         "description": ""
       },
       {
-        "title": "Air quality in parts of Singapore in unhealthy range",
-        "link": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-air-quality-oct-7-6437771",
+        "title": "McKenzie starts at flyhalf for first Bledisloe test after Mo'unga injury",
+        "link": "https://www.channelnewsasia.com/sport/mckenzie-starts-flyhalf-first-bledisloe-test-after-mounga-injury-6441096",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 07:17:50 +0800",
-        "description": "24-hour PSI readings in central, eastern and western Singapore were in the unhealthy range at 7am,&nbsp;while 1-hour PM2.5 readings were also elevated in these regions."
-      },
-      {
-        "title": "Why do you keep waking up to pee at night, even when you drink less water?",
-        "link": "https://www.channelnewsasia.com/wellness/waking-up-pee-night-nocturia-causes-treatment-6415196",
-        "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 07:14:00 +0800",
-        "description": "The phenomenon, known as nocturia, becomes more common with age. But cutting back on water before bed may not solve the problem. Urologists explain what nocturia is, why your body may produce more uri"
-      },
-      {
-        "title": "Japan manufacturers' mood hits near 5-year high, service-sector sentiment slumps: Reuters poll",
-        "link": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-near-5-year-high-service-sector-sentiment-slumps-reuters-poll-6437811",
-        "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 07:06:47 +0800",
+        "published": "Thu, 08 Oct 2026 07:34:59 +0800",
         "description": ""
       },
       {
-        "title": "Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat",
-        "link": "https://www.channelnewsasia.com/business/samsungs-q3-profit-seen-jumping-nine-fold-chip-margins-may-be-flat-6437796",
+        "title": "Caring for her dying father at 17 shaped how this veteran nurse cares for breast cancer patients today",
+        "link": "https://www.channelnewsasia.com/women/kkh-oncology-nurse-teresa-ng-cancer-care-6415491",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 07:02:33 +0800",
+        "published": "Thu, 08 Oct 2026 07:12:00 +0800",
+        "description": "KKH oncology-trained nurse Teresa Ng learnt early that breast cancer patients and their families need more than medical care. For decades, the 61-year-old has helped women and their families navigate "
+      },
+      {
+        "title": "Air quality across Singapore remains in unhealthy range",
+        "link": "https://www.channelnewsasia.com/singapore/haze-unhealthy-psi-air-quality-oct-8-6441021",
+        "source": "CNA Singapore",
+        "published": "Thu, 08 Oct 2026 06:59:00 +0800",
+        "description": "Under prevailing southeasterly to southerly winds, smoke haze from central and southern Sumatra and many parts of Kalimantan may continue to drift towards Singapore, NEA said."
+      },
+      {
+        "title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+        "link": "https://www.channelnewsasia.com/business/samsung-q3-profit-jumps-nearly-nine-fold-ai-memory-boom-lifts-chip-earnings-6441041",
+        "source": "CNA Singapore",
+        "published": "Thu, 08 Oct 2026 06:53:36 +0800",
         "description": ""
       },
       {
-        "title": "Louis Vuitton designs for a warmer world at Spring/Summer 2027 show",
-        "link": "https://www.channelnewsasia.com/obsessions/louis-vuitton-spring-summer-2027-collection-nicolas-ghesquiere-6437621",
+        "title": "How good design can make your home feel calmer and more comfortable",
+        "link": "https://www.channelnewsasia.com/obsessions/how-home-design-affects-wellbeing-muuto-jae-hah-6434996",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 06:52:54 +0800",
-        "description": "Nicolas Ghesquiere sent light fabrics, sheer dresses and fluid tailoring down the runway for Louis Vuitton’s Spring/Summer 2027 collection, saying rising temperatures are changing the way he thinks ab"
+        "published": "Thu, 08 Oct 2026 06:04:00 +0800",
+        "description": "Jae Hah of Scandinavian furniture brand Muuto explains how neuroaesthetics can shape everything from lighting and colour to texture, furniture and the way a room makes us feel."
       },
       {
-        "title": "IMF reaches staff-level deal with Papua New Guinea, potentially unlocking about $189 million",
-        "link": "https://www.channelnewsasia.com/business/imf-reaches-staff-level-deal-papua-new-guinea-potentially-unlocking-about-189-million-6437776",
+        "title": "Thailand, US writing ‘final paragraph’ of trade deal, says PM Anutin",
+        "link": "https://www.channelnewsasia.com/asia/anutin-thailand-trade-united-states-china-6440206",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 06:47:31 +0800",
-        "description": ""
+        "published": "Thu, 08 Oct 2026 06:00:00 +0800",
+        "description": "Thai Prime Minister Anutin Charnvirakul received a letter from US President Donald Trump last week confirming both countries were “at the final stage” on the agreement, he said at a forum in Singapore"
       },
       {
-        "title": "Teammates and fans bid emotional farewell to Messi ahead of Argentina finale",
-        "link": "https://www.channelnewsasia.com/sport/teammates-and-fans-bid-emotional-farewell-messi-ahead-argentina-finale-6437761",
+        "title": "Commentary: Team Singapore should not shy away from ambitious medal targets",
+        "link": "https://www.channelnewsasia.com/commentary/asian-games-2026-sea-team-singapore-sports-athlete-6439016",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 06:41:52 +0800",
-        "description": ""
+        "published": "Thu, 08 Oct 2026 06:00:00 +0800",
+        "description": "The seed of future sporting success is planted through high targets set today, says former Team Singapore chef de mission Nicholas Fang."
       },
       {
-        "title": "SpaceX seeks $40 billion to buy Nvidia chips, FT reports",
-        "link": "https://www.channelnewsasia.com/business/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-6437756",
+        "title": "Malaysia budget 2027: Anwar faces balancing act on cost-of-living relief as general election looms",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-budget-anwar-ibrahim-balancing-act-election-6438551",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 06:38:26 +0800",
-        "description": ""
+        "published": "Thu, 08 Oct 2026 06:00:00 +0800",
+        "description": "Middle-income households are expected to get greater attention, even as economists warn that electoral pressures could slow politically difficult fiscal reforms."
       },
       {
-        "title": "BOJ's dovish dissenter signals support for future rate hikes",
-        "link": "https://www.channelnewsasia.com/business/bojs-dovish-dissenter-signals-support-future-rate-hikes-6437746",
+        "title": "‘Hard to say’ how Singapore fared at Asian Games as observers weigh medals, progress and expectations",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-asian-games-performance-medal-tally-public-targets-6436841",
         "source": "CNA Singapore",
-        "published": "Wed, 07 Oct 2026 06:20:59 +0800",
-        "description": ""
+        "published": "Thu, 08 Oct 2026 06:00:00 +0800",
+        "description": "Their comments come after officials said that Singapore's athletes had met their \"internal medal projections\" though these were not made public."
       }
     ],
     "US Politics": [
       {
-        "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
-        "link": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham to hold security talks with German chancellor in Berlin",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 06 Oct 2026 21:41:58 GMT",
-        "description": "Lubna Speitan offered to testify on behalf of Minh Quang Pham, who was jailed for 40 years after a Heathrow bomb plot investigation."
+        "published": "Wed, 07 Oct 2026 23:01:31 GMT",
+        "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
+      },
+      {
+        "title": "Tories united behind Badenoch - but party still needs to win over voters",
+        "link": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 07 Oct 2026 16:31:06 GMT",
+        "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls."
+      },
+      {
+        "title": "Greens investigate party member behind Zionism motion",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyq4yq0y6do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 07 Oct 2026 15:26:25 GMT",
+        "description": "It has emerged Lubna Speitan was listed in court documents as a \"close friend\" of a man later jailed for supporting al-Qaeda."
+      },
+      {
+        "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+        "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 07 Oct 2026 14:33:11 GMT",
+        "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat."
+      },
+      {
+        "title": "Reform internal inquiry says party did not break law over donations sting",
+        "link": "https://www.bbc.co.uk/news/articles/ckly020edl45o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 07 Oct 2026 12:52:19 GMT",
+        "description": "Officials were recorded by undercover journalists discussing a potential way to secure foreign donations to the party."
+      },
+      {
+        "title": "Widdecombe suspect accused of trying to break into Farage's home",
+        "link": "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 07 Oct 2026 11:53:50 GMT",
+        "description": "Joshua Kerry, 28, appeared at Westminster Magistrates' Court and was remanded in custody."
+      },
+      {
+        "title": "Greens face conference centre ban over Zionism motion",
+        "link": "https://www.bbc.co.uk/news/articles/c6p9gzg032n4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 07 Oct 2026 11:08:42 GMT",
+        "description": "Brighton & Hove City Council says the motion is not compatible with its inclusion commitments."
+      },
+      {
+        "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
+        "link": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Wed, 07 Oct 2026 08:13:22 GMT",
+        "description": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
       },
       {
         "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
@@ -436,125 +485,76 @@
         "description": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
       },
       {
-        "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-        "link": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 06 Oct 2026 19:17:44 GMT",
-        "description": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements."
-      },
-      {
-        "title": "Badenoch's £10bn air defence plan points to growing concern over protecting UK's skies",
-        "link": "https://www.bbc.co.uk/news/articles/cm86zqg553q8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 06 Oct 2026 17:27:19 GMT",
-        "description": "The government and the Conservatives both agree the UK needs better air defences in an increasingly dangerous world."
-      },
-      {
-        "title": "Why Tories are talking about winning the next election",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 06 Oct 2026 16:49:05 GMT",
-        "description": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them."
-      },
-      {
-        "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
-        "link": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 06 Oct 2026 13:48:49 GMT",
-        "description": "The bestselling author and former politician died on Monday at the age of 86."
-      },
-      {
         "title": "Tories pledge £10bn for British anti-missile defence system",
         "link": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Tue, 06 Oct 2026 11:20:36 GMT",
         "description": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
-      },
-      {
-        "title": "I won't accept exclusion within Green Party, says Polanski after criticism of Zionism motion",
-        "link": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Tue, 06 Oct 2026 08:32:44 GMT",
-        "description": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion."
-      },
-      {
-        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
-        "link": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 05 Oct 2026 17:46:59 GMT",
-        "description": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle."
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 05 Oct 2026 17:23:28 GMT",
-        "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham."
       }
     ],
     "Science": [
       {
-        "title": "Colorectal cancer is rising in young people and often found too late",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261003234019.htm",
+        "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
         "source": "Science Daily",
-        "published": "Tue, 06 Oct 2026 09:20:15 EDT",
-        "description": "Colorectal cancer in young people is often diagnosed at an advanced stage, with researchers finding most patients age 21 or younger already had Stage III or IV disease. Because symptoms like rectal bl"
+        "published": "Wed, 07 Oct 2026 09:09:15 EDT",
+        "description": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the M"
       },
       {
-        "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+        "title": "Taking antibiotics? Sugar may be making the damage worse",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
         "source": "Science Daily",
-        "published": "Tue, 06 Oct 2026 09:03:47 EDT",
-        "description": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also"
+        "published": "Wed, 07 Oct 2026 09:06:21 EDT",
+        "description": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on swee"
       },
       {
-        "title": "Archaeologists may have finally solved a 100-year-old Florida mystery",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
+        "title": "Scientists changed how zoo lions eat. Their wild side came out",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
         "source": "Science Daily",
-        "published": "Tue, 06 Oct 2026 08:41:48 EDT",
-        "description": "Ancient pottery from Tampa Bay appears to have been made by migrant craftspeople who brought specialized Mississippian pottery-making knowledge hundreds of miles south. Remarkably, they even incorpora"
+        "published": "Wed, 07 Oct 2026 08:46:44 EDT",
+        "description": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of"
       },
       {
-        "title": "Scientists say this simple habit could strengthen your marriage",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
+        "title": "Physicists just found the ‘ghost’ of superconductivity",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
         "source": "Science Daily",
-        "published": "Tue, 06 Oct 2026 08:23:37 EDT",
-        "description": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone. Even something as simple as taking a walk together may"
+        "published": "Wed, 07 Oct 2026 08:34:39 EDT",
+        "description": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even mor"
       },
       {
-        "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
+        "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
         "source": "Science Daily",
-        "published": "Tue, 06 Oct 2026 08:04:50 EDT",
-        "description": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tr"
+        "published": "Wed, 07 Oct 2026 08:13:35 EDT",
+        "description": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could h"
       },
       {
-        "title": "One simple addition to postpartum care made a major difference",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261003234017.htm",
+        "title": "Webb finds a surprising atmosphere on a scorching lava world",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
         "source": "Science Daily",
-        "published": "Tue, 06 Oct 2026 07:25:14 EDT",
-        "description": "New mothers paired with patient navigators were much more likely to receive postpartum care, depression screening, preventive testing, and ongoing primary care. By helping with barriers such as transp"
+        "published": "Wed, 07 Oct 2026 07:58:25 EDT",
+        "description": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery co"
       },
       {
-        "title": "Scientists finally see how nature moves energy so efficiently",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
+        "title": "Earth’s center is moving, and NASA just measured it",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
         "source": "Science Daily",
-        "published": "Tue, 06 Oct 2026 03:49:51 EDT",
-        "description": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are close"
+        "published": "Wed, 07 Oct 2026 07:30:51 EDT",
+        "description": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have develop"
       },
       {
-        "title": "Tropical trees built homes for ants. Wasps are taking them over",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261004001832.htm",
+        "title": "Scientists reprogram immune cells inside the body to fight cancer",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
         "source": "Science Daily",
-        "published": "Mon, 05 Oct 2026 23:12:36 EDT",
-        "description": "Predatory wasps are hijacking shelters built by tropical trees for their ant defenders, potentially disrupting an ancient partnership that protects the plants from hungry insects. The takeover is far "
+        "published": "Wed, 07 Oct 2026 05:50:16 EDT",
+        "description": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineeri"
       },
       {
-        "title": "Scientists reveal what seven days of fasting does to the human body",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
+        "title": "Humans may not be as hardwired for violence as we thought",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
         "source": "Science Daily",
-        "published": "Mon, 05 Oct 2026 08:26:03 EDT",
-        "description": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fast"
+        "published": "Tue, 06 Oct 2026 23:22:55 EDT",
+        "description": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fi"
       },
       {
         "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Japan's real wages rise for eighth straight month in August",
-      "link": "https://www.channelnewsasia.com/business/japans-real-wages-rise-eighth-straight-month-in-august-6437826",
+      "title": "SoFi Co-Founder Mike Cagney Raises $19 Million For New On-Chain Finance Startup",
+      "link": "https://bitcoinist.com/sofi-co-founder-mike-cagney-raises-19-million-for-new-on-chain/",
+      "source": "Bitcoinist",
+      "published": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "description": "Navra, the latest company led by SoFi and Figure co-founder Mike Cagney, has raised $19 million in Series A funding. The startup is building an interface intended to make on-chain lending, yield produ"
+    },
+    {
+      "title": "LG Energy Solution flags 26% rise in Q3 operating profit",
+      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-flags-26-rise-in-q3-operating-profit-6441106",
       "source": "CNA Singapore",
-      "published": "Wed, 07 Oct 2026 07:32:01 +0800",
+      "published": "Thu, 08 Oct 2026 07:43:45 +0800",
       "description": ""
     },
     {
-      "title": "Air quality in parts of Singapore in unhealthy range",
-      "link": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-air-quality-oct-7-6437771",
-      "source": "CNA Singapore",
-      "published": "Wed, 07 Oct 2026 07:17:50 +0800",
-      "description": "24-hour PSI readings in central, eastern and western Singapore were in the unhealthy range at 7am,&nbsp;while 1-hour PM2.5 readings were also elevated in these regions."
-    },
-    {
-      "title": "Why do you keep waking up to pee at night, even when you drink less water?",
-      "link": "https://www.channelnewsasia.com/wellness/waking-up-pee-night-nocturia-causes-treatment-6415196",
-      "source": "CNA Singapore",
-      "published": "Wed, 07 Oct 2026 07:14:00 +0800",
-      "description": "The phenomenon, known as nocturia, becomes more common with age. But cutting back on water before bed may not solve the problem. Urologists explain what nocturia is, why your body may produce more uri"
-    },
-    {
-      "title": "Japan manufacturers' mood hits near 5-year high, service-sector sentiment slumps: Reuters poll",
-      "link": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-near-5-year-high-service-sector-sentiment-slumps-reuters-poll-6437811",
-      "source": "CNA Singapore",
-      "published": "Wed, 07 Oct 2026 07:06:47 +0800",
-      "description": ""
-    },
-    {
-      "title": "Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat",
-      "link": "https://www.channelnewsasia.com/business/samsungs-q3-profit-seen-jumping-nine-fold-chip-margins-may-be-flat-6437796",
-      "source": "CNA Singapore",
-      "published": "Wed, 07 Oct 2026 07:02:33 +0800",
-      "description": ""
-    },
-    {
-      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
       "source": "TechCrunch",
-      "published": "Tue, 06 Oct 2026 22:55:39 +0000",
-      "description": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads."
+      "published": "Wed, 07 Oct 2026 23:36:57 +0000",
+      "description": "The startup pays people to record everyday tasks."
     },
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Tue, 06 Oct 2026 22:54:00 GMT",
-      "description": "“Both properties will be solely in his name.”"
-    },
-    {
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "source": "TechCrunch",
-      "published": "Tue, 06 Oct 2026 22:53:09 +0000",
-      "description": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
-    },
-    {
-      "title": "Louis Vuitton designs for a warmer world at Spring/Summer 2027 show",
-      "link": "https://www.channelnewsasia.com/obsessions/louis-vuitton-spring-summer-2027-collection-nicolas-ghesquiere-6437621",
+      "title": "McKenzie starts at flyhalf for first Bledisloe test after Mo'unga injury",
+      "link": "https://www.channelnewsasia.com/sport/mckenzie-starts-flyhalf-first-bledisloe-test-after-mounga-injury-6441096",
       "source": "CNA Singapore",
-      "published": "Wed, 07 Oct 2026 06:52:54 +0800",
-      "description": "Nicolas Ghesquiere sent light fabrics, sheer dresses and fluid tailoring down the runway for Louis Vuitton’s Spring/Summer 2027 collection, saying rising temperatures are changing the way he thinks ab"
-    },
-    {
-      "title": "IMF reaches staff-level deal with Papua New Guinea, potentially unlocking about $189 million",
-      "link": "https://www.channelnewsasia.com/business/imf-reaches-staff-level-deal-papua-new-guinea-potentially-unlocking-about-189-million-6437776",
-      "source": "CNA Singapore",
-      "published": "Wed, 07 Oct 2026 06:47:31 +0800",
+      "published": "Thu, 08 Oct 2026 07:34:59 +0800",
       "description": ""
+    },
+    {
+      "title": "Caring for her dying father at 17 shaped how this veteran nurse cares for breast cancer patients today",
+      "link": "https://www.channelnewsasia.com/women/kkh-oncology-nurse-teresa-ng-cancer-care-6415491",
+      "source": "CNA Singapore",
+      "published": "Thu, 08 Oct 2026 07:12:00 +0800",
+      "description": "KKH oncology-trained nurse Teresa Ng learnt early that breast cancer patients and their families need more than medical care. For decades, the 61-year-old has helped women and their families navigate "
+    },
+    {
+      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
+      "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
+      "source": "CNBC Finance",
+      "published": "Wed, 07 Oct 2026 23:10:54 GMT",
+      "description": "U.S. Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang."
+    },
+    {
+      "title": "Burnham to hold security talks with German chancellor in Berlin",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "published": "Wed, 07 Oct 2026 23:01:31 GMT",
+      "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
+    },
+    {
+      "title": "BitGo And HashKey Expand Asia Partnership Across Staking, Custody And Tokenization",
+      "link": "https://bitcoinist.com/bitgo-and-hashkey-expand-asia-partnership-across-staking-custody-and/",
+      "source": "Bitcoinist",
+      "published": "Wed, 07 Oct 2026 23:00:00 +0000",
+      "description": "BitGo and HashKey Cloud have expanded an earlier staking relationship into a broader Asia-Pacific partnership covering staking, trading, custody and real-world asset tokenization. HashKey will support"
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "source": "TechCrunch",
+      "published": "Wed, 07 Oct 2026 22:59:16 +0000",
+      "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them."
+    },
+    {
+      "title": "Air quality across Singapore remains in unhealthy range",
+      "link": "https://www.channelnewsasia.com/singapore/haze-unhealthy-psi-air-quality-oct-8-6441021",
+      "source": "CNA Singapore",
+      "published": "Thu, 08 Oct 2026 06:59:00 +0800",
+      "description": "Under prevailing southeasterly to southerly winds, smoke haze from central and southern Sumatra and many parts of Kalimantan may continue to drift towards Singapore, NEA said."
     }
   ]
 }
