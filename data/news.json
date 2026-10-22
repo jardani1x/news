@@ -1,481 +1,446 @@
 {
-  "updated_sgt": "2026-10-22 07:03 SGT",
-  "updated_iso": "2026-10-22T07:03:41.942714+08:00",
+  "updated_sgt": "2026-10-23 07:02 SGT",
+  "updated_iso": "2026-10-23T07:02:06.593335+08:00",
   "categories": {
     "World": [
       {
-        "title": "Meta fined $25bn for 'lies' over user data privacy",
-        "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+        "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 21:49:07 GMT",
-        "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+        "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+        "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
       },
       {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 21:27:41 GMT",
-        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
+        "published": "Thu, 22 Oct 2026 19:25:26 GMT",
+        "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday."
       },
       {
-        "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-        "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 20:19:51 GMT",
-        "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
+        "published": "Thu, 22 Oct 2026 17:14:04 GMT",
+        "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
       },
       {
-        "title": "Pope does not need further treatment after lung cancer surgery",
-        "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Race to update services' computer systems after cyber-security flaw found",
+        "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 20:09:10 GMT",
-        "description": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
+        "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+        "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
       },
       {
-        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-        "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+        "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 19:58:06 GMT",
-        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
+        "published": "Thu, 22 Oct 2026 17:07:03 GMT",
+        "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
       },
       {
-        "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+        "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+        "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 19:29:40 GMT",
-        "description": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation."
+        "published": "Thu, 22 Oct 2026 17:01:47 GMT",
+        "description": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies."
       },
       {
-        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-        "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+        "title": "Crowd of 50 beats foreigner to death in South Africa",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 18:10:42 GMT",
-        "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
+        "published": "Thu, 22 Oct 2026 16:15:25 GMT",
+        "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
       },
       {
-        "title": "Family of prison officer killed by IRA receives state apology",
-        "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+        "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 16:58:16 GMT",
-        "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
+        "published": "Thu, 22 Oct 2026 15:56:36 GMT",
+        "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
       },
       {
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+        "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+        "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 14:04:28 GMT",
-        "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
+        "published": "Thu, 22 Oct 2026 14:09:54 GMT",
+        "description": "The teacher said she could not help children because she was badly injured by the attacker."
       },
       {
-        "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-        "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+        "title": "At least four dead after storm brings flooding to southern France",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Wed, 21 Oct 2026 05:46:33 GMT",
-        "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
+        "published": "Thu, 22 Oct 2026 11:23:16 GMT",
+        "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region."
       }
     ],
     "Finance": [
       {
-        "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-        "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+        "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+        "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 22:50:35 GMT",
-        "description": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening."
+        "published": "Thu, 22 Oct 2026 22:21:08 GMT",
+        "description": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes."
       },
       {
-        "title": "Tesla beats on earnings and sales even as auto revenue declines",
-        "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+        "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+        "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 22:35:36 GMT",
-        "description": "Tesla reported better-than-expected third-quarter results."
+        "published": "Thu, 22 Oct 2026 21:58:42 GMT",
+        "description": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla."
       },
       {
-        "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-        "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+        "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+        "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 22:03:37 GMT",
-        "description": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence."
+        "published": "Thu, 22 Oct 2026 21:52:02 GMT",
+        "description": "Moderna released full data on its closely watched cancer vaccine developed with Merck."
       },
       {
-        "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
-        "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+        "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+        "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 21:48:02 GMT",
-        "description": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\""
+        "published": "Thu, 22 Oct 2026 21:02:07 GMT",
+        "description": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported."
       },
       {
-        "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-        "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+        "title": "Disney’s multiplatform Super Bowl plan frustrates ABC affiliates",
+        "link": "https://www.cnbc.com/2026/10/22/disneys-multiplatform-super-bowl-plan-frustrates-abc-affiliates.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 21:07:11 GMT",
-        "description": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices."
+        "published": "Thu, 22 Oct 2026 20:44:26 GMT",
+        "description": "Disney is airing the Super Bowl on ABC, ESPN, Disney+, ESPN2, ESPNU, and NFL Network, to the chagrin of local station affiliates."
       },
       {
-        "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-        "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+        "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+        "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 20:04:07 GMT",
-        "description": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico."
+        "published": "Thu, 22 Oct 2026 20:41:37 GMT",
+        "description": "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC."
       },
       {
-        "title": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
-        "link": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
+        "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+        "link": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 19:54:16 GMT",
-        "description": "Rick Rieder, BlackRock's CIO of global fixed income, lays out his expectations for the fourth quarter and where he sees the best opportunities."
+        "published": "Thu, 22 Oct 2026 20:26:48 GMT",
+        "description": "Ohio Gov. Mike DeWine said GOP gubernatorial nominee Vivek Ramaswamy should remove the ad featuring the mother of Democratic nominee Amy Acton."
       },
       {
-        "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
-        "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+        "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+        "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 17:27:34 GMT",
-        "description": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away."
+        "published": "Thu, 22 Oct 2026 18:55:38 GMT",
+        "description": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind."
       },
       {
-        "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-        "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+        "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+        "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 13:13:48 GMT",
-        "description": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market."
+        "published": "Thu, 22 Oct 2026 17:53:08 GMT",
+        "description": "\"We're going to have an amazing 2027,\" he said."
       },
       {
-        "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-        "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+        "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+        "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
         "source": "CNBC Finance",
-        "published": "Wed, 21 Oct 2026 11:20:58 GMT",
-        "description": "Housing data deteriorated further in September, according to separate reports Tuesday."
+        "published": "Thu, 22 Oct 2026 13:18:36 GMT",
+        "description": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles."
       }
     ],
     "Technology": [
       {
-        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+        "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 22:51:22 +0000",
-        "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+        "published": "Thu, 22 Oct 2026 22:34:54 +0000",
+        "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
       },
       {
-        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-        "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 22:45:34 +0000",
-        "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
+        "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+        "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
       },
       {
-        "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-        "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+        "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 22:16:05 +0000",
-        "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores."
+        "published": "Thu, 22 Oct 2026 21:05:05 +0000",
+        "description": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator."
       },
       {
-        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-        "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+        "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+        "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 21:16:20 +0000",
-        "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
+        "published": "Thu, 22 Oct 2026 20:01:51 +0000",
+        "description": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned."
       },
       {
-        "title": "Meta says Muse has over 10M users, with shopping a top activity",
-        "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+        "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+        "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 21:14:19 +0000",
-        "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+        "published": "Thu, 22 Oct 2026 20:00:00 +0000",
+        "description": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days."
       },
       {
-        "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-        "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 20:57:40 +0000",
-        "description": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\""
+        "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+        "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
       },
       {
-        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-        "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+        "title": "Canva releases its first image generation model",
+        "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 20:33:09 +0000",
-        "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving."
+        "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+        "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
       },
       {
-        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-        "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-        "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+        "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+        "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
       },
       {
-        "title": "Automattic begins layoffs following board upheaval and executive departures",
-        "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 20:15:00 +0000",
-        "description": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more c"
+        "published": "Thu, 22 Oct 2026 18:43:53 +0000",
+        "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
       },
       {
-        "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-        "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+        "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
         "source": "TechCrunch",
-        "published": "Wed, 21 Oct 2026 19:52:20 +0000",
-        "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Es"
+        "published": "Thu, 22 Oct 2026 18:38:47 +0000",
+        "description": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks."
       }
     ],
     "Crypto": [
       {
-        "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
-        "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+        "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+        "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 16:23:44 +0000",
-        "description": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations."
+        "published": "Thu, 22 Oct 2026 22:43:36 +0000",
+        "description": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests."
       },
       {
-        "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-        "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+        "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+        "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 15:22:46 +0000",
-        "description": "The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data."
+        "published": "Thu, 22 Oct 2026 18:30:57 +0000",
+        "description": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech"
       },
       {
-        "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-        "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+        "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+        "link": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 15:09:22 +0000",
-        "description": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou."
+        "published": "Thu, 22 Oct 2026 15:40:25 +0000",
+        "description": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank."
       },
       {
-        "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+        "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 15:00:53 +0000",
-        "description": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through variable-rate pools. Peter Gaffney of O2O Capital Partners explains why fixed-rate, fixed-"
+        "published": "Thu, 22 Oct 2026 14:58:31 +0000",
+        "description": ""
       },
       {
-        "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-        "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+        "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+        "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 12:12:36 +0000",
-        "description": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange."
+        "published": "Thu, 22 Oct 2026 14:37:12 +0000",
+        "description": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported."
       },
       {
-        "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-        "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+        "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+        "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 12:10:39 +0000",
-        "description": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances."
+        "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+        "description": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress."
       },
       {
-        "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-        "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+        "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+        "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 12:00:00 +0000",
-        "description": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses."
+        "published": "Thu, 22 Oct 2026 12:14:29 +0000",
+        "description": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
       },
       {
-        "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+        "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 11:15:00 +0000",
+        "published": "Thu, 22 Oct 2026 11:20:04 +0000",
         "description": "Your day-ahead look for Oct. 21, 2026"
       },
       {
-        "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-        "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+        "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 11:00:00 +0000",
-        "description": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act."
+        "published": "Thu, 22 Oct 2026 10:50:04 +0000",
+        "description": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%."
       },
       {
-        "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-        "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+        "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+        "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
         "source": "CoinDesk",
-        "published": "Wed, 21 Oct 2026 10:34:37 +0000",
-        "description": "Bitcoin rose to a one-week high as Asian tech stocks rebounded and SpaceX and Tesla formed committees to explore a merger."
+        "published": "Thu, 22 Oct 2026 10:18:28 +0000",
+        "description": "The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
       }
     ],
     "Markets": [
       {
-        "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-        "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 21:44:00 GMT",
-        "description": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea."
-      },
-      {
-        "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-        "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 21:31:00 GMT",
-        "description": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections."
-      },
-      {
-        "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-        "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 21:14:00 GMT",
-        "description": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery."
-      },
-      {
         "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
         "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 21:00:00 GMT",
+        "published": "Thu, 22 Oct 2026 23:00:00 GMT",
         "description": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”"
       },
       {
-        "title": "7 healthcare stocks that stand out as investors pay up for the sector",
-        "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+        "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+        "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 20:59:00 GMT",
-        "description": "Investors have pushed the healthcare sector to a record high, and some favored stocks have high projected revenue growth rates through 2028."
+        "published": "Thu, 22 Oct 2026 22:54:00 GMT",
+        "description": "Stop listening to market pundits and start looking at market performance."
       },
       {
-        "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-        "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+        "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+        "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 20:31:00 GMT",
-        "description": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”"
+        "published": "Thu, 22 Oct 2026 22:17:00 GMT",
+        "description": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of S"
       },
       {
-        "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-        "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+        "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+        "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 20:18:00 GMT",
-        "description": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend."
+        "published": "Thu, 22 Oct 2026 22:07:00 GMT",
+        "description": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’"
       },
       {
-        "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-        "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+        "title": "Americans are having fewer babies — and pampering them with luxury diapers",
+        "link": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 20:15:00 GMT",
-        "description": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
+        "published": "Thu, 22 Oct 2026 21:28:00 GMT",
+        "description": "“Fewer babies in each household means parents spend more per baby,” Procter & Gamble’s CFO says."
       },
       {
-        "title": "SpaceX’s massive AI targets will test the limits of reality",
-        "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
+        "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
+        "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 20:15:00 GMT",
-        "description": "As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips."
+        "published": "Thu, 22 Oct 2026 21:19:00 GMT",
+        "description": "Investors are spooked by Tesla’s lower spending target, Lam Research’s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding."
       },
       {
-        "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-        "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+        "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+        "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Wed, 21 Oct 2026 20:01:00 GMT",
-        "description": "Social Security is looking to reverse an initially slow uptake on Trump accounts"
+        "published": "Thu, 22 Oct 2026 20:46:00 GMT",
+        "description": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across finan"
+      },
+      {
+        "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
+        "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 22 Oct 2026 20:14:00 GMT",
+        "description": "A ‘sell-the-news reaction’? The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years."
+      },
+      {
+        "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
+        "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 22 Oct 2026 19:25:00 GMT",
+        "description": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories."
+      },
+      {
+        "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+        "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Thu, 22 Oct 2026 17:29:00 GMT",
+        "description": "Trick or treat? Musk has a long record of saying things have little relation to reality."
       }
     ],
     "Singapore": [
       {
-        "title": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5%",
-        "link": "https://www.channelnewsasia.com/business/stocks-rise-ai-led-earnings-frances-10-year-bond-yield-hits-5-6477551",
+        "title": "'Slow down': Hamilton jokes to champion-in-waiting Antonelli",
+        "link": "https://www.channelnewsasia.com/sport/slow-down-hamilton-jokes-champion-in-waiting-antonelli-6484491",
         "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 06:02:26 +0800",
+        "published": "Fri, 23 Oct 2026 06:43:08 +0800",
         "description": ""
       },
       {
-        "title": "Always tired? To reclaim energy, 6 Singaporeans try these small biohacks that could help you too",
-        "link": "https://www.channelnewsasia.com/cna-insider/insider/restless-busy-tired-singaporeans-biohacks-better-health-reclaim-energy-6478221",
+        "title": "Can't postpone your Paris trip? Here's what you should know",
+        "link": "https://www.channelnewsasia.com/experiences/france-travel-riots-6478056",
         "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-        "description": "From late workouts to doomscrolling, everyday habits can take a toll. With guidance from NUS researchers, six participants in the series, Restless: Biohacking Better Health, discover how “micro” adjus"
+        "published": "Fri, 23 Oct 2026 06:39:23 +0800",
+        "description": "From sudden museum closures to transport strikes and curfews, the unrest in France is creating uncertainty for visitors. Here's what you should know before you go."
       },
       {
-        "title": "Retrenched in their 50s: The long road back to work for older workers",
-        "link": "https://www.channelnewsasia.com/singapore/retrenched-workers-50s-older-work-find-jobs-6477801",
+        "title": "Five ways to keep safe online in the wake of AI-supercharged hacking",
+        "link": "https://www.channelnewsasia.com/business/five-ways-keep-safe-online-in-wake-ai-supercharged-hacking-6484441",
         "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-        "description": "Older workers are taking longer to bounce back after being retrenched. Three of them tell CNA what it took to get back into the workforce."
-      },
-      {
-        "title": "About 40 cat fosterers approved under new pilot scheme as rescuers weigh benefits, restrictions",
-        "link": "https://www.channelnewsasia.com/singapore/avs-cat-fosterer-new-pilot-scheme-application-benefit-restriction-6477451",
-        "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-        "description": "About 30 applications were rejected over eligibility or assessment issues, or withdrawn by applicants who could no longer foster cats."
-      },
-      {
-        "title": "Commentary: Troubled AirAsia needs some government indulgence, not a blank cheque",
-        "link": "https://www.channelnewsasia.com/commentary/malaysia-airasia-trouble-help-tony-fernandes-6474336",
-        "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-        "description": "Malaysia has repeatedly used public funds and government-backed financing to support troubled corporations. AirAsia's financial woes offer an opportunity for a fresh template, writes CNA’s Leslie Lope"
-      },
-      {
-        "title": "When banter backfires: What a backlash against an Indonesian grooming brand in Malaysia signals",
-        "link": "https://www.channelnewsasia.com/asia/kahf-boycott-malaysia-indonesia-consumers-6461156",
-        "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-        "description": "Kahf has faced boycott calls in Malaysia after a football meme was perceived as belittling the country and other regional neighbours."
-      },
-      {
-        "title": "Commentary: Rogue Chinese AI really wants to go to the zoo. That’s a problem",
-        "link": "https://www.channelnewsasia.com/commentary/rogue-chinese-ai-agent-chengdu-zoo-tencent-6478346",
-        "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 05:59:00 +0800",
-        "description": "AI firms need to invest more in discovering, tracking and - most importantly - disclosing what their agents are up to,&nbsp;says Catherine Thorbecke for Bloomberg Opinion."
-      },
-      {
-        "title": "Commentary: 'Made in Europe' label is wearing thin while Asia does the stitching",
-        "link": "https://www.channelnewsasia.com/commentary/made-in-europe-origin-rules-fashion-luxury-6478506",
-        "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 05:58:00 +0800",
-        "description": "New transparency laws aim to close the gap between Europe’s luxury heritage narrative and its Asian factory floors, says an academic."
-      },
-      {
-        "title": "Musk's SpaceX results lift global stock markets",
-        "link": "https://www.channelnewsasia.com/world/musks-spacex-results-lift-global-stock-markets-6480466",
-        "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 05:56:40 +0800",
+        "published": "Fri, 23 Oct 2026 06:11:02 +0800",
         "description": ""
       },
       {
-        "title": "Cartier’s Into the Wild exhibition in Singapore celebrates nature, craftsmanship and its iconic Panther",
-        "link": "https://www.channelnewsasia.com/experiences/cartier-wild-singapore-6470461",
+        "title": "'We don't really want to cancel': Singaporeans weigh France travel plans amid violent protests",
+        "link": "https://www.channelnewsasia.com/singapore/france-protests-singaporeans-travel-paris-rioting-6481226",
         "source": "CNA Singapore",
-        "published": "Thu, 22 Oct 2026 05:55:30 +0800",
-        "description": "Set across two heritage houses at Rochester Park, the free immersive experience invites visitors to discover Cartier’s creative world through jewellery, fragrances, artisan demonstrations and storytel"
+        "published": "Fri, 23 Oct 2026 06:00:00 +0800",
+        "description": "Singaporeans in Paris last weekend recounted scenes of damaged storefronts, tear gas and transport disruptions, even as daily life carried on largely as normal away from protest areas."
+      },
+      {
+        "title": "PAP leadership vote: Younger ministers may step up into CEC as some senior figures make way",
+        "link": "https://www.channelnewsasia.com/singapore/pap-cec-election-central-executive-committee-6478606",
+        "source": "CNA Singapore",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0800",
+        "description": "Political observers expect gradual renewal rather than an overhaul when PAP cadres elect their central executive committee on Sunday, with a mix of experience and fresh faces."
+      },
+      {
+        "title": "CNA Explains: China’s fifth plenum puts party discipline centre stage. Why does it matter?",
+        "link": "https://www.channelnewsasia.com/east-asia/china-fifth-plenum-2026-party-discipline-6461861",
+        "source": "CNA Singapore",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0800",
+        "description": "The key meeting, which begins Monday (Oct 26), could offer clues about Beijing’s priorities ahead of 2027, observers say."
+      },
+      {
+        "title": "Commentary: Which G7 economy is the poster child for debt woes?",
+        "link": "https://www.channelnewsasia.com/commentary/us-france-g7-economies-need-fiscal-repair-imf-6482056",
+        "source": "CNA Singapore",
+        "published": "Fri, 23 Oct 2026 05:59:00 +0800",
+        "description": "Among the G7, France and the US are heading into a wall, says&nbsp;Chris Giles for the Financial Times."
+      },
+      {
+        "title": "Commentary: French students are showing us what protest looks like in the age of viral spectacle",
+        "link": "https://www.channelnewsasia.com/commentary/france-student-protests-paris-6482091",
+        "source": "CNA Singapore",
+        "published": "Fri, 23 Oct 2026 05:58:00 +0800",
+        "description": "What the recent wave of protests in Europe have in common is the framing of protests as viral spectacles, staged for the cameras, digital platforms and distant audiences, says an academic."
+      },
+      {
+        "title": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
+        "link": "https://www.channelnewsasia.com/business/sk-hynix-drops-us-ipo-plan-solidigm-newspaper-reports-6484446",
+        "source": "CNA Singapore",
+        "published": "Fri, 23 Oct 2026 05:57:16 +0800",
+        "description": ""
+      },
+      {
+        "title": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position",
+        "link": "https://www.channelnewsasia.com/world/zelenskyy-says-fresh-russian-strikes-show-no-change-in-kremlin-position-6484431",
+        "source": "CNA Singapore",
+        "published": "Fri, 23 Oct 2026 05:55:36 +0800",
+        "description": "Ukrainian President Volodymyr Zelenskyy said the attacks showed “there has been no real change” in Russia’s attitude towards the war."
       }
     ],
     "US Politics": [
-      {
-        "title": "Burnham proposes plan to cut standing charges from gas bills",
-        "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 21 Oct 2026 17:06:16 GMT",
-        "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
-      },
       {
         "title": "'Mindset shift' needed within government on No10 North, says deputy",
         "link": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Wed, 21 Oct 2026 17:05:09 GMT",
         "description": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
-      },
-      {
-        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 21 Oct 2026 15:36:31 GMT",
-        "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
-      },
-      {
-        "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
-        "link": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 21 Oct 2026 15:24:23 GMT",
-        "description": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
-      },
-      {
-        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
-        "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 21 Oct 2026 14:50:05 GMT",
-        "description": "A Downing Street spokeswoman tells the BBC Sarah Helm \"does not represent the government in any capacity\"."
-      },
-      {
-        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-        "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Wed, 21 Oct 2026 14:26:24 GMT",
-        "description": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
       },
       {
         "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
@@ -485,62 +450,69 @@
         "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
       },
       {
-        "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-        "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+        "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 21 Oct 2026 10:16:17 GMT",
-        "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+        "published": "Thu, 22 Oct 2026 21:35:21 GMT",
+        "description": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026."
       },
       {
-        "title": "Labour will not have the courage to cut spending, says Badenoch",
-        "link": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
+        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
+        "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 20 Oct 2026 14:46:46 GMT",
-        "description": "Speaking ahead of next week's Budget, the Conservative leader says her party would make £70bn of cuts."
+        "published": "Thu, 22 Oct 2026 21:29:44 GMT",
+        "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
       },
       {
-        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-        "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
+        "link": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 20 Oct 2026 10:06:34 GMT",
-        "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+        "published": "Thu, 22 Oct 2026 17:54:51 GMT",
+        "description": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
+      },
+      {
+        "title": "UK plans emergency powers to protect undersea cables",
+        "link": "https://www.bbc.co.uk/news/articles/cwe8lz45d820o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 22 Oct 2026 15:56:03 GMT",
+        "description": "Ministers are set to gain powers over telecoms companies during national security emergencies."
+      },
+      {
+        "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
+        "link": "https://www.bbc.co.uk/news/articles/cj5yn079w7pro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 22 Oct 2026 14:55:50 GMT",
+        "description": "The Tory leader calls for more support for police officers and the public when they step in to help."
+      },
+      {
+        "title": "Tank barrel production returns to UK after 20 years",
+        "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 22 Oct 2026 13:45:19 GMT",
+        "description": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces."
+      },
+      {
+        "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
+        "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 22 Oct 2026 09:28:04 GMT",
+        "description": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
+      },
+      {
+        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+        "link": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Thu, 22 Oct 2026 02:09:21 GMT",
+        "description": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
       }
     ],
     "Science": [
       {
-        "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
+        "title": "Natural compound could fight rheumatoid arthritis at its source",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261020085309.htm",
         "source": "Science Daily",
-        "published": "Wed, 21 Oct 2026 09:22:17 EDT",
-        "description": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed"
-      },
-      {
-        "title": "Too much RNA can starve cells of energy, scientists discover",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-        "source": "Science Daily",
-        "published": "Wed, 21 Oct 2026 09:02:34 EDT",
-        "description": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally "
-      },
-      {
-        "title": "A train was delayed by a solar storm. But something didn't add up.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-        "source": "Science Daily",
-        "published": "Wed, 21 Oct 2026 08:35:57 EDT",
-        "description": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early hist"
-      },
-      {
-        "title": "Astronauts’ hearts just passed a surprising test for Mars",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-        "source": "Science Daily",
-        "published": "Wed, 21 Oct 2026 07:59:14 EDT",
-        "description": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that as"
-      },
-      {
-        "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-        "source": "Science Daily",
-        "published": "Wed, 21 Oct 2026 07:03:52 EDT",
-        "description": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The di"
+        "published": "Wed, 21 Oct 2026 23:37:25 EDT",
+        "description": "A natural compound extracted from a medicinal plant has shown surprising promise against rheumatoid arthritis. In rats, it reduced joint swelling, protected cartilage, and calmed the immune responses "
       },
       {
         "title": "Just 4 minutes a day can dramatically improve strength after 65",
@@ -550,13 +522,6 @@
         "description": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningf"
       },
       {
-        "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
-        "source": "Science Daily",
-        "published": "Wed, 21 Oct 2026 05:22:36 EDT",
-        "description": "NASA’s Perseverance rover has shattered a historic space exploration record, traveling farther across another world than any vehicle before it. Its advanced self-driving system helped it surpass Oppor"
-      },
-      {
         "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
         "link": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
         "source": "Science Daily",
@@ -564,18 +529,53 @@
         "description": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroi"
       },
       {
-        "title": "Scientists discover ghostly, eyeless creature hidden in Chinese cave",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
+        "title": "Birds are more afraid of women than men. Scientists have no idea why",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
         "source": "Science Daily",
-        "published": "Tue, 20 Oct 2026 23:08:17 EDT",
-        "description": "Deep inside a high-altitude Chinese cave, scientists discovered a ghostly, eyeless freshwater snail that has evolved to live entirely in darkness, marking the first recorded discovery of its kind in C"
+        "published": "Thu, 22 Oct 2026 08:06:14 EDT",
+        "description": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no"
       },
       {
-        "title": "Scientists finally uncover why statins can cause muscle pain",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+        "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
         "source": "Science Daily",
-        "published": "Tue, 20 Oct 2026 09:00:56 EDT",
-        "description": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and "
+        "published": "Thu, 22 Oct 2026 07:42:05 EDT",
+        "description": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. "
+      },
+      {
+        "title": "A revolutionary new microscope could reveal the hidden machinery of life",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
+        "source": "Science Daily",
+        "published": "Thu, 22 Oct 2026 07:30:49 EDT",
+        "description": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image "
+      },
+      {
+        "title": "Honey bees are bullying other bees, scientists discover",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231227.htm",
+        "source": "Science Daily",
+        "published": "Thu, 22 Oct 2026 07:20:44 EDT",
+        "description": "Honeybees are aggressively pushing wild pollinators away from flowers, with scientists documenting how they chase off rivals and dominate valuable food sources. New research warns that rising temperat"
+      },
+      {
+        "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
+        "source": "Science Daily",
+        "published": "Thu, 22 Oct 2026 07:03:49 EDT",
+        "description": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual forma"
+      },
+      {
+        "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231224.htm",
+        "source": "Science Daily",
+        "published": "Thu, 22 Oct 2026 06:52:18 EDT",
+        "description": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason. A study of 30,000 Americans found that non-dairy creamer has overtaken sugar and milk as the lead"
+      },
+      {
+        "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
+        "source": "Science Daily",
+        "published": "Thu, 22 Oct 2026 06:10:23 EDT",
+        "description": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates. The secret lies in subtle changes to brain-building cells tha"
       }
     ]
   },
@@ -585,74 +585,74 @@
   },
   "top10": [
     {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 22:51:22 +0000",
-      "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Thu, 22 Oct 2026 23:00:00 GMT",
+      "description": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”"
     },
     {
-      "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-      "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-      "source": "CNBC Finance",
-      "published": "Wed, 21 Oct 2026 22:50:35 GMT",
-      "description": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening."
+      "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+      "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Thu, 22 Oct 2026 22:54:00 GMT",
+      "description": "Stop listening to market pundits and start looking at market performance."
     },
     {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 22:45:34 +0000",
-      "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "source": "CoinDesk",
+      "published": "Thu, 22 Oct 2026 22:43:36 +0000",
+      "description": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests."
     },
     {
-      "title": "Tesla beats on earnings and sales even as auto revenue declines",
-      "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "source": "CNBC Finance",
-      "published": "Wed, 21 Oct 2026 22:35:36 GMT",
-      "description": "Tesla reported better-than-expected third-quarter results."
-    },
-    {
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "source": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 22:16:05 +0000",
-      "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores."
-    },
-    {
-      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-      "source": "CNBC Finance",
-      "published": "Wed, 21 Oct 2026 22:03:37 GMT",
-      "description": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence."
-    },
-    {
-      "title": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5%",
-      "link": "https://www.channelnewsasia.com/business/stocks-rise-ai-led-earnings-frances-10-year-bond-yield-hits-5-6477551",
+      "title": "'Slow down': Hamilton jokes to champion-in-waiting Antonelli",
+      "link": "https://www.channelnewsasia.com/sport/slow-down-hamilton-jokes-champion-in-waiting-antonelli-6484491",
       "source": "CNA Singapore",
-      "published": "Thu, 22 Oct 2026 06:02:26 +0800",
+      "published": "Fri, 23 Oct 2026 06:43:08 +0800",
       "description": ""
     },
     {
-      "title": "Always tired? To reclaim energy, 6 Singaporeans try these small biohacks that could help you too",
-      "link": "https://www.channelnewsasia.com/cna-insider/insider/restless-busy-tired-singaporeans-biohacks-better-health-reclaim-energy-6478221",
+      "title": "Can't postpone your Paris trip? Here's what you should know",
+      "link": "https://www.channelnewsasia.com/experiences/france-travel-riots-6478056",
       "source": "CNA Singapore",
-      "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-      "description": "From late workouts to doomscrolling, everyday habits can take a toll. With guidance from NUS researchers, six participants in the series, Restless: Biohacking Better Health, discover how “micro” adjus"
+      "published": "Fri, 23 Oct 2026 06:39:23 +0800",
+      "description": "From sudden museum closures to transport strikes and curfews, the unrest in France is creating uncertainty for visitors. Here's what you should know before you go."
     },
     {
-      "title": "Retrenched in their 50s: The long road back to work for older workers",
-      "link": "https://www.channelnewsasia.com/singapore/retrenched-workers-50s-older-work-find-jobs-6477801",
-      "source": "CNA Singapore",
-      "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-      "description": "Older workers are taking longer to bounce back after being retrenched. Three of them tell CNA what it took to get back into the workforce."
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "source": "TechCrunch",
+      "published": "Thu, 22 Oct 2026 22:34:54 +0000",
+      "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
     },
     {
-      "title": "About 40 cat fosterers approved under new pilot scheme as rescuers weigh benefits, restrictions",
-      "link": "https://www.channelnewsasia.com/singapore/avs-cat-fosterer-new-pilot-scheme-application-benefit-restriction-6477451",
+      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+      "source": "CNBC Finance",
+      "published": "Thu, 22 Oct 2026 22:21:08 GMT",
+      "description": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes."
+    },
+    {
+      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+      "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Thu, 22 Oct 2026 22:17:00 GMT",
+      "description": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of S"
+    },
+    {
+      "title": "Five ways to keep safe online in the wake of AI-supercharged hacking",
+      "link": "https://www.channelnewsasia.com/business/five-ways-keep-safe-online-in-wake-ai-supercharged-hacking-6484441",
       "source": "CNA Singapore",
-      "published": "Thu, 22 Oct 2026 06:00:00 +0800",
-      "description": "About 30 applications were rejected over eligibility or assessment issues, or withdrawn by applicants who could no longer foster cats."
+      "published": "Fri, 23 Oct 2026 06:11:02 +0800",
+      "description": ""
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
     }
   ]
 }
