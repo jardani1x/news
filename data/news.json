@@ -1,437 +1,437 @@
 {
-  "updated_sgt": "2026-10-26 06:21 SGT",
-  "updated_iso": "2026-10-26T06:21:56.496168+08:00",
+  "updated_sgt": "2026-10-27 07:37 SGT",
+  "updated_iso": "2026-10-27T07:37:48.758025+08:00",
   "categories": {
     "World": [
       {
-        "title": "Deeply divided Israel braces for pivotal election",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+        "title": "'Maxxing' selected as Dictionary.com word of the year",
+        "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 22:11:13 GMT",
-        "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
+        "published": "Mon, 26 Oct 2026 21:31:53 GMT",
+        "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising."
       },
       {
-        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "title": "Lula wins fourth term in dramatic Brazil election comeback",
+        "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 26 Oct 2026 21:02:47 GMT",
+        "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
+      },
+      {
+        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 26 Oct 2026 19:27:21 GMT",
+        "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+      },
+      {
+        "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 26 Oct 2026 17:00:09 GMT",
+        "description": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
+      },
+      {
+        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+        "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 26 Oct 2026 16:27:17 GMT",
+        "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+      },
+      {
+        "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+        "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 26 Oct 2026 15:46:31 GMT",
+        "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+      },
+      {
+        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
         "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 22:06:26 GMT",
+        "published": "Mon, 26 Oct 2026 14:34:52 GMT",
         "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
       },
       {
-        "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-        "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+        "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+        "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 19:14:27 GMT",
-        "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze."
+        "published": "Mon, 26 Oct 2026 14:27:32 GMT",
+        "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
+      },
+      {
+        "title": "US Marine indicted for murder and robbery of woman in Japan",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Mon, 26 Oct 2026 14:13:18 GMT",
+        "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports."
       },
       {
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 18:29:00 GMT",
+        "published": "Mon, 26 Oct 2026 05:20:19 GMT",
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
-      },
-      {
-        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 15:32:51 GMT",
-        "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
-      },
-      {
-        "title": "Gabon says access to social media restored after eight-month ban",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 14:39:47 GMT",
-        "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power."
-      },
-      {
-        "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-        "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 10:55:33 GMT",
-        "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week."
-      },
-      {
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 09:00:00 GMT",
-        "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-      },
-      {
-        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-        "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 05:15:52 GMT",
-        "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
-      },
-      {
-        "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-        "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sun, 25 Oct 2026 02:27:15 GMT",
-        "description": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\"."
       }
     ],
     "Finance": [
       {
-        "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-        "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+        "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+        "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
         "source": "CNBC Finance",
-        "published": "Sun, 25 Oct 2026 20:28:55 GMT",
-        "description": "Democrats have maintained they have no connection to Daniel J. Sullivan."
+        "published": "Mon, 26 Oct 2026 23:10:16 GMT",
+        "description": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt."
       },
       {
-        "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-        "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+        "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+        "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
         "source": "CNBC Finance",
-        "published": "Sun, 25 Oct 2026 18:18:49 GMT",
-        "description": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use."
+        "published": "Mon, 26 Oct 2026 22:50:07 GMT",
+        "description": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance."
       },
       {
-        "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-        "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+        "title": "Israeli election draws tens of thousands of citizens flying back to vote",
+        "link": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
         "source": "CNBC Finance",
-        "published": "Sun, 25 Oct 2026 16:42:42 GMT",
-        "description": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs."
+        "published": "Mon, 26 Oct 2026 22:46:35 GMT",
+        "description": "Tens of thousands of Israelis are returning home to vote in a tight election."
       },
       {
-        "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-        "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+        "title": "DOJ charges ex-FBI Director James Comey in new case",
+        "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
         "source": "CNBC Finance",
-        "published": "Sun, 25 Oct 2026 14:14:23 GMT",
-        "description": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend."
+        "published": "Mon, 26 Oct 2026 22:24:36 GMT",
+        "description": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017."
       },
       {
-        "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-        "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+        "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+        "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
         "source": "CNBC Finance",
-        "published": "Sun, 25 Oct 2026 13:41:37 GMT",
-        "description": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks."
+        "published": "Mon, 26 Oct 2026 21:18:07 GMT",
+        "description": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue."
       },
       {
-        "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-        "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+        "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+        "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
         "source": "CNBC Finance",
-        "published": "Sun, 25 Oct 2026 12:00:01 GMT",
-        "description": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices."
+        "published": "Mon, 26 Oct 2026 20:44:50 GMT",
+        "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
       },
       {
-        "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-        "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+        "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+        "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
         "source": "CNBC Finance",
-        "published": "Sun, 25 Oct 2026 12:00:01 GMT",
-        "description": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO."
+        "published": "Mon, 26 Oct 2026 18:51:23 GMT",
+        "description": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its October meeting this week."
       },
       {
-        "title": "Why popular airplanes are getting scrapped years early",
-        "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+        "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+        "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
         "source": "CNBC Finance",
-        "published": "Sat, 24 Oct 2026 15:18:30 GMT",
-        "description": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply."
+        "published": "Mon, 26 Oct 2026 18:43:25 GMT",
+        "description": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty."
       },
       {
-        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-        "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
+        "link": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
         "source": "CNBC Finance",
-        "published": "Sat, 24 Oct 2026 11:00:01 GMT",
-        "description": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout."
+        "published": "Mon, 26 Oct 2026 17:36:55 GMT",
+        "description": "President Trump forged an extraordinary coalition to win office in 2024. A new CNBC survey shows that coalition is now seriously weakened."
       },
       {
-        "title": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
-        "link": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
+        "title": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
+        "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
         "source": "CNBC Finance",
-        "published": "Sat, 24 Oct 2026 10:58:30 GMT",
-        "description": "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic."
+        "published": "Mon, 26 Oct 2026 15:39:55 GMT",
+        "description": "An S&P 500 index without AI stocks is beating the traditional index. These sectors and stocks could be winners if the AI trade keeps fraying."
       }
     ],
     "Technology": [
       {
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+        "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
         "source": "TechCrunch",
-        "published": "Sun, 25 Oct 2026 21:31:16 +0000",
-        "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+        "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+        "description": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team."
       },
       {
-        "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-        "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+        "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+        "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
         "source": "TechCrunch",
-        "published": "Sun, 25 Oct 2026 20:20:08 +0000",
-        "description": "\"That's a 12-year-old view of the world.\""
+        "published": "Mon, 26 Oct 2026 21:05:11 +0000",
+        "description": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram."
       },
       {
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+        "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
         "source": "TechCrunch",
-        "published": "Sun, 25 Oct 2026 16:57:32 +0000",
-        "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+        "published": "Mon, 26 Oct 2026 19:22:40 +0000",
+        "description": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
       },
       {
-        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-        "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+        "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+        "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
         "source": "TechCrunch",
-        "published": "Sun, 25 Oct 2026 16:05:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+        "published": "Mon, 26 Oct 2026 18:59:52 +0000",
+        "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?"
       },
       {
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+        "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
         "source": "TechCrunch",
-        "published": "Sun, 25 Oct 2026 14:10:00 +0000",
-        "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+        "published": "Mon, 26 Oct 2026 17:45:00 +0000",
+        "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
       },
       {
-        "title": "Starlink seems to be working normally again in Ukraine",
-        "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
         "source": "TechCrunch",
-        "published": "Sat, 24 Oct 2026 20:46:34 +0000",
-        "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
+        "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+        "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust"
       },
       {
-        "title": "Will AI expose the rickety infrastructure of the internet?",
-        "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
         "source": "TechCrunch",
-        "published": "Sat, 24 Oct 2026 20:15:33 +0000",
-        "description": "The moment you realize the internet is \"held together by glue and dreams.\""
+        "published": "Mon, 26 Oct 2026 16:46:36 +0000",
+        "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
       },
       {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "title": "Microsoft offers buyouts to around 60,000 employees",
+        "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
         "source": "TechCrunch",
-        "published": "Sat, 24 Oct 2026 19:00:00 +0000",
-        "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        "published": "Mon, 26 Oct 2026 15:58:25 +0000",
+        "description": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
       },
       {
-        "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-        "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+        "title": "Anthropic officially files for its public debut",
+        "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
         "source": "TechCrunch",
-        "published": "Sat, 24 Oct 2026 16:30:00 +0000",
-        "description": "Instacart might sell itself to a larger competitor."
+        "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+        "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa"
       },
       {
-        "title": "Block’s new voice model sounds eerily human",
-        "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+        "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
         "source": "TechCrunch",
-        "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-        "description": "Block said that the voice model can run locally on a MacBook M4 Max"
+        "published": "Mon, 26 Oct 2026 14:25:43 +0000",
+        "description": "The new iPad mini features a thinner and lighter design than its predecessor."
       }
     ],
     "Crypto": [
       {
-        "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-        "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+        "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+        "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
         "source": "CoinDesk",
-        "published": "Sun, 25 Oct 2026 15:00:00 +0000",
-        "description": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified."
+        "published": "Mon, 26 Oct 2026 16:05:12 +0000",
+        "description": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
       },
       {
-        "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-        "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+        "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+        "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
         "source": "CoinDesk",
-        "published": "Sun, 25 Oct 2026 13:00:00 +0000",
-        "description": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks."
+        "published": "Mon, 26 Oct 2026 15:59:55 +0000",
+        "description": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues."
       },
       {
-        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "title": "OCC calls on community banks to enter the stablecoin payments market",
+        "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-        "description": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
+        "published": "Mon, 26 Oct 2026 15:45:51 +0000",
+        "description": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach."
       },
       {
-        "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-        "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+        "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+        "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 15:21:06 +0000",
-        "description": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education."
+        "published": "Mon, 26 Oct 2026 14:51:07 +0000",
+        "description": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029."
       },
       {
-        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-        "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+        "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+        "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 15:11:24 +0000",
-        "description": "Bitcoin has sunk to its weakest level in more than one month."
+        "published": "Mon, 26 Oct 2026 14:23:41 +0000",
+        "description": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
       },
       {
-        "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-        "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+        "title": "AI giant Anthropic files for blockbuster IPO",
+        "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-        "description": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer ca"
+        "published": "Mon, 26 Oct 2026 13:22:09 +0000",
+        "description": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November."
       },
       {
-        "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-        "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+        "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 14:38:47 +0000",
-        "description": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
+        "published": "Mon, 26 Oct 2026 11:53:07 +0000",
+        "description": "Your day-ahead look for Oct. 26, 2026"
       },
       {
-        "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-        "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+        "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+        "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 14:06:24 +0000",
-        "description": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22."
+        "published": "Mon, 26 Oct 2026 11:24:33 +0000",
+        "description": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
       },
       {
-        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-        "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+        "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
+        "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 14:00:00 +0000",
-        "description": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk."
+        "published": "Mon, 26 Oct 2026 11:05:31 +0000",
+        "description": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions."
       },
       {
-        "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-        "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+        "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+        "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
         "source": "CoinDesk",
-        "published": "Sat, 24 Oct 2026 12:00:00 +0000",
-        "description": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East."
+        "published": "Mon, 26 Oct 2026 10:33:00 +0000",
+        "description": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending."
       }
     ],
     "Markets": [
       {
-        "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-        "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+        "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+        "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 20:15:00 GMT",
-        "description": "“My late father bought our house for $250,000 in the 1990s.”"
+        "published": "Mon, 26 Oct 2026 22:30:00 GMT",
+        "description": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”"
       },
       {
-        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-        "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+        "title": "Dividend stocks are having an excellent October as tech sector struggles",
+        "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 20:00:00 GMT",
-        "description": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”"
+        "published": "Mon, 26 Oct 2026 22:10:00 GMT",
+        "description": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026."
+      },
+      {
+        "title": "Options traders are seizing control of the S&P 500",
+        "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 26 Oct 2026 22:03:00 GMT",
+        "description": "There’s a reason the index hasn’t moved much since June, according to a team at UBS."
+      },
+      {
+        "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+        "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 26 Oct 2026 22:00:00 GMT",
+        "description": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda."
+      },
+      {
+        "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+        "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 26 Oct 2026 21:55:00 GMT",
+        "description": "Nearly half of Americans haven’t calculated what they’ll need in retirement."
+      },
+      {
+        "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+        "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 26 Oct 2026 21:46:00 GMT",
+        "description": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion"
+      },
+      {
+        "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+        "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 26 Oct 2026 21:44:00 GMT",
+        "description": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year."
+      },
+      {
+        "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+        "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 26 Oct 2026 21:04:00 GMT",
+        "description": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news"
+      },
+      {
+        "title": "With the Anthropic IPO, the devil is in the details",
+        "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Mon, 26 Oct 2026 20:50:00 GMT",
+        "description": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out."
       },
       {
         "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
         "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 19:30:00 GMT",
+        "published": "Mon, 26 Oct 2026 20:15:00 GMT",
         "description": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”"
-      },
-      {
-        "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-        "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 18:00:00 GMT",
-        "description": "“Nothing has been set aside for his needs.”"
-      },
-      {
-        "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-        "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 17:00:00 GMT",
-        "description": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”"
-      },
-      {
-        "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-        "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 17:00:00 GMT",
-        "description": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
-      },
-      {
-        "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-        "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 14:30:00 GMT",
-        "description": "“I retired in 2020 and subsequently went through a divorce a few years later.”"
-      },
-      {
-        "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-        "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 14:00:00 GMT",
-        "description": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says."
-      },
-      {
-        "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-        "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 13:45:00 GMT",
-        "description": "“He wants to buy something for $600,000 now that we are empty-nesters.”"
-      },
-      {
-        "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-        "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sun, 25 Oct 2026 13:00:00 GMT",
-        "description": "The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950."
       }
     ],
     "Singapore": [
       {
-        "title": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-        "link": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606",
+        "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze today",
+        "link": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-27-nea-6494531",
         "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 06:14:09 +0800",
+        "published": "Tue, 27 Oct 2026 07:25:47 +0800",
+        "description": "In its advisory on Monday evening,&nbsp;the National Environment Agency said that prevailing winds and showers are expected over Singapore on Tuesday."
+      },
+      {
+        "title": "England and Bayern forward Harry Kane wins men's Ballon d'Or",
+        "link": "https://www.channelnewsasia.com/sport/england-harry-kane-ballon-dor-win-bayern-munich-6494586",
+        "source": "CNA Singapore",
+        "published": "Tue, 27 Oct 2026 07:19:00 +0800",
+        "description": "Kane is the first Englishman in 25 years to win Ballon d'Or, with the last being Michael Owen in 2001."
+      },
+      {
+        "title": "Why do we keep buying black clothes – even when we want to wear more colour?",
+        "link": "https://www.channelnewsasia.com/style-beauty/why-people-keep-buying-black-clothes-6438161",
+        "source": "CNA Singapore",
+        "published": "Tue, 27 Oct 2026 07:18:08 +0800",
+        "description": "Black clothing remains a bestseller across several Singapore fashion labels for its versatility, ability to conceal imperfections and timeless appeal. Fashion insiders say shoppers favour black beyond"
+      },
+      {
+        "title": "England forward Kane crowned Ballon d'Or winner, Putellas wins women's award",
+        "link": "https://www.channelnewsasia.com/sport/england-forward-kane-crowned-ballon-dor-winner-putellas-wins-womens-award-6494571",
+        "source": "CNA Singapore",
+        "published": "Tue, 27 Oct 2026 07:01:02 +0800",
         "description": ""
       },
       {
-        "title": "Beyond bold statements: The evolving design philosophy of Singapore designer Colin Seah",
-        "link": "https://www.channelnewsasia.com/people/colin-seah-ministry-design-singapore-6481671",
+        "title": "Putellas wins 2026 Ballon d'Or Feminin award",
+        "link": "https://www.channelnewsasia.com/sport/putellas-wins-2026-ballon-dor-feminin-award-6494541",
         "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 06:11:00 +0800",
-        "description": "From hotels with psychedelic gardens to serviced apartments designed to feel like home, Colin Seah's varied portfolio reflects a conviction that every space deserves its own identity."
-      },
-      {
-        "title": "Commentary: Why work from home doesn’t mean work from anywhere",
-        "link": "https://www.channelnewsasia.com/commentary/work-home-not-anywhere-employers-policy-6487366",
-        "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 06:00:00 +0800",
-        "description": "A Sydney-based worker sacked for secretly working from Singapore raises a question: Where exactly is “home” in work from home? Employers need to offer clarity, says Victor Seah of the Singapore Univer"
-      },
-      {
-        "title": "Not every maritime threat needs a warship: Why Singapore is turning to offshore patrol vessels",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
-        "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 06:00:00 +0800",
-        "description": "From maritime terrorism to drones, navies face a wider range of threats that do not always fit neatly into either law enforcement or conventional warfare."
-      },
-      {
-        "title": "Antonelli wins US Grand Prix but must wait for title",
-        "link": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576",
-        "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 05:52:31 +0800",
+        "published": "Tue, 27 Oct 2026 06:42:27 +0800",
         "description": ""
       },
       {
-        "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
-        "link": "https://www.channelnewsasia.com/world/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours-6490261",
+        "title": "Spain relaxes initial proposal for data-center rules",
+        "link": "https://www.channelnewsasia.com/business/spain-relaxes-initial-proposal-data-center-rules-6494486",
         "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 05:50:10 +0800",
-        "description": "The election pits leftist President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, the son of convicted former President Jair Bolsonaro."
-      },
-      {
-        "title": "Storms batter Europe hitting power supplies, flights and phones",
-        "link": "https://www.channelnewsasia.com/world/storms-batter-europe-hitting-power-supplies-flights-and-phones-6491546",
-        "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 05:31:12 +0800",
+        "published": "Tue, 27 Oct 2026 06:03:28 +0800",
         "description": ""
       },
       {
-        "title": "Zelenskyy says US warnings on ballistic strikes have fully resumed",
-        "link": "https://www.channelnewsasia.com/world/zelenskyy-says-us-warnings-ballistic-strikes-have-fully-resumed-6491526",
+        "title": "Singapore must keep minority safeguards like GRC system, as 'racial undercurrents' persist: Jayakumar",
+        "link": "https://www.channelnewsasia.com/singapore/grc-race-religion-minority-jayakumar-6485786",
         "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 05:13:26 +0800",
-        "description": "Zelenskyy casted the change as a result of a meeting with US special envoy Steve Witkoff in Oslo."
+        "published": "Tue, 27 Oct 2026 06:00:00 +0800",
+        "description": "Recent online vitriol against the Indian community shows that Singapore must stay realistic despite decades of progress, says the former senior minister."
       },
       {
-        "title": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government",
-        "link": "https://www.channelnewsasia.com/world/billionaire-trump-backer-says-ben-gvir-smotrich-should-not-serve-in-next-israeli-government-6490701",
+        "title": "As AI reshapes entry-level jobs, India's IT industry grapples with developing future talent",
+        "link": "https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426",
         "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 04:28:46 +0800",
-        "description": "The founder of Pershing Square Capital Management, who praised Netanyahu last week, said a government without the two ministers would send a message that Israel was \"turning a new page.\""
+        "published": "Tue, 27 Oct 2026 06:00:00 +0800",
+        "description": "India’s biggest IT firms are hiring far fewer fresh graduates, as AI changes the skills employers seek. Industry experts tell CNA this could create a shortage of experienced workers in the future unle"
       },
       {
-        "title": "Terland strikes late to give Man United derby draw with City in WSL",
-        "link": "https://www.channelnewsasia.com/sport/terland-strikes-late-give-man-united-derby-draw-city-in-wsl-6491486",
+        "title": "Commentary: Singapore is doing more heritage studies – but does it have enough experts?",
+        "link": "https://www.channelnewsasia.com/commentary/heritage-study-housing-development-are-there-enough-experts-6466361",
         "source": "CNA Singapore",
-        "published": "Mon, 26 Oct 2026 04:22:57 +0800",
-        "description": ""
+        "published": "Tue, 27 Oct 2026 06:00:00 +0800",
+        "description": "Capacity in architectural conservation and engineering is stretched, and that can impact the quality of heritage studies, say Kevin Tan and Yeo Kang Shua from the International Council on Monuments an"
+      },
+      {
+        "title": "Commentary: Trump needs partners when it comes to China’s overcapacity",
+        "link": "https://www.channelnewsasia.com/commentary/trump-china-tariffs-partners-action-overcapacity-6490791",
+        "source": "CNA Singapore",
+        "published": "Tue, 27 Oct 2026 05:59:00 +0800",
+        "description": "A recent joint statement about overcapacity suggests a shift in how US and its trade partners are looking to respond to China Shock 2.0, says US politics observer Steven Okun."
       }
     ],
     "US Politics": [
@@ -443,25 +443,11 @@
         "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
       },
       {
-        "title": "Burnham open to 'honest discussion' on EU free movement",
-        "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Sun, 25 Oct 2026 12:11:23 GMT",
-        "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
-      },
-      {
         "title": "Budget to include £1bn for social and affordable housing",
         "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Sun, 25 Oct 2026 10:03:17 GMT",
         "description": "The move will take funding for the 10-year programme to more than £40bn."
-      },
-      {
-        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Sun, 25 Oct 2026 06:00:15 GMT",
-        "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
       },
       {
         "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
@@ -471,42 +457,63 @@
         "description": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords."
       },
       {
-        "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
-        "link": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
+        "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 24 Oct 2026 02:52:10 GMT",
-        "description": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told."
+        "published": "Mon, 26 Oct 2026 23:03:14 GMT",
+        "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking."
       },
       {
-        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-        "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
+        "link": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 24 Oct 2026 00:05:45 GMT",
-        "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+        "published": "Mon, 26 Oct 2026 22:56:01 GMT",
+        "description": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\"."
       },
       {
-        "title": "Green councillors face Labour deadline to disown Zionism policy",
-        "link": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
+        "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+        "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 23 Oct 2026 17:37:14 GMT",
-        "description": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote."
+        "published": "Mon, 26 Oct 2026 22:30:02 GMT",
+        "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
       },
       {
-        "title": "Burnham suggests stocking up on tinned food and bottled water",
-        "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+        "title": "Political battle intensifies within Labour over Rosebank oil field",
+        "link": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 23 Oct 2026 12:41:10 GMT",
-        "description": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare."
+        "published": "Mon, 26 Oct 2026 18:09:49 GMT",
+        "description": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
       },
       {
-        "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
+        "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
+        "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 23 Oct 2026 05:00:32 GMT",
-        "description": "Ministers say the changes in regulations will reduce unnecessary bureaucracy."
+        "published": "Mon, 26 Oct 2026 17:50:00 GMT",
+        "description": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU."
+      },
+      {
+        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+        "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 26 Oct 2026 11:21:04 GMT",
+        "description": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
+      },
+      {
+        "title": "Healey to shield low-income pensioners from income tax in the Budget",
+        "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Mon, 26 Oct 2026 10:28:12 GMT",
+        "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
       }
     ],
     "Science": [
+      {
+        "title": "A simple liquid can stop cavities without drilling, major study confirms",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+        "source": "Science Daily",
+        "published": "Sun, 25 Oct 2026 22:41:13 EDT",
+        "description": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment cou"
+      },
       {
         "title": "Scientists reveal the hidden danger of missing blood pressure medication",
         "link": "https://www.sciencedaily.com/releases/2026/10/261024222028.htm",
@@ -522,60 +529,53 @@
         "description": "A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking "
       },
       {
-        "title": "Three giant black holes discovered in a galaxy from the dawn of time",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+        "title": "Exercise doesn't just strengthen your heart. It rewires it",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
         "source": "Science Daily",
-        "published": "Sun, 25 Oct 2026 08:07:01 EDT",
-        "description": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the blac"
+        "published": "Mon, 26 Oct 2026 07:35:53 EDT",
+        "description": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the l"
       },
       {
-        "title": "New evidence suggests spinosaurus spent most of its life underwater",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+        "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
         "source": "Science Daily",
-        "published": "Sun, 25 Oct 2026 07:52:54 EDT",
-        "description": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scient"
+        "published": "Mon, 26 Oct 2026 07:06:08 EDT",
+        "description": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an a"
       },
       {
-        "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+        "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
         "source": "Science Daily",
-        "published": "Sun, 25 Oct 2026 07:00:25 EDT",
-        "description": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene r"
+        "published": "Mon, 26 Oct 2026 06:50:11 EDT",
+        "description": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage "
       },
       {
-        "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+        "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
         "source": "Science Daily",
-        "published": "Sun, 25 Oct 2026 06:21:48 EDT",
-        "description": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia whe"
+        "published": "Mon, 26 Oct 2026 06:24:20 EDT",
+        "description": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the de"
       },
       {
-        "title": "This mysterious mushroom makes people see hundreds of tiny humans",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+        "title": "Tiny magnetic vortices could help computers work more like your brain",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
         "source": "Science Daily",
-        "published": "Sun, 25 Oct 2026 02:36:10 EDT",
-        "description": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving throug"
+        "published": "Mon, 26 Oct 2026 06:06:16 EDT",
+        "description": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could"
       },
       {
-        "title": "Popular cannabis sleep gummies may have a hidden dark side",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
+        "title": "Archaeologists may have just found the world's oldest shipwreck",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
         "source": "Science Daily",
-        "published": "Sun, 25 Oct 2026 01:08:39 EDT",
-        "description": "A cannabis-derived ingredient commonly found in sleep gummies may be more habit-forming than previously thought, with new research showing that repeated exposure caused tolerance and withdrawal sympto"
+        "published": "Mon, 26 Oct 2026 05:51:15 EDT",
+        "description": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its "
       },
       {
-        "title": "Astronomers may have discovered the first moon beyond our Solar System",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+        "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
         "source": "Science Daily",
-        "published": "Sat, 24 Oct 2026 23:13:05 EDT",
-        "description": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as mas"
-      },
-      {
-        "title": "A hidden bias in human language challenges 70 years of science",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-        "source": "Science Daily",
-        "published": "Sat, 24 Oct 2026 09:01:22 EDT",
-        "description": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and "
+        "published": "Mon, 26 Oct 2026 05:25:21 EDT",
+        "description": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of"
       }
     ]
   },
@@ -585,73 +585,73 @@
   },
   "top10": [
     {
-      "title": "Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
-      "link": "https://www.channelnewsasia.com/sport/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-6491606",
+      "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze today",
+      "link": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-27-nea-6494531",
       "source": "CNA Singapore",
-      "published": "Mon, 26 Oct 2026 06:14:09 +0800",
+      "published": "Tue, 27 Oct 2026 07:25:47 +0800",
+      "description": "In its advisory on Monday evening,&nbsp;the National Environment Agency said that prevailing winds and showers are expected over Singapore on Tuesday."
+    },
+    {
+      "title": "England and Bayern forward Harry Kane wins men's Ballon d'Or",
+      "link": "https://www.channelnewsasia.com/sport/england-harry-kane-ballon-dor-win-bayern-munich-6494586",
+      "source": "CNA Singapore",
+      "published": "Tue, 27 Oct 2026 07:19:00 +0800",
+      "description": "Kane is the first Englishman in 25 years to win Ballon d'Or, with the last being Michael Owen in 2001."
+    },
+    {
+      "title": "Why do we keep buying black clothes – even when we want to wear more colour?",
+      "link": "https://www.channelnewsasia.com/style-beauty/why-people-keep-buying-black-clothes-6438161",
+      "source": "CNA Singapore",
+      "published": "Tue, 27 Oct 2026 07:18:08 +0800",
+      "description": "Black clothing remains a bestseller across several Singapore fashion labels for its versatility, ability to conceal imperfections and timeless appeal. Fashion insiders say shoppers favour black beyond"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+      "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "source": "CNBC Finance",
+      "published": "Mon, 26 Oct 2026 23:10:16 GMT",
+      "description": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt."
+    },
+    {
+      "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "published": "Mon, 26 Oct 2026 23:03:14 GMT",
+      "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking."
+    },
+    {
+      "title": "England forward Kane crowned Ballon d'Or winner, Putellas wins women's award",
+      "link": "https://www.channelnewsasia.com/sport/england-forward-kane-crowned-ballon-dor-winner-putellas-wins-womens-award-6494571",
+      "source": "CNA Singapore",
+      "published": "Tue, 27 Oct 2026 07:01:02 +0800",
       "description": ""
     },
     {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sun, 25 Oct 2026 22:11:13 GMT",
-      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
+      "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
+      "link": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "published": "Mon, 26 Oct 2026 22:56:01 GMT",
+      "description": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\"."
     },
     {
-      "title": "Beyond bold statements: The evolving design philosophy of Singapore designer Colin Seah",
-      "link": "https://www.channelnewsasia.com/people/colin-seah-ministry-design-singapore-6481671",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "source": "CNBC Finance",
+      "published": "Mon, 26 Oct 2026 22:50:07 GMT",
+      "description": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance."
+    },
+    {
+      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "link": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+      "source": "CNBC Finance",
+      "published": "Mon, 26 Oct 2026 22:46:35 GMT",
+      "description": "Tens of thousands of Israelis are returning home to vote in a tight election."
+    },
+    {
+      "title": "Putellas wins 2026 Ballon d'Or Feminin award",
+      "link": "https://www.channelnewsasia.com/sport/putellas-wins-2026-ballon-dor-feminin-award-6494541",
       "source": "CNA Singapore",
-      "published": "Mon, 26 Oct 2026 06:11:00 +0800",
-      "description": "From hotels with psychedelic gardens to serviced apartments designed to feel like home, Colin Seah's varied portfolio reflects a conviction that every space deserves its own identity."
-    },
-    {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sun, 25 Oct 2026 22:06:26 GMT",
-      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-    },
-    {
-      "title": "Commentary: Why work from home doesn’t mean work from anywhere",
-      "link": "https://www.channelnewsasia.com/commentary/work-home-not-anywhere-employers-policy-6487366",
-      "source": "CNA Singapore",
-      "published": "Mon, 26 Oct 2026 06:00:00 +0800",
-      "description": "A Sydney-based worker sacked for secretly working from Singapore raises a question: Where exactly is “home” in work from home? Employers need to offer clarity, says Victor Seah of the Singapore Univer"
-    },
-    {
-      "title": "Not every maritime threat needs a warship: Why Singapore is turning to offshore patrol vessels",
-      "link": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
-      "source": "CNA Singapore",
-      "published": "Mon, 26 Oct 2026 06:00:00 +0800",
-      "description": "From maritime terrorism to drones, navies face a wider range of threats that do not always fit neatly into either law enforcement or conventional warfare."
-    },
-    {
-      "title": "Antonelli wins US Grand Prix but must wait for title",
-      "link": "https://www.channelnewsasia.com/sport/antonelli-wins-us-grand-prix-must-wait-title-6491576",
-      "source": "CNA Singapore",
-      "published": "Mon, 26 Oct 2026 05:52:31 +0800",
-      "description": ""
-    },
-    {
-      "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
-      "link": "https://www.channelnewsasia.com/world/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours-6490261",
-      "source": "CNA Singapore",
-      "published": "Mon, 26 Oct 2026 05:50:10 +0800",
-      "description": "The election pits leftist President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, the son of convicted former President Jair Bolsonaro."
-    },
-    {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "source": "TechCrunch",
-      "published": "Sun, 25 Oct 2026 21:31:16 +0000",
-      "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
-    },
-    {
-      "title": "Storms batter Europe hitting power supplies, flights and phones",
-      "link": "https://www.channelnewsasia.com/world/storms-batter-europe-hitting-power-supplies-flights-and-phones-6491546",
-      "source": "CNA Singapore",
-      "published": "Mon, 26 Oct 2026 05:31:12 +0800",
+      "published": "Tue, 27 Oct 2026 06:42:27 +0800",
       "description": ""
     }
   ]
