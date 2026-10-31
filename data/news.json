@@ -1,14 +1,70 @@
 {
-  "updated_sgt": "2026-10-31 07:30 SGT",
-  "updated_iso": "2026-10-31T07:30:17.578036+08:00",
+  "updated_sgt": "2026-11-01 07:09 SGT",
+  "updated_iso": "2026-11-01T07:09:40.507895+08:00",
   "categories": {
     "World": [
       {
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 22:20:52 GMT",
-        "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+        "published": "Sat, 31 Oct 2026 22:11:45 GMT",
+        "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
+      },
+      {
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 21:29:01 GMT",
+        "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
+      },
+      {
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+        "description": "One evacuated couple says they crossed minefields in Oleshky in search of food."
+      },
+      {
+        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 17:53:35 GMT",
+        "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
+      },
+      {
+        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+        "description": "Government data shows that more than 10,000 people have contracted the rare virus."
+      },
+      {
+        "title": "Ethiopian PM puts ministers through military training",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 14:28:15 GMT",
+        "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
+      },
+      {
+        "title": "Spain train disaster clouds Sánchez chances of re-election",
+        "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 05:44:21 GMT",
+        "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+      },
+      {
+        "title": "Global nature talks reach deal but money remains an issue",
+        "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 01:27:05 GMT",
+        "description": "Countries have been trying to get a global agreement to halt nature decline back on track."
+      },
+      {
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 31 Oct 2026 01:11:43 GMT",
+        "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
       },
       {
         "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -16,120 +72,71 @@
         "source": "BBC World",
         "published": "Fri, 30 Oct 2026 22:11:52 GMT",
         "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
-      },
-      {
-        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 21:13:14 GMT",
-        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
-      },
-      {
-        "title": "Police deployed during stand-off over control of top Poland court",
-        "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 20:52:01 GMT",
-        "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
-      },
-      {
-        "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-        "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 20:41:51 GMT",
-        "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
-      },
-      {
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 20:34:46 GMT",
-        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-      },
-      {
-        "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-        "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 17:07:19 GMT",
-        "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
-      },
-      {
-        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-        "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 16:26:11 GMT",
-        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
-      },
-      {
-        "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 15:03:39 GMT",
-        "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
-      },
-      {
-        "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-        "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 30 Oct 2026 14:48:22 GMT",
-        "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
       }
     ],
     "Finance": [
       {
-        "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-        "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+        "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+        "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 22:57:55 GMT",
-        "description": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber."
+        "published": "Sat, 31 Oct 2026 22:27:56 GMT",
+        "description": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks."
       },
       {
-        "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
-        "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+        "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+        "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 22:52:04 GMT",
-        "description": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples."
+        "published": "Sat, 31 Oct 2026 21:05:53 GMT",
+        "description": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal."
       },
       {
-        "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-        "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+        "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+        "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 22:42:26 GMT",
-        "description": "Meta has been given a negative outlook by S&P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow."
+        "published": "Sat, 31 Oct 2026 20:12:37 GMT",
+        "description": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years."
       },
       {
-        "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-        "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+        "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+        "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 21:45:52 GMT",
-        "description": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too."
+        "published": "Sat, 31 Oct 2026 19:56:23 GMT",
+        "description": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC."
       },
       {
-        "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-        "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+        "title": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans",
+        "link": "https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 20:30:57 GMT",
-        "description": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off."
+        "published": "Sat, 31 Oct 2026 13:30:01 GMT",
+        "description": "Workers with small 401(k) balances are cashing out less often under an automatic portability program, but most accounts remain in temporary IRAs."
       },
       {
-        "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-        "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+        "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
+        "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 20:02:45 GMT",
-        "description": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake."
+        "published": "Sat, 31 Oct 2026 12:49:58 GMT",
+        "description": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office."
       },
       {
-        "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-        "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+        "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+        "link": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 19:27:03 GMT",
-        "description": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash."
+        "published": "Sat, 31 Oct 2026 12:00:01 GMT",
+        "description": "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors."
       },
       {
-        "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-        "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+        "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+        "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
         "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 18:32:17 GMT",
-        "description": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein."
+        "published": "Sat, 31 Oct 2026 12:00:01 GMT",
+        "description": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost."
+      },
+      {
+        "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+        "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+        "source": "CNBC Finance",
+        "published": "Sat, 31 Oct 2026 11:00:01 GMT",
+        "description": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March."
       },
       {
         "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
@@ -137,16 +144,65 @@
         "source": "CNBC Finance",
         "published": "Fri, 30 Oct 2026 17:15:53 GMT",
         "description": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027."
-      },
-      {
-        "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-        "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-        "source": "CNBC Finance",
-        "published": "Fri, 30 Oct 2026 16:55:41 GMT",
-        "description": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy"
       }
     ],
     "Technology": [
+      {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 21:41:00 +0000",
+        "description": "Apple's new CEO defended the company's current position in the AI landscape."
+      },
+      {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 21:36:07 +0000",
+        "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 21:17:03 +0000",
+        "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+      },
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 16:12:55 +0000",
+        "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+      },
+      {
+        "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+        "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 15:41:57 +0000",
+        "description": "TikTok may be working to become the app that people use for most of their digital activities."
+      },
+      {
+        "title": "I took two iPhones on vacation. The Duo won me over.",
+        "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 14:00:00 +0000",
+        "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
+      },
+      {
+        "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+        "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 04:16:50 +0000",
+        "description": "The money behind the money is thrilled, mostly."
+      },
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "source": "TechCrunch",
+        "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+        "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+      },
       {
         "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
         "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
@@ -160,65 +216,51 @@
         "source": "TechCrunch",
         "published": "Fri, 30 Oct 2026 22:56:13 +0000",
         "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
-      },
-      {
-        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-        "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 21:54:34 +0000",
-        "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
-      },
-      {
-        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 21:52:03 +0000",
-        "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u"
-      },
-      {
-        "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-        "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 21:48:53 +0000",
-        "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data."
-      },
-      {
-        "title": "Last-minute Halloween costumes for tech nerds",
-        "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 21:26:59 +0000",
-        "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
-      },
-      {
-        "title": "Cracks are emerging in the AI spending boom",
-        "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 21:17:40 +0000",
-        "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
-      },
-      {
-        "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-        "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 19:55:13 +0000",
-        "description": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture"
-      },
-      {
-        "title": "Satlyt takes another step toward turning satellites into space data centers",
-        "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 18:01:24 +0000",
-        "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers."
-      },
-      {
-        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-        "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-        "source": "TechCrunch",
-        "published": "Fri, 30 Oct 2026 17:47:12 +0000",
-        "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
       }
     ],
     "Crypto": [
+      {
+        "title": "Stolen iPhone Sparks $14,000 Nightmare for Crypto Veteran",
+        "link": "https://bitcoinist.com/stolen-iphone-sparks-14000-nightmare-for-crypto-veteran/",
+        "source": "Bitcoinist",
+        "published": "Sat, 31 Oct 2026 21:28:48 +0000",
+        "description": "TLDR A crypto industry veteran says a stolen iPhone led to approximately $14,000 in losses after thieves accessed his cryptocurrency and financial accounts. The incident highlights how an unlocked sma"
+      },
+      {
+        "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
+        "link": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
+        "source": "Bitcoinist",
+        "published": "Sat, 31 Oct 2026 20:11:09 +0000",
+        "description": "TLDR; Bitcoin&#8217;s 18th anniversary has renewed debate over the financial system Satoshi Nakamoto sought to challenge, with small businesses continuing to face the consequences of inflation, rising"
+      },
+      {
+        "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
+        "link": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
+        "source": "Bitcoinist",
+        "published": "Sat, 31 Oct 2026 17:33:59 +0000",
+        "description": "TLDR Bitcoin ETF outflows reached $643.2 million on October 30, erasing four days of inflows and pushing October into negative territory. BlackRock’s IBIT led Friday’s withdrawals but still finished t"
+      },
+      {
+        "title": "Chainalysis Hit by Cyberattack Amid Growing Crypto Industry Security Risks",
+        "link": "https://bitcoinist.com/chainalysis-hit-by-cyberattack-amid-growing-crypto-industry-security-risks/",
+        "source": "Bitcoinist",
+        "published": "Sat, 31 Oct 2026 16:28:49 +0000",
+        "description": "TLDR Blockchain analytics firm Chainalysis has disclosed a cybersecurity breach that exposed certain customer information, raising fresh concerns about data protection across the cryptocurrency indust"
+      },
+      {
+        "title": "Binance Recovers 90% of $6.3B Hack Losses – Withdrawals Set to Resume",
+        "link": "https://bitcoinist.com/binance-recovers-90-of-6-3b-hack-losses-withdrawals-set-to-resume/",
+        "source": "Bitcoinist",
+        "published": "Sat, 31 Oct 2026 14:22:30 +0000",
+        "description": "TLDR; Binance recovers 90% of the cryptocurrency stolen in its record-breaking $6.3 billion security breach, with the exchange targeting Sunday, November 1, to resume customer withdrawals. Binance has"
+      },
+      {
+        "title": "Bitcoin White Paper Turns 18, Putting Its Long-Term Security Model In Focus",
+        "link": "https://bitcoinist.com/bitcoin-white-paper-turns-18-putting-its-long-term-security-model-in-focus/",
+        "source": "Bitcoinist",
+        "published": "Sat, 31 Oct 2026 13:44:39 +0000",
+        "description": "Bitcoin White Paper Turns 18, Putting Its Long-Term Security Model In Focus Bitcoin’s white paper turns 18 on October 31, 2026, marking nearly two decades since Satoshi Nakamoto introduced a proposal "
+      },
       {
         "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
         "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
@@ -232,192 +274,150 @@
         "source": "Bitcoinist",
         "published": "Fri, 30 Oct 2026 15:20:43 +0000",
         "description": "TL;DR: THORChain&#8217;s RUNE token climbed more than 13% to $0.67 after Binance confirmed a $6.3 billion security breach. The price increase came as on-chain investigators reported that funds connect"
-      },
-      {
-        "title": "Binance Hack Shows How One Ethereum Permission Drained $2.5 Billion",
-        "link": "https://bitcoinist.com/binance-hack-shows-how-one-ethereum-permission-drained-2-5-billion/",
-        "source": "Bitcoinist",
-        "published": "Fri, 30 Oct 2026 14:48:19 +0000",
-        "description": "TL;DR Binance hack shows an attacker reportedly used Ethereum&#8217;s EIP-7702 authorization feature to drain approximately $2.5 billion from Binance&#8217;s Ethereum hot wallet. The attacker gained t"
-      },
-      {
-        "title": "Coinbase Q3 Earnings Show 66% Profit Jump as Prediction Markets Grow",
-        "link": "https://bitcoinist.com/coinbase-q3-earnings-show-66-profit-jump-as-prediction-markets-grow/",
-        "source": "Bitcoinist",
-        "published": "Fri, 30 Oct 2026 13:40:23 +0000",
-        "description": "TL;DR: Coinbase reported $719 million in net income for Q3 2026, marking a 66% increase year over year. However, total revenue declined 35% to $1.22 billion, while prediction markets generated more th"
-      },
-      {
-        "title": "Trezor Issues Safe 5 Warning as Hardware Implant Raises Security Concerns",
-        "link": "https://bitcoinist.com/trezor-issues-safe-5-warning-as-hardware-implant-raises-security-concerns/",
-        "source": "Bitcoinist",
-        "published": "Fri, 30 Oct 2026 12:39:01 +0000",
-        "description": "TL;DR: Trezor issuses Safe 5 warning and urged customers who purchased hardware wallets through CryptoBilis since March 2026 to transfer their funds to a new device. The warning follows a disclosure a"
-      },
-      {
-        "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
-        "link": "https://bitcoinist.com/xrp-ledger-proposes-4-fixes-for-restricted-token-rules/",
-        "source": "Bitcoinist",
-        "published": "Fri, 30 Oct 2026 09:42:46 +0000",
-        "description": "TLDR XRP Ledger developers have proposed four fixes to close gaps in issuer approval requirements for restricted tokens. The changes would strengthen checks on trading pool shares and token transfers,"
-      },
-      {
-        "title": "Elon Musk Warns AI Agents Could Exploit Crypto After Binance Hack",
-        "link": "https://bitcoinist.com/elon-musk-warns-ai-agents-could-exploit-crypto-after-binance-hack/",
-        "source": "Bitcoinist",
-        "published": "Fri, 30 Oct 2026 09:32:47 +0000",
-        "description": "TLDR Elon Musk warned that advanced AI agents could eventually exploit cryptocurrency systems to obtain money for themselves. His remarks followed reports that a Binance-linked attacker deposited 60 m"
-      },
-      {
-        "title": "Bitcoin Price Falls Below $80K After $6.3B Binance Hack",
-        "link": "https://bitcoinist.com/bitcoin-price-falls-below-80k-after-6-3b-binance-hack/",
-        "source": "Bitcoinist",
-        "published": "Fri, 30 Oct 2026 09:09:11 +0000",
-        "description": "TLDR Bitcoin price dropped roughly 2% to around $78,420 as the market reacted to Binance’s $6.3 billion security breach. Crypto liquidations reached $1.54 billion over 24 hours, with long positions ac"
       }
     ],
     "Markets": [
       {
-        "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-        "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+        "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+        "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 23:14:00 GMT",
-        "description": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble"
+        "published": "Sat, 31 Oct 2026 20:15:00 GMT",
+        "description": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”"
       },
       {
-        "title": "This cybersecurity stock will be the next to join the S&P 500",
-        "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+        "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+        "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 22:20:00 GMT",
-        "description": "Okta is slated to join the index on Wednesday, replacing Kenvue."
+        "published": "Sat, 31 Oct 2026 19:30:00 GMT",
+        "description": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”"
       },
       {
-        "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-        "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+        "title": "This is where most people go wrong in their 30s and 40s",
+        "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 21:30:00 GMT",
-        "description": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday"
+        "published": "Sat, 31 Oct 2026 19:02:00 GMT",
+        "description": "These big life decisions will determine just how well you retire."
       },
       {
-        "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-        "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+        "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+        "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 21:23:00 GMT",
-        "description": "More interest-rate hikes are needed to fight inflation, Fed officials say."
+        "published": "Sat, 31 Oct 2026 19:00:00 GMT",
+        "description": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
       },
       {
-        "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-        "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+        "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+        "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 20:52:00 GMT",
-        "description": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month."
+        "published": "Sat, 31 Oct 2026 18:50:00 GMT",
+        "description": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”"
       },
       {
-        "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
-        "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+        "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+        "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 20:48:00 GMT",
-        "description": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops."
+        "published": "Sat, 31 Oct 2026 18:33:00 GMT",
+        "description": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you."
       },
       {
-        "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
-        "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+        "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+        "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 20:42:00 GMT",
-        "description": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter."
+        "published": "Sat, 31 Oct 2026 18:10:00 GMT",
+        "description": "An AARP study shows the financial sacrifices families make and their long-term impacts."
       },
       {
-        "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-        "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+        "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+        "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 20:29:00 GMT",
-        "description": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say."
+        "published": "Sat, 31 Oct 2026 17:26:00 GMT",
+        "description": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending"
       },
       {
-        "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-        "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+        "title": "80% of workers make this 401(k) mistake when they retire",
+        "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 20:28:00 GMT",
-        "description": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems."
+        "published": "Sat, 31 Oct 2026 16:46:00 GMT",
+        "description": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated"
       },
       {
-        "title": "The selloff in tech stocks is shifting into overdrive",
-        "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+        "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+        "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 30 Oct 2026 20:26:00 GMT",
-        "description": "Technology stocks had been priced for perfection. They are now getting hammered."
+        "published": "Sat, 31 Oct 2026 16:02:00 GMT",
+        "description": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy."
       }
     ],
     "Singapore": [
       {
-        "title": "Two arrested over fatal hit-and-run Tampines accident; man, 30, to be charged for dangerous driving",
-        "link": "https://www.channelnewsasia.com/singapore/tampines-accident-man-be-charged-6508686",
+        "title": "Vietnam cuts retail electricity price, removes gasoline tax from November 1",
+        "link": "https://www.channelnewsasia.com/business/vietnam-cuts-retail-electricity-price-removes-gasoline-tax-november-1-6510361",
         "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 06:31:00 +0800",
-        "description": "The man and his female passenger, 29, were arrested on Friday near West Coast Road, a day after the accident that killed a motorcyclist and his pillion rider, both 24."
-      },
-      {
-        "title": "What it takes to turn a 5-room HDB flat into a private dining pizzeria",
-        "link": "https://www.channelnewsasia.com/cna-insider/insider/hustle-hdb-flat-home-based-business-pizza-dining-pizzeria-6505991",
-        "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 06:00:00 +0800",
-        "description": "A shared love of pizza has turned into a home-based business. Limited space, demanding schedules and contrasting working styles are now tests David Shen and Sheralyn Tay must navigate, as captured by "
-      },
-      {
-        "title": "'Making history is a huge honour': Singapore's first WWE wrestler Dante Chen on his journey and what comes next",
-        "link": "https://www.channelnewsasia.com/singapore/dante-chen-singapore-wwe-wrestler-japan-6502211",
-        "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 06:00:00 +0800",
-        "description": "Nearly 14 years after beginning his wrestling career in Singapore, Dante Chen is returning to where it all started. He tells CNA about his five years with WWE, his departure from the company and the n"
-      },
-      {
-        "title": "End of an era: Tracing Lee Biscuits' 92-year journey from Singapore to Johor",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-lee-biscuits-marie-workers-close-6498911",
-        "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 06:00:00 +0800",
-        "description": "From Marie biscuits and cream crackers to colourful iced gems, Lee Biscuits' snacks were household staples for generations of Singaporeans and Malaysians. After 92 years, production is coming to an en"
-      },
-      {
-        "title": "Commentary: What would happen if the internet went down?",
-        "link": "https://www.channelnewsasia.com/commentary/ai-cybersecurity-attack-php-6506261",
-        "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 05:59:00 +0800",
-        "description": "In the wrong hands, AI tools can threaten the underlying systems the internet relies on, outpacing many organisations’ capability to patch them, says an academic."
-      },
-      {
-        "title": "Pope Leo makes history with US midterm vote",
-        "link": "https://www.channelnewsasia.com/world/pope-leo-makes-history-us-midterm-vote-6508626",
-        "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 05:41:10 +0800",
-        "description": "The Vatican said the Chicago-born pope believes citizens have a \"right and duty\" to take part in democratic elections."
-      },
-      {
-        "title": "From Singapore’s heartlands to luxury footwear: How Mashizan Masjum built a business on his own terms",
-        "link": "https://www.channelnewsasia.com/people/mashizan-masjum-singapore-luxury-shoe-designer-6495626",
-        "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 05:18:00 +0800",
-        "description": "Once a television producer, the Singaporean now creates limited-edition shoes handmade in Florence for an international clientele. But building his luxury footwear label has meant learning when to ada"
-      },
-      {
-        "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries",
-        "link": "https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631",
-        "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 05:14:27 +0800",
+        "published": "Sun, 01 Nov 2026 06:30:13 +0800",
         "description": ""
       },
       {
-        "title": "Coaches see red as Bodo/Glimt edge Viking in fiery Norwegian thriller",
-        "link": "https://www.channelnewsasia.com/sport/coaches-see-red-bodoglimt-edge-viking-in-fiery-norwegian-thriller-6508621",
+        "title": "Hamilton puts Ferrari on pole in Mexico City, Antonelli to start fourth",
+        "link": "https://www.channelnewsasia.com/sport/hamilton-puts-ferrari-pole-in-mexico-city-antonelli-start-fourth-6510356",
         "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 05:09:35 +0800",
+        "published": "Sun, 01 Nov 2026 06:27:26 +0800",
         "description": ""
       },
       {
-        "title": "US woman who survived botched execution says she's in constant pain",
-        "link": "https://www.channelnewsasia.com/world/christa-pike-survived-botched-execution-constant-pain-6508571",
+        "title": "Milan earn 3-1 derby win over Inter, Roma thump Udinese 5-2",
+        "link": "https://www.channelnewsasia.com/sport/milan-earn-3-1-derby-win-over-inter-roma-thump-udinese-5-2-6510341",
         "source": "CNA Singapore",
-        "published": "Sat, 31 Oct 2026 05:06:32 +0800",
-        "description": "\"There hasn't been a moment since that night when I haven't been in pain,\" said Christa Pike, who survived a failed execution attempt in Tennessee last month."
+        "published": "Sun, 01 Nov 2026 06:07:10 +0800",
+        "description": ""
+      },
+      {
+        "title": "Barcelona bounce back with 6-1 win over Alaves at Camp Nou",
+        "link": "https://www.channelnewsasia.com/sport/barcelona-bounce-back-6-1-win-over-alaves-camp-nou-6510346",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Nov 2026 06:06:31 +0800",
+        "description": ""
+      },
+      {
+        "title": "Commentary: The invisible workforce helping Singapore age well",
+        "link": "https://www.channelnewsasia.com/commentary/singapore-ageing-health-community-care-career-6506566",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0800",
+        "description": "Helping seniors age well takes more than hospital care, says Agency for Integrated Care Manpower and Talent Chief Derek Tan on Community Care Day (Nov 1)."
+      },
+      {
+        "title": "Rare, roomy and pricey? Inside Singapore's niche jumbo HDB flat market",
+        "link": "https://www.channelnewsasia.com/singapore/jumbo-hdb-flat-singapore-rare-housing-market-6506081",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0800",
+        "description": "With HDB reviewing the flat conversion scheme to create jumbo flats, CNA speaks with owners of such units about the attraction of extra space – and the extra cost."
+      },
+      {
+        "title": "Malaysia wants to move away from Waze. Will drivers make the switch?",
+        "link": "https://www.channelnewsasia.com/asia/waze-tuju-navigation-app-anwar-ibrahim-malaysia-6502896",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0800",
+        "description": "Malaysia has banned the popular Israeli navigation app for civil servants and urged citizens not to use it. Motorists say they lack a viable homegrown alternative."
+      },
+      {
+        "title": "India opposition parties hold mock impeachment of poll chief",
+        "link": "https://www.channelnewsasia.com/asia/india-opposition-parties-hold-mock-impeachment-poll-chief-6510301",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Nov 2026 05:51:11 +0800",
+        "description": ""
+      },
+      {
+        "title": "Binance says it has covered 90% of losses from $6.3 billion hack",
+        "link": "https://www.channelnewsasia.com/business/binance-covers-90-cent-losses-6510271",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Nov 2026 05:01:00 +0800",
+        "description": "The FBI on Saturday said the North Korean state-sponsored unit known as TraderTraitor was responsible for the attack."
+      },
+      {
+        "title": "No more compromises: Glasner ready for drastic changes at Forest",
+        "link": "https://www.channelnewsasia.com/sport/no-more-compromises-glasner-ready-drastic-changes-forest-6510281",
+        "source": "CNA Singapore",
+        "published": "Sun, 01 Nov 2026 04:47:49 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
@@ -436,18 +436,25 @@
         "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions."
       },
       {
-        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-        "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham 'open' to calls for slavery apology but not reparations",
+        "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 30 Oct 2026 22:11:52 GMT",
-        "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
+        "published": "Sat, 31 Oct 2026 13:28:40 GMT",
+        "description": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders."
       },
       {
-        "title": "Treasury accepts role in staff member's death",
-        "link": "https://www.bbc.co.uk/news/articles/c620r2vg355ro?at_medium=RSS&at_campaign=rss",
+        "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+        "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Fri, 30 Oct 2026 17:26:40 GMT",
-        "description": "A Surrey coroner raises concerns over HM Treasury procedures following the death of Chloe Moffat."
+        "published": "Sat, 31 Oct 2026 05:16:01 GMT",
+        "description": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK."
+      },
+      {
+        "title": "Why MPs keep talking about an early election despite Burnham's denials",
+        "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sat, 31 Oct 2026 00:00:15 GMT",
+        "description": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster."
       },
       {
         "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
@@ -455,13 +462,6 @@
         "source": "BBC Politics",
         "published": "Fri, 30 Oct 2026 16:56:33 GMT",
         "description": "The meeting involved representatives from the UK's four nations to discuss devolving more powers to regions and cities."
-      },
-      {
-        "title": "First minister says Welsh spending powers takes step forward after Andy Burnham meeting",
-        "link": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 30 Oct 2026 16:37:03 GMT",
-        "description": "Rhun ap Iorwerth says new powers for more cash matter of how and when, after meeting."
       },
       {
         "title": "Burnham's Number 10 North goes on multi-million pound hiring spree",
@@ -492,7 +492,78 @@
         "description": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms."
       }
     ],
-    "Science": []
+    "Science": [
+      {
+        "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+        "source": "Science Daily",
+        "published": "Sat, 31 Oct 2026 09:49:23 EDT",
+        "description": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacte"
+      },
+      {
+        "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+        "source": "Science Daily",
+        "published": "Sat, 31 Oct 2026 09:09:49 EDT",
+        "description": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpe"
+      },
+      {
+        "title": "Scientists discover metals that defy the deep freeze at -424°F",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+        "source": "Science Daily",
+        "published": "Sat, 31 Oct 2026 08:45:59 EDT",
+        "description": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. "
+      },
+      {
+        "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
+        "source": "Science Daily",
+        "published": "Sat, 31 Oct 2026 07:05:20 EDT",
+        "description": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade s"
+      },
+      {
+        "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+        "source": "Science Daily",
+        "published": "Fri, 30 Oct 2026 22:09:38 EDT",
+        "description": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can"
+      },
+      {
+        "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+        "source": "Science Daily",
+        "published": "Fri, 30 Oct 2026 20:59:52 EDT",
+        "description": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance "
+      },
+      {
+        "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+        "source": "Science Daily",
+        "published": "Fri, 30 Oct 2026 08:12:46 EDT",
+        "description": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise"
+      },
+      {
+        "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+        "source": "Science Daily",
+        "published": "Fri, 30 Oct 2026 07:34:16 EDT",
+        "description": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their pre"
+      },
+      {
+        "title": "A computer scientist breaks through a limit that stood since 1996",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
+        "source": "Science Daily",
+        "published": "Fri, 30 Oct 2026 07:08:52 EDT",
+        "description": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimate"
+      },
+      {
+        "title": "Astronauts just gave the International Space Station a powerful upgrade",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+        "source": "Science Daily",
+        "published": "Fri, 30 Oct 2026 02:12:55 EDT",
+        "description": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is "
+      }
+    ]
   },
   "charts": {
     "world_indices": "world-indices.html",
@@ -500,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "source": "TechCrunch",
-      "published": "Fri, 30 Oct 2026 23:21:23 +0000",
-      "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform."
-    },
-    {
-      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-      "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Fri, 30 Oct 2026 23:14:00 GMT",
-      "description": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble"
-    },
-    {
-      "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-      "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 30 Oct 2026 22:57:55 GMT",
-      "description": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber."
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch",
-      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
-    },
-    {
-      "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
-      "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 30 Oct 2026 22:52:04 GMT",
-      "description": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples."
-    },
-    {
-      "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-      "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 30 Oct 2026 22:42:26 GMT",
-      "description": "Meta has been given a negative outlook by S&P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow."
-    },
-    {
-      "title": "Two arrested over fatal hit-and-run Tampines accident; man, 30, to be charged for dangerous driving",
-      "link": "https://www.channelnewsasia.com/singapore/tampines-accident-man-be-charged-6508686",
+      "title": "Vietnam cuts retail electricity price, removes gasoline tax from November 1",
+      "link": "https://www.channelnewsasia.com/business/vietnam-cuts-retail-electricity-price-removes-gasoline-tax-november-1-6510361",
       "source": "CNA Singapore",
-      "published": "Sat, 31 Oct 2026 06:31:00 +0800",
-      "description": "The man and his female passenger, 29, were arrested on Friday near West Coast Road, a day after the accident that killed a motorcyclist and his pillion rider, both 24."
+      "published": "Sun, 01 Nov 2026 06:30:13 +0800",
+      "description": ""
     },
     {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "source": "CNBC Finance",
+      "published": "Sat, 31 Oct 2026 22:27:56 GMT",
+      "description": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks."
+    },
+    {
+      "title": "Hamilton puts Ferrari on pole in Mexico City, Antonelli to start fourth",
+      "link": "https://www.channelnewsasia.com/sport/hamilton-puts-ferrari-pole-in-mexico-city-antonelli-start-fourth-6510356",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Nov 2026 06:27:26 +0800",
+      "description": ""
+    },
+    {
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Fri, 30 Oct 2026 22:20:52 GMT",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+      "published": "Sat, 31 Oct 2026 22:11:45 GMT",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
     },
     {
-      "title": "This cybersecurity stock will be the next to join the S&P 500",
-      "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Fri, 30 Oct 2026 22:20:00 GMT",
-      "description": "Okta is slated to join the index on Wednesday, replacing Kenvue."
+      "title": "Milan earn 3-1 derby win over Inter, Roma thump Udinese 5-2",
+      "link": "https://www.channelnewsasia.com/sport/milan-earn-3-1-derby-win-over-inter-roma-thump-udinese-5-2-6510341",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Nov 2026 06:07:10 +0800",
+      "description": ""
     },
     {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Fri, 30 Oct 2026 22:11:52 GMT",
-      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
+      "title": "Barcelona bounce back with 6-1 win over Alaves at Camp Nou",
+      "link": "https://www.channelnewsasia.com/sport/barcelona-bounce-back-6-1-win-over-alaves-camp-nou-6510346",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Nov 2026 06:06:31 +0800",
+      "description": ""
+    },
+    {
+      "title": "Commentary: The invisible workforce helping Singapore age well",
+      "link": "https://www.channelnewsasia.com/commentary/singapore-ageing-health-community-care-career-6506566",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Nov 2026 06:00:00 +0800",
+      "description": "Helping seniors age well takes more than hospital care, says Agency for Integrated Care Manpower and Talent Chief Derek Tan on Community Care Day (Nov 1)."
+    },
+    {
+      "title": "Rare, roomy and pricey? Inside Singapore's niche jumbo HDB flat market",
+      "link": "https://www.channelnewsasia.com/singapore/jumbo-hdb-flat-singapore-rare-housing-market-6506081",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Nov 2026 06:00:00 +0800",
+      "description": "With HDB reviewing the flat conversion scheme to create jumbo flats, CNA speaks with owners of such units about the attraction of extra space – and the extra cost."
+    },
+    {
+      "title": "Malaysia wants to move away from Waze. Will drivers make the switch?",
+      "link": "https://www.channelnewsasia.com/asia/waze-tuju-navigation-app-anwar-ibrahim-malaysia-6502896",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Nov 2026 06:00:00 +0800",
+      "description": "Malaysia has banned the popular Israeli navigation app for civil servants and urged citizens not to use it. Motorists say they lack a viable homegrown alternative."
+    },
+    {
+      "title": "India opposition parties hold mock impeachment of poll chief",
+      "link": "https://www.channelnewsasia.com/asia/india-opposition-parties-hold-mock-impeachment-poll-chief-6510301",
+      "source": "CNA Singapore",
+      "published": "Sun, 01 Nov 2026 05:51:11 +0800",
+      "description": ""
     }
   ]
 }
