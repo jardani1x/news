@@ -1,21 +1,49 @@
 {
-  "updated_sgt": "2026-11-08 07:29 SGT",
-  "updated_iso": "2026-11-08T07:29:48.707211+08:00",
+  "updated_sgt": "2026-11-09 07:28 SGT",
+  "updated_iso": "2026-11-09T07:28:34.559205+08:00",
   "categories": {
     "World": [
       {
-        "title": "What we know so far after Krakow gun attack",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 07 Nov 2026 22:58:49 GMT",
-        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+        "published": "Sun, 08 Nov 2026 19:58:02 GMT",
+        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
       },
       {
-        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-        "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 07 Nov 2026 22:19:59 GMT",
-        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+        "published": "Sun, 08 Nov 2026 18:22:53 GMT",
+        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+      },
+      {
+        "title": "Homes and temples glow across India to mark Diwali",
+        "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 08 Nov 2026 14:42:09 GMT",
+        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
+      },
+      {
+        "title": "Iran executes three men for 'armed unrest' after January protests",
+        "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+        "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
+      },
+      {
+        "title": "Houthis say at least 33 killed in Saudi air strike",
+        "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sun, 08 Nov 2026 04:03:12 GMT",
+        "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+      },
+      {
+        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Nov 2026 21:36:16 GMT",
+        "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
       },
       {
         "title": "Paraguay's former president charged after bank collapse",
@@ -25,20 +53,6 @@
         "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
       },
       {
-        "title": "US offers $20m reward for information about Iran's nuclear programme",
-        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 07 Nov 2026 18:14:38 GMT",
-        "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
-      },
-      {
-        "title": "Houthis say at least 25 killed in Saudi air strike",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 07 Nov 2026 17:09:24 GMT",
-        "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
-      },
-      {
         "title": "Italian foreign minister says hackers leaked his personal data",
         "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -46,18 +60,11 @@
         "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
       },
       {
-        "title": "No clear winner after tight New Zealand general election",
-        "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Sat, 07 Nov 2026 15:56:28 GMT",
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
-      },
-      {
-        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Sat, 07 Nov 2026 15:19:35 GMT",
-        "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+        "published": "Sat, 07 Nov 2026 12:49:36 GMT",
+        "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
       },
       {
         "title": "Pope in 'pretty good health' as he starts Latin America tour",
@@ -65,43 +72,64 @@
         "source": "BBC World",
         "published": "Sat, 07 Nov 2026 06:59:48 GMT",
         "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
-      },
-      {
-        "title": "With Stephen Miller pick, Trump readies for a battle",
-        "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 23:24:15 GMT",
-        "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
       }
     ],
     "Finance": [
       {
-        "title": "Trump offers UFC chief Dana White press secretary job",
-        "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+        "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+        "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 23:13:38 GMT",
-        "description": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday."
+        "published": "Sun, 08 Nov 2026 22:53:57 GMT",
+        "description": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy."
       },
       {
-        "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-        "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+        "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+        "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 22:17:52 GMT",
-        "description": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer."
+        "published": "Sun, 08 Nov 2026 21:53:02 GMT",
+        "description": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz."
       },
       {
-        "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-        "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+        "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+        "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 21:59:10 GMT",
-        "description": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin."
+        "published": "Sun, 08 Nov 2026 18:57:56 GMT",
+        "description": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration."
       },
       {
-        "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-        "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+        "title": "How Democrats will try to end Trump's tariffs",
+        "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
         "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 15:23:46 GMT",
-        "description": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit."
+        "published": "Sun, 08 Nov 2026 15:36:39 GMT",
+        "description": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities."
+      },
+      {
+        "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+        "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Nov 2026 14:00:01 GMT",
+        "description": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon."
+      },
+      {
+        "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+        "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Nov 2026 13:00:01 GMT",
+        "description": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues."
+      },
+      {
+        "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+        "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Nov 2026 13:00:01 GMT",
+        "description": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts."
+      },
+      {
+        "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+        "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+        "source": "CNBC Finance",
+        "published": "Sun, 08 Nov 2026 06:00:01 GMT",
+        "description": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now."
       },
       {
         "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'",
@@ -111,114 +139,128 @@
         "description": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car."
       },
       {
-        "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
-        "link": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 14:06:20 GMT",
-        "description": "Berkshire Hathaway shares roared past the S&P 500 index this week and are outperforming the benchmark for the year-to-date."
-      },
-      {
         "title": "Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says",
         "link": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
         "source": "CNBC Finance",
         "published": "Sat, 07 Nov 2026 14:05:01 GMT",
         "description": "The billionaire serial entrepreneur says he cares more about the impact he can have by spending and investing, rather than worrying about amassing more wealth."
-      },
-      {
-        "title": "America doesn't like socialism. So why are socialists winning?",
-        "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 13:01:01 GMT",
-        "description": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism."
-      },
-      {
-        "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-        "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 13:00:01 GMT",
-        "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry."
-      },
-      {
-        "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-        "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-        "source": "CNBC Finance",
-        "published": "Sat, 07 Nov 2026 07:37:36 GMT",
-        "description": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz."
       }
     ],
     "Technology": [
+      {
+        "title": "Apps to distract you from the endless cycle of doomscrolling",
+        "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 22:00:00 +0000",
+        "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
+      },
+      {
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 21:00:11 +0000",
+        "description": "In a memo to the company, Huang admitted that he had an affair."
+      },
+      {
+        "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+        "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 21:00:00 +0000",
+        "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?"
+      },
+      {
+        "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+        "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 20:30:00 +0000",
+        "description": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit."
+      },
+      {
+        "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+        "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 19:51:30 +0000",
+        "description": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+      },
+      {
+        "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+        "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 18:00:04 +0000",
+        "description": "SNL seems to have its knives out for tech executives."
+      },
+      {
+        "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+        "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 17:30:00 +0000",
+        "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+      },
+      {
+        "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+        "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 17:02:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      },
+      {
+        "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+        "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+        "source": "TechCrunch",
+        "published": "Sun, 08 Nov 2026 15:00:00 +0000",
+        "description": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso."
+      },
       {
         "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
         "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
         "source": "TechCrunch",
         "published": "Sat, 07 Nov 2026 22:07:22 +0000",
         "description": "On Equity, we unpacked what the midterms mean for the tech industry."
-      },
-      {
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-        "source": "TechCrunch",
-        "published": "Sat, 07 Nov 2026 21:17:08 +0000",
-        "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-      },
-      {
-        "title": "Parents want safer phones for kids. These companies are answering the call.",
-        "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-        "source": "TechCrunch",
-        "published": "Sat, 07 Nov 2026 19:00:00 +0000",
-        "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home p"
-      },
-      {
-        "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-        "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-        "source": "TechCrunch",
-        "published": "Sat, 07 Nov 2026 17:24:07 +0000",
-        "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users."
-      },
-      {
-        "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-        "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-        "source": "TechCrunch",
-        "published": "Sat, 07 Nov 2026 17:18:00 +0000",
-        "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models."
-      },
-      {
-        "title": "Sequoia shutting down its Scouts program marks the end of an era",
-        "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-        "source": "TechCrunch",
-        "published": "Sat, 07 Nov 2026 05:01:54 +0000",
-        "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form."
-      },
-      {
-        "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-        "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-        "source": "TechCrunch",
-        "published": "Sat, 07 Nov 2026 04:16:43 +0000",
-        "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st"
-      },
-      {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "source": "TechCrunch",
-        "published": "Sat, 07 Nov 2026 01:40:28 +0000",
-        "description": "The deal highlights the challenges of developing massive AI data centers."
-      },
-      {
-        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Nov 2026 22:53:46 +0000",
-        "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-      },
-      {
-        "title": "The Duo apps are coming, says Apple",
-        "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-        "source": "TechCrunch",
-        "published": "Fri, 06 Nov 2026 21:38:05 +0000",
-        "description": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily."
       }
     ],
     "Crypto": [
+      {
+        "title": "Bitcoin Miners Help Heat Homes Across Finland",
+        "link": "https://bitcoinist.com/bitcoin-miners-help-heat-homes-across-finland/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Nov 2026 20:06:09 +0000",
+        "description": "Bitcoin mining is finding an unusual use beyond securing the cryptocurrency network: keeping homes warm during Finland&#8217;s cold winters. A Finnish startup is using heat generated from bitcoin mine"
+      },
+      {
+        "title": "Former FBI Agent Admits to $2.47 Million Crypto Theft",
+        "link": "https://bitcoinist.com/former-fbi-agent-admits-to-2-47-million-crypto-theft/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Nov 2026 14:26:18 +0000",
+        "description": "A former FBI agent has admitted to stealing nearly $2.5 million in cryptocurrency from digital wallets connected to federal investigations, exposing a serious breach of trust within the agency. Patric"
+      },
+      {
+        "title": "Trump Administration Inches Closer to Opening 401(k)s to Crypto",
+        "link": "https://bitcoinist.com/trump-administration-inches-closer-to-opening-401ks-to-crypto/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Nov 2026 14:18:59 +0000",
+        "description": "The Trump administration has moved another step closer to opening America&#8217;s $10 trillion-plus retirement market to cryptocurrency. The US Department of Labor (DOL) has submitted a proposed regul"
+      },
+      {
+        "title": "Solana Price Set To Catch Up After Record October, RSI Signals Reversal",
+        "link": "https://bitcoinist.com/solana-price-catch-up-record-october/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Nov 2026 09:33:45 +0000",
+        "description": "Solana just wrapped up the biggest month in its history. A brand-new consensus engine, blocks twice as fast, record tokenized assets and a wave of Wall Street and payments partners all landed in Octob"
+      },
+      {
+        "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
+        "link": "https://bitcoinist.com/bitcoin-technical-analysis-bullish-checkmate-setup-near-76k/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Nov 2026 09:31:47 +0000",
+        "description": "Bitcoin is going quiet after a violent week, and chart watchers think that calm could be the setup for the next move higher. Our Bitcoin technical analysis shows that currently, BTC is trading at $75,"
+      },
+      {
+        "title": "Ethereum Price Repeats 2025 Fractal As Whales Buy The Dip",
+        "link": "https://bitcoinist.com/ethereum-price-repeats-2025-fractal-as-whales-buy-the-dip/",
+        "source": "Bitcoinist",
+        "published": "Sun, 08 Nov 2026 08:26:15 +0000",
+        "description": "The Ethereum price may have already finished its correction. After a rough week for crypto, ETH is holding a key support zone while whales quietly scoop up coins and sentiment starts to turn. ETH is t"
+      },
       {
         "title": "AI IPO Dilution Could Fuel Crypto’s Next Rally, Analyst Warns",
         "link": "https://bitcoinist.com/ai-ipo-dilution-could-fuel-cryptos-next-rally-analyst-warns/",
@@ -232,192 +274,150 @@
         "source": "Bitcoinist",
         "published": "Sat, 07 Nov 2026 13:04:53 +0000",
         "description": "Bitcoin may be quietly setting up its next big move. Despite this week&#8217;s sell-off, a crypto analyst has spotted a pattern on the weekly chart that last appeared in 2023, shortly before BTC launc"
-      },
-      {
-        "title": "Zcash Price Repeats Setup Behind Its 250% Rally, Analyst Says",
-        "link": "https://bitcoinist.com/zcash-price-repeats-setup-behind-its-250-rally-analyst-says/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Nov 2026 11:44:49 +0000",
-        "description": "The Zcash price may be gearing up for its next big move. After a sharp pullback from its all-time high, ZEC is consolidating in a range that looks strikingly similar to the one that launched its last "
-      },
-      {
-        "title": "Bitcoin Steadies Above $76,000, But Wall Street Isn’t Buying The Dip Yet",
-        "link": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Nov 2026 11:04:27 +0000",
-        "description": "Bitcoin is catching its breath this weekend. After a brutal few sessions, the price has stabilized above $76,000, but the money that matters most for a lasting recovery is still heading for the exit. "
-      },
-      {
-        "title": "Apple and Meta Push Back Against OKX–ICE Stock Plans",
-        "link": "https://bitcoinist.com/apple-and-meta-push-back-against-okx-ice-stock-plans/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Nov 2026 09:22:34 +0000",
-        "description": "The race to bring traditional stocks onto blockchain networks is facing a significant setback after Apple and Meta joined a growing list of companies rejecting plans to tokenize their shares through a"
-      },
-      {
-        "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
-        "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Nov 2026 09:12:08 +0000",
-        "description": "Russia&#8217;s largest Moscow exchange is preparing to bring cryptocurrency trading into its traditional financial markets, setting December 1 as the target date for the launch of a new digital asset "
-      },
-      {
-        "title": "US Treasury Slams MEXC With Financial-System Block Over Alleged Illicit Flows",
-        "link": "https://bitcoinist.com/us-treasury-slams-mexc-with-financial-system-block-over-alleged-illicit-flows/",
-        "source": "Bitcoinist",
-        "published": "Sat, 07 Nov 2026 08:59:13 +0000",
-        "description": "The US Treasury has moved to cut MEXC Global off from the American financial system over at least $16 billion in allegedly illicit transactions. FinCEN linked the activity to sanctions evasion involvi"
-      },
-      {
-        "title": "Zcash Activates NU7 Upgrade as Private Payments Become 3x Faster",
-        "link": "https://bitcoinist.com/zcash-activates-nu7-upgrade-as-private-payments-become-3x-faster/",
-        "source": "Bitcoinist",
-        "published": "Fri, 06 Nov 2026 17:09:52 +0000",
-        "description": "Zcash activates NU7 network upgrade, introducing faster transaction confirmations, increased private-payment capacity, and significant changes to the blockchain&#8217;s fee structure. The upgrade went"
       }
     ],
     "Markets": [
       {
-        "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-        "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "title": "You follow the rules for smart stock trading. But are they the right rules?",
+        "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 20:48:00 GMT",
-        "description": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72."
+        "published": "Sun, 08 Nov 2026 23:15:00 GMT",
+        "description": "Apply the wisdom of investment pros to develop your own consistent methodology."
       },
       {
-        "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
-        "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+        "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 20:36:00 GMT",
-        "description": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”"
+        "published": "Sun, 08 Nov 2026 23:05:00 GMT",
+        "description": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time."
       },
       {
-        "title": "Here are the 2027 capital-gains tax rates for each income level",
-        "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+        "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 19:48:00 GMT",
-        "description": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information."
+        "published": "Sun, 08 Nov 2026 18:00:00 GMT",
+        "description": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”"
       },
       {
-        "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-        "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+        "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+        "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 19:20:00 GMT",
-        "description": "Don’t sit on the sidelines during open enrollment."
+        "published": "Sun, 08 Nov 2026 17:30:00 GMT",
+        "description": "“About two months after his funeral, my stepmother called and said she wanted the money back.”"
       },
       {
-        "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-        "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+        "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+        "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 17:43:00 GMT",
-        "description": "There are many ideas for saving Social Security. All of them will hurt."
-      },
-      {
-        "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-        "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 17:33:00 GMT",
-        "description": "Math may be cold and unemotional — but finances are not."
-      },
-      {
-        "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-        "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 17:04:00 GMT",
-        "description": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago."
+        "published": "Sun, 08 Nov 2026 17:23:00 GMT",
+        "description": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says."
       },
       {
         "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
         "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 17:01:00 GMT",
+        "published": "Sun, 08 Nov 2026 16:00:00 GMT",
         "description": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”"
       },
       {
-        "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+        "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+        "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 16:40:00 GMT",
-        "description": "The large-cap index is nowhere near as diversified as you think."
+        "published": "Sun, 08 Nov 2026 15:30:00 GMT",
+        "description": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”"
       },
       {
-        "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-        "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+        "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+        "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Sat, 07 Nov 2026 16:30:00 GMT",
-        "description": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence."
+        "published": "Sun, 08 Nov 2026 15:16:00 GMT",
+        "description": "“My brother had no job and needed a place to live.”"
+      },
+      {
+        "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+        "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 08 Nov 2026 15:00:00 GMT",
+        "description": "S&P 500 companies’ earnings are mostly topping analysts’ estimates — but by the narrowest margin in roughly four years."
+      },
+      {
+        "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
+        "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Sun, 08 Nov 2026 14:13:00 GMT",
+        "description": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021."
       }
     ],
     "Singapore": [
       {
-        "title": "Russell rages after aborted lap in fight for pole",
-        "link": "https://www.channelnewsasia.com/sport/russell-rages-after-aborted-lap-in-fight-pole-6533601",
+        "title": "Lens' nightmare week worsens with late Marseille defeat",
+        "link": "https://www.channelnewsasia.com/sport/lens-nightmare-week-worsens-late-marseille-defeat-6534806",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:57:56 +0800",
+        "published": "Mon, 09 Nov 2026 06:47:40 +0800",
         "description": ""
       },
       {
-        "title": "High-scoring Roma move second with 3-0 win over Sassuolo",
-        "link": "https://www.channelnewsasia.com/sport/high-scoring-roma-move-second-3-0-win-over-sassuolo-6533581",
+        "title": "Raffles Hotel launches its first global online shop, bringing its signature style into your home",
+        "link": "https://www.channelnewsasia.com/remarkable-living/raffles-hotel-little-shop-6523921",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:26:13 +0800",
+        "published": "Mon, 09 Nov 2026 06:44:27 +0800",
+        "description": "The Little Shop by Raffles&nbsp;pays homage to Raffles Singapore's iconic 1940s boutique through a bespoke ready-to-wear collection and limited-edition partnerships&nbsp;with luxury brands."
+      },
+      {
+        "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
+        "link": "https://www.channelnewsasia.com/business/rbas-hunter-says-ai-has-yet-deliver-productivity-boost-trigger-job-losses-6534796",
+        "source": "CNA Singapore",
+        "published": "Mon, 09 Nov 2026 06:42:58 +0800",
         "description": ""
       },
       {
-        "title": "Parisian delight as capital clubs head Ligue 1 standings",
-        "link": "https://www.channelnewsasia.com/sport/parisian-delight-capital-clubs-head-ligue-1-standings-6533561",
+        "title": "She came to Singapore as a dialysis nurse for two years but stayed for 30 – now 70, she has no plans to retire",
+        "link": "https://www.channelnewsasia.com/women/daw-mi-mi-dialysis-nurse-alexandra-hospital-6506216",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:11:06 +0800",
+        "published": "Mon, 09 Nov 2026 06:38:04 +0800",
+        "description": "Student protests in Myanmar derailed Daw Mi Mi’s academic ambitions and led her to nursing, where she survived a hospital fire and spent 17 years working in the operating theatre. She later moved to S"
+      },
+      {
+        "title": "Red Bull boss Mekies says Hadjar delivered his best race in Brazil",
+        "link": "https://www.channelnewsasia.com/sport/red-bull-boss-mekies-says-hadjar-delivered-his-best-race-in-brazil-6534766",
+        "source": "CNA Singapore",
+        "published": "Mon, 09 Nov 2026 06:21:30 +0800",
         "description": ""
       },
       {
-        "title": "Real Madrid sweep aside Valencia to move level with Barcelona",
-        "link": "https://www.channelnewsasia.com/sport/real-madrid-sweep-aside-valencia-move-level-barcelona-6533566",
+        "title": "Wolff says Antonelli still no Senna, but 'Senninha' can grow",
+        "link": "https://www.channelnewsasia.com/sport/wolff-says-antonelli-still-no-senna-senninha-can-grow-6534771",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:11:05 +0800",
+        "published": "Mon, 09 Nov 2026 06:20:08 +0800",
         "description": ""
       },
       {
-        "title": "France rout Fiji 54-17 to top Nations Championship section",
-        "link": "https://www.channelnewsasia.com/sport/france-rout-fiji-54-17-top-nations-championship-section-6533571",
+        "title": "Cryptocurrencies slide to two-month lows after US midterms",
+        "link": "https://www.channelnewsasia.com/business/cryptocurrencies-slide-two-month-lows-after-us-midterms-6534751",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:09:36 +0800",
+        "published": "Mon, 09 Nov 2026 06:15:45 +0800",
         "description": ""
       },
       {
-        "title": "Deepavali in new colours: How Singapore’s rangoli artists are adapting an old craft",
-        "link": "https://www.channelnewsasia.com/singapore/deepavali-rangoli-arts-community-culture-tradition-6530826",
+        "title": "Want to really get to know a city? Run a race through it",
+        "link": "https://www.channelnewsasia.com/experiences/marathon-vacation-planning-6520666",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:00:00 +0800",
-        "description": "CNA speaks to three rangoli artists who are modernising the traditional art form through innovative techniques, while inspiring younger generations to embrace the craft.&nbsp; &nbsp;"
+        "published": "Mon, 09 Nov 2026 06:13:04 +0800",
+        "description": "From ancient temples to unfamiliar neighbourhoods, running a race offers a fresh perspective on a destination. Here's how to plan a vacation that goes the distance."
       },
       {
-        "title": "Commentary: US allies need a plan for a lame-duck Trump",
-        "link": "https://www.channelnewsasia.com/commentary/us-midterms-lame-duck-president-trump-foreign-policy-6530601",
+        "title": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico",
+        "link": "https://www.channelnewsasia.com/sport/fermin-double-gives-laliga-leaders-barca-2-1-win-atletico-6534746",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:00:00 +0800",
-        "description": "A more reliable predictor is that US President Donald Trump will do what he believes best serves him, says&nbsp;Marc Champion for Bloomberg Opinion."
+        "published": "Mon, 09 Nov 2026 06:08:40 +0800",
+        "description": ""
       },
       {
-        "title": "China's 'potato capital' cultivates new crop of data centres as AI boom takes root",
-        "link": "https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706",
+        "title": "Norris unscathed after bottle and fireworks mishaps",
+        "link": "https://www.channelnewsasia.com/sport/norris-unscathed-after-bottle-and-fireworks-mishaps-6534731",
         "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 06:00:00 +0800",
-        "description": "On the windswept plains of China's Inner Mongolia, potato farms are making way for sprawling AI data centres. CNA visited Ulanqab, where the boom is transforming livelihoods and raising questions abou"
-      },
-      {
-        "title": "The Alfa Romeo he never forgot: One Singapore collector’s lifelong passion for classic cars",
-        "link": "https://www.channelnewsasia.com/remarkable-living/kumar-balasingam-alfa-romeo-classic-car-collector-6492636",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 05:35:00 +0800",
-        "description": "Kumar Balasingam was 19 when he bought his first Alfa Romeo. After losing the car and searching for years to recover it, he has no intention of parting with it again."
-      },
-      {
-        "title": "Australia should deepen economic, security ties with Southeast Asia in a fragmented world: SM Lee",
-        "link": "https://www.channelnewsasia.com/singapore/lee-hsien-loong-australia-asia-deepen-ties-6531531",
-        "source": "CNA Singapore",
-        "published": "Sun, 08 Nov 2026 05:30:00 +0800",
-        "description": "Senior Minister Lee Hsien Loong called for greater Australian investment in Southeast Asia, saying deeper regional ties would strengthen its resilience and competitiveness."
+        "published": "Mon, 09 Nov 2026 06:06:55 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
@@ -436,18 +436,18 @@
         "description": "Donald Trump \"broke a promise\" to the American electorate by launching the war, Reform UK leader adds."
       },
       {
-        "title": "Interest rates hiked to 4% in first increase in over three years",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Thu, 05 Nov 2026 17:09:55 GMT",
-        "description": "Most analysts expected the increase from 3.75% to 4%."
-      },
-      {
         "title": "Putin not invited to G20 summit in Manchester, says Burnham",
         "link": "https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
         "published": "Thu, 05 Nov 2026 13:35:03 GMT",
         "description": "The prime minister has said sanctions against Russia mean Putin will not attend the summit in November 2027."
+      },
+      {
+        "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Sun, 08 Nov 2026 13:05:30 GMT",
+        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
       },
       {
         "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
@@ -494,11 +494,46 @@
     ],
     "Science": [
       {
-        "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+        "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
         "source": "Science Daily",
-        "published": "Thu, 05 Nov 2026 20:11:19 EST",
-        "description": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved "
+        "published": "Sun, 08 Nov 2026 05:11:25 EST",
+        "description": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an aste"
+      },
+      {
+        "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+        "source": "Science Daily",
+        "published": "Sun, 08 Nov 2026 03:14:23 EST",
+        "description": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The rema"
+      },
+      {
+        "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Nov 2026 21:52:28 EST",
+        "description": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 "
+      },
+      {
+        "title": "Scientists discover a hidden warning sign of cannabis addiction",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Nov 2026 20:27:46 EST",
+        "description": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and addiction symptoms than those who stick primarily to "
+      },
+      {
+        "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Nov 2026 20:09:55 EST",
+        "description": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hi"
+      },
+      {
+        "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+        "source": "Science Daily",
+        "published": "Sat, 07 Nov 2026 18:34:19 EST",
+        "description": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating c"
       },
       {
         "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
@@ -506,34 +541,6 @@
         "source": "Science Daily",
         "published": "Sat, 07 Nov 2026 05:16:19 EST",
         "description": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared re"
-      },
-      {
-        "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
-        "source": "Science Daily",
-        "published": "Sat, 07 Nov 2026 05:00:03 EST",
-        "description": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil"
-      },
-      {
-        "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-        "source": "Science Daily",
-        "published": "Sat, 07 Nov 2026 04:44:48 EST",
-        "description": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its na"
-      },
-      {
-        "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Nov 2026 19:33:47 EST",
-        "description": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the "
-      },
-      {
-        "title": "Scientists just found dinosaur blood that survived 115 million years",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Nov 2026 06:28:01 EST",
-        "description": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraor"
       },
       {
         "title": "Major trial challenges how doctors decide who really needs statins",
@@ -555,13 +562,6 @@
         "source": "Science Daily",
         "published": "Fri, 06 Nov 2026 02:12:55 EST",
         "description": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pi"
-      },
-      {
-        "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-        "source": "Science Daily",
-        "published": "Fri, 06 Nov 2026 00:51:36 EST",
-        "description": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Trump offers UFC chief Dana White press secretary job",
-      "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 08 Nov 2026 23:15:00 GMT",
+      "description": "Apply the wisdom of investment pros to develop your own consistent methodology."
+    },
+    {
+      "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+      "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Sun, 08 Nov 2026 23:05:00 GMT",
+      "description": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time."
+    },
+    {
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
       "source": "CNBC Finance",
-      "published": "Sat, 07 Nov 2026 23:13:38 GMT",
-      "description": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday."
+      "published": "Sun, 08 Nov 2026 22:53:57 GMT",
+      "description": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy."
     },
     {
-      "title": "What we know so far after Krakow gun attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 07 Nov 2026 22:58:49 GMT",
-      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
-    },
-    {
-      "title": "Russell rages after aborted lap in fight for pole",
-      "link": "https://www.channelnewsasia.com/sport/russell-rages-after-aborted-lap-in-fight-pole-6533601",
+      "title": "Lens' nightmare week worsens with late Marseille defeat",
+      "link": "https://www.channelnewsasia.com/sport/lens-nightmare-week-worsens-late-marseille-defeat-6534806",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Nov 2026 06:57:56 +0800",
+      "published": "Mon, 09 Nov 2026 06:47:40 +0800",
       "description": ""
     },
     {
-      "title": "High-scoring Roma move second with 3-0 win over Sassuolo",
-      "link": "https://www.channelnewsasia.com/sport/high-scoring-roma-move-second-3-0-win-over-sassuolo-6533581",
+      "title": "Raffles Hotel launches its first global online shop, bringing its signature style into your home",
+      "link": "https://www.channelnewsasia.com/remarkable-living/raffles-hotel-little-shop-6523921",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Nov 2026 06:26:13 +0800",
+      "published": "Mon, 09 Nov 2026 06:44:27 +0800",
+      "description": "The Little Shop by Raffles&nbsp;pays homage to Raffles Singapore's iconic 1940s boutique through a bespoke ready-to-wear collection and limited-edition partnerships&nbsp;with luxury brands."
+    },
+    {
+      "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
+      "link": "https://www.channelnewsasia.com/business/rbas-hunter-says-ai-has-yet-deliver-productivity-boost-trigger-job-losses-6534796",
+      "source": "CNA Singapore",
+      "published": "Mon, 09 Nov 2026 06:42:58 +0800",
       "description": ""
     },
     {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 07 Nov 2026 22:19:59 GMT",
-      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
-    },
-    {
-      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-      "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-      "source": "CNBC Finance",
-      "published": "Sat, 07 Nov 2026 22:17:52 GMT",
-      "description": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer."
-    },
-    {
-      "title": "Parisian delight as capital clubs head Ligue 1 standings",
-      "link": "https://www.channelnewsasia.com/sport/parisian-delight-capital-clubs-head-ligue-1-standings-6533561",
+      "title": "She came to Singapore as a dialysis nurse for two years but stayed for 30 – now 70, she has no plans to retire",
+      "link": "https://www.channelnewsasia.com/women/daw-mi-mi-dialysis-nurse-alexandra-hospital-6506216",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Nov 2026 06:11:06 +0800",
+      "published": "Mon, 09 Nov 2026 06:38:04 +0800",
+      "description": "Student protests in Myanmar derailed Daw Mi Mi’s academic ambitions and led her to nursing, where she survived a hospital fire and spent 17 years working in the operating theatre. She later moved to S"
+    },
+    {
+      "title": "Red Bull boss Mekies says Hadjar delivered his best race in Brazil",
+      "link": "https://www.channelnewsasia.com/sport/red-bull-boss-mekies-says-hadjar-delivered-his-best-race-in-brazil-6534766",
+      "source": "CNA Singapore",
+      "published": "Mon, 09 Nov 2026 06:21:30 +0800",
       "description": ""
     },
     {
-      "title": "Real Madrid sweep aside Valencia to move level with Barcelona",
-      "link": "https://www.channelnewsasia.com/sport/real-madrid-sweep-aside-valencia-move-level-barcelona-6533566",
+      "title": "Wolff says Antonelli still no Senna, but 'Senninha' can grow",
+      "link": "https://www.channelnewsasia.com/sport/wolff-says-antonelli-still-no-senna-senninha-can-grow-6534771",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Nov 2026 06:11:05 +0800",
+      "published": "Mon, 09 Nov 2026 06:20:08 +0800",
       "description": ""
     },
     {
-      "title": "France rout Fiji 54-17 to top Nations Championship section",
-      "link": "https://www.channelnewsasia.com/sport/france-rout-fiji-54-17-top-nations-championship-section-6533571",
+      "title": "Cryptocurrencies slide to two-month lows after US midterms",
+      "link": "https://www.channelnewsasia.com/business/cryptocurrencies-slide-two-month-lows-after-us-midterms-6534751",
       "source": "CNA Singapore",
-      "published": "Sun, 08 Nov 2026 06:09:36 +0800",
+      "published": "Mon, 09 Nov 2026 06:15:45 +0800",
       "description": ""
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "published": "Sat, 07 Nov 2026 22:07:22 +0000",
-      "description": "On Equity, we unpacked what the midterms mean for the tech industry."
     }
   ]
 }
