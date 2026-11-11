@@ -1,453 +1,467 @@
 {
-  "updated_sgt": "2026-11-10 10:35 SGT",
-  "updated_iso": "2026-11-10T10:35:32.434807+08:00",
+  "updated_sgt": "2026-11-11 08:27 SGT",
+  "updated_iso": "2026-11-11T08:27:49.359286+08:00",
   "categories": {
     "World": [
       {
-        "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-        "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+        "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+        "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 10 Nov 2026 01:55:22 GMT",
-        "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
+        "published": "Wed, 11 Nov 2026 00:18:07 GMT",
+        "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
       },
       {
-        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 10 Nov 2026 01:44:53 GMT",
-        "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+        "published": "Tue, 10 Nov 2026 22:52:15 GMT",
+        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
       },
       {
-        "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-        "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+        "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+        "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 10 Nov 2026 01:38:49 GMT",
-        "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year."
+        "published": "Tue, 10 Nov 2026 22:17:45 GMT",
+        "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
       },
       {
-        "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-        "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Tue, 10 Nov 2026 00:14:03 GMT",
-        "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
-      },
-      {
-        "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+        "title": "First day of Ukraine peace talks constructive, Zelensky says",
         "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 10 Nov 2026 00:09:49 GMT",
-        "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
+        "published": "Tue, 10 Nov 2026 21:21:55 GMT",
+        "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
       },
       {
-        "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-        "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain's king and queen attend memorial service for rail crash victims",
+        "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 09 Nov 2026 23:28:53 GMT",
-        "description": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
+        "published": "Tue, 10 Nov 2026 20:46:40 GMT",
+        "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital."
       },
       {
-        "title": "Turkey steel factory blast kills at least 17 people",
-        "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+        "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+        "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 09 Nov 2026 20:42:04 GMT",
-        "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
+        "published": "Tue, 10 Nov 2026 19:26:42 GMT",
+        "description": "Supporters of Sheikh Hasina want her to return from exile in India."
       },
       {
-        "title": "France accuses Iran of supermarket fridge hacking",
-        "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+        "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+        "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 09 Nov 2026 20:20:08 GMT",
-        "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+        "published": "Tue, 10 Nov 2026 18:33:51 GMT",
+        "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
       },
       {
-        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+        "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+        "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 09 Nov 2026 19:58:01 GMT",
-        "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
+        "published": "Tue, 10 Nov 2026 18:04:18 GMT",
+        "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
       },
       {
-        "title": "Russia's leading independent newspaper closes after eviction",
-        "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+        "title": "Israel's new parliament sworn in as leaders compete to form government",
+        "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Mon, 09 Nov 2026 18:08:07 GMT",
-        "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations."
+        "published": "Tue, 10 Nov 2026 17:03:16 GMT",
+        "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
+      },
+      {
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 10 Nov 2026 15:21:18 GMT",
+        "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza."
       }
     ],
     "Finance": [
       {
-        "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
-        "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+        "title": "Hegseth impeachment effort torpedoed in House",
+        "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
         "source": "CNBC Finance",
-        "published": "Tue, 10 Nov 2026 01:50:57 GMT",
-        "description": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off."
+        "published": "Tue, 10 Nov 2026 23:46:41 GMT",
+        "description": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election."
       },
       {
-        "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-        "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+        "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+        "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
         "source": "CNBC Finance",
-        "published": "Tue, 10 Nov 2026 01:43:47 GMT",
-        "description": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy."
+        "published": "Tue, 10 Nov 2026 23:16:15 GMT",
+        "description": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report."
       },
       {
-        "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-        "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+        "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+        "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 23:31:17 GMT",
-        "description": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market."
+        "published": "Tue, 10 Nov 2026 23:11:34 GMT",
+        "description": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair."
       },
       {
-        "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-        "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+        "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+        "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 23:14:38 GMT",
-        "description": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance."
+        "published": "Tue, 10 Nov 2026 22:39:30 GMT",
+        "description": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy."
       },
       {
-        "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-        "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+        "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
+        "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 22:56:39 GMT",
-        "description": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet."
+        "published": "Tue, 10 Nov 2026 22:08:25 GMT",
+        "description": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy."
       },
       {
-        "title": "Hegseth impeachment articles introduced by Rep. Massie",
-        "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+        "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+        "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 22:41:12 GMT",
-        "description": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie."
+        "published": "Tue, 10 Nov 2026 22:01:52 GMT",
+        "description": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots."
       },
       {
-        "title": "Trump questions midterm election results, revives voting-machine conspiracy",
-        "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+        "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+        "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 22:40:09 GMT",
-        "description": "President Trump's questioning of the legitimacy of his loss in the 2020 election culminated with an attack on the U.S. Capitol by a mob of his supporters."
+        "published": "Tue, 10 Nov 2026 22:00:40 GMT",
+        "description": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress."
       },
       {
-        "title": "3 unexpected reasons the October jobs report was so strong",
-        "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+        "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+        "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 22:23:56 GMT",
-        "description": "October's jobs report blew past economist forecasts. Here are three reasons."
+        "published": "Tue, 10 Nov 2026 21:45:46 GMT",
+        "description": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs."
       },
       {
-        "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-        "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+        "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+        "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 21:03:55 GMT",
-        "description": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%."
+        "published": "Tue, 10 Nov 2026 21:06:07 GMT",
+        "description": "Treasury yields moved higher after a hotter-than-expected CPI report."
       },
       {
-        "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-        "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+        "title": "Here's the inflation breakdown for October 2026 — in one chart",
+        "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
         "source": "CNBC Finance",
-        "published": "Mon, 09 Nov 2026 20:29:36 GMT",
-        "description": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny."
+        "published": "Tue, 10 Nov 2026 16:36:40 GMT",
+        "description": "The consumer price index rose 0.4% in October, a reduction from September but a level economists said is still uncomfortably high."
       }
     ],
     "Technology": [
       {
-        "title": "Anthropic reportedly plans to move forward with IPO plans",
-        "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
         "source": "TechCrunch",
-        "published": "Tue, 10 Nov 2026 01:27:12 +0000",
-        "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+        "published": "Tue, 10 Nov 2026 21:08:52 +0000",
+        "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
       },
       {
-        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 23:28:37 +0000",
-        "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+        "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+        "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
       },
       {
-        "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-        "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+        "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+        "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 23:03:46 +0000",
-        "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized acces"
+        "published": "Tue, 10 Nov 2026 20:47:05 +0000",
+        "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
       },
       {
-        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "title": "X-energy gets green light to build its first small modular nuclear reactors",
+        "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 22:46:09 +0000",
-        "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+        "published": "Tue, 10 Nov 2026 20:43:55 +0000",
+        "description": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas."
       },
       {
-        "title": "The race is on to sue Nvidia",
-        "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 22:23:42 +0000",
-        "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insiste"
+        "published": "Tue, 10 Nov 2026 19:57:52 +0000",
+        "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the"
       },
       {
-        "title": "Fervo now has $12B in orders for its geothermal power tech",
-        "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 20:55:34 +0000",
-        "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah."
+        "published": "Tue, 10 Nov 2026 19:23:34 +0000",
+        "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
       },
       {
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 20:09:06 +0000",
-        "description": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+        "published": "Tue, 10 Nov 2026 19:03:52 +0000",
+        "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
       },
       {
-        "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-        "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 19:39:41 +0000",
-        "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams."
+        "published": "Tue, 10 Nov 2026 18:49:52 +0000",
+        "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
       },
       {
-        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+        "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+        "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 19:24:51 +0000",
-        "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+        "published": "Tue, 10 Nov 2026 18:49:19 +0000",
+        "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag."
       },
       {
-        "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-        "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
         "source": "TechCrunch",
-        "published": "Mon, 09 Nov 2026 19:21:46 +0000",
-        "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation."
+        "published": "Tue, 10 Nov 2026 17:30:00 +0000",
+        "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such "
       }
     ],
     "Crypto": [
       {
-        "title": "Crypto Market Cap Slips as Fear Sentiment Deepens",
-        "link": "https://bitcoinist.com/crypto-market-cap-slips-as-fear-sentiment-deepens/",
+        "title": "Bitcoin Slips Toward $74K as Fed Hike Odds Hit 96% After Waller",
+        "link": "https://bitcoinist.com/bitcoin-slips-toward-74k-as-fed-hike-odds-hit-96-after-waller/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 21:26:57 +0000",
-        "description": "The total crypto market cap declined between 1.6% and 2.3% over the past 24 hours, settling in a range of approximately $2.47 trillion to $2.57 trillion depending on the data source and timestamp. The"
+        "published": "Tue, 10 Nov 2026 21:03:53 +0000",
+        "description": "Bitcoin slips toward $74,000 after Fed Governor Christopher Waller backed a December rate hike. Market odds of a 25-basis-point increase surged to 96%. Bitcoin traded lower on Tuesday, approaching the"
       },
       {
-        "title": "Bitcoin ETFs See $1.3 Billion Weekly Outflows, Largest Since June",
-        "link": "https://bitcoinist.com/bitcoin-etfs-see-1-3-billion-weekly-outflows-largest-since-june/",
+        "title": "BlackRock IBIT Outflows Hit $1.66B Over Seven Sessions",
+        "link": "https://bitcoinist.com/blackrock-ibit-outflows-hit-1-66b-over-seven-sessions/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 16:55:35 +0000",
-        "description": "U.S. spot Bitcoin ETFs (exchange-traded funds) recorded $1.28 billion in net outflows last week, marking their largest weekly withdrawals since late June. The heavy redemptions pushed year-to-date net"
+        "published": "Tue, 10 Nov 2026 16:33:24 +0000",
+        "description": "BlackRock IBIT outflows recorded its seventh straight day of outflows totaling $1.66 billion. US spot Bitcoin ETFs lost $201 million Monday as year-to-date flows turn negative. US spot Bitcoin exchang"
       },
       {
-        "title": "Coinbase Secures OCC Approval for National Trust Charter",
-        "link": "https://bitcoinist.com/coinbase-secures-occ-approval-for-national-trust-charter/",
+        "title": "Coinbase and Kalshi Back CFTC in Stock Perps Lawsuit",
+        "link": "https://bitcoinist.com/coinbase-and-kalshi-back-cftc-in-stock-perps-lawsuit/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 16:10:35 +0000",
-        "description": "Coinbase secures OCC unconditional approval from the Office of the Comptroller of the Currency (OCC) to operate under a federal national trust bank charter, the company announced Monday. The decision "
+        "published": "Tue, 10 Nov 2026 16:31:18 +0000",
+        "description": "Coinbase and Kalshi alongside four other companies, have asked a federal court to accept an amicus brief defending the Commodity Futures Trading Commission’s authority to allow perpetual futures tied "
       },
       {
-        "title": "TradingView Glitch Sends Bitcoin Dominance Below 25%",
-        "link": "https://bitcoinist.com/tradingview-glitch-sends-bitcoin-dominance-below-25/",
+        "title": "XRP Ledger Quantum-Proof Accounts: No Extra Fees Planned",
+        "link": "https://bitcoinist.com/xrp-ledger-quantum-proof-accounts-no-extra-fees-planned/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 15:32:39 +0000",
-        "description": "A TradingView glitch in data briefly showed crypto’s market cap at $6 trillion and Bitcoin dominance at 24%. Bitcoin’s price did not move, and sentiment data still points to fear. A TradingView glitch"
+        "published": "Tue, 10 Nov 2026 15:25:34 +0000",
+        "description": "XRP Ledger Foundation designs quantum-resistant accounts using ML-DSA-44. Users add new keys and disable old ones at no extra cost, targeting full transition by 2028. The XRP Ledger is preparing for a"
       },
       {
-        "title": "BTC Drops Then Rebounds Near $74K as Nvidia Scandal Sparks $1B Liquidations",
-        "link": "https://bitcoinist.com/btc-drops-then-rebounds-near-74k-as-nvidia-scandal-sparks-1b-liquidations/",
+        "title": "NVIDIA Scandal Hits Crypto: Bitcoin Drops, $1B Liquidated",
+        "link": "https://bitcoinist.com/nvidia-scandal-hits-crypto-bitcoin-drops-1b-liquidated/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 15:19:35 +0000",
-        "description": "BTC drops in a sharp two-way volatility over the weekend of November 8–9, 2026, sliding to its lowest level since August before staging a quick rebound. The moves, which wiped out more than $1 billion"
+        "published": "Tue, 10 Nov 2026 15:04:34 +0000",
+        "description": "The Nvidia scandal hits crypto hard as its board opened an independent investigation into CEO Jensen Huang after reports of his relationship with a woman U.S. intelligence agencies believe may have ti"
       },
       {
-        "title": "Arkham Crypto Fund Holdings Reach $3 Billion",
-        "link": "https://bitcoinist.com/arkham-crypto-fund-holdings-reach-3-billion/",
+        "title": "Ethereum Wallet Moves $4.6 Million After 11 Years And Avoids Crypto Scam",
+        "link": "https://bitcoinist.com/ethereum-wallet-moves-4-6-million-after-11-years-and-avoids-crypto-scam/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 13:25:56 +0000",
-        "description": "Arkham crypto fund holdings have attracted fresh attention after blockchain analytics company Arkham Intelligence announced that it had identified and labeled approximately $3 billion worth of cryptoc"
+        "published": "Tue, 10 Nov 2026 13:42:34 +0000",
+        "description": "An early Ethereum wallet has returned to activity after more than a decade, transferring approximately $4.6 million worth of ETH while successfully avoiding an attempted cryptocurrency scam. The unusu"
       },
       {
-        "title": "Bitcoin Money Printing: Pompliano Predicts Gains",
-        "link": "https://bitcoinist.com/bitcoin-money-printing-pompliano-predicts-gains/",
+        "title": "Trump Media Adds 1,510 BTC As Bitcoin Approaches A Key Technical Turning Point",
+        "link": "https://bitcoinist.com/trump-media-adds-1510-btc-as-bitcoin-approaches-a-key-technical-turning-point/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 12:54:56 +0000",
-        "description": "Bitcoin money printing concerns are back in focus after prominent investor Anthony Pompliano shared a bold prediction about the cryptocurrency&#8217;s long-term future. According to Pompliano, continu"
+        "published": "Tue, 10 Nov 2026 11:45:11 +0000",
+        "description": "Bitcoin price could be approaching an important turning point as President Donald Trump&#8217;s media company expands its cryptocurrency holdings despite recent market uncertainty. The development com"
       },
       {
-        "title": "XRP Price Recovery: Analyst Eyes $1.30",
-        "link": "https://bitcoinist.com/xrp-price-recovery-analyst-eyes-1-30/",
+        "title": "Bitcoin Faces New Political Test As Democrats Prepare Crypto Bill",
+        "link": "https://bitcoinist.com/bitcoin-faces-new-political-test-as-democrats-prepare-crypto-bill/",
         "source": "Bitcoinist",
-        "published": "Mon, 09 Nov 2026 11:39:46 +0000",
-        "description": "XRP price recovery is attracting renewed attention after popular cryptocurrency analyst Ali Martinez identified a technical pattern that could eventually help the token regain bullish momentum. Despit"
+        "published": "Tue, 10 Nov 2026 11:03:06 +0000",
+        "description": "Bitcoin is facing a new political test following the 2026 US midterm elections, with Democrats preparing to take control of Congress and reportedly discussing new cryptocurrency legislation. The devel"
       }
     ],
     "Markets": [
       {
-        "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
-        "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+        "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+        "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 10 Nov 2026 00:48:00 GMT",
-        "description": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research"
+        "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+        "description": "“It would be a less drastic step than selling the home now and splitting the proceeds.”"
       },
       {
-        "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-        "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+        "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 23:52:00 GMT",
-        "description": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72."
+        "published": "Tue, 10 Nov 2026 23:30:00 GMT",
+        "description": "There is already a demographic ‘run’ on Social Security."
       },
       {
-        "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-        "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+        "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+        "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 22:49:00 GMT",
-        "description": "The rocket-launch company just posted a steeper loss than analysts were expecting."
+        "published": "Tue, 10 Nov 2026 23:25:00 GMT",
+        "description": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”"
       },
       {
-        "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-        "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+        "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+        "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 22:49:00 GMT",
-        "description": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes"
+        "published": "Tue, 10 Nov 2026 22:56:00 GMT",
+        "description": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy."
       },
       {
-        "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-        "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+        "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+        "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 21:55:00 GMT",
-        "description": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say."
+        "published": "Tue, 10 Nov 2026 22:37:00 GMT",
+        "description": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships."
       },
       {
-        "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-        "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+        "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
+        "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 21:52:00 GMT",
-        "description": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist."
+        "published": "Tue, 10 Nov 2026 22:30:00 GMT",
+        "description": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels."
       },
       {
-        "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-        "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+        "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+        "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 21:45:00 GMT",
-        "description": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”"
+        "published": "Tue, 10 Nov 2026 22:05:00 GMT",
+        "description": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation"
       },
       {
-        "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-        "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+        "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
+        "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 21:43:00 GMT",
-        "description": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say."
+        "published": "Tue, 10 Nov 2026 21:42:00 GMT",
+        "description": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate."
       },
       {
-        "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-        "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+        "title": "How the stock market has performed after Veterans Day over the past decade",
+        "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 21:24:00 GMT",
-        "description": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience"
+        "published": "Tue, 10 Nov 2026 21:29:00 GMT",
+        "description": "The stock market is open Wednesday on Veterans Day, but not the bond market"
       },
       {
-        "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-        "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+        "title": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?",
+        "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 09 Nov 2026 21:21:00 GMT",
-        "description": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels."
+        "published": "Tue, 10 Nov 2026 21:22:00 GMT",
+        "description": "“She’s handed over the fate of her happiness to this job.”"
       }
     ],
     "Singapore": [
       {
-        "title": "About 3 million Singaporeans to receive up to S$250 cash in December under the Assurance Package",
-        "link": "https://www.channelnewsasia.com/singapore/assurance-package-cash-payout-2026-6537681",
+        "title": "Conway, Ravindra in New Zealand squad for India test series",
+        "link": "https://www.channelnewsasia.com/sport/conway-ravindra-in-new-zealand-squad-india-test-series-6541091",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 10:02:00 +0800",
-        "description": "This is the final round of payments under the enhanced Assurance Package."
-      },
-      {
-        "title": "Making AI work for Singapore enterprises",
-        "link": "https://www.channelnewsasia.com/brand-studio/making-ai-work-singapore-enterprises-6518716",
-        "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 10:00:00 +0800",
-        "description": "From solving everyday pain points to transforming operations, IMDA is helping enterprises use AI in practical ways that drive growth and empower employees.&nbsp;"
-      },
-      {
-        "title": "DC Studios shakeup: James Gunn and Peter Safran exit as Marvel veteran Jeremy Latcham takes over",
-        "link": "https://www.channelnewsasia.com/entertainment/dc-studios-marvel-james-gunn-peter-safran-skydance-paramount-6537561",
-        "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 09:57:00 +0800",
-        "description": "The shake-up comes just four years after Gunn and Safran took the helm, with Latcham set to lead DC Studios into its next chapter following the Skydance-Paramount merger."
-      },
-      {
-        "title": "Oil falls as Trump downplays prospect of escalation with Iran",
-        "link": "https://www.channelnewsasia.com/business/oil-falls-trump-downplays-prospect-escalation-iran-6537826",
-        "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 09:43:22 +0800",
+        "published": "Wed, 11 Nov 2026 08:23:47 +0800",
         "description": ""
       },
       {
-        "title": "Pope leads mega mass in Buenos Aires, meets abuse victims",
-        "link": "https://www.channelnewsasia.com/world/pope-leo-mass-argentina-buenos-aires-6537801",
+        "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+        "link": "https://www.channelnewsasia.com/business/openai-posts-steep-losses-even-quarterly-revenue-rises-10-billion-wsj-reports-6541011",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 09:39:40 +0800",
+        "published": "Wed, 11 Nov 2026 07:53:56 +0800",
         "description": ""
       },
       {
-        "title": "Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts",
-        "link": "https://www.channelnewsasia.com/business/chinese-chip-firms-denglin-xinde-open-mixed-in-hong-kong-debuts-6537796",
+        "title": "US House blocks path to impeach Defense Secretary Pete Hegseth",
+        "link": "https://www.channelnewsasia.com/world/us-house-representatives-block-path-impeach-defense-secretary-pete-hegseth-6540901",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 09:36:16 +0800",
+        "published": "Wed, 11 Nov 2026 07:29:00 +0800",
         "description": ""
       },
       {
-        "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
-        "link": "https://www.channelnewsasia.com/business/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website-6537776",
+        "title": "Vaginal dryness, painful sex, recurring UTIs: The menopause changes women think they have to endure",
+        "link": "https://www.channelnewsasia.com/women/menopause-genitourinary-syndrome-symptoms-6495281",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 09:32:49 +0800",
+        "published": "Wed, 11 Nov 2026 07:22:00 +0800",
+        "description": "These seemingly unrelated symptoms may be signs of genitourinary syndrome of menopause, a common but often overlooked condition that can disrupt daily life, intimacy and relationships. Doctors explain"
+      },
+      {
+        "title": "Japan manufacturers' mood hits more than 5-year high on chip demand: Reuters poll",
+        "link": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-more-5-year-high-chip-demand-reuters-poll-6540871",
+        "source": "CNA Singapore",
+        "published": "Wed, 11 Nov 2026 07:04:25 +0800",
         "description": ""
       },
       {
-        "title": "Exclusive-Anthropic sends out, then retracts details of IPO filing, emails show",
-        "link": "https://www.channelnewsasia.com/business/exclusive-anthropic-sends-out-then-retracts-details-ipo-filing-emails-show-6537751",
+        "title": "Noskova beats Gauff to reach WTA Finals semis, Pegula stays in hunt",
+        "link": "https://www.channelnewsasia.com/sport/noskova-beats-gauff-reach-wta-finals-semis-pegula-stays-in-hunt-6540826",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 09:23:47 +0800",
+        "published": "Wed, 11 Nov 2026 06:28:51 +0800",
         "description": ""
       },
       {
-        "title": "North Korea tests new 'high-speed' torpedo system",
-        "link": "https://www.channelnewsasia.com/east-asia/north-korea-tests-high-speed-torpedo-system-6537691",
+        "title": "US SEC seeks to close Musk, Tesla settlement fund",
+        "link": "https://www.channelnewsasia.com/business/us-sec-seeks-close-musk-tesla-settlement-fund-6540771",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 09:11:15 +0800",
+        "published": "Wed, 11 Nov 2026 06:06:09 +0800",
         "description": ""
       },
       {
-        "title": "Dollar sellers hit pause for US inflation data",
-        "link": "https://www.channelnewsasia.com/business/dollar-sellers-hit-pause-us-inflation-data-6537586",
+        "title": "Commentary: ASEAN must hold the line on Five-Point Consensus for Myanmar’s reintegration",
+        "link": "https://www.channelnewsasia.com/commentary/myanmar-asean-summit-reintegration-malaysia-visit-6538936",
         "source": "CNA Singapore",
-        "published": "Tue, 10 Nov 2026 08:38:40 +0800",
-        "description": ""
+        "published": "Wed, 11 Nov 2026 06:00:00 +0800",
+        "description": "Myanmar’s political reintegration into the Southeast Asian bloc should follow demonstrable progress, not be offered in the hope that progress will follow, says Joanne Lin from the ISEAS-Yusof Ishak In"
+      },
+      {
+        "title": "As Chinese EVs reshape Thailand's car industry, higher taxes bring new uncertainty",
+        "link": "https://www.channelnewsasia.com/asia/thailand-ev-prices-chinese-imports-6538306",
+        "source": "CNA Singapore",
+        "published": "Wed, 11 Nov 2026 06:00:00 +0800",
+        "description": "Thailand is sharply increasing taxes on imported electric vehicles to encourage domestic manufacturing and protect its established automotive industry. But the policy could raise prices and narrow con"
+      },
+      {
+        "title": "CNA Explains: Why Singapore is a prime target for disinformation campaigns",
+        "link": "https://www.channelnewsasia.com/singapore/cna-explains-cna-verify-disinformation-campaigns-influence-operations-6538141",
+        "source": "CNA Singapore",
+        "published": "Wed, 11 Nov 2026 06:00:00 +0800",
+        "description": "A false secret meeting with Singapore’s ambassador to Indonesia was the latest of several cases investigated by CNA Verify. Who spreads such claims and how do they do it?"
       }
     ],
     "US Politics": [
       {
-        "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-        "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+        "title": "Census should include black English and Asian English options, says MP",
+        "link": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sun, 08 Nov 2026 15:37:25 GMT",
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+        "published": "Tue, 10 Nov 2026 22:04:54 GMT",
+        "description": "Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly."
       },
       {
-        "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Scottish Labour leader says the UK should re-join EU",
+        "link": "https://www.bbc.co.uk/news/articles/c820v0e43xr4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sun, 08 Nov 2026 13:05:30 GMT",
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+        "published": "Tue, 10 Nov 2026 17:53:39 GMT",
+        "description": "Michael Marra said he wanted \"solidarity, not separation\" and accepted that \"re-joining the EU won't be easy\"."
       },
       {
-        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+        "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+        "link": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 07 Nov 2026 15:19:35 GMT",
-        "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+        "published": "Tue, 10 Nov 2026 16:37:14 GMT",
+        "description": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\"."
       },
       {
-        "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
-        "link": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo?at_medium=RSS&at_campaign=rss",
+        "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+        "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 07 Nov 2026 06:04:32 GMT",
-        "description": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building."
+        "published": "Tue, 10 Nov 2026 15:10:20 GMT",
+        "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
+      },
+      {
+        "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+        "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+        "description": "The government says it is strengthening its guidance for schools in England, which came into force in June."
+      },
+      {
+        "title": "Hundreds more offenders leaving jail on Tuesday",
+        "link": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Politics",
+        "published": "Tue, 10 Nov 2026 08:44:59 GMT",
+        "description": "At least 1,350 offenders have been released from jail early under the scheme so far."
       },
       {
         "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
@@ -476,20 +490,6 @@
         "source": "BBC Politics",
         "published": "Mon, 09 Nov 2026 02:34:09 GMT",
         "description": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
-      },
-      {
-        "title": "Society needs to act to help white working-class pupils, inquiry says",
-        "link": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Mon, 09 Nov 2026 01:52:32 GMT",
-        "description": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\"."
-      },
-      {
-        "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-        "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Politics",
-        "published": "Fri, 06 Nov 2026 15:25:43 GMT",
-        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
       }
     ],
     "Science": [
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "About 3 million Singaporeans to receive up to S$250 cash in December under the Assurance Package",
-      "link": "https://www.channelnewsasia.com/singapore/assurance-package-cash-payout-2026-6537681",
+      "title": "Conway, Ravindra in New Zealand squad for India test series",
+      "link": "https://www.channelnewsasia.com/sport/conway-ravindra-in-new-zealand-squad-india-test-series-6541091",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Nov 2026 10:02:00 +0800",
-      "description": "This is the final round of payments under the enhanced Assurance Package."
-    },
-    {
-      "title": "Making AI work for Singapore enterprises",
-      "link": "https://www.channelnewsasia.com/brand-studio/making-ai-work-singapore-enterprises-6518716",
-      "source": "CNA Singapore",
-      "published": "Tue, 10 Nov 2026 10:00:00 +0800",
-      "description": "From solving everyday pain points to transforming operations, IMDA is helping enterprises use AI in practical ways that drive growth and empower employees.&nbsp;"
-    },
-    {
-      "title": "DC Studios shakeup: James Gunn and Peter Safran exit as Marvel veteran Jeremy Latcham takes over",
-      "link": "https://www.channelnewsasia.com/entertainment/dc-studios-marvel-james-gunn-peter-safran-skydance-paramount-6537561",
-      "source": "CNA Singapore",
-      "published": "Tue, 10 Nov 2026 09:57:00 +0800",
-      "description": "The shake-up comes just four years after Gunn and Safran took the helm, with Latcham set to lead DC Studios into its next chapter following the Skydance-Paramount merger."
-    },
-    {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 10 Nov 2026 01:55:22 GMT",
-      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
-    },
-    {
-      "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
-      "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-      "source": "CNBC Finance",
-      "published": "Tue, 10 Nov 2026 01:50:57 GMT",
-      "description": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off."
-    },
-    {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 10 Nov 2026 01:44:53 GMT",
-      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-    },
-    {
-      "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-      "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-      "source": "CNBC Finance",
-      "published": "Tue, 10 Nov 2026 01:43:47 GMT",
-      "description": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy."
-    },
-    {
-      "title": "Oil falls as Trump downplays prospect of escalation with Iran",
-      "link": "https://www.channelnewsasia.com/business/oil-falls-trump-downplays-prospect-escalation-iran-6537826",
-      "source": "CNA Singapore",
-      "published": "Tue, 10 Nov 2026 09:43:22 +0800",
+      "published": "Wed, 11 Nov 2026 08:23:47 +0800",
       "description": ""
     },
     {
-      "title": "Pope leads mega mass in Buenos Aires, meets abuse victims",
-      "link": "https://www.channelnewsasia.com/world/pope-leo-mass-argentina-buenos-aires-6537801",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Wed, 11 Nov 2026 00:18:07 GMT",
+      "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "description": "“It would be a less drastic step than selling the home now and splitting the proceeds.”"
+    },
+    {
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+      "link": "https://www.channelnewsasia.com/business/openai-posts-steep-losses-even-quarterly-revenue-rises-10-billion-wsj-reports-6541011",
       "source": "CNA Singapore",
-      "published": "Tue, 10 Nov 2026 09:39:40 +0800",
+      "published": "Wed, 11 Nov 2026 07:53:56 +0800",
       "description": ""
     },
     {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 10 Nov 2026 01:38:49 GMT",
-      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year."
+      "title": "Hegseth impeachment effort torpedoed in House",
+      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "source": "CNBC Finance",
+      "published": "Tue, 10 Nov 2026 23:46:41 GMT",
+      "description": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election."
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Tue, 10 Nov 2026 23:30:00 GMT",
+      "description": "There is already a demographic ‘run’ on Social Security."
+    },
+    {
+      "title": "US House blocks path to impeach Defense Secretary Pete Hegseth",
+      "link": "https://www.channelnewsasia.com/world/us-house-representatives-block-path-impeach-defense-secretary-pete-hegseth-6540901",
+      "source": "CNA Singapore",
+      "published": "Wed, 11 Nov 2026 07:29:00 +0800",
+      "description": ""
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "Tue, 10 Nov 2026 23:25:00 GMT",
+      "description": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”"
+    },
+    {
+      "title": "Vaginal dryness, painful sex, recurring UTIs: The menopause changes women think they have to endure",
+      "link": "https://www.channelnewsasia.com/women/menopause-genitourinary-syndrome-symptoms-6495281",
+      "source": "CNA Singapore",
+      "published": "Wed, 11 Nov 2026 07:22:00 +0800",
+      "description": "These seemingly unrelated symptoms may be signs of genitourinary syndrome of menopause, a common but often overlooked condition that can disrupt daily life, intimacy and relationships. Doctors explain"
+    },
+    {
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "source": "CNBC Finance",
+      "published": "Tue, 10 Nov 2026 23:16:15 GMT",
+      "description": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report."
     }
   ]
 }
