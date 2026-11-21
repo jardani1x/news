@@ -1,525 +1,511 @@
 {
-  "updated_sgt": "2026-11-20 09:41 SGT",
-  "updated_iso": "2026-11-20T09:41:29.736073+08:00",
+  "updated_sgt": "2026-11-21 09:09 SGT",
+  "updated_iso": "2026-11-21T09:09:39.308465+08:00",
   "categories": {
     "World": [
       {
-        "title": "Trump posthumously pardons US baseball legend Pete Rose",
-        "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 23:51:50 GMT",
-        "description": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year."
+        "published": "Sat, 21 Nov 2026 00:01:39 GMT",
+        "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
       },
       {
-        "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 23:40:29 GMT",
-        "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says."
+        "published": "Fri, 20 Nov 2026 23:08:57 GMT",
+        "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
       },
       {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 23:33:51 GMT",
-        "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+        "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
       },
       {
-        "title": "California targets Nvidia in China AI chip probe",
-        "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 23:04:30 GMT",
-        "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+        "published": "Fri, 20 Nov 2026 22:37:09 GMT",
+        "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
       },
       {
-        "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-        "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 22:48:22 GMT",
-        "description": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
+        "published": "Fri, 20 Nov 2026 21:57:07 GMT",
+        "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
       },
       {
-        "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-        "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 20:07:02 GMT",
-        "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
+        "published": "Fri, 20 Nov 2026 20:54:12 GMT",
+        "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
       },
       {
-        "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-        "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+        "title": "Gérard Depardieu and French author investigated over sexual allegations",
+        "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 17:38:22 GMT",
-        "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
+        "published": "Fri, 20 Nov 2026 19:45:20 GMT",
+        "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
       },
       {
-        "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-        "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 19 Nov 2026 15:52:26 GMT",
-        "description": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
+        "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
       },
       {
-        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 20 Nov 2026 00:50:24 GMT",
-        "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+        "published": "Fri, 20 Nov 2026 16:54:29 GMT",
+        "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
       },
       {
-        "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 20 Nov 2026 00:13:21 GMT",
-        "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
+        "published": "Fri, 20 Nov 2026 13:01:16 GMT",
+        "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
       }
     ],
     "Finance": [
       {
-        "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-        "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+        "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+        "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
         "source": "CNBC Finance",
-        "published": "Thu, 19 Nov 2026 23:21:23 GMT",
-        "description": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang."
+        "published": "Fri, 20 Nov 2026 22:59:33 GMT",
+        "description": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet."
       },
       {
-        "title": "Congress passes bill to protect older investors from financial fraud",
-        "link": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+        "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+        "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
         "source": "CNBC Finance",
-        "published": "Thu, 19 Nov 2026 22:23:29 GMT",
-        "description": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud."
+        "published": "Fri, 20 Nov 2026 21:35:24 GMT",
+        "description": "Cybersecurity companies have been hunting for acquisitions in the AI era."
       },
       {
-        "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
-        "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+        "title": "Trump says he still has confidence in Lutnick",
+        "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
         "source": "CNBC Finance",
-        "published": "Thu, 19 Nov 2026 21:40:31 GMT",
-        "description": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021."
+        "published": "Fri, 20 Nov 2026 20:52:08 GMT",
+        "description": "President Donald Trump, when asked by CNBC's Eamon Javers, said he has not lost confidence in Commerce Secretary Howard Lutnick."
       },
       {
-        "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-        "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+        "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+        "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
         "source": "CNBC Finance",
-        "published": "Thu, 19 Nov 2026 19:43:08 GMT",
-        "description": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments."
+        "published": "Fri, 20 Nov 2026 20:47:58 GMT",
+        "description": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China."
       },
       {
-        "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-        "link": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+        "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+        "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
         "source": "CNBC Finance",
-        "published": "Thu, 19 Nov 2026 18:44:34 GMT",
-        "description": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney."
+        "published": "Fri, 20 Nov 2026 19:59:03 GMT",
+        "description": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi."
       },
       {
-        "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-        "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+        "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+        "link": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
         "source": "CNBC Finance",
-        "published": "Fri, 20 Nov 2026 01:34:19 GMT",
-        "description": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply."
+        "published": "Fri, 20 Nov 2026 19:42:53 GMT",
+        "description": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy."
       },
       {
-        "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-        "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+        "title": "A massive bearish trade just happened in the chip stocks",
+        "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
         "source": "CNBC Finance",
-        "published": "Fri, 20 Nov 2026 00:53:55 GMT",
-        "description": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China."
+        "published": "Fri, 20 Nov 2026 19:33:31 GMT",
+        "description": "Options traders place big bets that semiconductor stocks have further to fall"
       },
       {
-        "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-        "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+        "title": "Data center construction costs soar 13% in 2026",
+        "link": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
         "source": "CNBC Finance",
-        "published": "Fri, 20 Nov 2026 00:52:17 GMT",
-        "description": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists."
+        "published": "Fri, 20 Nov 2026 16:52:08 GMT",
+        "description": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures."
       },
       {
-        "title": "AMD dives on short seller report of alleged China exposure",
-        "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+        "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
+        "link": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
         "source": "CNBC Finance",
-        "published": "Fri, 20 Nov 2026 00:08:34 GMT",
-        "description": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law."
+        "published": "Fri, 20 Nov 2026 15:12:40 GMT",
+        "description": "Anthropic options list Monday. They will likely be expensive"
       },
       {
-        "title": "Anthropic was supposed to save the AI trade. What went wrong?",
-        "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+        "title": "The bull market has a new problem. The 'smart money' is selling",
+        "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
         "source": "CNBC Finance",
-        "published": "Fri, 20 Nov 2026 00:00:38 GMT",
-        "description": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits."
+        "published": "Fri, 20 Nov 2026 14:15:29 GMT",
+        "description": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test."
       }
     ],
     "Technology": [
       {
-        "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-        "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
         "source": "TechCrunch",
-        "published": "Thu, 19 Nov 2026 23:37:56 +0000",
-        "description": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones."
+        "published": "Fri, 20 Nov 2026 20:58:29 +0000",
+        "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit."
       },
       {
-        "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-        "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
         "source": "TechCrunch",
-        "published": "Thu, 19 Nov 2026 22:33:26 +0000",
-        "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun."
+        "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+        "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
       },
       {
-        "title": "Meta’s new Muse Charm device may cost $300",
-        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
         "source": "TechCrunch",
-        "published": "Thu, 19 Nov 2026 21:58:06 +0000",
-        "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+        "published": "Fri, 20 Nov 2026 19:32:08 +0000",
+        "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
       },
       {
-        "title": "These tech outages are giving Y2K, AI agent style",
-        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "title": "Super-hot rock geothermal could end data center energy woes",
+        "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
         "source": "TechCrunch",
-        "published": "Thu, 19 Nov 2026 21:42:31 +0000",
-        "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+        "published": "Fri, 20 Nov 2026 18:34:00 +0000",
+        "description": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
       },
       {
-        "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-        "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+        "title": "Chips can survive the space environment — can their financing?",
+        "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
         "source": "TechCrunch",
-        "published": "Thu, 19 Nov 2026 21:33:24 +0000",
-        "description": "Uber is testing the new program in three U.S. cities."
+        "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+        "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
       },
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "title": "Bending Spoons buys Mailchimp for $3.68B",
+        "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
         "source": "TechCrunch",
-        "published": "Thu, 19 Nov 2026 20:18:49 +0000",
-        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+        "published": "Fri, 20 Nov 2026 16:16:06 +0000",
+        "description": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
       },
       {
-        "title": "Anthropic’s IPO could deliver $156B to charity",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+        "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+        "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
         "source": "TechCrunch",
-        "published": "Thu, 19 Nov 2026 19:10:45 +0000",
-        "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+        "published": "Fri, 20 Nov 2026 15:46:07 +0000",
+        "description": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password."
       },
       {
-        "title": "Apple may be developing its own AI agent that runs your Mac",
-        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
         "source": "TechCrunch",
-        "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-        "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+        "published": "Fri, 20 Nov 2026 14:00:00 +0000",
+        "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
       },
       {
-        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+        "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
         "source": "TechCrunch",
-        "published": "Fri, 20 Nov 2026 00:43:50 +0000",
-        "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+        "published": "Fri, 20 Nov 2026 13:25:00 +0000",
+        "description": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang."
       },
       {
-        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-        "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+        "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+        "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
         "source": "TechCrunch",
-        "published": "Fri, 20 Nov 2026 00:26:03 +0000",
-        "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
+        "published": "Fri, 20 Nov 2026 13:21:11 +0000",
+        "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said."
       }
     ],
     "Crypto": [
       {
-        "title": "Tether Pushes Back Against S&P as USDT Reserve Maintains Lowest Stability Assessment",
-        "link": "https://bitcoinist.com/tether-pushes-back-against-sp-as-usdt-reserve-maintains-lowest-stability-assessment/",
+        "title": "SEC Charges Eight Firms in $37M Crypto Scam Using Fake Trading Platforms",
+        "link": "https://bitcoinist.com/sec-charges-eight-firms-in-37m-crypto-scam-using-fake-trading-platforms/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 16:49:39 +0000",
-        "description": "Tether pushes back against S&#38;P Global Ratings after the agency maintained its lowest stability assessment for USDT, pointing to a growing share of higher-risk assets in the stablecoin&#8217;s rese"
+        "published": "Fri, 20 Nov 2026 20:28:35 +0000",
+        "description": "The US Securities and Exchange Commission SEC charges eight Colorado-based entities accused of defrauding American investors of more than $37 million through fake investment advisory services and cryp"
       },
       {
-        "title": "US Launches Crypto Crime Center With TRM Labs to Track Scams, Stolen Funds",
-        "link": "https://bitcoinist.com/us-launches-crypto-crime-center-with-trm-labs-to-track-scams-stolen-funds/",
+        "title": "Binance Hackers Move Nearly $600M in Ethereum Through THORChain",
+        "link": "https://bitcoinist.com/binance-hackers-move-nearly-600m-in-ethereum-through-thorchain/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 16:34:22 +0000",
-        "description": "The US launches Crypto Crime Center, a new initiative to disrupt criminal networks behind online scams, cybercrime, and cryptocurrency theft, bringing together federal investigators, state and local a"
+        "published": "Fri, 20 Nov 2026 15:23:12 +0000",
+        "description": "Wallets linked to the $6.3 billion Binance hack saw the Binance hackers move approximately $594 million worth of Ethereum over two days, routing portions of the stolen assets through cross-chain proto"
       },
       {
-        "title": "Bitcoin Mining Company Dumps Final BTC as $75M AI Funding Gap Looms",
-        "link": "https://bitcoinist.com/bitcoin-mining-company-dumps-final-btc-as-75m-ai-funding-gap-looms/",
+        "title": "Ethereum’s New DeFi Security Tool Sparks Debate Over Censorship Risks",
+        "link": "https://bitcoinist.com/ethereums-new-defi-security-tool-sparks-debate-over-censorship-risks/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 15:20:36 +0000",
-        "description": "Hyperscale Data (GPUS), a former Bitcoin mining company that has shifted its business toward artificial intelligence infrastructure, is warning that it may not have enough cash to complete a major dat"
+        "published": "Fri, 20 Nov 2026 15:03:48 +0000",
+        "description": "Ethereum&#8217;s new Defi security tool system is designed to prevent decentralized finance (DeFi) exploits before they settle but is raising questions about how far transaction filtering should go on"
       },
       {
-        "title": "Bitcoin Reclaims $64K as Anthropic IPO Sparks Tech Market Recovery",
-        "link": "https://bitcoinist.com/bitcoin-reclaims-64k-as-anthropic-ipo-sparks-tech-market-recovery/",
+        "title": "Christine Lagarde Warns Europe Could Lose Ground in Tokenized Asset Market",
+        "link": "https://bitcoinist.com/christine-lagarde-warns-europe-could-lose-ground-in-tokenized-asset-market/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 14:46:38 +0000",
-        "description": "Bitcoin reclaims $64K on Thursday after briefly approaching $62,000 overnight, as renewed optimism surrounding Anthropic&#8217;s record-breaking stock market debut helped lift technology shares and im"
+        "published": "Fri, 20 Nov 2026 14:46:22 +0000",
+        "description": "European Central Bank President Christine Lagarde warns that Europe risks losing the opportunity to establish a unified market for tokenized financial assets unless lawmakers introduce common rules be"
       },
       {
-        "title": "Anthropic’s IPO Deal Surpasses SpaceX as Bitcoin and Tech Stocks Rebound",
-        "link": "https://bitcoinist.com/anthropics-ipo-deal-surpasses-spacex-as-bitcoin-and-tech-stocks-rebound/",
+        "title": "ARK Invest Buys $90M in Anthropic Shares While Trimming Ethereum ETF Holdings",
+        "link": "https://bitcoinist.com/ark-invest-buys-90m-in-anthropic-shares-while-trimming-ethereum-etf-holdings/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 14:35:07 +0000",
-        "description": "Anthropic&#8217;s IPO deal is preparing for a major Nasdaq debut after pricing its initial public offering at $83 per share, putting the artificial intelligence company behind Claude at the center of "
+        "published": "Fri, 20 Nov 2026 14:33:47 +0000",
+        "description": "Cathie Wood’s ARK Invest made a major move into artificial intelligence during Anthropic’s first day on the Nasdaq, purchasing nearly $91 million worth of shares in the newly listed company. At the sa"
       },
       {
-        "title": "Ethereum Processes $25.8 Trillion In Stablecoin Transfers — Is Wall Street Underestimating ETH?",
-        "link": "https://bitcoinist.com/ethereum-processes-25-8-trillion-in-stablecoin-transfers-is-wall-street-underestimating-eth/",
+        "title": "Bitcoin-Backed Lending Goes Live On Sui As Hashi Launches With 20+ Partners",
+        "link": "https://bitcoinist.com/bitcoin-backed-lending-goes-live-on-sui-as-hashi-launches-with-20-partners/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 12:54:42 +0000",
-        "description": "Ethereum has processed an extraordinary $25.8 trillion in stablecoin transfers during the first ten months of 2026, highlighting the blockchain&#8217;s expanding role in global digital finance. The mi"
+        "published": "Fri, 20 Nov 2026 12:34:21 +0000",
+        "description": "Bitcoin holders have a new way to access liquidity without selling their BTC. Hashi, a Bitcoin finance infrastructure protocol built on Sui, has officially launched on mainnet with more than 20 partne"
       },
       {
-        "title": "Bitcoin Could Soon Outperform US Treasury Bills Without A Price Rally — Here’s How",
-        "link": "https://bitcoinist.com/bitcoin-could-soon-outperform-us-treasury-bills-without-a-price-rally-heres-how/",
+        "title": "Michael Saylor Explains When Strategy Buys Bitcoin — And Why It Sometimes Chooses STRC Instead",
+        "link": "https://bitcoinist.com/michael-saylor-explains-when-strategy-buys-bitcoin-and-why-it-sometimes-chooses-strc-instead/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 11:57:28 +0000",
-        "description": "Bitcoin could become an increasingly attractive asset for institutional investors in 2027, even without a major price rally. According to a new forecast from Swiss digital asset bank Sygnum, Bitcoin c"
+        "published": "Fri, 20 Nov 2026 11:34:30 +0000",
+        "description": "Michael Saylor has offered a closer look at how Strategy decides between buying more Bitcoin and repurchasing its preferred shares, revealing a capital allocation approach that goes beyond accumulatin"
       },
       {
-        "title": "Ripple CEO Predicts Utility-Driven Crypto Will Win — Could XRP Be The Biggest Beneficiary?",
-        "link": "https://bitcoinist.com/ripple-ceo-predicts-utility-driven-crypto-will-win-could-xrp-be-the-biggest-beneficiary/",
+        "title": "Solana’s Next Upgrade Could Break Existing Apps As Developers Face New Warning",
+        "link": "https://bitcoinist.com/solanas-next-upgrade-could-break-existing-apps-as-developers-face-new-warning/",
         "source": "Bitcoinist",
-        "published": "Thu, 19 Nov 2026 09:54:39 +0000",
-        "description": "Ripple CEO Brad Garlinghouse believes the cryptocurrency market is approaching a major turning point, where real-world utility could become more important than speculation. His latest comments come as"
+        "published": "Fri, 20 Nov 2026 10:27:11 +0000",
+        "description": "Solana developers are facing a new compatibility warning as blockchain infrastructure team Anza prepares to introduce a major runtime improvement that could change how applications interact with netwo"
       }
     ],
     "Markets": [
       {
-        "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-        "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+        "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+        "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 23:56:00 GMT",
-        "description": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector."
+        "published": "Fri, 20 Nov 2026 22:46:00 GMT",
+        "description": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025."
       },
       {
-        "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-        "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+        "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+        "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 23:11:00 GMT",
-        "description": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness."
+        "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+        "description": "A major semiconductor index just posted its worst weekly performance in 25 years."
       },
       {
-        "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-        "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+        "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+        "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 22:53:00 GMT",
-        "description": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies."
+        "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+        "description": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them."
       },
       {
-        "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-        "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+        "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 22:41:00 GMT",
-        "description": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters."
+        "published": "Fri, 20 Nov 2026 21:58:00 GMT",
+        "description": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions."
       },
       {
-        "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-        "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+        "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+        "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 22:12:00 GMT",
-        "description": "All four major U.S. stock indexes are now on pace for their worst week since President Trump’s “liberation day” tariffs of April 2025"
+        "published": "Fri, 20 Nov 2026 21:39:00 GMT",
+        "description": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off."
       },
       {
-        "title": "Markets are sending troubling signals about the state of the economy",
-        "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+        "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+        "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 21:57:00 GMT",
-        "description": "A number of recession trades have started to emerge, even as economic data has largely held up."
+        "published": "Fri, 20 Nov 2026 21:39:00 GMT",
+        "description": "A looming oversupply problem could weigh on the stock over the next year"
       },
       {
-        "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
-        "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+        "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+        "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 21:45:00 GMT",
-        "description": "There are only 20 companies in the world with a market capitalization of $669 billion or higher"
+        "published": "Fri, 20 Nov 2026 21:36:00 GMT",
+        "description": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts."
       },
       {
-        "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-        "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+        "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+        "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Thu, 19 Nov 2026 21:27:00 GMT",
-        "description": "The Anthropic enthusiasm has faded while China concerns have intensified."
+        "published": "Fri, 20 Nov 2026 21:34:00 GMT",
+        "description": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices."
       },
       {
-        "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-        "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+        "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
+        "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 20 Nov 2026 01:30:00 GMT",
-        "description": "“We have a house worth $450,000. Our combined annual income is $125,000.”"
+        "published": "Fri, 20 Nov 2026 21:25:00 GMT",
+        "description": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”"
       },
       {
-        "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-        "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+        "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+        "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Fri, 20 Nov 2026 01:22:00 GMT",
-        "description": "“Hotel rooms can cost as much as $400 per night.”"
+        "published": "Fri, 20 Nov 2026 21:01:00 GMT",
+        "description": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study."
       }
     ],
     "Singapore": [
       {
-        "title": "GTA 6 reveals the actors, voices and familiar names behind the characters of Vice City",
-        "link": "https://www.channelnewsasia.com/living/gta-6-voice-actors-manni-l-perez-dylan-rourke-jason-lucia-6567361",
+        "title": "Grand Theft Auto VI sets record with US$3.79 billion in first-day retail sales, Rockstar Games reports",
+        "link": "https://www.channelnewsasia.com/entertainment/gta-6-first-day-sales-6570891",
         "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 09:21:00 +0800",
-        "description": "Rockstar Games' newly released credits on its official website revealed the extensive list of performers, musicians, comedians and broadcasters involved in the game.&nbsp;"
+        "published": "Sat, 21 Nov 2026 08:23:00 +0800",
+        "description": "It is the first new GTA game in 13 years."
       },
       {
-        "title": "Trump ousts cyber director after tech outages spark criticism",
-        "link": "https://www.channelnewsasia.com/business/trump-ousts-cyber-director-after-tech-outages-spark-criticism-6567801",
+        "title": "Rahul closes on century as India eat into New Zealand's lead in Wellington",
+        "link": "https://www.channelnewsasia.com/sport/rahul-closes-century-india-eat-new-zealands-lead-in-wellington-6570896",
         "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 09:13:40 +0800",
+        "published": "Sat, 21 Nov 2026 08:21:20 +0800",
         "description": ""
       },
       {
-        "title": "Nike to become Formula One's official apparel and uniform partner",
-        "link": "https://www.channelnewsasia.com/sport/nike-become-formula-ones-official-apparel-and-uniform-partner-6567771",
+        "title": "Can creatine supplements make your brain stronger? Experts weigh the evidence",
+        "link": "https://www.channelnewsasia.com/wellness/creatine-supplements-brain-benefits-6543726",
         "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 09:07:20 +0800",
+        "published": "Sat, 21 Nov 2026 08:03:20 +0800",
+        "description": "Their muscle-building benefits are well-established. Their mind-building benefits are another story."
+      },
+      {
+        "title": "Martian landscapes, underground mosques and wild desert camping in Kazakhstan's remote west",
+        "link": "https://www.channelnewsasia.com/travel/kazakhstan-mangystau-desert-camping-martian-landscape-6530751",
+        "source": "CNA Singapore",
+        "published": "Sat, 21 Nov 2026 08:02:34 +0800",
+        "description": "In Kazakhstan’s remote Mangystau region, a four-day journey across ancient seabeds, towering limestone formations and vast desert landscapes reveals a world shaped by millions of years of geological c"
+      },
+      {
+        "title": "Price becomes undisputed welterweight champion in first for Wales",
+        "link": "https://www.channelnewsasia.com/sport/price-becomes-undisputed-welterweight-champion-in-first-wales-6570856",
+        "source": "CNA Singapore",
+        "published": "Sat, 21 Nov 2026 07:52:31 +0800",
         "description": ""
       },
       {
-        "title": "For work, weekends and getaways: Festive gifts that go the distance",
-        "link": "https://www.channelnewsasia.com/advertorial/work-weekends-and-getaways-festive-gifts-go-distance-6557456",
+        "title": "Australia paceman Hazlewood backs Cummins, denies knowledge of sandpaper",
+        "link": "https://www.channelnewsasia.com/sport/australia-paceman-hazlewood-backs-cummins-denies-knowledge-sandpaper-6570841",
         "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 09:06:56 +0800",
-        "description": "From frequent travellers to busy professionals and young explorers, Samsonite has Christmas gift ideas to suit different lifestyles."
-      },
-      {
-        "title": "How a personalised approach may ease eczema’s toll",
-        "link": "https://www.channelnewsasia.com/advertorial/how-personalised-approach-may-ease-eczemas-toll-6330451",
-        "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 09:02:35 +0800",
-        "description": "For patients with moderate-to-severe eczema, managing the condition means considering symptoms and triggers, as well as treatment effectiveness, safety and cost."
-      },
-      {
-        "title": "CNA Now: Asia markets open lower after Wall Street stocks fall, plus other news as it happened",
-        "link": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-nov-20-6565406",
-        "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 08:57:59 +0800",
-        "description": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world."
-      },
-      {
-        "title": "Analysis:BOJ's ambiguity on rate hike path could tempt yen bears",
-        "link": "https://www.channelnewsasia.com/business/analysisbojs-ambiguity-rate-hike-path-could-tempt-yen-bears-6567736",
-        "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 08:47:19 +0800",
+        "published": "Sat, 21 Nov 2026 07:41:19 +0800",
         "description": ""
       },
       {
-        "title": "Cool weather, settled championships weigh on Las Vegas F1 ticket demand",
-        "link": "https://www.channelnewsasia.com/sport/cool-weather-settled-championships-weigh-las-vegas-f1-ticket-demand-6567701",
+        "title": "Databricks in early talks to raise funds at $225 billion valuation, WSJ reports",
+        "link": "https://www.channelnewsasia.com/business/databricks-in-early-talks-raise-funds-225-billion-valuation-wsj-reports-6570836",
         "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 08:29:28 +0800",
+        "published": "Sat, 21 Nov 2026 07:40:57 +0800",
         "description": ""
       },
       {
-        "title": "Phillips hits century as NZ reach 317-6 in India test",
-        "link": "https://www.channelnewsasia.com/sport/phillips-hits-century-nz-reach-317-6-in-india-test-6567666",
+        "title": "Kane out for next few months with ankle injury, Bayern says",
+        "link": "https://www.channelnewsasia.com/sport/kane-out-next-few-months-ankle-injury-bayern-says-6570826",
         "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 08:22:48 +0800",
+        "published": "Sat, 21 Nov 2026 07:31:30 +0800",
         "description": ""
       },
       {
-        "title": "Inside Santa's hometown: Discovering the Finnish traditions behind Gardens by the Bay's new Christmas show",
-        "link": "https://www.channelnewsasia.com/travel/gardens-bay-christmas-train-show-2026-finland-6564601",
+        "title": "GTCR explores potential takeover of payments firm Global Payments",
+        "link": "https://www.channelnewsasia.com/business/gtcr-explores-potential-takeover-payments-firm-global-payments-6570801",
         "source": "CNA Singapore",
-        "published": "Fri, 20 Nov 2026 08:05:00 +0800",
-        "description": "In Rovaniemi, Santa keeps office hours, elves take their jobs seriously and reindeer are part of everyday life. We journeyed to the Arctic Circle to discover the magic behind Gardens by the Bay's Finn"
+        "published": "Sat, 21 Nov 2026 07:18:07 +0800",
+        "description": ""
+      },
+      {
+        "title": "Hackers breached US Department of Agriculture, NBC News reports",
+        "link": "https://www.channelnewsasia.com/business/hackers-breached-us-department-agriculture-nbc-news-reports-6570741",
+        "source": "CNA Singapore",
+        "published": "Sat, 21 Nov 2026 06:39:54 +0800",
+        "description": ""
       }
     ],
     "US Politics": [
       {
-        "title": "Council wins legal fight against flags on lamp-posts",
-        "link": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
+        "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+        "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Wed, 18 Nov 2026 18:19:34 GMT",
-        "description": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction."
+        "published": "Fri, 20 Nov 2026 19:41:30 GMT",
+        "description": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
       },
       {
-        "title": "EU-UK talks going down to the wire, says No 10",
-        "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 22:26:04 GMT",
-        "description": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday."
+        "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
       },
       {
-        "title": "Faults not fixed in 90% of homes in government insulation scheme",
-        "link": "https://www.bbc.co.uk/news/articles/c65y193gpvkgo?at_medium=RSS&at_campaign=rss",
+        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+        "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 17:59:16 GMT",
-        "description": "People who signed up to a government insulation scheme have been struggling to get their damaged homes repaired."
+        "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+        "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
       },
       {
-        "title": "UK to provide Ukraine with 1,000 long-range strike drones",
-        "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
+        "title": "Henry Zeffman: Burnham's first taste of EU deal-making unlikely to be his last",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 17:59:01 GMT",
-        "description": "The prime minister made the announcement at a meeting of the Coalition of the Willing in Berlin."
+        "published": "Fri, 20 Nov 2026 16:19:08 GMT",
+        "description": "The prime minister is learning how tough EU negotiations can be - but it won't deter him from seeking closer ties."
       },
       {
-        "title": "Timetable set out for dismantling leasehold system in England and Wales",
-        "link": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+        "title": "What is the EU-UK youth experience scheme and when will it start?",
+        "link": "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 17:49:48 GMT",
-        "description": "Under the government's plans, a ban on the sale of most new leasehold flats is expected around 2031."
+        "published": "Fri, 20 Nov 2026 16:07:55 GMT",
+        "description": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years."
       },
       {
-        "title": "Attempted murder arrest after councillor stabbed",
-        "link": "https://www.bbc.co.uk/news/articles/cmj6l7kp2w22o?at_medium=RSS&at_campaign=rss",
+        "title": "What does the new Brexit deal mean for Northern Ireland?",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gn9xw1v99o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 17:49:24 GMT",
-        "description": "Bradford Moor councillor Ibrar Ali is in hospital with serious injuries."
+        "published": "Fri, 20 Nov 2026 14:41:53 GMT",
+        "description": "The agreement is expected to be confirmed when Andy Burnham and Ursula von der Leyen meet in Brussels."
       },
       {
-        "title": "PM urges social media companies to 'show some decency' and take down Brand video",
-        "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+        "title": "Reform selects Robert Jenrick to fight to keep seat",
+        "link": "https://www.bbc.co.uk/news/articles/cm9w9p775gnyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 15:47:56 GMT",
-        "description": "The comments came after YouTube owner Google refused a government request to remove a clip posted by the wife of the jailed comedian in which he claims he is innocent."
+        "published": "Fri, 20 Nov 2026 09:38:38 GMT",
+        "description": "Jenrick won the seat as a Conservative MP in 2014 but joined Reform UK in January this year."
       },
       {
-        "title": "Cleverly to run as Tory London mayor candidate",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0ep02wn3lo?at_medium=RSS&at_campaign=rss",
+        "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
+        "link": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 14:36:17 GMT",
-        "description": "The former home and foreign secretary has been a London Assembly member and fire authority chair."
+        "published": "Fri, 20 Nov 2026 08:07:06 GMT",
+        "description": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility."
       },
       {
-        "title": "Badenoch defends amputee marathon runners claim in benefits cut row",
-        "link": "https://www.bbc.co.uk/news/articles/cw62pz48vj4go?at_medium=RSS&at_campaign=rss",
+        "title": "Fine Gael leader wants border poll criteria talks with London",
+        "link": "https://www.bbc.co.uk/news/articles/ckregwz5z1d8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 13:34:02 GMT",
-        "description": "Paralympian Richard Whitehead had accused the Conservative leader of \"weaponising\" his sporting success."
+        "published": "Fri, 20 Nov 2026 07:08:26 GMT",
+        "description": "Simon Harris says a conversation between the British and Irish governments over the criteria for a border poll would be \"useful\"."
       },
       {
-        "title": "The Brexit debate is back – and there are nerves about what happens next",
-        "link": "https://www.bbc.co.uk/news/articles/cwy80x8pe4v3o?at_medium=RSS&at_campaign=rss",
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Thu, 19 Nov 2026 11:48:01 GMT",
-        "description": "Many of the names and arguments that defined the Brexit period are emerging again, as the debate over the UK being part of the EU is back on the agenda."
+        "published": "Fri, 20 Nov 2026 00:50:24 GMT",
+        "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
       }
     ],
     "Science": [
       {
-        "title": "Is free will an illusion? New brain research reveals a surprising twist",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+        "title": "Powerful new weight-loss drug helps patients cut knee pain in half",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm",
         "source": "Science Daily",
-        "published": "Wed, 18 Nov 2026 20:21:35 EST",
-        "description": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenge"
+        "published": "Thu, 19 Nov 2026 23:31:15 EST",
+        "description": "A powerful experimental weight-loss drug helped people with knee osteoarthritis lose about 25% of their body weight at the highest dose, while roughly two-thirds experienced at least a 50% reduction i"
       },
       {
-        "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
+        "title": "A 3-million-year-old child just made human evolution far more complicated",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
         "source": "Science Daily",
-        "published": "Wed, 18 Nov 2026 18:24:05 EST",
-        "description": "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures. Now, scientists at the Field Museum have identified"
-      },
-      {
-        "title": "A rare disease reveals a hidden flaw in the immune system",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-        "source": "Science Daily",
-        "published": "Wed, 18 Nov 2026 07:33:09 EST",
-        "description": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthr"
-      },
-      {
-        "title": "Why do farts smell so bad? The secret is brewing in your gut",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-        "source": "Science Daily",
-        "published": "Wed, 18 Nov 2026 06:55:21 EST",
-        "description": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, w"
+        "published": "Thu, 19 Nov 2026 22:17:52 EST",
+        "description": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches o"
       },
       {
         "title": "Experimental compound burns fat without sacrificing muscle",
@@ -536,32 +522,46 @@
         "description": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat mil"
       },
       {
-        "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+        "title": "Keto diet slashes liver fat by 67% in just 4 months",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
         "source": "Science Daily",
-        "published": "Thu, 19 Nov 2026 05:59:55 EST",
-        "description": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct "
+        "published": "Fri, 20 Nov 2026 07:44:39 EST",
+        "description": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar a"
       },
       {
-        "title": "Something strange is living beneath the skin of deep-sea pigs",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+        "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
         "source": "Science Daily",
-        "published": "Thu, 19 Nov 2026 05:33:03 EST",
-        "description": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome"
+        "published": "Fri, 20 Nov 2026 07:34:56 EST",
+        "description": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be s"
       },
       {
-        "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+        "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
         "source": "Science Daily",
-        "published": "Thu, 19 Nov 2026 05:10:24 EST",
-        "description": "Hydrogen flames can shift from bright orange to nearly invisible depending on something unexpected: tiny amounts of sodium floating in the air. Scientists say this discovery could help make future hyd"
+        "published": "Fri, 20 Nov 2026 07:23:23 EST",
+        "description": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty "
       },
       {
-        "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
+        "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
         "source": "Science Daily",
-        "published": "Thu, 19 Nov 2026 03:43:56 EST",
-        "description": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help ex"
+        "published": "Fri, 20 Nov 2026 07:06:07 EST",
+        "description": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers "
+      },
+      {
+        "title": "For better mental health, how often you exercise may matter more than how hard",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
+        "source": "Science Daily",
+        "published": "Fri, 20 Nov 2026 04:09:17 EST",
+        "description": "A study of more than 10,000 college students found that exercising regularly may be more important for mental health than pushing yourself through intense or lengthy workouts. Students who exercised l"
+      },
+      {
+        "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+        "source": "Science Daily",
+        "published": "Fri, 20 Nov 2026 00:41:16 EST",
+        "description": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clo"
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "source": "CNBC Finance",
-      "published": "Fri, 20 Nov 2026 01:34:19 GMT",
-      "description": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply."
-    },
-    {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Fri, 20 Nov 2026 01:30:00 GMT",
-      "description": "“We have a house worth $450,000. Our combined annual income is $125,000.”"
-    },
-    {
-      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "Fri, 20 Nov 2026 01:22:00 GMT",
-      "description": "“Hotel rooms can cost as much as $400 per night.”"
-    },
-    {
-      "title": "GTA 6 reveals the actors, voices and familiar names behind the characters of Vice City",
-      "link": "https://www.channelnewsasia.com/living/gta-6-voice-actors-manni-l-perez-dylan-rourke-jason-lucia-6567361",
+      "title": "Grand Theft Auto VI sets record with US$3.79 billion in first-day retail sales, Rockstar Games reports",
+      "link": "https://www.channelnewsasia.com/entertainment/gta-6-first-day-sales-6570891",
       "source": "CNA Singapore",
-      "published": "Fri, 20 Nov 2026 09:21:00 +0800",
-      "description": "Rockstar Games' newly released credits on its official website revealed the extensive list of performers, musicians, comedians and broadcasters involved in the game.&nbsp;"
+      "published": "Sat, 21 Nov 2026 08:23:00 +0800",
+      "description": "It is the first new GTA game in 13 years."
     },
     {
-      "title": "Trump ousts cyber director after tech outages spark criticism",
-      "link": "https://www.channelnewsasia.com/business/trump-ousts-cyber-director-after-tech-outages-spark-criticism-6567801",
+      "title": "Rahul closes on century as India eat into New Zealand's lead in Wellington",
+      "link": "https://www.channelnewsasia.com/sport/rahul-closes-century-india-eat-new-zealands-lead-in-wellington-6570896",
       "source": "CNA Singapore",
-      "published": "Fri, 20 Nov 2026 09:13:40 +0800",
+      "published": "Sat, 21 Nov 2026 08:21:20 +0800",
       "description": ""
     },
     {
-      "title": "Nike to become Formula One's official apparel and uniform partner",
-      "link": "https://www.channelnewsasia.com/sport/nike-become-formula-ones-official-apparel-and-uniform-partner-6567771",
+      "title": "Can creatine supplements make your brain stronger? Experts weigh the evidence",
+      "link": "https://www.channelnewsasia.com/wellness/creatine-supplements-brain-benefits-6543726",
       "source": "CNA Singapore",
-      "published": "Fri, 20 Nov 2026 09:07:20 +0800",
+      "published": "Sat, 21 Nov 2026 08:03:20 +0800",
+      "description": "Their muscle-building benefits are well-established. Their mind-building benefits are another story."
+    },
+    {
+      "title": "Martian landscapes, underground mosques and wild desert camping in Kazakhstan's remote west",
+      "link": "https://www.channelnewsasia.com/travel/kazakhstan-mangystau-desert-camping-martian-landscape-6530751",
+      "source": "CNA Singapore",
+      "published": "Sat, 21 Nov 2026 08:02:34 +0800",
+      "description": "In Kazakhstan’s remote Mangystau region, a four-day journey across ancient seabeds, towering limestone formations and vast desert landscapes reveals a world shaped by millions of years of geological c"
+    },
+    {
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 21 Nov 2026 00:01:39 GMT",
+      "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
+    },
+    {
+      "title": "Price becomes undisputed welterweight champion in first for Wales",
+      "link": "https://www.channelnewsasia.com/sport/price-becomes-undisputed-welterweight-champion-in-first-wales-6570856",
+      "source": "CNA Singapore",
+      "published": "Sat, 21 Nov 2026 07:52:31 +0800",
       "description": ""
     },
     {
-      "title": "For work, weekends and getaways: Festive gifts that go the distance",
-      "link": "https://www.channelnewsasia.com/advertorial/work-weekends-and-getaways-festive-gifts-go-distance-6557456",
+      "title": "Australia paceman Hazlewood backs Cummins, denies knowledge of sandpaper",
+      "link": "https://www.channelnewsasia.com/sport/australia-paceman-hazlewood-backs-cummins-denies-knowledge-sandpaper-6570841",
       "source": "CNA Singapore",
-      "published": "Fri, 20 Nov 2026 09:06:56 +0800",
-      "description": "From frequent travellers to busy professionals and young explorers, Samsonite has Christmas gift ideas to suit different lifestyles."
+      "published": "Sat, 21 Nov 2026 07:41:19 +0800",
+      "description": ""
     },
     {
-      "title": "How a personalised approach may ease eczema’s toll",
-      "link": "https://www.channelnewsasia.com/advertorial/how-personalised-approach-may-ease-eczemas-toll-6330451",
+      "title": "Databricks in early talks to raise funds at $225 billion valuation, WSJ reports",
+      "link": "https://www.channelnewsasia.com/business/databricks-in-early-talks-raise-funds-225-billion-valuation-wsj-reports-6570836",
       "source": "CNA Singapore",
-      "published": "Fri, 20 Nov 2026 09:02:35 +0800",
-      "description": "For patients with moderate-to-severe eczema, managing the condition means considering symptoms and triggers, as well as treatment effectiveness, safety and cost."
+      "published": "Sat, 21 Nov 2026 07:40:57 +0800",
+      "description": ""
     },
     {
-      "title": "CNA Now: Asia markets open lower after Wall Street stocks fall, plus other news as it happened",
-      "link": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-nov-20-6565406",
+      "title": "Kane out for next few months with ankle injury, Bayern says",
+      "link": "https://www.channelnewsasia.com/sport/kane-out-next-few-months-ankle-injury-bayern-says-6570826",
       "source": "CNA Singapore",
-      "published": "Fri, 20 Nov 2026 08:57:59 +0800",
-      "description": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world."
+      "published": "Sat, 21 Nov 2026 07:31:30 +0800",
+      "description": ""
     },
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-      "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+      "title": "GTCR explores potential takeover of payments firm Global Payments",
+      "link": "https://www.channelnewsasia.com/business/gtcr-explores-potential-takeover-payments-firm-global-payments-6570801",
+      "source": "CNA Singapore",
+      "published": "Sat, 21 Nov 2026 07:18:07 +0800",
+      "description": ""
     }
   ]
 }
