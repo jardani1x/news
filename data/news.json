@@ -1,532 +1,553 @@
 {
-  "updated_sgt": "2026-11-24 12:39 SGT",
-  "updated_iso": "2026-11-24T12:39:24.575063+08:00",
+  "updated_sgt": "2026-11-25 11:25 SGT",
+  "updated_iso": "2026-11-25T11:25:08.576406+08:00",
   "categories": {
     "World": [
       {
-        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-        "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+        "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 24 Nov 2026 04:36:31 GMT",
-        "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+        "published": "Wed, 25 Nov 2026 02:59:27 GMT",
+        "description": "The verdict follows a months-long trial in New York."
+      },
+      {
+        "title": "US attorney general dodges questions about Nvidia investigation",
+        "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Nov 2026 21:19:42 GMT",
+        "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+      },
+      {
+        "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+        "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Nov 2026 19:10:31 GMT",
+        "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support."
+      },
+      {
+        "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Nov 2026 18:07:46 GMT",
+        "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+      },
+      {
+        "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+        "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Nov 2026 16:49:07 GMT",
+        "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year."
+      },
+      {
+        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Nov 2026 15:35:53 GMT",
+        "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
+      },
+      {
+        "title": "Land mine casualties soar in Syria, two years after war",
+        "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Nov 2026 15:17:28 GMT",
+        "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
+      },
+      {
+        "title": "Pope Francis' diary reveals claims he saw the devil three times",
+        "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Tue, 24 Nov 2026 11:10:57 GMT",
+        "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass."
       },
       {
         "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
         "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 24 Nov 2026 02:15:59 GMT",
+        "published": "Tue, 24 Nov 2026 10:58:51 GMT",
         "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
       },
       {
-        "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-        "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+        "title": "What Jensen Huang's return teaches China's Xi about Trump",
+        "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Tue, 24 Nov 2026 00:23:25 GMT",
-        "description": "The promoter and broadcaster helped define the music tastes of Australians for decades."
-      },
-      {
-        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-        "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Nov 2026 23:16:08 GMT",
-        "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
-      },
-      {
-        "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-        "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Nov 2026 21:24:47 GMT",
-        "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\"."
-      },
-      {
-        "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-        "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Nov 2026 21:03:34 GMT",
-        "description": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide."
-      },
-      {
-        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-        "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Nov 2026 20:48:35 GMT",
-        "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
-      },
-      {
-        "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-        "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Nov 2026 18:04:20 GMT",
-        "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
-      },
-      {
-        "title": "What failure of COP31 reveals about a divided world",
-        "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Nov 2026 17:24:25 GMT",
-        "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
-      },
-      {
-        "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-        "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Mon, 23 Nov 2026 17:07:25 GMT",
-        "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
+        "published": "Tue, 24 Nov 2026 07:26:27 GMT",
+        "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing."
       }
     ],
     "Finance": [
+      {
+        "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+        "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Nov 2026 02:43:33 GMT",
+        "description": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial."
+      },
+      {
+        "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+        "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Nov 2026 02:36:43 GMT",
+        "description": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties."
+      },
+      {
+        "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+        "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Nov 2026 02:09:45 GMT",
+        "description": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress."
+      },
+      {
+        "title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
+        "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Nov 2026 01:57:29 GMT",
+        "description": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors."
+      },
+      {
+        "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+        "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+        "source": "CNBC Finance",
+        "published": "Wed, 25 Nov 2026 01:13:56 GMT",
+        "description": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too."
+      },
+      {
+        "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+        "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Nov 2026 23:13:49 GMT",
+        "description": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing."
+      },
+      {
+        "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+        "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Nov 2026 22:18:47 GMT",
+        "description": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know."
+      },
+      {
+        "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+        "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Nov 2026 21:13:39 GMT",
+        "description": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security."
+      },
+      {
+        "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+        "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+        "source": "CNBC Finance",
+        "published": "Tue, 24 Nov 2026 17:51:45 GMT",
+        "description": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington."
+      },
       {
         "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
         "link": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
         "source": "CNBC Finance",
         "published": "Tue, 24 Nov 2026 04:27:38 GMT",
         "description": "China is increasingly focused on containing India economically rather than through military actions."
-      },
-      {
-        "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
-        "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Nov 2026 03:32:26 GMT",
-        "description": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks."
-      },
-      {
-        "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-        "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Nov 2026 03:05:49 GMT",
-        "description": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future."
-      },
-      {
-        "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-        "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-        "source": "CNBC Finance",
-        "published": "Tue, 24 Nov 2026 02:37:39 GMT",
-        "description": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products."
-      },
-      {
-        "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-        "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 23 Nov 2026 23:42:27 GMT",
-        "description": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey."
-      },
-      {
-        "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-        "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 23 Nov 2026 23:42:17 GMT",
-        "description": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO."
-      },
-      {
-        "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-        "link": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 23 Nov 2026 23:00:01 GMT",
-        "description": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones."
-      },
-      {
-        "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
-        "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 23 Nov 2026 22:43:38 GMT",
-        "description": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up."
-      },
-      {
-        "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-        "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 23 Nov 2026 21:00:59 GMT",
-        "description": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course"
-      },
-      {
-        "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
-        "link": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
-        "source": "CNBC Finance",
-        "published": "Mon, 23 Nov 2026 19:46:28 GMT",
-        "description": "The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans such as 401(k)s."
       }
     ],
     "Technology": [
       {
-        "title": "Figma employee sues, alleging company forced her to confront harassers",
-        "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 23:07:49 +0000",
-        "description": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
+        "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+        "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \""
       },
       {
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+        "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 22:05:50 +0000",
-        "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+        "published": "Wed, 25 Nov 2026 00:10:27 +0000",
+        "description": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally div"
       },
       {
-        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-        "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 22:02:05 +0000",
-        "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+        "published": "Tue, 24 Nov 2026 22:27:52 +0000",
+        "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
       },
       {
-        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+        "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 21:47:41 +0000",
-        "description": "\"The mistake has been corrected,\" Elon Musk chimed in."
+        "published": "Tue, 24 Nov 2026 21:48:27 +0000",
+        "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
       },
       {
-        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-        "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "title": "Even the best AI agents struggle with everyday life",
+        "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 21:25:42 +0000",
-        "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+        "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+        "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob"
       },
       {
-        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-        "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+        "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 20:38:53 +0000",
-        "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+        "published": "Tue, 24 Nov 2026 21:32:38 +0000",
+        "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
       },
       {
-        "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-        "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+        "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+        "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 19:31:41 +0000",
-        "description": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting."
+        "published": "Tue, 24 Nov 2026 21:19:52 +0000",
+        "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
       },
       {
-        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-        "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+        "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+        "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 19:14:46 +0000",
-        "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+        "published": "Tue, 24 Nov 2026 21:09:04 +0000",
+        "description": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels."
       },
       {
-        "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-        "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 18:12:22 +0000",
-        "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+        "published": "Tue, 24 Nov 2026 18:30:42 +0000",
+        "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
       },
       {
-        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-        "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
         "source": "TechCrunch",
-        "published": "Mon, 23 Nov 2026 17:14:23 +0000",
-        "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+        "published": "Tue, 24 Nov 2026 18:02:59 +0000",
+        "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
       }
     ],
     "Crypto": [
       {
-        "title": "Trump-Linked American Bitcoin Secures $150M FalconX Credit Line Backed by BTC",
-        "link": "https://bitcoinist.com/trump-linked-american-bitcoin-secures-150m-falconx-credit-line-backed-by-btc/",
+        "title": "Bitcoin ETFs Lose $4.71B in November as BlackRock’s IBIT Shares Rebound",
+        "link": "https://bitcoinist.com/bitcoin-etfs-lose-4-71b-in-november-as-blackrocks-ibit-shares-rebound/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 17:12:32 +0000",
-        "description": "American Bitcoin, the cryptocurrency mining company co-founded by Eric Trump, has secured a $150 million revolving credit facility from digital asset brokerage FalconX, allowing it to access capital w"
+        "published": "Tue, 24 Nov 2026 16:19:49 +0000",
+        "description": "US spot Bitcoin ETFs lose another chunk as they continued to experience heavy withdrawals on Monday, pushing November&#8217;s cumulative outflows to a record $4.71 billion despite a recovery in shares"
       },
       {
-        "title": "Researchers Warn $72B in ETH Faces Future Quantum Risk",
-        "link": "https://bitcoinist.com/researchers-warn-72b-in-eth-faces-future-quantum-risk/",
+        "title": "Russia Will Impose 22% VAT on USDT Trades as Moscow Exchange Opens",
+        "link": "https://bitcoinist.com/russia-will-impose-22-vat-on-usdt-trades-as-moscow-exchange-opens/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 16:26:28 +0000",
-        "description": "Approximately 42 million ETH, worth an estimated $72 billion, could become vulnerable to future quantum-computing attacks because the public keys associated with the wallets holding those assets have "
+        "published": "Tue, 24 Nov 2026 16:11:59 +0000",
+        "description": "Russia will impose on Russian buyers of Tether&#8217;s USDT stablecoin an additional 22% value-added tax (VAT) when Moscow Exchange begins cryptocurrency trading on December 1, adding a high cost to t"
       },
       {
-        "title": "OKX and ICE Launch Tokenized Stock Platform Despite Objections From 67 Companies",
-        "link": "https://bitcoinist.com/okx-and-ice-launch-tokenized-stock-platform-despite-objections-from-67-companies/",
+        "title": "Grayscale Says Bitcoin Is Oversold but AI Risks Could Delay Market Recovery",
+        "link": "https://bitcoinist.com/grayscale-says-bitcoin-is-oversold-but-ai-risks-could-delay-market-recovery/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 16:13:44 +0000",
-        "description": "Crypto exchange OKX and ICE launch a new platform for trading tokenized US securities, moving ahead with plans to introduce 113 assets despite opposition from dozens of publicly traded companies. The "
+        "published": "Tue, 24 Nov 2026 15:18:30 +0000",
+        "description": "Bitcoin and other major cryptocurrencies may be approaching attractive long-term valuations after an extended market downturn, according to Grayscale, but uncertainty in the artificial intelligence se"
       },
       {
-        "title": "Ethereum Reclaims $1700 After Rebound as ETF Outflows Weigh on Recovery",
-        "link": "https://bitcoinist.com/ethereum-reclaims-1700-after-rebound-as-etf-outflows-weigh-on-recovery/",
+        "title": "Kalshi Wins Temporary Reprieve as New York Judge Delays Potential Shutdown",
+        "link": "https://bitcoinist.com/kalshi-wins-temporary-reprieve-as-new-york-judge-delays-potential-shutdown/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 16:03:01 +0000",
-        "description": "Ethereum reclaims $1700 after staging a notable recovery from falling toward $1,540 over the weekend, climbing as high as $1,845 on November 23 before retreating below a key resistance level. The rebo"
+        "published": "Tue, 24 Nov 2026 15:04:19 +0000",
+        "description": "Kalshi wins temporary legal reprieve in New York after a state judge declined to immediately block the prediction market platform from operating. During a hearing on November 23, New York State Suprem"
       },
       {
-        "title": "Nvidia Reinstates Jensen Huang as Bitcoin Rally Sparks $372M Short Squeeze",
-        "link": "https://bitcoinist.com/nvidia-reinstates-jensen-huang-as-bitcoin-rally-sparks-372m-short-squeeze/",
+        "title": "BitMine’s Ethereum Loss Erases Nearly Three Years of Projected Staking Revenue",
+        "link": "https://bitcoinist.com/bitmines-ethereum-loss-erases-nearly-three-years-of-projected-staking-revenue/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 15:48:01 +0000",
-        "description": "Bitcoin rallied above $64,000 on Monday after Nvidia reinstates Jensen Huang as president and CEO, reversing a leadership crisis that had weighed on technology stocks and broader market sentiment. BTC"
+        "published": "Tue, 24 Nov 2026 14:53:07 +0000",
+        "description": "BitMine&#8217;s Ethereum loss caused a $655 million decline in market value over the week ending November 22, despite the company adding thousands of ETH to its holdings. The drop was equivalent to ap"
       },
       {
-        "title": "Bitcoin Miners Are Turning Into AI Giants — What Happens To Bitcoin Next?",
-        "link": "https://bitcoinist.com/bitcoin-miners-are-turning-into-ai-giants-what-happens-to-bitcoin-next/",
+        "title": "Avalanche Eyes A New Economic Model, AVAX Could Benefit From Network Adoption",
+        "link": "https://bitcoinist.com/avalanche-eyes-a-new-economic-model-could-avax-finally-benefit-from-network-adoption/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 11:42:38 +0000",
-        "description": "Bitcoin mining companies are undergoing a major transformation as artificial intelligence becomes an increasingly attractive alternative to traditional cryptocurrency mining. Recent financial results "
+        "published": "Tue, 24 Nov 2026 10:56:59 +0000",
+        "description": "Avalanche is preparing for a new phase of development that could change the relationship between blockchain adoption and the value of its native cryptocurrency, AVAX. After Avalanche&#8217;s tokenized"
       },
       {
-        "title": "XRP Ledger Takes Another Step Toward Institutional Lending — Could This Change XRP’s Future?",
-        "link": "https://bitcoinist.com/xrp-ledger-takes-another-step-toward-institutional-lending-could-this-change-xrps-future/",
+        "title": "Nasdaq 100 Surges 6.8% As AI Stocks Rebound, Potential Move For BTC",
+        "link": "https://bitcoinist.com/nasdaq-100-surges-6-8-as-ai-stocks-rebound-what-does-it-mean-for-bitcoin/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 10:49:29 +0000",
-        "description": "The XRP Ledger is moving closer to expanding its role in institutional finance after the XRP Ledger Foundation and VS1 Finance released an open-source lending application that allows developers to tes"
+        "published": "Tue, 24 Nov 2026 10:09:44 +0000",
+        "description": "The artificial intelligence trade has returned to Wall Street, triggering a dramatic recovery across some of the world&#8217;s largest technology companies. While the relationship between Bitcoin and "
       },
       {
-        "title": "Russia’s Bitcoin Trading Rules Take Effect — Can Moscow Exchange Attract New BTC Demand?",
-        "link": "https://bitcoinist.com/russias-bitcoin-trading-rules-take-effect-can-moscow-exchange-attract-new-btc-demand/",
+        "title": "South Korea Unveils Landmark Crypto Bill, Asia Posed To Become A Hub",
+        "link": "https://bitcoinist.com/south-korea-unveils-landmark-crypto-bill-could-asia-become-the-next-bitcoin-adoption-hub/",
         "source": "Bitcoinist",
-        "published": "Mon, 23 Nov 2026 09:48:20 +0000",
-        "description": "Russia has entered a new phase of cryptocurrency regulation after rules allowing organized digital asset trading reportedly took effect on November 22. The development comes as Moscow Exchange prepare"
+        "published": "Tue, 24 Nov 2026 09:26:45 +0000",
+        "description": "South Korea is taking another significant step toward integrating cryptocurrencies into its financial system. Just weeks after proposing a crypto tax delay until 2029, the country has unveiled a compr"
       }
     ],
     "Markets": [
       {
-        "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-        "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+        "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+        "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 24 Nov 2026 01:01:00 GMT",
-        "description": "“My wife stopped working outside the home in 1970.”"
+        "published": "Wed, 25 Nov 2026 02:00:00 GMT",
+        "description": "“Given my age, I never make a major new purchase without thinking about the future.”"
+      },
+      {
+        "title": "Dell’s stock rises as the AI boom helps sales more than double",
+        "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Wed, 25 Nov 2026 01:11:00 GMT",
+        "description": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”"
+      },
+      {
+        "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+        "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Wed, 25 Nov 2026 00:05:00 GMT",
+        "description": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”"
+      },
+      {
+        "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+        "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Nov 2026 23:11:00 GMT",
+        "description": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year."
+      },
+      {
+        "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+        "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Nov 2026 21:53:00 GMT",
+        "description": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why."
+      },
+      {
+        "title": "Anthropic’s stock just broke below its IPO price for the first time",
+        "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "Tue, 24 Nov 2026 21:46:00 GMT",
+        "description": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq."
       },
       {
         "title": "HPE just posted its strongest growth ever — but its stock is sinking",
         "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Tue, 24 Nov 2026 01:01:00 GMT",
+        "published": "Tue, 24 Nov 2026 21:45:00 GMT",
         "description": "HPE boosted its financial forecast on Monday in the face of strong AI demand."
       },
       {
-        "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-        "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+        "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+        "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 23:18:00 GMT",
-        "description": "SharkNinja will join the S&P 500, replacing AES."
+        "published": "Tue, 24 Nov 2026 21:31:00 GMT",
+        "description": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”"
       },
       {
-        "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-        "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+        "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+        "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 22:04:00 GMT",
-        "description": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility"
+        "published": "Tue, 24 Nov 2026 21:30:00 GMT",
+        "description": "“Retirement is a financial status, not an age.”"
       },
       {
-        "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-        "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+        "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+        "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
         "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 21:51:00 GMT",
-        "description": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade."
-      },
-      {
-        "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-        "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 21:45:00 GMT",
-        "description": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher"
-      },
-      {
-        "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-        "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 21:36:00 GMT",
-        "description": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector."
-      },
-      {
-        "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
-        "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 21:33:00 GMT",
-        "description": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst."
-      },
-      {
-        "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-        "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 21:24:00 GMT",
-        "description": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren."
-      },
-      {
-        "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-        "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-        "source": "MarketWatch",
-        "published": "Mon, 23 Nov 2026 21:19:00 GMT",
-        "description": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%."
+        "published": "Tue, 24 Nov 2026 21:22:00 GMT",
+        "description": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power."
       }
     ],
     "Singapore": [
       {
-        "title": "More than 400,000 Malaysians barred from travelling over unpaid taxes, outstanding payments",
-        "link": "https://www.channelnewsasia.com/asia/400000-malaysians-restricted-travelling-taxes-outstanding-payment-court-orders-6577076",
+        "title": "Psychologists, counsellors seeing rise in excessive screen use among seniors",
+        "link": "https://www.channelnewsasia.com/singapore/psychologists-counsellors-rise-excessive-screen-use-among-seniors-6574186",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 12:33:07 +0800",
-        "description": "About 140 foreigners are turned away at Malaysia's borders daily, Malaysian Immigration Department director-general Zakaria Shaaban said."
+        "published": "Wed, 25 Nov 2026 11:16:26 +0800",
+        "description": "Boredom and loneliness may be driving excessive smartphone use among seniors, but experts say screen time alone is not the main concern.&nbsp;"
       },
       {
-        "title": "Malaysia set to repatriate thousands more Myanmar migrants: PM",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-repatriate-rohingya-migrants-myanmar-6577096",
+        "title": "Singapore’s rule of law balances individual rights with collective needs: Chief Justice",
+        "link": "https://www.channelnewsasia.com/singapore/200-years-rule-law-balance-individual-collective-chief-justice-6578516",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 12:25:00 +0800",
-        "description": ""
+        "published": "Wed, 25 Nov 2026 11:13:31 +0800",
+        "description": "Marking 200 years of Singapore’s rule of law, Chief Justice Sundaresh Menon said the courts must respect the government's mandate to make complex policy decisions, while ensuring executive powers stay"
       },
       {
-        "title": "Trump rewrites the lame-duck rules with flex on Nvidia CEO",
-        "link": "https://www.channelnewsasia.com/world/trump-lame-duck-flex-nvidia-ceo-jensen-huang-6575306",
+        "title": "China Southern orders 50 jets in Boeing's biggest China deal in nearly a decade",
+        "link": "https://www.channelnewsasia.com/east-asia/china-southern-airlines-boeing-biggest-deal-decade-6580366",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 12:13:00 +0800",
-        "description": "Donald Trump’s push to restore Jensen Huang as Nvidia CEO shows how he can continue wielding influence despite Republicans losing control of Congress."
+        "published": "Wed, 25 Nov 2026 10:59:00 +0800",
+        "description": "The order follows a commitment for 200 jets that China made during a summit between US President Donald Trump and Chinese leader Xi Jinping in Beijing in May."
       },
       {
-        "title": "Jisoo will be at Marquee Singapore on Nov 29 for exclusive meet-up with fans",
-        "link": "https://www.channelnewsasia.com/entertainment/jisoo-marquee-singapore-2026-6576966",
+        "title": "Hong Kong singer George Lam's Cantonese hit featured in GTA 6",
+        "link": "https://www.channelnewsasia.com/entertainment/george-lam-cantonese-song-gta-6-6577506",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 12:11:51 +0800",
-        "description": "Fans can stand a chance to attend Jisoo's meet-up by purchasing at least S$188 worth of items at the singer's ongoing pop-up at Marina Bay Sands."
+        "published": "Wed, 25 Nov 2026 10:58:00 +0800",
+        "description": "The inclusion of his 1987 classic Dare To Love, Dare To Act has fans buzzing, with some even wondering if a Hong Kong developer had a hand in it."
       },
       {
-        "title": "Sheikh Hasina seeks to return to Bangladesh on Dec 16 on state carrier",
-        "link": "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891",
+        "title": "Estonia warns of growing Russian hybrid threats, to close remaining road border crossings",
+        "link": "https://www.channelnewsasia.com/world/estonia-closes-border-crossings-russia-warns-hybrid-warfare-saatse-boot-6579286",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 12:06:24 +0800",
-        "description": ""
+        "published": "Wed, 25 Nov 2026 10:56:14 +0800",
+        "description": "Estonia will close its road border crossings with Russia from Dec 1 for at least six months, citing security concerns after accusing Moscow of orchestrating two attempted arson attacks on its defence "
       },
       {
-        "title": "Golden Horse nominee Andi Lim couldn't borrow outfit for awards show because he has too few Instagram followers",
-        "link": "https://www.channelnewsasia.com/entertainment/andi-lim-outfit-golden-horse-awards-6576556",
+        "title": "China's Huawei says US conviction 'without legal or factual merit'",
+        "link": "https://www.channelnewsasia.com/east-asia/china-huawei-us-conviction-baseless-6580336",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 11:52:47 +0800",
-        "description": "Thankfully, a local bespoke menswear designer came to the actor's rescue."
+        "published": "Wed, 25 Nov 2026 10:52:17 +0800",
+        "description": "However, the jury acquitted Huawei of a more serious racketeering allegation - a decision welcomed by the equipment manufacturer on Wednesday (Nov 25)."
       },
       {
-        "title": "Indonesia charges ex-police chief with treason aimed at undermining president",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-charges-ex-police-chief-listyo-treason-undermining-president-prabowo-6576886",
+        "title": "Houthi media reports Saudi attack on Yemen's port city of Hodeida",
+        "link": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 11:46:00 +0800",
-        "description": "Treason charges are rare in Indonesia and can carry the death penalty.&nbsp;"
+        "published": "Wed, 25 Nov 2026 10:46:43 +0800",
+        "description": "The Saudi-led coalition had instructed civilians in Hodeida to evacuate in a social media post on Nov 25.&nbsp;"
       },
       {
-        "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
-        "link": "https://www.channelnewsasia.com/east-asia/south-korea-warning-russia-aircraft-airspace-6576251",
+        "title": "A year after Hong Kong's deadly fire, survivors struggle with loss and lingering sense of injustice",
+        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-wang-fuk-court-fire-survivors-injustice-6580041",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 11:43:00 +0800",
-        "description": ""
+        "published": "Wed, 25 Nov 2026 10:39:00 +0800",
+        "description": "Even as life kept pushing them forward, some Wang Fuk Court fire survivors say justice has yet to be served."
       },
       {
-        "title": "China to launch Shenzhou-24 spaceship with first foreign astronaut",
-        "link": "https://www.channelnewsasia.com/east-asia/china-first-foreign-astronaut-pakistani-national-shenzhou-24-6576981",
+        "title": "Over 15,000 cases involving Indonesians in overseas scam operations this year, more than double 2025 figure: Minister",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-overseas-online-scam-cases-15000-figure-philippines-6580196",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 11:42:57 +0800",
-        "description": "Pakistani national Muhammad Zeeshan Ali will be the first foreign astronaut to board China's space station."
+        "published": "Wed, 25 Nov 2026 10:20:48 +0800",
+        "description": "Meanwhile, Philippine authorities on Nov 24 deported 139 Indonesians rescued from a suspected parcel scam hub in Pasay City."
       },
       {
-        "title": "South Korea offers up to US$370,000 for exam cheating tip-offs, including to those who come clean",
-        "link": "https://www.channelnewsasia.com/east-asia/south-korea-cheating-scandal-tipoff-reward-6576766",
+        "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+        "link": "https://www.channelnewsasia.com/world/nvidia-board-jensen-huang-under-scrutiny-6579411",
         "source": "CNA Singapore",
-        "published": "Tue, 24 Nov 2026 11:05:22 +0800",
-        "description": "Those who confess to cheating and report their accomplices can also receive the full reward, while facing reduced penalties."
+        "published": "Wed, 25 Nov 2026 09:57:00 +0800",
+        "description": "Nvidia’s board faces scrutiny after unanimously rehiring Jensen Huang days after accepting his resignation, fuelling calls for accountability and transparency."
       }
     ],
     "US Politics": [
       {
-        "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
-        "link": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+        "title": "Ministers ask public for views on changing age of consent",
+        "link": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 24 Nov 2026 00:45:53 GMT",
-        "description": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM."
+        "published": "Wed, 25 Nov 2026 01:38:39 GMT",
+        "description": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved."
       },
       {
-        "title": "No 10 North will face greater scrutiny as Burnham's 10-year plan looms",
-        "link": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo?at_medium=RSS&at_campaign=rss",
+        "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+        "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Tue, 24 Nov 2026 00:31:28 GMT",
-        "description": "The work of Number 10 North in Manchester has been kept largely away from the headlines since it opened in July."
+        "published": "Tue, 24 Nov 2026 22:49:41 GMT",
+        "description": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme."
       },
       {
-        "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
-        "link": "https://www.bbc.co.uk/news/articles/cr868jnlllpgo?at_medium=RSS&at_campaign=rss",
+        "title": "Reform bid to oust presiding officer fails after its Senedd boycott ends",
+        "link": "https://www.bbc.co.uk/news/articles/cmqj5ql7r2ljo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sun, 22 Nov 2026 13:15:57 GMT",
-        "description": "Alex Burghart tells the BBC the agreement will not lead to lower prices in the shops."
+        "published": "Tue, 24 Nov 2026 20:26:54 GMT",
+        "description": "Senedd members reject Reform's motion to oust Huw Irranca Davies by 55 votes to 29."
       },
       {
-        "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-        "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+        "title": "Disability benefit review calls for closer link with claimant costs",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sun, 22 Nov 2026 11:50:20 GMT",
-        "description": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg."
+        "published": "Tue, 24 Nov 2026 19:49:04 GMT",
+        "description": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants."
       },
       {
-        "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
-        "link": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
+        "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Sat, 21 Nov 2026 19:33:49 GMT",
-        "description": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation."
+        "published": "Tue, 24 Nov 2026 17:39:32 GMT",
+        "description": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff."
       },
       {
-        "title": "Burnham does not view Wales as an equal nation, claims first minister",
-        "link": "https://www.bbc.co.uk/news/articles/cqr7gzmgm33ko?at_medium=RSS&at_campaign=rss",
+        "title": "Tories accuse Burnham of turning No 10 into 'joke' after influencer video row",
+        "link": "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 23 Nov 2026 21:10:24 GMT",
-        "description": "The first minister asks for urgent meeting after Andy Burnham rejected calls for more powers in Cardiff."
+        "published": "Tue, 24 Nov 2026 16:11:29 GMT",
+        "description": "Social media influencer Max Balegde has deleted a video filmed outside the door of Number 10, which was posted on TikTok, in which he mimed along to explicit lyrics."
       },
       {
-        "title": "My approach to EU is pragmatic, says Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+        "title": "Tory plan to sell off London's Victorian jails to raise £1.4bn",
+        "link": "https://www.bbc.co.uk/news/articles/c607417kgx81o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 23 Nov 2026 19:10:44 GMT",
-        "description": "The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are \"stuck in the past\"."
+        "published": "Tue, 24 Nov 2026 14:02:03 GMT",
+        "description": "The party says the move could fund the construction of modern purpose-built prisons elsewhere."
       },
       {
-        "title": "Pip assessments need 'fundamental overhaul', report to say",
-        "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "title": "Key takeaways from the Timms review into Pip disability benefit",
+        "link": "https://www.bbc.co.uk/news/articles/c69w9gw9wx9no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 23 Nov 2026 17:59:55 GMT",
-        "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment."
+        "published": "Tue, 24 Nov 2026 13:46:07 GMT",
+        "description": "Disability minister Sir Stephen Timms has published his review of the personal independence payment (Pip), along with recommended changes."
       },
       {
-        "title": "Welsh Greens back plan to separate from English party",
-        "link": "https://www.bbc.co.uk/news/articles/cjy5xewrw657o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince William meets Burnham on first Downing Street visit",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y1xk1gpqvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 23 Nov 2026 14:01:33 GMT",
-        "description": "Welsh Greens back plan to separate from English party by 2035"
+        "published": "Tue, 24 Nov 2026 11:37:53 GMT",
+        "description": "The Prince of Wales is meeting Andy Burnham with homelessness expected to be among the topics."
       },
       {
-        "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-        "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+        "title": "State failing to keep public safe, warns victims' commissioner",
+        "link": "https://www.bbc.co.uk/news/articles/cr0jx7dw234jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Politics",
-        "published": "Mon, 23 Nov 2026 11:24:37 GMT",
-        "description": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year."
+        "published": "Tue, 24 Nov 2026 06:02:10 GMT",
+        "description": "Claire Waxman tells the BBC Andy Burnham needs to put justice in his 10-year plan for government."
       }
     ],
     "Science": [
       {
-        "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+        "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
         "source": "Science Daily",
-        "published": "Sun, 22 Nov 2026 22:54:27 EST",
-        "description": "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter. Scientists discovered that its enormous ge"
+        "published": "Tue, 24 Nov 2026 18:31:52 EST",
+        "description": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using"
       },
       {
-        "title": "Mice slept 70% less after scientists switched off these brain cells",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
+        "title": "A simple metal is hiding a strange new form of magnetism",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
         "source": "Science Daily",
-        "published": "Sun, 22 Nov 2026 21:02:10 EST",
-        "description": "Scientists have discovered brain cells that actively generate the irresistible urge to sleep, and shutting them down allowed mice to sleep 70% less than normal. Remarkably, many of the animals avoided"
+        "published": "Tue, 24 Nov 2026 06:18:20 EST",
+        "description": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising n"
       },
       {
-        "title": "U.S. loses measles elimination status after 25 years as vaccine myths persist",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261122060323.htm",
+        "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
         "source": "Science Daily",
-        "published": "Sun, 22 Nov 2026 20:16:17 EST",
-        "description": "The United States has lost its measles elimination status after more than 25 years, and a new survey reveals widespread misconceptions about the deadly disease and its vaccine. With measles cases surg"
+        "published": "Tue, 24 Nov 2026 06:09:06 EST",
+        "description": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientist"
       },
       {
-        "title": "Scientists discover a surprising link between weak bones and faster brain aging",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
+        "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
         "source": "Science Daily",
-        "published": "Sun, 22 Nov 2026 19:45:42 EST",
-        "description": "Weakening bones may reveal more about brain health than scientists previously realized, with new research linking lower spinal bone density to faster cognitive decline and accelerated changes in the b"
+        "published": "Tue, 24 Nov 2026 05:57:44 EST",
+        "description": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older"
       },
       {
-        "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+        "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
         "source": "Science Daily",
-        "published": "Sun, 22 Nov 2026 06:04:06 EST",
-        "description": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Research"
+        "published": "Tue, 24 Nov 2026 05:47:51 EST",
+        "description": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to the"
+      },
+      {
+        "title": "Earth's next ice age may have already begun. Global warming stopped it",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+        "source": "Science Daily",
+        "published": "Tue, 24 Nov 2026 04:29:15 EST",
+        "description": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in"
+      },
+      {
+        "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+        "source": "Science Daily",
+        "published": "Mon, 23 Nov 2026 23:46:12 EST",
+        "description": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classi"
+      },
+      {
+        "title": "America is building just 10% of the power lines it needs, experts warn",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123005339.htm",
+        "source": "Science Daily",
+        "published": "Mon, 23 Nov 2026 23:30:23 EST",
+        "description": "America’s power grid is falling dangerously behind as electricity demand skyrockets, fueled by data centers, electric vehicles, and industry. The U.S. is building only 10% of the new high-voltage tran"
       },
       {
         "title": "New gum disease treatment kills bad bacteria while sparing the good",
@@ -536,32 +557,11 @@
         "description": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike co"
       },
       {
-        "title": "A galactic shock wave could rewrite the map of the Milky Way",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
+        "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
         "source": "Science Daily",
-        "published": "Mon, 23 Nov 2026 06:41:39 EST",
-        "description": "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating"
-      },
-      {
-        "title": "Two monster black holes from the dawn of time defy explanation",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
-        "source": "Science Daily",
-        "published": "Mon, 23 Nov 2026 06:21:06 EST",
-        "description": "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang. Weighing an astonishing 1.5 billion an"
-      },
-      {
-        "title": "Mysterious new viruses reveal a missing link in evolution",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
-        "source": "Science Daily",
-        "published": "Mon, 23 Nov 2026 05:45:53 EST",
-        "description": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary t"
-      },
-      {
-        "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
-        "source": "Science Daily",
-        "published": "Mon, 23 Nov 2026 00:30:23 EST",
-        "description": "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman. The discovery challenges centuries of histo"
+        "published": "Mon, 23 Nov 2026 00:53:36 EST",
+        "description": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's "
       }
     ]
   },
@@ -571,74 +571,74 @@
   },
   "top10": [
     {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "title": "Psychologists, counsellors seeing rise in excessive screen use among seniors",
+      "link": "https://www.channelnewsasia.com/singapore/psychologists-counsellors-rise-excessive-screen-use-among-seniors-6574186",
+      "source": "CNA Singapore",
+      "published": "Wed, 25 Nov 2026 11:16:26 +0800",
+      "description": "Boredom and loneliness may be driving excessive smartphone use among seniors, but experts say screen time alone is not the main concern.&nbsp;"
+    },
+    {
+      "title": "Singapore’s rule of law balances individual rights with collective needs: Chief Justice",
+      "link": "https://www.channelnewsasia.com/singapore/200-years-rule-law-balance-individual-collective-chief-justice-6578516",
+      "source": "CNA Singapore",
+      "published": "Wed, 25 Nov 2026 11:13:31 +0800",
+      "description": "Marking 200 years of Singapore’s rule of law, Chief Justice Sundaresh Menon said the courts must respect the government's mandate to make complex policy decisions, while ensuring executive powers stay"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Tue, 24 Nov 2026 04:36:31 GMT",
-      "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+      "published": "Wed, 25 Nov 2026 02:59:27 GMT",
+      "description": "The verdict follows a months-long trial in New York."
     },
     {
-      "title": "More than 400,000 Malaysians barred from travelling over unpaid taxes, outstanding payments",
-      "link": "https://www.channelnewsasia.com/asia/400000-malaysians-restricted-travelling-taxes-outstanding-payment-court-orders-6577076",
+      "title": "China Southern orders 50 jets in Boeing's biggest China deal in nearly a decade",
+      "link": "https://www.channelnewsasia.com/east-asia/china-southern-airlines-boeing-biggest-deal-decade-6580366",
       "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 12:33:07 +0800",
-      "description": "About 140 foreigners are turned away at Malaysia's borders daily, Malaysian Immigration Department director-general Zakaria Shaaban said."
+      "published": "Wed, 25 Nov 2026 10:59:00 +0800",
+      "description": "The order follows a commitment for 200 jets that China made during a summit between US President Donald Trump and Chinese leader Xi Jinping in Beijing in May."
     },
     {
-      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
-      "link": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+      "title": "Hong Kong singer George Lam's Cantonese hit featured in GTA 6",
+      "link": "https://www.channelnewsasia.com/entertainment/george-lam-cantonese-song-gta-6-6577506",
+      "source": "CNA Singapore",
+      "published": "Wed, 25 Nov 2026 10:58:00 +0800",
+      "description": "The inclusion of his 1987 classic Dare To Love, Dare To Act has fans buzzing, with some even wondering if a Hong Kong developer had a hand in it."
+    },
+    {
+      "title": "Estonia warns of growing Russian hybrid threats, to close remaining road border crossings",
+      "link": "https://www.channelnewsasia.com/world/estonia-closes-border-crossings-russia-warns-hybrid-warfare-saatse-boot-6579286",
+      "source": "CNA Singapore",
+      "published": "Wed, 25 Nov 2026 10:56:14 +0800",
+      "description": "Estonia will close its road border crossings with Russia from Dec 1 for at least six months, citing security concerns after accusing Moscow of orchestrating two attempted arson attacks on its defence "
+    },
+    {
+      "title": "China's Huawei says US conviction 'without legal or factual merit'",
+      "link": "https://www.channelnewsasia.com/east-asia/china-huawei-us-conviction-baseless-6580336",
+      "source": "CNA Singapore",
+      "published": "Wed, 25 Nov 2026 10:52:17 +0800",
+      "description": "However, the jury acquitted Huawei of a more serious racketeering allegation - a decision welcomed by the equipment manufacturer on Wednesday (Nov 25)."
+    },
+    {
+      "title": "Houthi media reports Saudi attack on Yemen's port city of Hodeida",
+      "link": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346",
+      "source": "CNA Singapore",
+      "published": "Wed, 25 Nov 2026 10:46:43 +0800",
+      "description": "The Saudi-led coalition had instructed civilians in Hodeida to evacuate in a social media post on Nov 25.&nbsp;"
+    },
+    {
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
       "source": "CNBC Finance",
-      "published": "Tue, 24 Nov 2026 04:27:38 GMT",
-      "description": "China is increasingly focused on containing India economically rather than through military actions."
+      "published": "Wed, 25 Nov 2026 02:43:33 GMT",
+      "description": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial."
     },
     {
-      "title": "Malaysia set to repatriate thousands more Myanmar migrants: PM",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-repatriate-rohingya-migrants-myanmar-6577096",
+      "title": "A year after Hong Kong's deadly fire, survivors struggle with loss and lingering sense of injustice",
+      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-wang-fuk-court-fire-survivors-injustice-6580041",
       "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 12:25:00 +0800",
-      "description": ""
-    },
-    {
-      "title": "Trump rewrites the lame-duck rules with flex on Nvidia CEO",
-      "link": "https://www.channelnewsasia.com/world/trump-lame-duck-flex-nvidia-ceo-jensen-huang-6575306",
-      "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 12:13:00 +0800",
-      "description": "Donald Trump’s push to restore Jensen Huang as Nvidia CEO shows how he can continue wielding influence despite Republicans losing control of Congress."
-    },
-    {
-      "title": "Jisoo will be at Marquee Singapore on Nov 29 for exclusive meet-up with fans",
-      "link": "https://www.channelnewsasia.com/entertainment/jisoo-marquee-singapore-2026-6576966",
-      "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 12:11:51 +0800",
-      "description": "Fans can stand a chance to attend Jisoo's meet-up by purchasing at least S$188 worth of items at the singer's ongoing pop-up at Marina Bay Sands."
-    },
-    {
-      "title": "Sheikh Hasina seeks to return to Bangladesh on Dec 16 on state carrier",
-      "link": "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891",
-      "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 12:06:24 +0800",
-      "description": ""
-    },
-    {
-      "title": "Golden Horse nominee Andi Lim couldn't borrow outfit for awards show because he has too few Instagram followers",
-      "link": "https://www.channelnewsasia.com/entertainment/andi-lim-outfit-golden-horse-awards-6576556",
-      "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 11:52:47 +0800",
-      "description": "Thankfully, a local bespoke menswear designer came to the actor's rescue."
-    },
-    {
-      "title": "Indonesia charges ex-police chief with treason aimed at undermining president",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-charges-ex-police-chief-listyo-treason-undermining-president-prabowo-6576886",
-      "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 11:46:00 +0800",
-      "description": "Treason charges are rare in Indonesia and can carry the death penalty.&nbsp;"
-    },
-    {
-      "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-warning-russia-aircraft-airspace-6576251",
-      "source": "CNA Singapore",
-      "published": "Tue, 24 Nov 2026 11:43:00 +0800",
-      "description": ""
+      "published": "Wed, 25 Nov 2026 10:39:00 +0800",
+      "description": "Even as life kept pushing them forward, some Wang Fuk Court fire survivors say justice has yet to be served."
     }
   ]
 }
